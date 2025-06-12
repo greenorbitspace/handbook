@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Upgrade Guide 1 1
+aliases:
+- /docs/UPGRADE-GUIDE_1_1/
+description: ''
+linkTitle: Upgrade Guide 1 1
+type: docs
+---
+
 # Upgrade Guide
 
 ## Table of Content

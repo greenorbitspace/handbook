@@ -1,5 +1,12 @@
 ---
-title: "Code Suggestions Model Evaluation Guide"
+title: Code Suggestions Model Evaluation Guide
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/model_evaluation_guide_1_1/
+description: ''
+linkTitle: Code Suggestions Model Evaluation Guide
+type: docs
 ---
 
 This document serves as a technical how-to guide for evaluating new Code Suggestions models.

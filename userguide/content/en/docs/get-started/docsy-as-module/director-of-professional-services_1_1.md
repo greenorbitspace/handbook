@@ -1,6 +1,13 @@
 ---
 layout: job_family_page
 title: Manager of Professional Services
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/director-of-professional-services_1_1/
+description: ''
+linkTitle: Manager of Professional Services
+type: docs
 ---
 
 The Professional Services Manager contributes to and executes the strategic vision leading service delivery for GitLab’s Professional Services Organization. Reporting to the Vice President of Customer Success, the leader is responsible for developing strategies and operations to deliver best-in-class services (i.e., consulting, implementation and educational services) to help customers accelerate their DevOps transformation. The Manager of Professional Services works to build and scale a services business, in a bold, fast-moving, transparent and values-led organization to enable customer and company success.

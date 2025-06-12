@@ -1,5 +1,12 @@
 ---
-title: "Deal Desk"
+title: Deal Desk
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/deal-desk_2_1/
+description: ''
+linkTitle: Deal Desk
+type: docs
 ---
 
 ## Levels

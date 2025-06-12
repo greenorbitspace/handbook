@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 38 Scripts 1 1
+aliases:
+- /docs/38-scripts_1_1/
+description: ''
+linkTitle: 38 Scripts 1 1
+type: docs
+---
+
 ### npm Scripts
 - an npm script is a convenient way to bundle common commands for use in a project
 - they are typically entered in the command line in order to do something with the application

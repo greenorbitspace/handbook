@@ -1,7 +1,13 @@
 ---
 title: FAQs
 description: Some frequently asked questions
-canonical_path: "/handbook/security/customer-support-operations/frequently-asked-questions/"
+canonical_path: /handbook/security/customer-support-operations/frequently-asked-questions/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/frequently-asked-questions_1748146058204704727_1_1/
+linkTitle: FAQs
+type: docs
 ---
 
 ## If we receive any problem in using Zendesk, can we contact Zendesk directly?

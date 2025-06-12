@@ -1,10 +1,16 @@
 ---
-title: "All-Remote Management"
+title: All-Remote Management
 description: How to manage a remote company
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/management_3_1_1/
+linkTitle: All-Remote Management
+type: docs
 ---
 
 On this page, we're detailing what it takes to effectively and efficiently manage an all-remote company.

@@ -1,6 +1,14 @@
 ---
-title: "Step by Step Guide to Make Code Changes"
-description: "This is a step-by-step guide for how to make code changes against the main GitLab codebase. This guide is meant to serve as a tutorial for anyone with semi-technical knowledge."
+title: Step by Step Guide to Make Code Changes
+description: This is a step-by-step guide for how to make code changes against the
+  main GitLab codebase. This guide is meant to serve as a tutorial for anyone with
+  semi-technical knowledge.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/designers-step-by-step-guide-to-make-code-changes_1_1/
+linkTitle: Step by Step Guide to Make Code Changes
+type: docs
 ---
 
 ## What is this?

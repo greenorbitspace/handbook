@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Business Strategy 1 1
+aliases:
+- /docs/business-strategy_1_1/
+description: ''
+linkTitle: Business Strategy 1 1
+type: docs
+---
+
 # Executive Summary
 
 Green Orbit Digital is positioning itself as a leader in sustainable marketing within the space industry, combining digital innovation with environmental stewardship. Our 2025 strategy focuses on driving positive change while delivering exceptional value to our clients.

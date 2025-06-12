@@ -1,7 +1,13 @@
 ---
 title: Organizations
 description: Support Operations documentation page for Zendesk organizations
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/organizations"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/organizations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/organizations_2_1/
+linkTitle: Organizations
+type: docs
 ---
 
 ## What are Zendesk organizations?

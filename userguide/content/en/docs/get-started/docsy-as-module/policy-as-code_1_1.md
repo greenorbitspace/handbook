@@ -1,5 +1,12 @@
 ---
-title: "Policy-as-code"
+title: Policy-as-code
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/policy-as-code_1_1/
+description: ''
+linkTitle: Policy-as-code
+type: docs
 ---
 
 ## What is policy-as-code?

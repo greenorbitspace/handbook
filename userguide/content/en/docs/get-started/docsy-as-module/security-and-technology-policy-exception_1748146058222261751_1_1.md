@@ -1,5 +1,12 @@
 ---
-title: "Security and Technology Policy Exception Process"
+title: Security and Technology Policy Exception Process
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-and-technology-policy-exception_1748146058222261751_1_1/
+description: ''
+linkTitle: Security and Technology Policy Exception Process
+type: docs
 ---
 
 ## Exceptions

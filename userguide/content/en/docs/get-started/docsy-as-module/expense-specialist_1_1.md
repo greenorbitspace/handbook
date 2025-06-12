@@ -1,5 +1,12 @@
 ---
-title: "Expense"
+title: Expense
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/expense-specialist_1_1/
+description: ''
+linkTitle: Expense
+type: docs
 ---
 
 ## Expense Specialist

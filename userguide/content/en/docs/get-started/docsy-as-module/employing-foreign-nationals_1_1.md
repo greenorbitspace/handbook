@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Employing Foreign Nationals 1 1
+aliases:
+- /docs/employing-foreign-nationals_1_1/
+description: ''
+linkTitle: Employing Foreign Nationals 1 1
+type: docs
+---
+
 # Policy for Employing Foreign Nationals in the UK
 
 ## 1. Introduction and Purpose

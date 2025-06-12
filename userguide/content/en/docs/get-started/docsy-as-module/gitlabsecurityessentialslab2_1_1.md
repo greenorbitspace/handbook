@@ -1,6 +1,13 @@
 ---
-title: "GitLab Security Essentials - Hands-On Lab: Addressing Vulnerabilities"
-description: "This Hands-On Guide walks you through how to triage and respond vulnerabilities in your application"
+title: 'GitLab Security Essentials - Hands-On Lab: Addressing Vulnerabilities'
+description: This Hands-On Guide walks you through how to triage and respond vulnerabilities
+  in your application
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabsecurityessentialslab2_1_1/
+linkTitle: 'GitLab Security Essentials - Hands-On Lab: Addressing Vulnerabilities'
+type: docs
 ---
 
 > Estimated time to complete: 15 minutes

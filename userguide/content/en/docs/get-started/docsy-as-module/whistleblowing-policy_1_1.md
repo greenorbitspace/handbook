@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Whistleblowing Policy 1 1
+aliases:
+- /docs/whistleblowing-policy_1_1/
+description: ''
+linkTitle: Whistleblowing Policy 1 1
+type: docs
+---
+
 1. Introduction:
 At Green Orbit Digital, we uphold the highest standards of ethics and integrity in all aspects of our operations. We recognize that whistleblowing plays a crucial role in identifying and addressing wrongdoing or unethical behavior within the company. This policy is designed to encourage employees and others associated with Green Orbit Digital to confidentially report concerns about illegal or severely unethical conduct.
 

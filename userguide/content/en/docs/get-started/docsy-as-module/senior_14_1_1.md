@@ -1,5 +1,12 @@
 ---
 title: Senior Frontend Engineer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior_14_1_1/
+description: ''
+linkTitle: Senior Frontend Engineer
+type: docs
 ---
 
 Frontend Engineers at GitLab work on our product. This includes both the open-source version of GitLab, the enterprise editions, and the GitLab.com service. They work with peers on teams dedicated to areas of the product. They work together with product managers, designers, and [backend engineers](/job-families/engineering/backend-engineer/) to solve common goals.

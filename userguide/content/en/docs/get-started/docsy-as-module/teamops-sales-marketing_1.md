@@ -1,6 +1,13 @@
 ---
-title: "TeamOps Sales and Marketing"
-description: "The TeamOps Sales and Marketing Working Group aims to manage the design and kickoff of relevant strategies."
+title: TeamOps Sales and Marketing
+description: The TeamOps Sales and Marketing Working Group aims to manage the design
+  and kickoff of relevant strategies.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/teamops-sales-marketing_1/
+linkTitle: TeamOps Sales and Marketing
+type: docs
 ---
 
 ## Attributes

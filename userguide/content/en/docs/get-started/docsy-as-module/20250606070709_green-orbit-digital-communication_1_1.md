@@ -5,6 +5,13 @@ doc_id: doc-080
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070709_green-orbit-digital-communication_1_1/
+description: ''
+linkTitle: Green Orbit Digital Communication
+type: docs
 ---
 
 <!-- Unsupported block type: table -->

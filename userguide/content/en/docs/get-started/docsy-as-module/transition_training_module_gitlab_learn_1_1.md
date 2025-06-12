@@ -1,7 +1,12 @@
 ---
-
 title: Transition training module to GitLab Learn
 description: How to transition a support training module to  GitLab Learn
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/transition_training_module_gitlab_learn_1_1/
+linkTitle: Transition training module to GitLab Learn
+type: docs
 ---
 
 This document covers the process for transitioning existing [GitLab Support training modules](https://gitlab.com/gitlab-com/support/support-training/) to [GitLab Learn](https://gitlab.edcast.com/).

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Spokesperson Development Plan 1 1
+aliases:
+- /docs/spokesperson-development-plan_1_1/
+description: ''
+linkTitle: Spokesperson Development Plan 1 1
+type: docs
+---
+
 ## 1. Current Skills Assessment
 
 <!-- Unsupported block type: table -->

@@ -1,5 +1,12 @@
 ---
 title: Enterprise Applications
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior-director-enterprise-applications_1_1_1/
+description: ''
+linkTitle: Enterprise Applications
+type: docs
 ---
 
 ## Director, CRM Systems

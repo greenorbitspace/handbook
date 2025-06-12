@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Media Training Workbook 1 1
+aliases:
+- /docs/media-training-workbook_1_1/
+description: ''
+linkTitle: Media Training Workbook 1 1
+type: docs
+---
+
 # Introduction to Media Relations
 
 This workbook will help you develop essential media interaction skills and prepare for successful media engagements.

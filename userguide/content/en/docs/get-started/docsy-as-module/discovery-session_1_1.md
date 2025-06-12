@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Discovery Session 1 1
+aliases:
+- /docs/discovery-session_1_1/
+description: ''
+linkTitle: Discovery Session 1 1
+type: docs
+---
+
 # Discovery Session Procedure
 
 ## 1. Pre-Session Preparation

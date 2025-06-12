@@ -1,7 +1,13 @@
 ---
 title: Generating HackerOne Reporter Award Licenses
-description: "How to generate a license for Hacker One reporter award recipients"
+description: How to generate a license for Hacker One reporter award recipients
 category: GitLab Self-Managed licenses
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/generating_hackerone_reporter_licenses_1_1/
+linkTitle: Generating HackerOne Reporter Award Licenses
+type: docs
 ---
 
 ## Overview

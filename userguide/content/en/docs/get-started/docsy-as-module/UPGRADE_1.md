@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Upgrade 1
+aliases:
+- /docs/UPGRADE_1/
+description: ''
+linkTitle: Upgrade 1
+type: docs
+---
+
 ## Migration from Mailtrain v1 to Mailtrain v2
 
 The migration should happen almost automatically. There are however the following caveats:

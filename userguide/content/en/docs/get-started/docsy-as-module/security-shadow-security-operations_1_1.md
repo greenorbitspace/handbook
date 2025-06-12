@@ -1,7 +1,12 @@
 ---
-title: "Security Shadow: Security Operations"
-description: " "
+title: 'Security Shadow: Security Operations'
+description: ' '
 weight: 40
+date: '2025-06-12'
+aliases:
+- /docs/security-shadow-security-operations_1_1/
+linkTitle: 'Security Shadow: Security Operations'
+type: docs
 ---
 
 Completion of each course you will receive a certificate.  At the completion of all 3 courses your name will be recognized on this page.

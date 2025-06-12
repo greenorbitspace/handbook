@@ -1,5 +1,12 @@
 ---
-title: "Chief Product Officer"
+title: Chief Product Officer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/chief-product-officer_1_1/
+description: ''
+linkTitle: Chief Product Officer
+type: docs
 ---
 
 The Chief Product Officer reports to our CEO. The key focus of this role is to define and execute a vision and roadmap company’s products. Also to facilitate strong collaboration between product, engineering, the CEO, and other executives. The Chief Product Officer at GitLab will

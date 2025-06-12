@@ -1,9 +1,13 @@
 ---
 title: Configuring Ponycopters
-description: >
+description: |
   A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
-date: 2017-01-05
+date: '2025-06-12T01:05:54+01:00'
 weight: 2
+aliases:
+- /docs/20250606070821_configuring-ponycopters_1_1/
+linkTitle: Configuring Ponycopters
+type: docs
 ---
 
 {{% pageinfo %}}

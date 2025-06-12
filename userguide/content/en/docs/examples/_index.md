@@ -2,6 +2,11 @@
 title: Examples
 weight: 8
 description: Some examples of Docsy in action!
+type: docs
+date: '2025-06-12T01:05:53+01:00'
+linkTitle: Examples
+aliases:
+- /docs/_index/
 ---
 
 One of the best ways to see what Docsy can do, and learn how to configure a site with it, is to see some real projects. In addition to our provided Docsy Example Project, there are several live sites already using the theme. Please add your own examples once you've got a production site up and running with Docsy!

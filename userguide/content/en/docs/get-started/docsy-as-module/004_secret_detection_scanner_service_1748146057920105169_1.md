@@ -1,5 +1,12 @@
 ---
-title: "GitLab Secret Detection ADR 004: Secret Detection Scanner Service"
+title: 'GitLab Secret Detection ADR 004: Secret Detection Scanner Service'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/004_secret_detection_scanner_service_1748146057920105169_1/
+description: ''
+linkTitle: 'GitLab Secret Detection ADR 004: Secret Detection Scanner Service'
+type: docs
 ---
 
 ## Context

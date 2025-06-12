@@ -1,13 +1,25 @@
 ---
-title: "Repository egress"
+title: Repository egress
 status: proposed
-creation-date: "2023-09-07"
-authors: [ "@vyaklushin" ]
-approvers: [ "@ofernandez2", "@sean_carroll" ]
-coach: ["@andrewn", "@grzesiek"]
-owning-stage: "~group::source_code"
+creation-date: '2023-09-07'
+authors:
+- '@vyaklushin'
+approvers:
+- '@ofernandez2'
+- '@sean_carroll'
+coach:
+- '@andrewn'
+- '@grzesiek'
+owning-stage: ~group::source_code
 participating-stages: []
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/repository_1_1/
+description: ''
+linkTitle: Repository egress
+type: docs
 ---
 
 Users generate Repository egress events for every fetch operation in Git. It

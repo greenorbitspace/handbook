@@ -1,6 +1,13 @@
 ---
-title: "Simplify Groups & Projects Working Group"
-description: "Learn about GitLab Simplify Groups & Projects Working Group business goals, problems to solve and more."
+title: Simplify Groups & Projects Working Group
+description: Learn about GitLab Simplify Groups & Projects Working Group business
+  goals, problems to solve and more.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/simplify-groups-and-projects_1748133871329987596_1_1/
+linkTitle: Simplify Groups & Projects Working Group
+type: docs
 ---
 
 ## Attributes

@@ -1,6 +1,13 @@
 ---
-title: "Public Sector Channel Manager"
-RoleName: "Federal Channel Manager"
+title: Public Sector Channel Manager
+RoleName: Federal Channel Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/federal-channel-manager_1_1/
+description: ''
+linkTitle: Public Sector Channel Manager
+type: docs
 ---
 
 As a Public Sector Channel Manager your primary goal will be to build pipeline and channel revenue with high performance partners. This high-energy position requires the candidate to be extremely motivated and results-driven -- with follow through to create and qualify partner-initiated opportunities.

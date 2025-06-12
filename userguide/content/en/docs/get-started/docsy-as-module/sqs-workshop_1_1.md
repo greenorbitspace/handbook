@@ -1,13 +1,13 @@
 ---
-aliases: /handbook/sales/onboarding/SQS-workshop
-title: "Sales Quick Start (SQS) Workshop"
+aliases:
+- /docs/sqs-workshop_1_1/
+title: Sales Quick Start (SQS) Workshop
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Sales Quick Start (SQS) Workshop
+type: docs
 ---
-
-
-
-
-
-
 
 ## Sales Quick Start Workshop
 

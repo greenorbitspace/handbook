@@ -1,7 +1,14 @@
 ---
-title: "Runtime Update Process"
-description: "Streamline the language runtime (version) update process by reducing manual intervention by engineers"
+title: Runtime Update Process
+description: Streamline the language runtime (version) update process by reducing
+  manual intervention by engineers
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/runtime-update-process_1/
+linkTitle: Runtime Update Process
+type: docs
 ---
 
 ## Attributes

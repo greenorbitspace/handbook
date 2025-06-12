@@ -1,7 +1,12 @@
 ---
-
-title: "Product Catalog Guide"
-description: "How to request the creation or modification of a SKU."
+title: Product Catalog Guide
+description: How to request the creation or modification of a SKU.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-catalog_1_1/
+linkTitle: Product Catalog Guide
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

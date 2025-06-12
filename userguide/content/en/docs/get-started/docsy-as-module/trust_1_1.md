@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Trust 1 1
+aliases:
+- /docs/trust_1_1/
+description: ''
+linkTitle: Trust 1 1
+type: docs
+---
+
 Overview
 
 Trust is the bedrock of a brand’s value and is built on what customers know, feel, see and hear about an organisation, product or service. In an era of fake news, trust is in short supply and stakeholders are consciously choosing brands for their ‘Corporate Social Responsibility’ (CSR) and ‘Environmental, Social and Governance’ (ESG) credentials. This holistic guide to an ethically managed brand provides strategies for developing a moral advantage. Stronger brands are increasingly benefiting from an altruistic dimension linked to their purpose and values.  Developing a sustainable brand ecosystem enables a self-regulating business model where the organisation is mindful of the impact it has on society. The sustainably managed brand generates its own identified set of standards that resonate with their customers, suppliers and employees. Purpose and values are the essential elements at the heart of a sustainable brand and they define the operating principles that support a framework of performance goals manifested through the product or service experience. This course will provide insights, examples, and practical tips to help you manage your organisation, product or service, into a resilient values-driven brand.

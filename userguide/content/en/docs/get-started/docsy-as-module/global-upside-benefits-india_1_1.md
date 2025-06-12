@@ -1,6 +1,12 @@
 ---
-title: "Global Upside Benefits"
-description: "Global Upside Benefits specific to India based team members."
+title: Global Upside Benefits
+description: Global Upside Benefits specific to India based team members.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/global-upside-benefits-india_1_1/
+linkTitle: Global Upside Benefits
+type: docs
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-group/).

@@ -1,6 +1,12 @@
 ---
-aliases: /handbook/marketing/developer-relations/technical-marketing/making_better_videos.html
-title: "Making Better Videos"
+aliases:
+- /docs/making_better_videos_1_1/
+title: Making Better Videos
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Making Better Videos
+type: docs
 ---
 
 ## Making Better Videos

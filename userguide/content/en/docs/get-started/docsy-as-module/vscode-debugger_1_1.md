@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Vscode Debugger 1 1
+aliases:
+- /docs/vscode-debugger_1_1/
+description: ''
+linkTitle: Vscode Debugger 1 1
+type: docs
+---
+
 # Using the VS Code Debugger
 
 ## Debug configurations

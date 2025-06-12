@@ -1,6 +1,12 @@
 ---
-title: "Security Risk Team"
-description: "Security Risk Team Charter"
+title: Security Risk Team
+description: Security Risk Team Charter
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_39_1_1/
+linkTitle: Security Risk Team
+type: docs
 ---
 
 ## Mission Statement

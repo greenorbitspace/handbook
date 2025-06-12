@@ -1,5 +1,12 @@
 ---
-title: "Merge Request Coach Lifecycle"
+title: Merge Request Coach Lifecycle
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/merge-request-coach-lifecycle_1748142274423232062_1_1/
+description: ''
+linkTitle: Merge Request Coach Lifecycle
+type: docs
 ---
 
 ## Applying to become a Merge Request Coach

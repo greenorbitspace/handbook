@@ -1,7 +1,14 @@
 ---
 title: Converting a Support Emergency into an Account Escalation
-description: Guidance to Support Engineers and Managers on when and how to convert an emergency to an Account Escalation
+description: Guidance to Support Engineers and Managers on when and how to convert
+  an emergency to an Account Escalation
 category: On-call
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/emergency-to-escalation-process_1_1/
+linkTitle: Converting a Support Emergency into an Account Escalation
+type: docs
 ---
 
 ## Overview

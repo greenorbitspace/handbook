@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Stakeholder Consultation Documentation 1 1
+aliases:
+- /docs/stakeholder-consultation-documentation_1_1/
+description: ''
+linkTitle: Stakeholder Consultation Documentation 1 1
+type: docs
+---
+
 ### Stakeholder Consultation Documentation According to ISO 31000
 
 ISO 31000 provides guidelines for risk management, including the process of identifying, assessing, and mitigating risks. Stakeholder consultation is a crucial part of risk management, as it helps to understand the perspectives, expectations, and concerns of relevant stakeholders to ensure that risks are properly addressed. The following document provides a structured approach to stakeholder consultation in compliance with ISO 31000.

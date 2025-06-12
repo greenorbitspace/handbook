@@ -1,6 +1,13 @@
 ---
-title: "Inside Sales Representative"
-RoleName: "Public Sector Inside Account Representative"
+title: Inside Sales Representative
+RoleName: Public Sector Inside Account Representative
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/public-sector-inside-account-representative_2_1/
+description: ''
+linkTitle: Inside Sales Representative
+type: docs
 ---
 
 ## Inside Sales Representative

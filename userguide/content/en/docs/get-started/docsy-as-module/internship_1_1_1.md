@@ -1,5 +1,12 @@
 ---
 title: Product Internship - Best Practices
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/internship_1_1_1/
+description: ''
+linkTitle: Product Internship - Best Practices
+type: docs
 ---
 
 This document describes best practices for [internship for learning](/handbook/people-group/learning-and-development/internship-for-learning/) with Product.

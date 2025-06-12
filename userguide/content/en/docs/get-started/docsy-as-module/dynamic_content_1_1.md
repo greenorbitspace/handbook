@@ -1,7 +1,13 @@
 ---
 title: Dynamic Content
 description: Support Operations documentation page for Zendesk dynamic content
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/dynamic_content"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/dynamic_content
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dynamic_content_1_1/
+linkTitle: Dynamic Content
+type: docs
 ---
 
 ## What is Zendesk dynamic content?

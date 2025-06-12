@@ -1,6 +1,13 @@
 ---
-title: "LinkedIn Sales Insights"
-description: "LinkedIn Sales Insights provides access to LinkedIn data and insights at scale, giving sales operations the clarity they need to do smarter sales planning."
+title: LinkedIn Sales Insights
+description: LinkedIn Sales Insights provides access to LinkedIn data and insights
+  at scale, giving sales operations the clarity they need to do smarter sales planning.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/linkedin-sales-insights_1_1/
+linkTitle: LinkedIn Sales Insights
+type: docs
 ---
 
 ### About LinkedIn Sales Insights

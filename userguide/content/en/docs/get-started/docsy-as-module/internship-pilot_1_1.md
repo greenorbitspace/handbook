@@ -1,6 +1,13 @@
 ---
-title: "Internship Pilot Working Group"
-description: The business goal is to run a pilot internship program to determine feasibility for future programs.
+title: Internship Pilot Working Group
+description: The business goal is to run a pilot internship program to determine feasibility
+  for future programs.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/internship-pilot_1_1/
+linkTitle: Internship Pilot Working Group
+type: docs
 ---
 
 ## Attributes

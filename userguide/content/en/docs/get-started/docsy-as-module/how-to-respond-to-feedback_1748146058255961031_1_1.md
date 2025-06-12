@@ -2,7 +2,14 @@
 title: Satisfaction (CES) review and responding (for Managers)
 category: Handling tickets
 subcategory: Writing responses and handling feedback
-description: Discusses the Support Team's Satisfaction (Customer Effort Score or CES) review process, and actions which Managers take to respond to customer feedback
+description: Discusses the Support Team's Satisfaction (Customer Effort Score or CES)
+  review process, and actions which Managers take to respond to customer feedback
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/how-to-respond-to-feedback_1748146058255961031_1_1/
+linkTitle: Satisfaction (CES) review and responding (for Managers)
+type: docs
 ---
 
 To understand the factors contributing to [Support Satisfaction](/handbook/support/performance-indicators/#support-satisfaction-ssat),

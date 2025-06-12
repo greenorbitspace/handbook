@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Performance Indicators 1 2
+aliases:
+- /docs/performance-indicators_1_2/
+description: ''
+linkTitle: Performance Indicators 1 2
+type: docs
+---
+
 <!-- To edit the content, see: https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators -->
 {{ $publicHandbookRef := getenv "PUBLIC_HANDBOOK_REF" | default "master" }}
 {{ .Page.Store.Set "hastableau" true -}}

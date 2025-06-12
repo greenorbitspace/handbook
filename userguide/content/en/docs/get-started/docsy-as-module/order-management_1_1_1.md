@@ -1,6 +1,13 @@
 ---
-title: "Order Management Handbook"
-description: "The Order Management team's mission is to streamline the opportunity approval process by accurately and efficiently booking opportunities."
+title: Order Management Handbook
+description: The Order Management team's mission is to streamline the opportunity
+  approval process by accurately and efficiently booking opportunities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/order-management_1_1_1/
+linkTitle: Order Management Handbook
+type: docs
 ---
 
 ## Welcome to the Order Management Handbook

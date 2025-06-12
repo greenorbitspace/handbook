@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Parser Examples 1 1
+aliases:
+- /docs/parser-examples_1_1/
+description: ''
+linkTitle: Parser Examples 1 1
+type: docs
+---
+
 # JavaScript Module Examples
 
 Most of the examples in this section use the same input data:

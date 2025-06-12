@@ -1,14 +1,13 @@
 ---
-
-title: "CSM OKRs"
-description: "Field guide for CSMs on team OKRs"
+title: CSM OKRs
+description: Field guide for CSMs on team OKRs
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/csm-okrs_1_1/
+linkTitle: CSM OKRs
+type: docs
 ---
-
-
-
-
-
-
 
 For more information visit GitLabs [Objective and Key Results (OKRs)](/handbook/company/okrs/) page.
 

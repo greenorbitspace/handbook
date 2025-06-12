@@ -1,9 +1,15 @@
 ---
-title: "TeamOps Partners"
+title: TeamOps Partners
 description: Resources for change management support
-canonical_path: "/handbook/teamops/partners/"
+canonical_path: /handbook/teamops/partners/
 images:
-    - /images/opengraph/all-remote.jpg
+- /images/opengraph/all-remote.jpg
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/partners_1_1/
+linkTitle: TeamOps Partners
+type: docs
 ---
 
 A TeamOps Partnership is a cooperation between TeamOps and future-of-work advocates, vendors, tools, or consultants to support employers in the process of understanding, measuring, and adopting virtual-first ways of working.

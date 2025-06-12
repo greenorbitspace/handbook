@@ -1,6 +1,13 @@
 ---
-title: "Secure Offline Environment Working Group"
-description: "The Secure Offline Environment Working Group allows mirroring or downloading of all the needed information for an offline use."
+title: Secure Offline Environment Working Group
+description: The Secure Offline Environment Working Group allows mirroring or downloading
+  of all the needed information for an offline use.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/secure-offline-environment_1_1/
+linkTitle: Secure Offline Environment Working Group
+type: docs
 ---
 
 ## Attributes

@@ -1,6 +1,12 @@
 ---
-
-title: "CEO Scheduling & Preferences"
+title: CEO Scheduling & Preferences
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ceo-scheduling_1_1/
+description: ''
+linkTitle: CEO Scheduling & Preferences
+type: docs
 ---
 
 ## The CEO Support Team

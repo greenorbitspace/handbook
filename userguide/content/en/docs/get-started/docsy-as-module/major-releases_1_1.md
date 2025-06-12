@@ -1,7 +1,13 @@
 ---
-title: "Major Releases Working Group"
-description: "Working group to faciliate a smooth and boring Major release."
+title: Major Releases Working Group
+description: Working group to faciliate a smooth and boring Major release.
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/major-releases_1_1/
+linkTitle: Major Releases Working Group
+type: docs
 ---
 
 ## Attributes

@@ -1,5 +1,12 @@
 ---
-title: "Legacy v1: GitLab Professional Services Agreement"
+title: 'Legacy v1: GitLab Professional Services Agreement'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/legacy-psa-v1_1_1/
+description: ''
+linkTitle: 'Legacy v1: GitLab Professional Services Agreement'
+type: docs
 ---
 
 ## GitLab Professional Services Agreement

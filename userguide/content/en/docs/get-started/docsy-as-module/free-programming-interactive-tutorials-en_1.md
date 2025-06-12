@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Interactive Tutorials En 1
+aliases:
+- /docs/free-programming-interactive-tutorials-en_1/
+description: ''
+linkTitle: Free Programming Interactive Tutorials En 1
+type: docs
+---
+
 ### Index
 
 * [Bash](#bash)

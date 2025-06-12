@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Tweet Manage 1 1
+aliases:
+- /docs/tweet-manage_1_1/
+description: ''
+linkTitle: Tweet Manage 1 1
+type: docs
+---
+
 Creating and deleting Tweets using the Twitter API is essential for engaging with the public conversation. The new manage Tweets endpoints allow you to do just that and much more.
 
 We have two available methods for manage Tweets, POST and DELETE. The POST method lets you post polls, quote Tweets, Tweet with reply settings, Tweet with geo, Tweet with media and tag users, and Tweet to Super Followers, in addition to other features. Likewise, the DELETE method allows you to delete a specific Tweet. For the POST method, you can pass in the parameters you are looking for to enable you to further customize your request.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Dora (Digital Operational Resilience Act) Mapping 1 1
+aliases:
+- /docs/DORA (Digital Operational Resilience Act) Mapping_1_1/
+description: ''
+linkTitle: Dora (Digital Operational Resilience Act) Mapping 1 1
+type: docs
+---
+
 # DORA (Digital Operational Resilience Act) Mapping
 
 [Unsupported block type: image]

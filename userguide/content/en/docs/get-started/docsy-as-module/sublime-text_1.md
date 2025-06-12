@@ -1,5 +1,12 @@
 ---
-title: "Sublime Text"
+title: Sublime Text
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sublime-text_1/
+description: ''
+linkTitle: Sublime Text
+type: docs
 ---
 
 Website: <https://www.sublimetext.com/>

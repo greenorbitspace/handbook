@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: It Access Controls 1 1
+aliases:
+- /docs/it-access-controls_1_1/
+description: ''
+linkTitle: It Access Controls 1 1
+type: docs
+---
+
 IT Access Controls Policy
 
 1. Introduction

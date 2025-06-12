@@ -1,7 +1,13 @@
 ---
 title: gl-support-bot
 description: Operations documentation page for gl-support-bot
-canonical_path: "/handbook/security/customer-support-operations/docs/gitlab/gl-support-bot"
+canonical_path: /handbook/security/customer-support-operations/docs/gitlab/gl-support-bot
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gl-support-bot_1_1/
+linkTitle: gl-support-bot
+type: docs
 ---
 
 ## What is gl-support-bot used for?

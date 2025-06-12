@@ -1,6 +1,12 @@
 ---
-title: "Usability benchmarking"
-description: "The usability benchmarking process at GitLab"
+title: Usability benchmarking
+description: The usability benchmarking process at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/usability-benchmarking_1_1/
+linkTitle: Usability benchmarking
+type: docs
 ---
 
 According to the [Nielsen/Norman Group](https://www.nngroup.com/articles/product-ux-benchmarks/), usability or user experience benchmarking is "the process of evaluating a product or service's user experience by using metrics to gauge its relative performance against a meaningful standard." While benchmarking can require a good amount of time and effort, there are few alternate research methods that provide both the same volume of data and granularity of insights. This page describes the processes and considerations that we put into usability benchmarking at GitLab.

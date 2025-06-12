@@ -1,7 +1,13 @@
 ---
 title: Themes
 description: Operations workflow page for Zendesk themes
-canonical_path: "/handbook/security/customer-support-operations/workflows/zendesk/themes"
+canonical_path: /handbook/security/customer-support-operations/workflows/zendesk/themes
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/themes_1_2/
+linkTitle: Themes
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

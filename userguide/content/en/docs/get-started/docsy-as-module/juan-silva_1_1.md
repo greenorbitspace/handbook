@@ -1,14 +1,14 @@
 ---
-
-title: "Juan Silva's README"
-job: "Fullstack Engineering Manager - Geo"
+title: Juan Silva's README
+job: Fullstack Engineering Manager - Geo
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/juan-silva_1_1/
+description: ''
+linkTitle: Juan Silva's README
+type: docs
 ---
-
-
-
-
-
-
 
 ## Juan Silva @ GitLab
 

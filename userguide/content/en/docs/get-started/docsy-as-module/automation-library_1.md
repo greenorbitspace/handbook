@@ -1,5 +1,12 @@
 ---
-title: "Security Assurance - Automations Library"
+title: Security Assurance - Automations Library
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/automation-library_1/
+description: ''
+linkTitle: Security Assurance - Automations Library
+type: docs
 ---
 
 ## Has this been automated for the team yet?

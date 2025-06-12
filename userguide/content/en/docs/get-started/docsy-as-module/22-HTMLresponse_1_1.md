@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 22 Htmlresponse 1 1
+aliases:
+- /docs/22-HTMLresponse_1_1/
+description: ''
+linkTitle: 22 Htmlresponse 1 1
+type: docs
+---
+
 ### HTML response
 - content-Type is gonna be `text/html`
 ```js

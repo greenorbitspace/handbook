@@ -1,6 +1,13 @@
 ---
-owning-stage: "~devops::secure"
+owning-stage: ~devops::secure
 title: 'KEV Support ADR 001: Unify KEV and EPSS as CVE Enrichments'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/001_unify_kev_and_epss_as_cve_enrichments_1/
+description: ''
+linkTitle: 'KEV Support ADR 001: Unify KEV and EPSS as CVE Enrichments'
+type: docs
 ---
 
 ## Context

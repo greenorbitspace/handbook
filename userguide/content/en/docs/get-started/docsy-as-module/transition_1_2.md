@@ -1,10 +1,16 @@
 ---
-title: "Considerations for transitioning a company to remote"
+title: Considerations for transitioning a company to remote
 description: Considerations for transitioning a company to remote
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/transition_1_2/
+linkTitle: Considerations for transitioning a company to remote
+type: docs
 ---
 
 On this page, we're detailing considerations for transitioning a colocated or hybrid-remote company to 100% remote, as well as tips for introducing remote team members to a historically in-office organization.

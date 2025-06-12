@@ -1,7 +1,13 @@
 ---
-
-title: "Reachdesk"
-description: "Reachdesk is a direct mail provider that we use for sales and marketing campaigns to fuel pipeline progression using personalized gifts"
+title: Reachdesk
+description: Reachdesk is a direct mail provider that we use for sales and marketing
+  campaigns to fuel pipeline progression using personalized gifts
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/reachdesk_1_1/
+linkTitle: Reachdesk
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

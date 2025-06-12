@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 0 Localstrategy 1 1
+aliases:
+- /docs/0-localStrategy_1_1/
+description: ''
+linkTitle: 0 Localstrategy 1 1
+type: docs
+---
+
 ### Passport
 - Passport is authentication middleware for Node.js.
 - Extremely flexible and modular

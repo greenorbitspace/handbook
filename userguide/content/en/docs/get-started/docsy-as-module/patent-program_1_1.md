@@ -1,6 +1,12 @@
 ---
-title: "Patents"
-description: "Learn about Patents and GitLab's Patent Program"
+title: Patents
+description: Learn about Patents and GitLab's Patent Program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/patent-program_1_1/
+linkTitle: Patents
+type: docs
 ---
 
 ## Why patents?

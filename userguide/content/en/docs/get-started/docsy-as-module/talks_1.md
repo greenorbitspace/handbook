@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Talks 1
+aliases:
+- /docs/talks_1/
+description: ''
+linkTitle: Talks 1
+type: docs
+---
+
 +++
 # A Recent and Upcoming Talks section created with the Pages widget.
 # This section displays recent talks from `content/talk/`.

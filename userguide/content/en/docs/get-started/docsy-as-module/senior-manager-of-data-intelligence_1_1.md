@@ -1,5 +1,12 @@
 ---
 title: Data Intelligence
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior-manager-of-data-intelligence_1_1/
+description: ''
+linkTitle: Data Intelligence
+type: docs
 ---
 
 ## Responsibilities

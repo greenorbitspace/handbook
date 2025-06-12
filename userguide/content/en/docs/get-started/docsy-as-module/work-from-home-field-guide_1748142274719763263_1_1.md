@@ -1,8 +1,15 @@
 ---
-title: "Work-From-Home Field Guide"
+title: Work-From-Home Field Guide
 description: How to help your team work healthier from home
-summary: This field guide serves as a blueprint to help your team work healthier from home.
-twitter_image: '/images/work-from-home-field-guide/PDF-Cover-Image.jpeg'
+summary: This field guide serves as a blueprint to help your team work healthier from
+  home.
+twitter_image: /images/work-from-home-field-guide/PDF-Cover-Image.jpeg
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/work-from-home-field-guide_1748142274719763263_1_1/
+linkTitle: Work-From-Home Field Guide
+type: docs
 ---
 
 <div class="container">

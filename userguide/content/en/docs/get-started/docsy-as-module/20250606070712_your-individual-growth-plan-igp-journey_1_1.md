@@ -5,6 +5,13 @@ doc_id: doc-696
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070712_your-individual-growth-plan-igp-journey_1_1/
+description: ''
+linkTitle: Your Individual Growth Plan Igp Journey
+type: docs
 ---
 
 Your step-by-step resource for creating a meaningful Individual Growth Plan that drives your career forward

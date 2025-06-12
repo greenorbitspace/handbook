@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Defining Apps 1 1
+aliases:
+- /docs/defining-apps_1_1/
+description: ''
+linkTitle: Defining Apps 1 1
+type: docs
+---
+
 # Defining Apps and Binaries
 
 ## Binaries

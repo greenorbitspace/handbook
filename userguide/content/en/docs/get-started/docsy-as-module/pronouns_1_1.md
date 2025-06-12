@@ -1,6 +1,13 @@
 ---
-title: "Pronoun Guidance and Information"
-description: "Resources for understanding and discussing pronouns and their usage at GitLab."
+title: Pronoun Guidance and Information
+description: Resources for understanding and discussing pronouns and their usage at
+  GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/pronouns_1_1/
+linkTitle: Pronoun Guidance and Information
+type: docs
 ---
 
 ## What are pronouns?

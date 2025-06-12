@@ -1,7 +1,13 @@
 ---
 title: FAQs
 description: Some frequently asked questions
-canonical_path: "/handbook/support/readiness/operations/faqs/"
+canonical_path: /handbook/support/readiness/operations/faqs/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/faqs_1_1/
+linkTitle: FAQs
+type: docs
 ---
 
 ## If we receive any problem in using Zendesk, can we contact Zendesk directly?

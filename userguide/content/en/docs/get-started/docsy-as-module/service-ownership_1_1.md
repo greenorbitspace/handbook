@@ -1,5 +1,12 @@
 ---
 title: GitLab Service Ownership Policy
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/service-ownership_1_1/
+description: ''
+linkTitle: GitLab Service Ownership Policy
+type: docs
 ---
 
 ## Purpose

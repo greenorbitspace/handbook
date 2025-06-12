@@ -1,6 +1,17 @@
 ---
-title: "Identity User Guide - Team Members"
-description: "The Identity Platform handles Identity and Access Management (IAM), role-based access control (RBAC), and the application, group, and infrastructure provisioning automation for all users at GitLab. This page provies a quick reference guide and runbook for team members (end users) to understand how their role is used to automatically get access to applications, and learn how to get access to additional applications and systems."
+title: Identity User Guide - Team Members
+description: The Identity Platform handles Identity and Access Management (IAM), role-based
+  access control (RBAC), and the application, group, and infrastructure provisioning
+  automation for all users at GitLab. This page provies a quick reference guide and
+  runbook for team members (end users) to understand how their role is used to automatically
+  get access to applications, and learn how to get access to additional applications
+  and systems.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_16_1_1/
+linkTitle: Identity User Guide - Team Members
+type: docs
 ---
 
 {{% alert title="Not Live Yet" color="warning" %}}

@@ -1,7 +1,13 @@
 ---
 title: Suport Team page
 description: Support Operations documentation page for the Support team page
-canonical_path: "/handbook/support/readiness/operations/docs/gitlab/support_team_page"
+canonical_path: /handbook/support/readiness/operations/docs/gitlab/support_team_page
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support_team_page_1_1/
+linkTitle: Suport Team page
+type: docs
 ---
 
 <sup>*Introduced via [support-team-meta#2159](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2159)*</sup>

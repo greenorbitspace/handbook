@@ -1,5 +1,12 @@
 ---
-title: "Mentoring"
+title: Mentoring
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mentoring_1/
+description: ''
+linkTitle: Mentoring
+type: docs
 ---
 
 ## Mentoring

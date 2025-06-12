@@ -6,6 +6,14 @@ doc_id: doc-646
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070712_navigating-the-future-of-space-with-systems-thinking-a-guide-to-sustainable-exploration_1_1/
+description: ''
+linkTitle: Navigating The Future Of Space With Systems Thinking A Guide To Sustainable
+  Exploration
+type: docs
 ---
 
 As the space sector continues to expand, it faces a growing need to address the complex challenges of sustainability, technological innovation, and environmental impact. From satellite launches to deep-space exploration, the decisions made today shape the trajectory of our industry for generations to come. The key to tackling these interconnected challenges lies in adopting a holistic approach—one that sees the bigger picture and understands how all the components of the system work together. This approach is known as systems thinking, and it’s transforming the way we think about space exploration.

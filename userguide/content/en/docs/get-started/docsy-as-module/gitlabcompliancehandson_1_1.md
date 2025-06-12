@@ -1,6 +1,13 @@
 ---
-title: "GitLab Compliance - Hands-On Lab Overview"
-description: "This Hands-On Guide walks you through the lab exercises in the GitLab Compliance course."
+title: GitLab Compliance - Hands-On Lab Overview
+description: This Hands-On Guide walks you through the lab exercises in the GitLab
+  Compliance course.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabcompliancehandson_1_1/
+linkTitle: GitLab Compliance - Hands-On Lab Overview
+type: docs
 ---
 
 ## GitLab Compliance Labs

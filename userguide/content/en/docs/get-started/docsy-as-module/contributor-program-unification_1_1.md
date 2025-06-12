@@ -1,7 +1,13 @@
 ---
-
-title: "Contributor Program Unification & Growth Plan"
-description: "Streamline the different programs that support & grow our Contributor Community within GitLab."
+title: Contributor Program Unification & Growth Plan
+description: Streamline the different programs that support & grow our Contributor
+  Community within GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/contributor-program-unification_1_1/
+linkTitle: Contributor Program Unification & Growth Plan
+type: docs
 ---
 
 ## Goal

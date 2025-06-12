@@ -1,6 +1,13 @@
 ---
-title: "Learning Restructure Working Group"
-description: "The GitLab Learning Restructure Working Group aims to create a plan and processes for ensuring a high quality learning experience for users "
+title: Learning Restructure Working Group
+description: 'The GitLab Learning Restructure Working Group aims to create a plan
+  and processes for ensuring a high quality learning experience for users '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/learning-restructure_1_1/
+linkTitle: Learning Restructure Working Group
+type: docs
 ---
 
 ## Attributes

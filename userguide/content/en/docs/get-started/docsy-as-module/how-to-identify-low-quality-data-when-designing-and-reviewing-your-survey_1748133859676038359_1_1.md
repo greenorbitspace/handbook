@@ -1,6 +1,13 @@
 ---
-title: "How to identify low quality data when designing and reviewing your survey"
-description: "Information to help you detect when you have data you should likely remove from your survey."
+title: How to identify low quality data when designing and reviewing your survey
+description: Information to help you detect when you have data you should likely remove
+  from your survey.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/how-to-identify-low-quality-data-when-designing-and-reviewing-your-survey_1748133859676038359_1_1/
+linkTitle: How to identify low quality data when designing and reviewing your survey
+type: docs
 ---
 
 A major challenge in UX Research is ensuring data is representative of the users you are trying to sample. Unlike with interviews, where you can assess the quality of a response by talking to a person for a set period of time, survey data is harder to verify because it is usually anonymous and there is a greater quantity of individual responses to parse through. When conducting a survey, an important goal is to limit the amount of low quality data (for example: data provided by bots or AI instead of humans, false/inaccurate data provided by humans), so that you can be more confident in your survey results. This handbook page covers various ways you can improve your survey design and analysis to make you more confident with the quality of data in your final dataset.

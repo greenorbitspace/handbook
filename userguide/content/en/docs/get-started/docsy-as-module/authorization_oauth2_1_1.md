@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Authorization Oauth2 1 1
+aliases:
+- /docs/authorization_oauth2_1_1/
+description: ''
+linkTitle: Authorization Oauth2 1 1
+type: docs
+---
+
 ### Prerequisite
 
 Once you have got the request access for `OAuth2.0`, your app will have the `Client ID` to do `authorization` for `OAuth2.0`.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: B Create A Layer 1 1
+aliases:
+- /docs/b-create-a-layer_1_1/
+description: ''
+linkTitle: B Create A Layer 1 1
+type: docs
+---
+
 # Create a Layer
 
 1. Click the Data Layers icon in the left navigation bar.

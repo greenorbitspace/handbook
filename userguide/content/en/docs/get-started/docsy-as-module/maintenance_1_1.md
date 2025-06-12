@@ -1,6 +1,12 @@
 ---
-title: "Content Websites"
-aliases: /handbook/content-websites/
+title: Content Websites
+aliases:
+- /docs/maintenance_1_1/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Content Websites
+type: docs
 ---
 
 ## Overview

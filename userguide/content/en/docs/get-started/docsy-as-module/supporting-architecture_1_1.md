@@ -1,7 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/production/architecture/supporting-architecture.html
-title: "Supporting Architecture"
+aliases:
+- /docs/supporting-architecture_1_1/
+title: Supporting Architecture
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Supporting Architecture
+type: docs
 ---
 
 This document covers architectures that support GitLab.com functions, but are not user facing and are managed by the [Infrastructure teams](../).

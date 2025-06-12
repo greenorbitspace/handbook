@@ -1,14 +1,13 @@
 ---
-
-title: "SQL Style Guide"
-description: "A set of conventions and guidelines for writing SQL at GitLab"
+title: SQL Style Guide
+description: A set of conventions and guidelines for writing SQL at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sql-style-guide_1_1/
+linkTitle: SQL Style Guide
+type: docs
 ---
-
-
-
-
-
-
 
 ---
 

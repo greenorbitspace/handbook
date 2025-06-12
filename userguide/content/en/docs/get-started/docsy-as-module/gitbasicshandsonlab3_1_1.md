@@ -1,6 +1,13 @@
 ---
-title: "GitLab with Git Essentials - Hands-On Lab: Use GitLab To Merge Code"
-description: "This Hands-On Guide walks you through creating projects, issues, and merge requests."
+title: 'GitLab with Git Essentials - Hands-On Lab: Use GitLab To Merge Code'
+description: This Hands-On Guide walks you through creating projects, issues, and
+  merge requests.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitbasicshandsonlab3_1_1/
+linkTitle: 'GitLab with Git Essentials - Hands-On Lab: Use GitLab To Merge Code'
+type: docs
 ---
 
 > Estimated time to complete: 40 minutes

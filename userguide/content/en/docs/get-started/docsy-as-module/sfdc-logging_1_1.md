@@ -1,8 +1,14 @@
 ---
 title: Salesforce Field Logging Requirements
-description: >-
-  A comprehensive guide for Solutions Architects on required Salesforce fields, data capture requirements, and best practices
-  for maintaining accurate opportunity tracking.
+description: A comprehensive guide for Solutions Architects on required Salesforce
+  fields, data capture requirements, and best practices for maintaining accurate opportunity
+  tracking.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sfdc-logging_1_1/
+linkTitle: Salesforce Field Logging Requirements
+type: docs
 ---
 
 ## Overview

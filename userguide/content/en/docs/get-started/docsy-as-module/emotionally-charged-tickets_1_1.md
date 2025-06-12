@@ -1,12 +1,16 @@
 ---
-
 title: Handling Emotionally-Charged Tickets
 category: Handling tickets
 subcategory: Writing responses and handling feedback
-description: How to keep a ticket moving toward resolution when emotions are getting involved
+description: How to keep a ticket moving toward resolution when emotions are getting
+  involved
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/emotionally-charged-tickets_1_1/
+linkTitle: Handling Emotionally-Charged Tickets
+type: docs
 ---
-
-
 
 ## Introduction
 

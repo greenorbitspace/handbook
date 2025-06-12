@@ -1,5 +1,12 @@
 ---
 title: GitLab the Product
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-the-product_1_1/
+description: ''
+linkTitle: GitLab the Product
+type: docs
 ---
 
 {{% include "includes/product-handbook-links.md" %}}

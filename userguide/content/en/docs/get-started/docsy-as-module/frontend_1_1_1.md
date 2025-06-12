@@ -1,6 +1,13 @@
 ---
-title: "Create:Code Review FE Team"
-description: The Create:Code Review FE team is responsible for all frontend aspects of the product categories that fall under the Code Review group of the Create stage.
+title: Create:Code Review FE Team
+description: The Create:Code Review FE team is responsible for all frontend aspects
+  of the product categories that fall under the Code Review group of the Create stage.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/frontend_1_1_1/
+linkTitle: Create:Code Review FE Team
+type: docs
 ---
 
 ## Common Links

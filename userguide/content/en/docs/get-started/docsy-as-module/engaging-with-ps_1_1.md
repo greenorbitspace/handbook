@@ -1,15 +1,13 @@
 ---
-
-title: "Engaging with Professional Services"
-description: "Guidelines for CSMs on how best to engage with professional services."
+title: Engaging with Professional Services
+description: Guidelines for CSMs on how best to engage with professional services.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engaging-with-ps_1_1/
+linkTitle: Engaging with Professional Services
+type: docs
 ---
-
-
-
-
-
-
-
 
 ### CSM Guidelines - Engaging with PS on a customer project
 

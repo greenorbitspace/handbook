@@ -1,7 +1,14 @@
 ---
 title: Division of Responsibilities
-description: A breakdown of the division of responsibilities for Customer Support Operations
-canonical_path: "/handbook/security/customer-support-operations/division_of_responsibilities/"
+description: A breakdown of the division of responsibilities for Customer Support
+  Operations
+canonical_path: /handbook/security/customer-support-operations/division_of_responsibilities/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/division-of-responsibilities_1748133858603393792_1/
+linkTitle: Division of Responsibilities
+type: docs
 ---
 
 To help ensure the team doesn't get overwhelmed and has the ability to focus on specialization and learning, we divide out the responsibilities among our team.

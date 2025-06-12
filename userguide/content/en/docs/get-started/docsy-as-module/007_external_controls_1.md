@@ -1,6 +1,13 @@
 ---
-title: "Compliance Frameworks ADR 007: External Custom Requirements"
+title: 'Compliance Frameworks ADR 007: External Custom Requirements'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/007_external_controls_1/
+description: ''
+linkTitle: 'Compliance Frameworks ADR 007: External Custom Requirements'
+type: docs
 ---
 
 ## Context

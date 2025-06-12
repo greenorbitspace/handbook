@@ -2,6 +2,12 @@
 title: GitLab Performance Tool (GPT) Quick Start
 description: This guide provides steps to use the GitLab Performance Tool
 category: Self-managed
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gpt_quick_start_1_1/
+linkTitle: GitLab Performance Tool (GPT) Quick Start
+type: docs
 ---
 
 ## What is GitLab Performance Tool (GPT)

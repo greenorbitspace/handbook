@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Data Format 1 1
+aliases:
+- /docs/data-format_1_1/
+description: ''
+linkTitle: Data Format 1 1
+type: docs
+---
+
 <h1>Data format</h1>
 
 These guidelines are for anyone wishing to supply a dataset for an SDG indicator.

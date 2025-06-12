@@ -1,6 +1,13 @@
 ---
-title: "Policies related to Gifts and Contributions"
-description: "This set of policies relates to GitLab's stance and process for giving and accepting gifts and contributions"
+title: Policies related to Gifts and Contributions
+description: This set of policies relates to GitLab's stance and process for giving
+  and accepting gifts and contributions
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gifts-contributions_1_1/
+linkTitle: Policies related to Gifts and Contributions
+type: docs
 ---
 
 ## Gifts and Entertainment Policy

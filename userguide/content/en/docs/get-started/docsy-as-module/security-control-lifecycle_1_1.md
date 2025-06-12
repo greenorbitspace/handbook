@@ -1,6 +1,13 @@
 ---
-title: "GCF Security Control Lifecycle"
+title: GCF Security Control Lifecycle
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-control-lifecycle_1_1/
+description: ''
+linkTitle: GCF Security Control Lifecycle
+type: docs
 ---
 
 ## Process Overview

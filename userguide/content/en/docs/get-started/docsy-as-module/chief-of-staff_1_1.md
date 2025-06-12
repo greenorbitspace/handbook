@@ -1,5 +1,12 @@
 ---
-title: "Chief of Staff to the CEO"
+title: Chief of Staff to the CEO
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/chief-of-staff_1_1/
+description: ''
+linkTitle: Chief of Staff to the CEO
+type: docs
 ---
 
 The Chief of Staff to the CEO is a very talented individual who serves as a trusted advisor and confidant to the Chief Executive Officer (CEO). The Chief of Staff to the CEO and the CEO work closely together to get twice as much done as the CEO would be able to do alone. The Chief of Staff to the CEO leads the Office of the CEO at GitLab.

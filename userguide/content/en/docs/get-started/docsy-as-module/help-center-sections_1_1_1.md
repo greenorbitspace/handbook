@@ -1,7 +1,13 @@
 ---
 title: Help Center sections
 description: Operations documentation page for Zendesk Help Center sections
-canonical_path: "/handbook/security/customer-support-operations/docs/zendesk/help-center-sections"
+canonical_path: /handbook/security/customer-support-operations/docs/zendesk/help-center-sections
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/help-center-sections_1_1_1/
+linkTitle: Help Center sections
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

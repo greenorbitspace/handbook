@@ -1,12 +1,13 @@
 ---
-aliases: /handbook/resellers/Channel-Program-Guide/MDF
-title: "Marketing Development Funds"
-description: "Marketing Development Funds Overview"
+aliases:
+- /docs/mdf_1_1/
+title: Marketing Development Funds
+description: Marketing Development Funds Overview
+weight: 2
+date: '2025-06-12'
+linkTitle: Marketing Development Funds
+type: docs
 ---
-
-
-
-
 
 ## MDF Program Introduction
 

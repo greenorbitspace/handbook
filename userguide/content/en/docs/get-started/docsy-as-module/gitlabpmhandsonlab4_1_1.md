@@ -1,6 +1,12 @@
 ---
-title: "GitLab Agile Portfolio Management- Hands-On Lab: Create Issues"
-description: "This Hands-On Guide walks you through creating issues and labels in GitLab."
+title: 'GitLab Agile Portfolio Management- Hands-On Lab: Create Issues'
+description: This Hands-On Guide walks you through creating issues and labels in GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabpmhandsonlab4_1_1/
+linkTitle: 'GitLab Agile Portfolio Management- Hands-On Lab: Create Issues'
+type: docs
 ---
 
 > Estimated time to complete: 45 minutes

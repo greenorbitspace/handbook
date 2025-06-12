@@ -1,11 +1,13 @@
 ---
-aliases: /handbook/engineering/development/training/em-role/work_of_a_manager.html
-
+aliases:
+- /docs/work_of_a_manager_1_1/
 title: Work Of A Manager
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Work Of A Manager
+type: docs
 ---
-
-
-
 
 * TOC
 

@@ -1,7 +1,12 @@
 ---
-
-title: "Platform Adoption Scoring"
-description: "How Platform Adoption Scoring works and ways to use it "
+title: Platform Adoption Scoring
+description: 'How Platform Adoption Scoring works and ways to use it '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/platform-value-score_1_1/
+linkTitle: Platform Adoption Scoring
+type: docs
 ---
 
 ## Platform Adoption Score

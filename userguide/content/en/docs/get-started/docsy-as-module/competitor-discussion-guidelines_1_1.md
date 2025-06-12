@@ -1,6 +1,15 @@
 ---
 title: Guidelines on public discussion of, and reference to, competitor product features
-description: "Guidelines applicable to discussion of, and reference to, competitor product features and sharing of screenshots of competitor products in public issues, GitLab documentation (https://docs.gitlab.com/), and other public-facing media."
+description: Guidelines applicable to discussion of, and reference to, competitor
+  product features and sharing of screenshots of competitor products in public issues,
+  GitLab documentation (https://docs.gitlab.com/), and other public-facing media.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/competitor-discussion-guidelines_1_1/
+linkTitle: Guidelines on public discussion of, and reference to, competitor product
+  features
+type: docs
 ---
 
 ## Scope

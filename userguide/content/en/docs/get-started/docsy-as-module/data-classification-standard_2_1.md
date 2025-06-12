@@ -1,6 +1,13 @@
 ---
-title: "GitLab Data Classification Standard"
+title: GitLab Data Classification Standard
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/data-classification-standard_2_1/
+description: ''
+linkTitle: GitLab Data Classification Standard
+type: docs
 ---
 
 ## Purpose

@@ -1,7 +1,15 @@
 ---
-title: "Sales Analytics Analyst"
-RoleName: "Sales Analytics Analyst"
-description: "The Sales Analytics Analyst gathers important data and compiles it into reports and presentations our sales organization can use to make critical business decisions."
+title: Sales Analytics Analyst
+RoleName: Sales Analytics Analyst
+description: The Sales Analytics Analyst gathers important data and compiles it into
+  reports and presentations our sales organization can use to make critical business
+  decisions.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sales-analytics-analyst-jf_1_1/
+linkTitle: Sales Analytics Analyst
+type: docs
 ---
 
 The Sales Analytics Analyst gathers important data and compiles it into reports and presentations our sales organization can use to make critical business decisions. They take charge of an analytical project and deliver results that will make our organization more effective and efficient. The Sales Analytics Analyst has the ability to work on multiple projects simultaneously and translate business data into actionable and digestible information that improves internal decision making.

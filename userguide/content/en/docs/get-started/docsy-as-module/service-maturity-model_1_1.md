@@ -1,5 +1,12 @@
 ---
 title: Service Maturity Model
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/service-maturity-model_1_1/
+description: ''
+linkTitle: Service Maturity Model
+type: docs
 ---
 
 ## Introduction

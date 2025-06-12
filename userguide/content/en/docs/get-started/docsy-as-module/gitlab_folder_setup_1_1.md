@@ -1,7 +1,13 @@
 ---
 title: .gitlab folder setup
 description: Support Operations policies page for setting up the .gitlab folder
-canonical_path: "/handbook/support/readiness/operations/docs/policies/project_setup/gitlab_folder_setup"
+canonical_path: /handbook/support/readiness/operations/docs/policies/project_setup/gitlab_folder_setup
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab_folder_setup_1_1/
+linkTitle: .gitlab folder setup
+type: docs
 ---
 
 The exact setup will depend on who is managing the project.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Create Release 1 1
+aliases:
+- /docs/create-release_1_1/
+description: ''
+linkTitle: Create Release 1 1
+type: docs
+---
+
 ## Create a new release
 
 This projects leverages GitHub Actions to automate the release process.

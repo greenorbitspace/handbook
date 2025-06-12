@@ -1,5 +1,12 @@
 ---
-title: "Workspaces ADR 016: Allow users to run sudo commands inside a workspace"
+title: 'Workspaces ADR 016: Allow users to run sudo commands inside a workspace'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/016_allow_users_to_run_sudo_commands_1748146057926835466_1/
+description: ''
+linkTitle: 'Workspaces ADR 016: Allow users to run sudo commands inside a workspace'
+type: docs
 ---
 
 ## Context

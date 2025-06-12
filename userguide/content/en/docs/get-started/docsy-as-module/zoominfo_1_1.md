@@ -1,14 +1,14 @@
 ---
-
-title: "Zoominfo"
-description: "ZoomInfo is sales intelligence software that provides a database of business and professional contact information."
+title: Zoominfo
+description: ZoomInfo is sales intelligence software that provides a database of business
+  and professional contact information.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/zoominfo_1_1/
+linkTitle: Zoominfo
+type: docs
 ---
-
-
-
-
-
-
 
 ### About ZoomInfo
 

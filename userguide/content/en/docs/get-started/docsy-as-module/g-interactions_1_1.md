@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: G Interactions 1 1
+aliases:
+- /docs/g-interactions_1_1/
+description: ''
+linkTitle: G Interactions 1 1
+type: docs
+---
+
 # Interactions
 
 <!-- TOC -->

@@ -1,13 +1,13 @@
 ---
-
-title: "Recommended Books for Engineering Managers"
+title: Recommended Books for Engineering Managers
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/books_1_1/
+description: ''
+linkTitle: Recommended Books for Engineering Managers
+type: docs
 ---
-
-
-
-
-
-
 
 ## What books do we recommend for Engineering Managers?
 

@@ -1,14 +1,13 @@
 ---
-
-title: "Sales Headcount"
+title: Sales Headcount
 description: “Guide for requesting position adjustments for Sales team members”
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sales-headcount_1_1/
+linkTitle: Sales Headcount
+type: docs
 ---
-
-
-
-
-
-
 
 ### Sales Headcount Change Management
 

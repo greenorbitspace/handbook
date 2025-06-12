@@ -1,6 +1,12 @@
 ---
-title: "Activate your Agile Career"
-description: "An overview of our remote TMRG GitLab Women"
+title: Activate your Agile Career
+description: An overview of our remote TMRG GitLab Women
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/agile-career_1_1/
+linkTitle: Activate your Agile Career
+type: docs
 ---
 
 ![text image announcing activate your agile career program.](program-header.png)

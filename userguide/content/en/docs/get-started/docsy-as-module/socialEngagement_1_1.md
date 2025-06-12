@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Socialengagement 1 1
+aliases:
+- /docs/socialEngagement_1_1/
+description: ''
+linkTitle: Socialengagement 1 1
+type: docs
+---
+
 Social signals and engagement indirectly affect SEO by influencing how users perceive and interact with your content. While search engines like Google have stated that social signals (e.g., likes, shares, comments) are not direct ranking factors, they play a role in amplifying the reach and authority of your content. Here's how:
 
 ---

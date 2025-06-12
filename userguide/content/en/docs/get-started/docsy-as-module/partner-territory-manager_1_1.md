@@ -1,5 +1,12 @@
 ---
-title: "Partner Territory Manager"
+title: Partner Territory Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/partner-territory-manager_1_1/
+description: ''
+linkTitle: Partner Territory Manager
+type: docs
 ---
 
 To meet evolving customer needs and to continue GitLab’s growth, partners are an essential component of our future success. Specifically, we need to leverage partners capabilities to implement, support and grow  usage and adoption of the GitLab platform. Partner Territory Managers (PTMs) have a dual function. First, PTMs support GitLab field sales in a specific territory in which they are responsible for ensuring that the right partners contribute to customer success with GitLab on a pre and post sales basis. Second, PTMs manage one or more partner relationships that play a role in the success of their territory. PTMs support their assigned territory by establishing an overall partner strategy, developing  partner pipeline, and facilitating partner sales and services.

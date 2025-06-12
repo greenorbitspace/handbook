@@ -1,8 +1,12 @@
 ---
-title: "Edit your team page entry"
-description: "Instructions on how to add yourself to the team page, and make edits."
+title: Edit your team page entry
+description: Instructions on how to add yourself to the team page, and make edits.
 aliases:
 - /handbook/edit-team-page/
+weight: 2
+date: '2025-06-12'
+linkTitle: Edit your team page entry
+type: docs
 ---
 
 This page specifically covers how to add yourself to the team page, add your pets to the pets page, and edit the relevant entries.

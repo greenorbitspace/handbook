@@ -1,10 +1,16 @@
 ---
-name: 'Feature request'
+name: Feature request
 about: What feature is missing?
 title: '[FEAT]'
 labels: enhancement
 assignees: ''
-
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/feature-request_1/
+description: ''
+linkTitle: '[FEAT]'
+type: docs
 ---
 
 **What is the problem? Please describe.**

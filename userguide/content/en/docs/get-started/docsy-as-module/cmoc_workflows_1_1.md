@@ -1,8 +1,14 @@
 ---
-
 title: How to Perform CMOC Duties
 category: On-call
-description: "Describes the role and responsibilities for the Incident CMOC rotation in Support Engineering"
+description: Describes the role and responsibilities for the Incident CMOC rotation
+  in Support Engineering
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cmoc_workflows_1_1/
+linkTitle: How to Perform CMOC Duties
+type: docs
 ---
 
 ## Introduction

@@ -1,13 +1,13 @@
 ---
-title: "Dave Steer README (VP Product Marketing)"
-description: "Learn more about working with Dave Steer"
+title: Dave Steer README (VP Product Marketing)
+description: Learn more about working with Dave Steer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dave-steer_1_1/
+linkTitle: Dave Steer README (VP Product Marketing)
+type: docs
 ---
-
-
-
-
-
-
 
 ## Dave README
 

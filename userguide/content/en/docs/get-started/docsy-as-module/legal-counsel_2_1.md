@@ -1,6 +1,13 @@
 ---
 title: Legal Counsel
-description: The Legal Counsel job family is responsible for advising clients across GitLab on legal matters related to their functional area of expertise.
+description: The Legal Counsel job family is responsible for advising clients across
+  GitLab on legal matters related to their functional area of expertise.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/legal-counsel_2_1/
+linkTitle: Legal Counsel
+type: docs
 ---
 
 ## Associate Legal Counsel

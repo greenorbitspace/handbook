@@ -1,3 +1,13 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Archive Font Patcher Readme 1 1
+aliases:
+- /docs/archive-font-patcher-readme_1_1/
+description: ''
+linkTitle: Archive Font Patcher Readme 1 1
+type: docs
+---
 
 # Nerd Fonts
 

@@ -1,7 +1,13 @@
 ---
 title: Sandbox
 description: Support Operations documentation page for Zendesk sandbox
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/sandbox"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/sandbox
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sandbox_1_1/
+linkTitle: Sandbox
+type: docs
 ---
 
 ## What is the Zendesk Sandbox

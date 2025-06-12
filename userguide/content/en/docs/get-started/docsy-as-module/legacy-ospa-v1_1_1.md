@@ -1,5 +1,12 @@
 ---
-title: "Legacy v1: GitLab Open Source Program Agreement"
+title: 'Legacy v1: GitLab Open Source Program Agreement'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/legacy-ospa-v1_1_1/
+description: ''
+linkTitle: 'Legacy v1: GitLab Open Source Program Agreement'
+type: docs
 ---
 
 ## **Open Source Program Agreement**

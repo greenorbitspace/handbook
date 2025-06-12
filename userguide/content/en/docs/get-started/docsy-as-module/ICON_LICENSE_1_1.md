@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Icon License 1 1
+aliases:
+- /docs/ICON_LICENSE_1_1/
+description: ''
+linkTitle: Icon License 1 1
+type: docs
+---
+
 Silk icon set 1.3 by Mark James <mjames@gmail.com>
 
 http://www.famfamfam.com/lab/icons/silk/

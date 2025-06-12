@@ -1,5 +1,12 @@
 ---
 title: Investigating Package Hunter Findings
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/investigating-package-hunter-findings_1748133857750694648_1_1/
+description: ''
+linkTitle: Investigating Package Hunter Findings
+type: docs
 ---
 
 ## List of Package Hunter Findings

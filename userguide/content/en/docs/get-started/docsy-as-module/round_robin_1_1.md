@@ -1,7 +1,13 @@
 ---
 title: Round Robin
 description: Support Operations documentation page for our ticket round robin
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/round_robin"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/round_robin
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/round_robin_1_1/
+linkTitle: Round Robin
+type: docs
 ---
 
 ## How is it triggered

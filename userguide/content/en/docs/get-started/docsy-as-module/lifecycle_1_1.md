@@ -1,5 +1,12 @@
 ---
-title: "Vulnerability Lifecycle"
+title: Vulnerability Lifecycle
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/lifecycle_1_1/
+description: ''
+linkTitle: Vulnerability Lifecycle
+type: docs
 ---
 
 ## Tracking Issue Lifecycle

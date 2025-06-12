@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Environmental Policy 1 1
+aliases:
+- /docs/environmental-policy_1_1/
+description: ''
+linkTitle: Environmental Policy 1 1
+type: docs
+---
+
 # 1. Purpose and Scope
 
 This Environmental Policy outlines Green Orbit Digital's commitment to environmental stewardship and sustainable practices across all operations. The policy applies to all activities, services, and facilities under our control, including digital operations, office management, and supply chain interactions.

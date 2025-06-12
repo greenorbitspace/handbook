@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Talent Assessment 1 1
+aliases:
+- /docs/Talent Assessment_1_1/
+description: ''
+linkTitle: Talent Assessment 1 1
+type: docs
+---
+
 # Talent Assessment
 
 [Unsupported block type: image]

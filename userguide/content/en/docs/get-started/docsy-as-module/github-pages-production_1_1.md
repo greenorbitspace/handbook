@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Github Pages Production 1 1
+aliases:
+- /docs/github-pages-production_1_1/
+description: ''
+linkTitle: Github Pages Production 1 1
+type: docs
+---
+
 <h1>GitHub Pages for a production environment</h1>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6qXgJfq-qtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></br>

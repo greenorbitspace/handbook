@@ -1,6 +1,13 @@
 ---
-title: "Customer Contact Role Tagging for Personalized Communications"
-description: "Learn the strategic approach to tagging customer contacts for more effective digital engagement."
+title: Customer Contact Role Tagging for Personalized Communications
+description: Learn the strategic approach to tagging customer contacts for more effective
+  digital engagement.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/contact-role-tagging-for-personalized-communications_1/
+linkTitle: Customer Contact Role Tagging for Personalized Communications
+type: docs
 ---
 
 ## Why This Matters

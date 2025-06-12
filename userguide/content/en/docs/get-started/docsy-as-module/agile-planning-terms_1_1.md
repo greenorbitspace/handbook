@@ -1,6 +1,12 @@
 ---
-
-title: "Agile Planning Terms"
+title: Agile Planning Terms
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/agile-planning-terms_1_1/
+description: ''
+linkTitle: Agile Planning Terms
+type: docs
 ---
 
 (Additional Terms)

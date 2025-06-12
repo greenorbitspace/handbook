@@ -1,12 +1,20 @@
 ---
-title: "Defining bounded contexts"
+title: Defining bounded contexts
 status: proposed
-creation-date: "2023-06-21"
-authors: [ "@fabiopitino" ]
-coach: [ ]
-approvers: [ ]
-owning-stage: ""
+creation-date: '2023-06-21'
+authors:
+- '@fabiopitino'
+coach: []
+approvers: []
+owning-stage: ''
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bounded_contexts_1/
+description: ''
+linkTitle: Defining bounded contexts
+type: docs
 ---
 
 ## Historical context

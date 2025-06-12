@@ -1,6 +1,13 @@
 ---
-title: "GitLab Top Team Member"
-description: "A Top Team Member (T2M) exemplifies the GitLab Values beyond of the team of people they directly work with."
+title: GitLab Top Team Member
+description: A Top Team Member (T2M) exemplifies the GitLab Values beyond of the team
+  of people they directly work with.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/top-team-member_1_1/
+linkTitle: GitLab Top Team Member
+type: docs
 ---
 
 Note: Top team member awards as of 2018 are no longer in practice.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Building 1 1
+aliases:
+- /docs/building_1_1/
+description: ''
+linkTitle: Building 1 1
+type: docs
+---
+
 # Building
 
 You can build Next.js, including all type definitions and packages, with:

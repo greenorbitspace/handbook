@@ -1,5 +1,12 @@
 ---
-title: "Technology Partner Manager"
+title: Technology Partner Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/alliances-manager_1_1/
+description: ''
+linkTitle: Technology Partner Manager
+type: docs
 ---
 
 ## Levels

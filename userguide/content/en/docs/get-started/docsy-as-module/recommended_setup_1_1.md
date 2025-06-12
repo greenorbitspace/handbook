@@ -1,7 +1,13 @@
 ---
 title: Recommended Setup
 description: Training documentation concerning the recommended setup for Support Ops
-canonical_path: "/handbook/support/readiness/operations/recommended_setup/"
+canonical_path: /handbook/support/readiness/operations/recommended_setup/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/recommended_setup_1_1/
+linkTitle: Recommended Setup
+type: docs
 ---
 
 **Note**: These are all recommendations. Some of this might be required for

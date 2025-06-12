@@ -1,10 +1,14 @@
 ---
 title: Search
-date: 2017-01-05
-weight: 3.5
-description: >
+date: '2025-06-12T01:05:53+01:00'
+weight: 2
+description: |
   Let users search your Docsy site with a choice of configurable search options.
 cSpell:ignore: GCSE
+type: docs
+linkTitle: Search
+aliases:
+- /docs/search/
 ---
 
 Docsy offers multiple options that let your readers search your site content, so

@@ -1,8 +1,14 @@
 ---
-title: "GitLab CI/CD - Hands-On Lab: Defining CI/CD Variables"
-description: "This Hands-On Guide walks you through using inline, project, and group variables."
+title: 'GitLab CI/CD - Hands-On Lab: Defining CI/CD Variables'
+description: This Hands-On Guide walks you through using inline, project, and group
+  variables.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabcicdhandsonlab5_1_1/
+linkTitle: 'GitLab CI/CD - Hands-On Lab: Defining CI/CD Variables'
+type: docs
 ---
-
 
 > Estimate time to complete: 15 - 20 minutes
 

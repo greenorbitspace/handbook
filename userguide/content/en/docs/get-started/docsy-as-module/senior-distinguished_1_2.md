@@ -1,5 +1,12 @@
 ---
-title: "Senior Distinguished Engineer"
+title: Senior Distinguished Engineer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior-distinguished_1_2/
+description: ''
+linkTitle: Senior Distinguished Engineer
+type: docs
 ---
 
 ## Senior Distinguished Engineer Roles at GitLab

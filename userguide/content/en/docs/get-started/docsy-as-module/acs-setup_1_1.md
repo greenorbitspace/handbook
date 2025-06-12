@@ -1,6 +1,12 @@
 ---
-
-title: "Set up GitLab CE or EE on Azure Container Service"
+title: Set up GitLab CE or EE on Azure Container Service
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/acs-setup_1_1/
+description: ''
+linkTitle: Set up GitLab CE or EE on Azure Container Service
+type: docs
 ---
 
 ## Video

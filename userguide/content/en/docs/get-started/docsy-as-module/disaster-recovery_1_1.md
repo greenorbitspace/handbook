@@ -1,7 +1,14 @@
 ---
-title: "Disaster Recovery Working Group"
-description: "The Disaster Recovery Working Group improves the disaster recovery mechanism for GitLab SaaS and Self-Hosted Products."
+title: Disaster Recovery Working Group
+description: The Disaster Recovery Working Group improves the disaster recovery mechanism
+  for GitLab SaaS and Self-Hosted Products.
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/disaster-recovery_1_1/
+linkTitle: Disaster Recovery Working Group
+type: docs
 ---
 
 ## Attributes

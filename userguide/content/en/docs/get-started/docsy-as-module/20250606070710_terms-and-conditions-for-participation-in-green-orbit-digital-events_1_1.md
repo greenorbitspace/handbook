@@ -5,6 +5,13 @@ doc_id: terms-002
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070710_terms-and-conditions-for-participation-in-green-orbit-digital-events_1_1/
+description: ''
+linkTitle: Terms And Conditions For Participation In Green Orbit Digital Events
+type: docs
 ---
 
 <!-- Unsupported block type: divider -->

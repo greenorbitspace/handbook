@@ -1,7 +1,13 @@
 ---
-title: "Sarah Pang's README"
-description: "README page for Sarah Pang"
-job: "Staff IT Compliance Engineer"
+title: Sarah Pang's README
+description: README page for Sarah Pang
+job: Staff IT Compliance Engineer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sarah.pang_1748147631529824956_1/
+linkTitle: Sarah Pang's README
+type: docs
 ---
 
 ### About me

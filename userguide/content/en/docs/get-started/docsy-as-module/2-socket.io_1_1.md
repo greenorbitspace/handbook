@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 2 Socket.Io 1 1
+aliases:
+- /docs/2-socket.io_1_1/
+description: ''
+linkTitle: 2 Socket.Io 1 1
+type: docs
+---
+
 # socket.io
 - web socket is used for chat feature implementation
 - socket.io simplify the use of websocket

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Environment Risk Policy 1 1
+aliases:
+- /docs/environment-risk-policy_1_1/
+description: ''
+linkTitle: Environment Risk Policy 1 1
+type: docs
+---
+
 # Environmental Risk Policy
 
 Green Orbit Digital is committed to identifying, assessing, and managing environmental risks across all aspects of our operations to protect the environment and ensure sustainable business practices.

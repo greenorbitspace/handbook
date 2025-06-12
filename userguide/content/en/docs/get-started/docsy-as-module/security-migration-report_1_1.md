@@ -1,6 +1,13 @@
 ---
 title: Security
 Description: Migration report for moving the handbooks security section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-migration-report_1_1/
+description: ''
+linkTitle: Security
+type: docs
 ---
 
 **Section:** security

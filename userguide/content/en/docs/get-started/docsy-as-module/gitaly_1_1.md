@@ -1,5 +1,12 @@
 ---
-title: "Core Platform:Gitaly Team"
+title: Core Platform:Gitaly Team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitaly_1_1/
+description: ''
+linkTitle: Core Platform:Gitaly Team
+type: docs
 ---
 
 ## What is Gitaly?

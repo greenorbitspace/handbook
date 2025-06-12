@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Just Content 1
+aliases:
+- /docs/just-content_1/
+description: ''
+linkTitle: Just Content 1
+type: docs
+---
+
 ### Endi
 
 ```md

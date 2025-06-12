@@ -1,6 +1,14 @@
 ---
 title: Analytics and Insights
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/analytics-and-insights_1_1/
+description: ''
+linkTitle: Analytics and Insights
+type: docs
 ---
+
 The Analytics and Insights job family is responsible for providing data driven insights to the business to improve decision making. These are either a centralized analytics team working on cross-functional initiatives such as top 12 initiatives or Go-to-market or embedded analytics teams that live in the functional areas providing support and insights.
 
 ## Responsibilities

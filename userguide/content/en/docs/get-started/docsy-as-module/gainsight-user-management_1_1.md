@@ -1,7 +1,14 @@
 ---
-
-title: "Gainsight User Administration"
+title: Gainsight User Administration
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gainsight-user-management_1_1/
+description: ''
+linkTitle: Gainsight User Administration
+type: docs
 ---
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 The specific aspects of user management in Gainsight are detailed here.

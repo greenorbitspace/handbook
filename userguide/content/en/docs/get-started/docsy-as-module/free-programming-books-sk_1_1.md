@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Books Sk 1 1
+aliases:
+- /docs/free-programming-books-sk_1_1/
+description: ''
+linkTitle: Free Programming Books Sk 1 1
+type: docs
+---
+
 ### Index
 
 * [Language Agnostic](#language-agnostic)

@@ -1,6 +1,12 @@
 ---
 title: Event Requirements
-description: "Guidelines for lead data collected from third party events."
+description: Guidelines for lead data collected from third party events.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/event-requirements_1/
+linkTitle: Event Requirements
+type: docs
 ---
 
 ## GitLab's data requirements for third party events and programs

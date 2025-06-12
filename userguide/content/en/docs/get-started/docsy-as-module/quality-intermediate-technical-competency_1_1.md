@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Quality Intermediate Technical Competency 1 1
+aliases:
+- /docs/quality-intermediate-technical-competency_1_1/
+description: ''
+linkTitle: Quality Intermediate Technical Competency 1 1
+type: docs
+---
+
 ##### Quality
 
 - Quad Planning & Test Coverage

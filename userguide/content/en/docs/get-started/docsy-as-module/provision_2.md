@@ -1,6 +1,12 @@
 ---
 title: Fulfillment Provision Team
-description: "The Provision Team of the Fulfillment Sub-department at GitLab"
+description: The Provision Team of the Fulfillment Sub-department at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/provision_2/
+linkTitle: Fulfillment Provision Team
+type: docs
 ---
 
 ## Vision

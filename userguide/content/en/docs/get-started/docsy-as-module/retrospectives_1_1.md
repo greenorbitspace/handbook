@@ -1,8 +1,12 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/systems/geo/retrospectives.html
-
-title: "Geo and Disaster Recovery - Retrospectives"
-description: "How the Geo Team Runs Retrospectives"
+aliases:
+- /docs/retrospectives_1_1/
+title: Geo and Disaster Recovery - Retrospectives
+description: How the Geo Team Runs Retrospectives
+weight: 2
+date: '2025-06-12'
+linkTitle: Geo and Disaster Recovery - Retrospectives
+type: docs
 ---
 
 Retrospectives are a [crucial component](https://www.retrium.com/blog/i-was-wrong-retrospectives-are-not-the-most-critical-part-of-agile-but-they-are-close) of the agile methodology. However, having a retro should not be about checking-off a mark in our agile todo list. The purpose of the retro is to learn and then take action that leads to a better place. We learn from our past actions and results and we use that knowledge to improve our future execution.

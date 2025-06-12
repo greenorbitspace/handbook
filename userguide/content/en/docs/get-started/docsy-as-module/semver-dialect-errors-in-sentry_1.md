@@ -1,6 +1,13 @@
 ---
 layout: handbook-page-toc
-title: "Enable Semver Dialect Errors in Sentry"
+title: Enable Semver Dialect Errors in Sentry
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/semver-dialect-errors-in-sentry_1/
+description: ''
+linkTitle: Enable Semver Dialect Errors in Sentry
+type: docs
 ---
 
 ## Overview

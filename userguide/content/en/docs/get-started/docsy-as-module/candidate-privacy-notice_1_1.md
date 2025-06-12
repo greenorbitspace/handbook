@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Candidate Privacy Notice 1 1
+aliases:
+- /docs/candidate-privacy-notice_1_1/
+description: ''
+linkTitle: Candidate Privacy Notice 1 1
+type: docs
+---
+
 At Green Orbit Digital, we are committed to protecting the privacy and confidentiality of your personal data. This Candidate Privacy Notice explains how we collect, use, and protect your personal information during the recruitment process.
 
 ### Who We Are

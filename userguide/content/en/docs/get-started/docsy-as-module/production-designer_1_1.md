@@ -1,6 +1,14 @@
 ---
-title: "Production Designer"
-summary: Collaborate with our Brand Designers, and other areas of marketing, to produce on-brand assets across various print, web, and digital mediums.
+title: Production Designer
+summary: Collaborate with our Brand Designers, and other areas of marketing, to produce
+  on-brand assets across various print, web, and digital mediums.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/production-designer_1_1/
+description: ''
+linkTitle: Production Designer
+type: docs
 ---
 
 ## Production Designer

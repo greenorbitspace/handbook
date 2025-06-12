@@ -1,6 +1,13 @@
 ---
 title: Navigation inventory
 summary: A complete inventory of the GitLab product navigation
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/inventory_2_1_1/
+description: ''
+linkTitle: Navigation inventory
+type: docs
 ---
 
 <!--more-->

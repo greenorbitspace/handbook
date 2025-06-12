@@ -1,7 +1,13 @@
 ---
-title: "Upsell Premium to Ultimate message house"
-description: "Messaging related to the GTM-CICD motion"
-twitter_image: '/images/tweets/handbook-marketing.png'
+title: Upsell Premium to Ultimate message house
+description: Messaging related to the GTM-CICD motion
+twitter_image: /images/tweets/handbook-marketing.png
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/message-house-premium-to-ultimate_1748133863710695352_1_1/
+linkTitle: Upsell Premium to Ultimate message house
+type: docs
 ---
 
 ### Message house

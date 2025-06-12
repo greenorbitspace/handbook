@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Operations  Technology Strategy 1 1
+aliases:
+- /docs/operations--technology-strategy_1_1/
+description: ''
+linkTitle: Operations  Technology Strategy 1 1
+type: docs
+---
+
 Operational Strategy
 
 Introduction

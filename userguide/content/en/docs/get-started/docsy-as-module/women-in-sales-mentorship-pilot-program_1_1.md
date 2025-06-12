@@ -1,6 +1,13 @@
 ---
-title: "Sales Diversity Inclusion & Belonging Initiatives"
-description: "The GitLab Women in Sales Mentorship Program pilot aims to create and cultivate mentorship opportunities for women in the Sales division."
+title: Sales Diversity Inclusion & Belonging Initiatives
+description: The GitLab Women in Sales Mentorship Program pilot aims to create and
+  cultivate mentorship opportunities for women in the Sales division.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/women-in-sales-mentorship-pilot-program_1_1/
+linkTitle: Sales Diversity Inclusion & Belonging Initiatives
+type: docs
 ---
 
 ## Women in Sales Mentorship Program Pilot

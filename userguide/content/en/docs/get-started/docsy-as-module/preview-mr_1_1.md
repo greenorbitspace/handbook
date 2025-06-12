@@ -1,6 +1,12 @@
 ---
 title: Merge Request Reviews
-description: "Guidelines for Product Designers when reviewing merge requests."
+description: Guidelines for Product Designers when reviewing merge requests.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/preview-mr_1_1/
+linkTitle: Merge Request Reviews
+type: docs
 ---
 
 ## Overview

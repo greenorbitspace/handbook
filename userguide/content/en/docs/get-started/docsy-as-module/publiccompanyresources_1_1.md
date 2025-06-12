@@ -1,6 +1,12 @@
 ---
-title: "Corporate Legal"
-description: "This page offers a single source related to corporate legal information."
+title: Corporate Legal
+description: This page offers a single source related to corporate legal information.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/publiccompanyresources_1_1/
+linkTitle: Corporate Legal
+type: docs
 ---
 
 Please note that all links are GitLab-internal only.

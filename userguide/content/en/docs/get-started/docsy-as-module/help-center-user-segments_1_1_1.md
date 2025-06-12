@@ -1,7 +1,13 @@
 ---
 title: Help Center user segments
 description: Operations documentation page for Zendesk Help Center user segments
-canonical_path: "/handbook/security/customer-support-operations/docs/zendesk/help-center-user-segments"
+canonical_path: /handbook/security/customer-support-operations/docs/zendesk/help-center-user-segments
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/help-center-user-segments_1_1_1/
+linkTitle: Help Center user segments
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

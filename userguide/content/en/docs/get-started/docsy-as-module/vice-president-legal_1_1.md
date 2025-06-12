@@ -1,8 +1,15 @@
 ---
 title: Vice President of Legal
-description: A Vice President of Legal is responsible for designing, building, and leading a high functioning subject matter specific team within the larger Legal & Corporate Affairs team in alignment with GitLab values.
+description: A Vice President of Legal is responsible for designing, building, and
+  leading a high functioning subject matter specific team within the larger Legal
+  & Corporate Affairs team in alignment with GitLab values.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vice-president-legal_1_1/
+linkTitle: Vice President of Legal
+type: docs
 ---
-
 
 ## Vice President of Legal
 

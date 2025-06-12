@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Weights Fe 1 1
+aliases:
+- /docs/weights-fe_1_1/
+description: ''
+linkTitle: Weights Fe 1 1
+type: docs
+---
+
 These are the broad definition for each of the weights values. We don't use a Fibonacci-based progression but we do try to split up large issues as we understand they are by definition less accurate predictions.
 
 When issues are Frontend only, we use the Weight feature of Issues.

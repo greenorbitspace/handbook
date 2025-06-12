@@ -1,5 +1,12 @@
 ---
-title: "Reliability Expert"
+title: Reliability Expert
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/reliability_2_1/
+description: ''
+linkTitle: Reliability Expert
+type: docs
 ---
 
 A Reliability Expert is expert in the *reliability* of a

@@ -1,5 +1,12 @@
 ---
-title: "Stack Overflow: Tagged Questions and GitLab Collective Overview"
+title: 'Stack Overflow: Tagged Questions and GitLab Collective Overview'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/stackoverflow_1_1/
+description: ''
+linkTitle: 'Stack Overflow: Tagged Questions and GitLab Collective Overview'
+type: docs
 ---
 
 ## Overview

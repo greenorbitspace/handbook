@@ -1,6 +1,13 @@
 ---
 draft: true
-title: "Frontend Manage Team"
+title: Frontend Manage Team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/manage_1/
+description: ''
+linkTitle: Frontend Manage Team
+type: docs
 ---
 
 <!-- Pending create of stable_counterparts shortcode and confirmation pages are needed and how to fix -->

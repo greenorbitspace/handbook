@@ -1,6 +1,12 @@
 ---
-title: "Infrastructure and Quality department"
-description: ""
+title: Infrastructure and Quality department
+description: ''
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/infrastructure-quality_1_1/
+linkTitle: Infrastructure and Quality department
+type: docs
 ---
 
 ## Vision

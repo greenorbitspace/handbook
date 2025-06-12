@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 36 Globalpackages 1 1
+aliases:
+- /docs/36-globalPackages_1_1/
+description: ''
+linkTitle: 36 Globalpackages 1 1
+type: docs
+---
+
 ### global packages
 - installation of packages is local to our custom project, meaning we install it into the node_modules folder in the project
 - some of npm packages are meant to be used as standalone appliacations, it meant to run form terminal and not used directly from code

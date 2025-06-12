@@ -1,5 +1,12 @@
 ---
-title: "IT Operations System Administration"
+title: IT Operations System Administration
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/it-operations-system-engineer_1_2/
+description: ''
+linkTitle: IT Operations System Administration
+type: docs
 ---
 
 ## IT Operations System Administrator

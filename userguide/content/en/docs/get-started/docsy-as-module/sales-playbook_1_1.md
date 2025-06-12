@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Sales Playbook 1 1
+aliases:
+- /docs/sales-playbook_1_1/
+description: ''
+linkTitle: Sales Playbook 1 1
+type: docs
+---
+
 <!-- Unsupported block type: callout -->
 
 

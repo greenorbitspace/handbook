@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 20250606070645 Customer Success Plans 1 1
+aliases:
+- /docs/20250606070645_customer-success-plans_1_1/
+description: ''
+linkTitle: 20250606070645 Customer Success Plans 1 1
+type: docs
+---
+
 # Customer Success Plan
 
 ## 1. Customer Success Vision

@@ -1,13 +1,13 @@
 ---
-
-title: "Erin Persona snippets"
+title: Erin Persona snippets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/erin_1_1/
+description: ''
+linkTitle: Erin Persona snippets
+type: docs
 ---
-
-
-
-
-
-
 
 ## SDR persona snippets by use case
 

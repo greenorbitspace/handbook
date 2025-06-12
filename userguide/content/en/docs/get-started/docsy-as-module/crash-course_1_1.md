@@ -1,14 +1,13 @@
 ---
-
 title: Crash Course for Product Stage Resources
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/crash-course_1_1/
+description: ''
+linkTitle: Crash Course for Product Stage Resources
+type: docs
 ---
-
-
-
-
-
-
-
 
 ## Objectives for this page
 

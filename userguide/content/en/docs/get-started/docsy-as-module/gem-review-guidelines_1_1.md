@@ -1,5 +1,12 @@
 ---
-title: "Gem review guidelines for AppSec engineers"
+title: Gem review guidelines for AppSec engineers
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gem-review-guidelines_1_1/
+description: ''
+linkTitle: Gem review guidelines for AppSec engineers
+type: docs
 ---
 
 When a new gem is added to our `Gemfile` or when versions are changed in `Gemfile.lock`, we ask developers to [reach out to the AppSec team](https://docs.gitlab.com/ee/development/gemfile.html#request-an-appsec-review) to request a review. As an AppSec engineer performing the review, please follow the steps mentioned below to perform reviews like these:

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Pool 1 1
+aliases:
+- /docs/Pool_1_1/
+description: ''
+linkTitle: Pool 1 1
+type: docs
+---
+
 # Class: Pool
 
 Extends: `undici.Dispatcher`

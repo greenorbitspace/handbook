@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Brand Creative Handbook 1 1
+aliases:
+- /docs/brand-creative-handbook_1_1/
+description: ''
+linkTitle: Brand Creative Handbook 1 1
+type: docs
+---
+
 <!-- Unsupported block type: image -->
 
 GitLab Brand Creative Handbook:

@@ -1,8 +1,15 @@
 ---
 stage: core platform
 group: Tenant Scale
-title: "Cell: 1.5"
+title: 'Cell: 1.5'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cells-1.5_1/
+description: ''
+linkTitle: 'Cell: 1.5'
+type: docs
 ---
 
 This document describes a technical proposal for a Cells 1.5 that builds on top of [Cells 1.0](cells-1.0.md).

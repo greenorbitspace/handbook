@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Development Senior Technical Competency 1
+aliases:
+- /docs/development-senior-technical-competency_1/
+description: ''
+linkTitle: Development Senior Technical Competency 1
+type: docs
+---
+
 ##### Development
 
 * Improves the state of our test framework and any other dependencies.

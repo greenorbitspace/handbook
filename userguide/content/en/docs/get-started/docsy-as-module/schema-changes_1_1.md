@@ -3,6 +3,13 @@ stage: enablement
 group: Tenant Scale
 title: 'Cells: Schema changes'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/schema-changes_1_1/
+description: ''
+linkTitle: 'Cells: Schema changes'
+type: docs
 ---
 
 {{% alert %}}

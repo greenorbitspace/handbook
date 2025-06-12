@@ -1,6 +1,13 @@
 ---
 title: The Product Manager Role at GitLab
-description: "On this page, you'll find an overview as well as links to helpful resources for working as a product manager at GitLab."
+description: On this page, you'll find an overview as well as links to helpful resources
+  for working as a product manager at GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-manager-role_1_1_1/
+linkTitle: The Product Manager Role at GitLab
+type: docs
 ---
 
 On this page, you'll find an overview as well as links to helpful resources for working as a product manager at GitLab. To better understand how we evaluate a product manager's work at GitLab, please visit [Product Management CDF and Competencies](/handbook/product/product-management/product-cdf-competencies/)

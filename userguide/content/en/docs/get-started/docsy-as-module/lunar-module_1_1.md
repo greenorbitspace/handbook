@@ -1,9 +1,17 @@
 ---
 title: Lunar Module
-description: 'Learn about the Lunar Module.'
+description: Learn about the Lunar Module.
 publishedDate: '2024-09-19'
-tags: [space, 60s]
-heroImage: "/images/lunar-module.jpg"
+tags:
+- space
+- 60s
+heroImage: /images/lunar-module.jpg
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/lunar-module_1_1/
+linkTitle: Lunar Module
+type: docs
 ---
 
 **Source:** [Wikipedia](https://en.wikipedia.org/wiki/Apollo_Lunar_Module)

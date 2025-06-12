@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Vartopia 1 1
+aliases:
+- /docs/vartopia_1_1/
+description: ''
+linkTitle: Vartopia 1 1
+type: docs
+---
+
 ## Vartopia Overview
 
 Vartopia is a partner lead sharing and deal registration system designed to maximize the value of [GitLab partner program](/handbook/resellers/) for channel partners. Vartopia offers multiple module including Prospects, Deal Registration, Account Mapping and Campaign. Partner lead sharing is part of the Prospects module, while deal registration is part of the New Registration and Registrations module. Watch [this video](https://vimeo.com/819610456) for step-by-step instructions on where partners can view, accept, reject, assign and convert leads to deal registration.

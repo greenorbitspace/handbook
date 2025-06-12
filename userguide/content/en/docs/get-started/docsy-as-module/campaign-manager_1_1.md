@@ -1,13 +1,13 @@
 ---
-
-title: "Campaign Manager"
+title: Campaign Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/campaign-manager_1_1/
+description: ''
+linkTitle: Campaign Manager
+type: docs
 ---
-
-
-
-
-
-
 
 ## <i class="" id="overview"></i> Managing Campaigns
 

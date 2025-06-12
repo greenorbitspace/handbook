@@ -1,6 +1,13 @@
 ---
-title: "Tiering Working Group"
-description: "Leverage team members from other groups to start working on tiering projects so that we can accelerate the delivery of the work."
+title: Tiering Working Group
+description: Leverage team members from other groups to start working on tiering projects
+  so that we can accelerate the delivery of the work.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tiering_1_1/
+linkTitle: Tiering Working Group
+type: docs
 ---
 
 ## Attributes

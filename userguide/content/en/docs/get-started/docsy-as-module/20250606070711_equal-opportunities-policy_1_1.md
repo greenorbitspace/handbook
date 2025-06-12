@@ -5,6 +5,13 @@ doc_id: doc-615
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070711_equal-opportunities-policy_1_1/
+description: ''
+linkTitle: Equal Opportunities Policy
+type: docs
 ---
 
 At Green Orbit Digital, we are committed to fostering an inclusive and diverse workplace where all employees are treated with respect and dignity. We believe that diversity strengthens our organization and drives innovation, creativity, and success. As such, we prohibit discrimination and harassment based on any protected characteristic under federal, state, or local laws.

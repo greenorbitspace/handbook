@@ -1,5 +1,12 @@
 ---
-title: "UX Research Management"
+title: UX Research Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ux-research-manager_1_2/
+description: ''
+linkTitle: UX Research Management
+type: docs
 ---
 
 ## UX Research Management Roles at GitLab

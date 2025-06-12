@@ -1,5 +1,12 @@
 ---
-title: "Procurement Operations"
+title: Procurement Operations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/procurement-operations_1_1/
+description: ''
+linkTitle: Procurement Operations
+type: docs
 ---
 
 The Procurement Operations job family supports procurement and spend management activities.

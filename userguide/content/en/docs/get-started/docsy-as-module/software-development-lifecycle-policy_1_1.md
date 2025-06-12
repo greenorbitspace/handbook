@@ -1,6 +1,13 @@
 ---
-title: "Software Development Lifecycle Policy"
+title: Software Development Lifecycle Policy
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/software-development-lifecycle-policy_1_1/
+description: ''
+linkTitle: Software Development Lifecycle Policy
+type: docs
 ---
 
 ## Purpose

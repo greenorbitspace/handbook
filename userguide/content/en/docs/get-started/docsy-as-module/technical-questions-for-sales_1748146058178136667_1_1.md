@@ -1,6 +1,14 @@
 ---
-title: "Technical Questions for Sales"
-description: "To improve sales efficiency, the GitLab Solution Architect team identified and answered some of the most common technical questions that GitLab sales team members should be able to answer"
+title: Technical Questions for Sales
+description: To improve sales efficiency, the GitLab Solution Architect team identified
+  and answered some of the most common technical questions that GitLab sales team
+  members should be able to answer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/technical-questions-for-sales_1748146058178136667_1_1/
+linkTitle: Technical Questions for Sales
+type: docs
 ---
 
 ## **Introduction**

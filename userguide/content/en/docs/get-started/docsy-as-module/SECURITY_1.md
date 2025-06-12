@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Security 1
+aliases:
+- /docs/SECURITY_1/
+description: ''
+linkTitle: Security 1
+type: docs
+---
+
 # Reporting Security Issues
 
 ## Security Bug Bounty Program

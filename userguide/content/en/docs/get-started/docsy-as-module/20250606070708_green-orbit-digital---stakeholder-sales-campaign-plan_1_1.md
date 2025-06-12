@@ -5,6 +5,17 @@ doc_id: doc-012
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070708_green-orbit-digital
+linkTitle: Green Orbit Digital Stakeholder Sales Campaign Plan
+description: ''
+type: docs
+---
+
+stakeholder-sales-campaign-plan_1_1/
+description: ''
 ---
 
 ## Executive Summary

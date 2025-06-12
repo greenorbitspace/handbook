@@ -1,7 +1,13 @@
 ---
 title: Navan Physical Card
-decription: >-
-  This page contains GitLab's Navan Physical Card guidelines and procedures.
+decription: This page contains GitLab's Navan Physical Card guidelines and procedures.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/corp-credit-cards_1_1/
+description: ''
+linkTitle: Navan Physical Card
+type: docs
 ---
 
 ## 1. POLICY

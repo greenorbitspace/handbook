@@ -1,14 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/feature-support.html
-title: "Infrastructure Feature Support"
-description: "How the Infrastructure Department supports shipping features to Production."
+aliases:
+- /docs/feature-support_1_1/
+title: Infrastructure Feature Support
+description: How the Infrastructure Department supports shipping features to Production.
+weight: 2
+date: '2025-06-12'
+linkTitle: Infrastructure Feature Support
+type: docs
 ---
-
-
-
-
-
-
 
 ## Getting started
 

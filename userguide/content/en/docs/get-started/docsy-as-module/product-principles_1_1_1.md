@@ -1,9 +1,15 @@
 ---
 title: Product Principles
-description: "These are core principles we believe world class product organizations exhibit. The goal is to build a PM system that fosters and honors these principles, in a way that works for GitLab."
+description: These are core principles we believe world class product organizations
+  exhibit. The goal is to build a PM system that fosters and honors these principles,
+  in a way that works for GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-principles_1_1_1/
+linkTitle: Product Principles
+type: docs
 ---
-
-
 
 {{% include "includes/product-handbook-links.md" %}}
 

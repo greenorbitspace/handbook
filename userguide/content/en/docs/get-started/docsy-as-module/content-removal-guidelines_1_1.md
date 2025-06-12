@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Content Removal Guidelines 1 1
+aliases:
+- /docs/content-removal-guidelines_1_1/
+description: ''
+linkTitle: Content Removal Guidelines 1 1
+type: docs
+---
+
 ## DMCA (Digital Millennium Copyright Act) takedown request requirements
 
 We take the intellectual property rights of others seriously and require that our users do the same. The Digital Millennium Copyright Act (DMCA) established a process for addressing claims of copyright infringement. If you own a copyright or have authority to act on behalf of a copyright owner and want to make a claim that a third party is infringing that copyright on or through GitLab’s services, send a notice that meets the minimum requirements of the DMCA to dmca@gitlab.com, and we will take appropriate action.

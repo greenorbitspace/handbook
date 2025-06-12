@@ -1,9 +1,13 @@
 ---
 title: Data flow GitLab vs. multiple applications
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dataflow_1_1/
+description: ''
+linkTitle: Data flow GitLab vs. multiple applications
+type: docs
 ---
-
-
-
 
 How does having one application vs many applications impact workflow?
 

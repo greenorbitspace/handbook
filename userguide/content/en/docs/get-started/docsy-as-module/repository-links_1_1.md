@@ -2,8 +2,11 @@
 title: Repository Links and other page information
 linkTitle: Repo links and page info
 weight: 9
-description:
-  Help your users interact with page source and view page-source information.
+description: Help your users interact with page source and view page-source information.
+date: '2025-06-12'
+aliases:
+- /docs/repository-links_1_1/
+type: docs
 ---
 
 The Docsy

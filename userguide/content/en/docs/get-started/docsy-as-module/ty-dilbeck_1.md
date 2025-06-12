@@ -1,6 +1,13 @@
 ---
 layout: markdown_page
-title: "Ty Dilbeck's README"
+title: Ty Dilbeck's README
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ty-dilbeck_1/
+description: ''
+linkTitle: Ty Dilbeck's README
+type: docs
 ---
 
 Hi, I'm Ty, and you can read about me [here](https://gitlab.com/tdilbeck/readme)

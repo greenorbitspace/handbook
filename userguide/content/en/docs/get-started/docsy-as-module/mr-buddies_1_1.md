@@ -1,6 +1,12 @@
 ---
-title: "Merge Request Buddies"
-description: "Merge request buddies at GitLab"
+title: Merge Request Buddies
+description: Merge request buddies at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mr-buddies_1_1/
+linkTitle: Merge Request Buddies
+type: docs
 ---
 
 Merge Request buddies are available to help other team members who need help with merge requests that will update the GitLab handbook or website. Whether you are learning how to use the GitLab Web IDE, make updates to the handbook and website locally, or need answers to other Git and GitLab questions, Merge Request buddies are here to help.

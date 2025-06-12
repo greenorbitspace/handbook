@@ -1,14 +1,13 @@
 ---
-
-title: "Customer Insight Page"
+title: Customer Insight Page
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-insight_1_1/
+description: ''
+linkTitle: Customer Insight Page
+type: docs
 ---
-
-
-
-
-
-
-
 
 #### Case Study Creation Process
 

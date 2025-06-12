@@ -2,6 +2,11 @@
 title: Previews and Deployment
 weight: 7
 description: Deploying your Docsy site.
+type: docs
+date: '2025-06-12T01:05:53+01:00'
+linkTitle: Previews and Deployment
+aliases:
+- /docs/_index/
 ---
 
 There are multiple possible options for deploying a Hugo site, including Netlify, Firebase Hosting, Bitbucket with Aerobatic, and more; you can read about them all in [Hosting and Deployment](https://gohugo.io/hosting-and-deployment/). Hugo also makes it easy to deploy your site locally for quick previews of your content.

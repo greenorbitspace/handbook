@@ -1,7 +1,14 @@
 ---
-owning-stage: "~devops::data stores"
+owning-stage: ~devops::data stores
 title: 'Cells ADR 007: Cells 1.0 for internal customers only'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/007_internal_customers_1/
+description: ''
+linkTitle: 'Cells ADR 007: Cells 1.0 for internal customers only'
+type: docs
 ---
 
 ## Context

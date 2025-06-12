@@ -3,6 +3,13 @@ stage: enablement
 group: Tenant Scale
 title: 'Cells: GitLab Pages'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-pages_1_1/
+description: ''
+linkTitle: 'Cells: GitLab Pages'
+type: docs
 ---
 
 {{% alert %}}

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 0 Urlandfiletype 1 1
+aliases:
+- /docs/0-URLandFileType_1_1/
+description: ''
+linkTitle: 0 Urlandfiletype 1 1
+type: docs
+---
+
 # Crawling and Indexing
 
 1. **file types**

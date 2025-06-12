@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Cross Functional Prioritization 2 2
+aliases:
+- /docs/cross-functional-prioritization_2_2/
+description: ''
+linkTitle: Cross Functional Prioritization 2 2
+type: docs
+---
+
 ### Cross-Functional Prioritization
 
 #### Purpose

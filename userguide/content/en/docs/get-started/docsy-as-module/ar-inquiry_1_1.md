@@ -1,13 +1,13 @@
 ---
-
-title: "Industry Analyst Relations Inquiry"
+title: Industry Analyst Relations Inquiry
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ar-inquiry_1_1/
+description: ''
+linkTitle: Industry Analyst Relations Inquiry
+type: docs
 ---
-
-
-
-
-
-
 
 ## How We Conduct Industry Analyst Inquiry
 

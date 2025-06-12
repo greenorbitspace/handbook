@@ -1,5 +1,12 @@
 ---
-title: "Solutions Architect"
+title: Solutions Architect
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/solutions-architect_1_1_1/
+description: ''
+linkTitle: Solutions Architect
+type: docs
 ---
 
 Solutions Architects are the trusted advisors to GitLab prospects and clients, showing how the GitLab solutions address client business requirements. Solutions Architects are responsible for driving and managing the technology evaluation and validation stages of the sales process. Solutions Architects are the product advocates for GitLab's Enterprise Edition.  They focus on the technical solution while also understanding the business outcomes the customer is trying to achieve.

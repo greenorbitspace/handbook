@@ -1,8 +1,15 @@
 ---
 title: DEPRECATED - Ensuring correct SLA and Zendesk views
-description: "A walk through of verifying and if needed, correcting the SLA on tickets, and visibility in the correct Zendesk view."
+description: A walk through of verifying and if needed, correcting the SLA on tickets,
+  and visibility in the correct Zendesk view.
 category: Handling tickets
 subcategory: Triaging
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sla_and_views_1_1/
+linkTitle: DEPRECATED - Ensuring correct SLA and Zendesk views
+type: docs
 ---
 
 > ⚠️ **Warning**  

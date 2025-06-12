@@ -1,6 +1,12 @@
 ---
-title: "Issue Triage Onboarding"
-description: "Onboarding guidelines for Issue Triaging team"
+title: Issue Triage Onboarding
+description: Onboarding guidelines for Issue Triaging team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/onboarding_3_1_1/
+linkTitle: Issue Triage Onboarding
+type: docs
 ---
 
 ---

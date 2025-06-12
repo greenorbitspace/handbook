@@ -1,6 +1,12 @@
 ---
-title: "CSM Aspiring Leaders Program"
-description: "A guide to help CSMs level up their skills to be ready for leadership"
+title: CSM Aspiring Leaders Program
+description: A guide to help CSMs level up their skills to be ready for leadership
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/aspiring-leaders-program_1748146057839113638_1_1/
+linkTitle: CSM Aspiring Leaders Program
+type: docs
 ---
 
 ## CSM Aspiring Leaders Program Overview

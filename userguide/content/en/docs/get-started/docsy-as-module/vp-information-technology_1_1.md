@@ -1,5 +1,12 @@
 ---
-title: "VP, Information Technology"
+title: VP, Information Technology
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vp-information-technology_1_1/
+description: ''
+linkTitle: VP, Information Technology
+type: docs
 ---
 
 ## Job Grade

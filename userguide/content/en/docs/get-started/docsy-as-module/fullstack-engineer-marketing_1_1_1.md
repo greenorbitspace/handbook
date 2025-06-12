@@ -1,6 +1,15 @@
 ---
 title: Fullstack Engineer - Marketing
-summary: "Fullsttack Engineering on the Marketing team work on our marketing site. They work closely with product marketing, content marketing, and other members of the Marketing team."
+summary: Fullsttack Engineering on the Marketing team work on our marketing site.
+  They work closely with product marketing, content marketing, and other members of
+  the Marketing team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/fullstack-engineer-marketing_1_1_1/
+description: ''
+linkTitle: Fullstack Engineer - Marketing
+type: docs
 ---
 
 Fullstack Engineers on the Marketing team work on our marketing site: about.GitLab.com and gitlab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](/handbook/marketing/digital-experience/), and report to a [Engineering Manager, Digital Experience](/job-families/marketing/fullstack-engineer-marketing/#manager-engineering).

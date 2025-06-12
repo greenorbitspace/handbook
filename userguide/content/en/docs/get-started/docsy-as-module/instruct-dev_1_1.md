@@ -1,7 +1,13 @@
 ---
-
-title: "Professional Services Instructional Design and Development"
-description: "Discover how the GitLab Instructional Design and Development team works together."
+title: Professional Services Instructional Design and Development
+description: Discover how the GitLab Instructional Design and Development team works
+  together.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/instruct-dev_1_1/
+linkTitle: Professional Services Instructional Design and Development
+type: docs
 ---
 
 ## Current Offerings

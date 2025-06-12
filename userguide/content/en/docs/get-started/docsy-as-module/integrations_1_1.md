@@ -1,13 +1,13 @@
 ---
-
-title: "Integration Demos"
+title: Integration Demos
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/integrations_1_1/
+description: ''
+linkTitle: Integration Demos
+type: docs
 ---
-
-
-
-
-
-
 
 In some cases, GitLab must be used with existing systems. The most common systems requested include Atlassian Jira for issue management, Jenkins for pipeline execution or GitHub for source code management. Jira to GitLab workflow, GitHub to GitLab CI/CD linkage or GitLab to Jenkins connections can be arranged quickly on a per-project basis using available integrations from GitLab.
 

@@ -1,6 +1,13 @@
 ---
-title: "Communicate at GitLab: Slack Training"
-description: "Outline of the GitLab in-app Slack training to train team members on key communication norms at GitLab"
+title: 'Communicate at GitLab: Slack Training'
+description: Outline of the GitLab in-app Slack training to train team members on
+  key communication norms at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/slack-training_1_1/
+linkTitle: 'Communicate at GitLab: Slack Training'
+type: docs
 ---
 
 ## Sign-up

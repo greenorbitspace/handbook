@@ -1,5 +1,12 @@
 ---
 title: Simple
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/simple_1_1/
+description: ''
+linkTitle: Simple
+type: docs
 ---
 
 # Simple post

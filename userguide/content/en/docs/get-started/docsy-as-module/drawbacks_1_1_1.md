@@ -1,10 +1,16 @@
 ---
-title: "The definitive guide to all-remote work and its drawbacks"
+title: The definitive guide to all-remote work and its drawbacks
 description: Downsides to remote work
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/drawbacks_1_1_1/
+linkTitle: The definitive guide to all-remote work and its drawbacks
+type: docs
 ---
 
 Despite all of its [advantages](/handbook/company/culture/all-remote/remote-benefits/), all-remote work isn't for everyone. It can have disadvantages for potential employees depending on their lifestyle and work preferences, as well as the organization. In the spirit of [transparency](/handbook/values/#transparency), we'll also highlight counterpoints and solutions to these challenges.

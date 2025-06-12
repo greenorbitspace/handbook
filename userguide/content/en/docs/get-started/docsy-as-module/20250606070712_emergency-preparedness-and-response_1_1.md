@@ -5,6 +5,13 @@ doc_id: doc-694
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070712_emergency-preparedness-and-response_1_1/
+description: ''
+linkTitle: Emergency Preparedness And Response
+type: docs
 ---
 
 <!-- Unsupported block type: table_of_contents -->

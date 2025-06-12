@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Statement Of Applicability 1 1
+aliases:
+- /docs/statement-of-applicability_1_1/
+description: ''
+linkTitle: Statement Of Applicability 1 1
+type: docs
+---
+
 ## 1. Introduction
 
 This Statement of Applicability (SoA) documents the relevant information security controls implemented within Green Orbit Digital's Information Security Management System (ISMS) in accordance with ISO/IEC 27001:2022.

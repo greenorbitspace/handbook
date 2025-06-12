@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Chart 1 1
+aliases:
+- /docs/chart_1_1/
+description: ''
+linkTitle: Chart 1 1
+type: docs
+---
+
 > this documentation is partly outdated
 
 **Chart** is the core class for each Datawrapper chart. The concept of charts and visualizations might be confusing, so please read on to get the idea: A *chart* is an abstract wrapper around the [dataset](Dataset) and the ...

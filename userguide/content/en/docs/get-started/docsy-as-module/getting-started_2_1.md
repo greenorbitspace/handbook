@@ -1,10 +1,18 @@
 ---
-title: "The complete guide to starting a remote job"
-description: "This guide provides a full overview of what to expect and what to consider when beginning a new role as a remote worker in order to ensure success and wellbeing. Learn more here!"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+title: The complete guide to starting a remote job
+description: This guide provides a full overview of what to expect and what to consider
+  when beginning a new role as a remote worker in order to ensure success and wellbeing.
+  Learn more here!
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/getting-started_2_1/
+linkTitle: The complete guide to starting a remote job
+type: docs
 ---
 
 On this page, we're detailing considerations and tips for getting started in a new remote role.

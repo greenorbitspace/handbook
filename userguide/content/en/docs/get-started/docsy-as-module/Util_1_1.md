@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Util 1 1
+aliases:
+- /docs/Util_1_1/
+description: ''
+linkTitle: Util 1 1
+type: docs
+---
+
 # Util
 
 Utility API for third-party implementations of the dispatcher API.

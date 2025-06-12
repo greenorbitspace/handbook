@@ -1,14 +1,13 @@
 ---
-
-title: "Associating emails to Salesforce"
-description: "A quick guide on associating emails to Salesforce"
+title: Associating emails to Salesforce
+description: A quick guide on associating emails to Salesforce
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/prospect-engagement-best-practices_1_1/
+linkTitle: Associating emails to Salesforce
+type: docs
 ---
-
-
-
-
-
-
 
 This page contains tipson how to associate emails to Salesforce.
 

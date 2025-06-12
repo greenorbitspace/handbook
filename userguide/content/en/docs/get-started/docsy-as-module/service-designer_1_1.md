@@ -1,5 +1,12 @@
 ---
 title: Service Designer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/service-designer_1_1/
+description: ''
+linkTitle: Service Designer
+type: docs
 ---
 
 At GitLab, Service Design is a discipline within User Experience Research (UXR). Service Designers collaborate with Product teams and stakeholders in the business to design and optimize end-to-end experiences across products, ensuring users can successfully achieve their goals throughout their lifecycle with GitLab.

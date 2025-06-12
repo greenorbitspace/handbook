@@ -1,6 +1,12 @@
 ---
-title: "Marketo Tech Stack Guide"
-description: "Reference for how Marketo is implemented."
+title: Marketo Tech Stack Guide
+description: Reference for how Marketo is implemented.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tech-stack-guide-marketo_1_1/
+linkTitle: Marketo Tech Stack Guide
+type: docs
 ---
 
 > **Note:** Refer to the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](/handbook/business-technology/tech-stack-applications/)** to manage Apps.

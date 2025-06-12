@@ -1,13 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/data_stores/database/stable.html
+aliases:
+- /docs/stable_1_1/
 title: Database Group Stable Counterparts
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Database Group Stable Counterparts
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

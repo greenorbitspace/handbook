@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 3Rd Party Icons 1 1
+aliases:
+- /docs/3RD-PARTY-ICONS_1_1/
+description: ''
+linkTitle: 3Rd Party Icons 1 1
+type: docs
+---
+
 # Third Party Icons (`mobile`)
 
 - `assets/apple.svg`

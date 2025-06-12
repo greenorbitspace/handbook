@@ -1,15 +1,14 @@
 ---
-
 title: Test Platform On-call Rotation
-description: >-
-  The Test Platform Sub-Department has two on-call rotations: pipeline triage (SET-led) and incident management (QEM-led).
+description: 'The Test Platform Sub-Department has two on-call rotations: pipeline
+  triage (SET-led) and incident management (QEM-led).'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/oncall-rotation_1_1/
+linkTitle: Test Platform On-call Rotation
+type: docs
 ---
-
-
-
-
-
-
 
 ## Test Platform Sub-Department pipeline triage on-call rotation
 

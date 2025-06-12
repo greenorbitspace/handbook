@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 10 1 1 1
+aliases:
+- /docs/README_10_1_1_1/
+description: ''
+linkTitle: Readme 10 1 1 1
+type: docs
+---
+
 [![npm][npm]][npm-url]
 [![node][node]][node-url]
 [![deps][deps]][deps-url]

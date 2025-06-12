@@ -1,8 +1,14 @@
 ---
-
 title: Sales Development How-Tos
-description: Use this page to quickly learn the basics of inbound lead management, outbound account management, as well as all other main Sales Development processes that we use like enrolling to a sequence, and creating opportunities.
-
+description: Use this page to quickly learn the basics of inbound lead management,
+  outbound account management, as well as all other main Sales Development processes
+  that we use like enrolling to a sequence, and creating opportunities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/How-Tos_1_1/
+linkTitle: Sales Development How-Tos
+type: docs
 ---
 
 While the contents below are meant to get you up to speed quickly, we also have a wealth of resources for team members that are looking to perfect their craft [here](/handbook/marketing/sales-development/sales-development-vault/).

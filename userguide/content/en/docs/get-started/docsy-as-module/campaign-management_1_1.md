@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Campaign Management 1 1
+aliases:
+- /docs/campaign-management_1_1/
+description: ''
+linkTitle: Campaign Management 1 1
+type: docs
+---
+
 ## Understanding Campaign Management
 
 Campaign management is a structured approach to planning, executing, and evaluating marketing initiatives that drive results while staying aligned with business objectives.

@@ -1,7 +1,13 @@
 ---
 title: Contacting third parties
 description: Support Operations policies page for contacting third parties
-canonical_path: "/handbook/support/readiness/operations/docs/policies/contacting_third_parties"
+canonical_path: /handbook/support/readiness/operations/docs/policies/contacting_third_parties
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/contacting_third_parties_1_1/
+linkTitle: Contacting third parties
+type: docs
 ---
 
 Our Zendesk instances use many third-party applications to help agents in their

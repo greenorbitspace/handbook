@@ -1,6 +1,12 @@
 ---
-title: "Offboarding Documents & Notices"
-description: "Information on required offboarding documents & notices"
+title: Offboarding Documents & Notices
+description: Information on required offboarding documents & notices
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/offboarding-documents_1_1/
+linkTitle: Offboarding Documents & Notices
+type: docs
 ---
 
 ## GitLab, Inc. & GitLab Federal LLC

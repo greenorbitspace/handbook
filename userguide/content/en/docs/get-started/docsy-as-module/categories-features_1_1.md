@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Categories Features 1 1
+aliases:
+- /docs/categories-features_1_1/
+description: ''
+linkTitle: Categories Features 1 1
+type: docs
+---
+
 {{ $sections := site.Data.public.sections }}
 {{- $categories := dict }}
 {{- range $k, $v := site.Data.public.categories }}

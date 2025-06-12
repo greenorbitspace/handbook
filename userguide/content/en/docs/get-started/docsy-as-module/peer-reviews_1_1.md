@@ -1,7 +1,14 @@
 ---
-
-title: "Peer Review Management"
+title: Peer Review Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/peer-reviews_1_1/
+description: ''
+linkTitle: Peer Review Management
+type: docs
 ---
+
 ## Peer Review Management
 
 GitLab actively manages its Peer Review presence as part of its Customer Reference Program to maintain its values of Transparency, Collaboration, and Iteration.  By listening, analyzing, and engaging with customers and the GitLab community as a whole via Peer Reviews, GitLab gains a clearer grasp of customer expectations.  Consistent maintenance of our presence on public Peer Review sites allows a current and dynamic understanding of the Voice of the Customer and this in turn helps GitLab Customer Success, Product, Marketing, and Sales teams build better products, sell faster and easier, and make customers' lives better.

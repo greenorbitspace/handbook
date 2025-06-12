@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Direct Messages Lookup 1 1
+aliases:
+- /docs/direct-messages-lookup_1_1/
+description: ''
+linkTitle: Direct Messages Lookup 1 1
+type: docs
+---
+
 ## Direct Messages lookup
 
 Direct Messages enable private conversations on Twitter. Direct Messages are one of the most popular features of Twitter, with a wide variety of use cases. These use cases range from group chats among friends to powering customer support for brands around the world. New v2 versions of Direct Messages endpoints will be introduced in stages, and this first stage includes fundamental endpoints for creating Direct Messages and listing Direct Message conversation events. For the first time, the Twitter API v2 supports group conversations.

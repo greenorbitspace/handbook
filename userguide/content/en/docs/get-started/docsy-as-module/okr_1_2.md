@@ -1,6 +1,12 @@
 ---
-
 title: OKR Management Single-Engineer Group
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/okr_1_2/
+description: ''
+linkTitle: OKR Management Single-Engineer Group
+type: docs
 ---
 
 ## OKR Management Single-Engineer Group

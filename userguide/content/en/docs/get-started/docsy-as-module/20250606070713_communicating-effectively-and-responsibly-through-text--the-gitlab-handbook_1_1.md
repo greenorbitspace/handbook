@@ -5,6 +5,13 @@ doc_id: doc-987
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070713_communicating-effectively-and-responsibly-through-text--the-gitlab-handbook_1_1/
+description: ''
+linkTitle: Communicating Effectively And Responsibly Through Text The Gitlab Handbook
+type: docs
 ---
 
 How to communicate effectively and responsibly through text

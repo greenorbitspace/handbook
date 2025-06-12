@@ -1,7 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/team/delivery/metrics.html
-title: "Delivery Team Metrics"
-description: "The Delivery Team enables GitLab Engineering to deliver features in a safe, scalable and efficient fashion to both GitLab.com and self-managed customers."
+aliases:
+- /docs/metrics_2_2/
+title: Delivery Team Metrics
+description: The Delivery Team enables GitLab Engineering to deliver features in a
+  safe, scalable and efficient fashion to both GitLab.com and self-managed customers.
+weight: 2
+date: '2025-06-12'
+linkTitle: Delivery Team Metrics
+type: docs
 ---
 
 ## Metrics

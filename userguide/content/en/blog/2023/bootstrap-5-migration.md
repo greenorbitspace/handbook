@@ -1,15 +1,19 @@
 ---
 title: Migrating to Bootstrap 5.2
 linkTitle: Bootstrap 5 migration
-description: >
-  An experience report in migrating Docsy from Bootstrap 4 to 5.2, with insights
-  and instructions.
-author: >
-  [Patrice Chalin](https://github.com/chalin) ([CNCF](https://www.cncf.io/) &
-  [Docsy Steering Committee](/blog/2022/hello/#introducing-the-psc))
-date: 2023-06-05
+description: |
+  An experience report in migrating Docsy from Bootstrap 4 to 5.2, with insights and instructions.
+author: '[Patrice Chalin](https://github.com/chalin) ([CNCF](https://www.cncf.io/)
+  & [Docsy Steering Committee](/blog/2022/hello/#introducing-the-psc))
+
+  '
+date: '2025-06-12T01:06:11+01:00'
 canonical_url: https://www.cncf.io/blog/2023/06/05/migrating-docsy-to-bootstrap-5/
 cSpell:ignore: CNCF Chalin opentelemetry techdocs
+type: blog
+weight: 2
+aliases:
+- /blog/bootstrap-5-migration/
 ---
 
 [Docsy](https://docsy.dev), and Docsy-based project websites ([including those

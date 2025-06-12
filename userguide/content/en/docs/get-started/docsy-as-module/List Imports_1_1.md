@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: List Imports 1 1
+aliases:
+- /docs/List Imports_1_1/
+description: ''
+linkTitle: List Imports 1 1
+type: docs
+---
+
 # List Imports
 
 Processes for importing records into Marketo

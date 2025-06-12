@@ -1,6 +1,12 @@
 ---
-title: "PTY LTD Benefits"
-description: "GitLab PTY Australia benefits specific to Australia based team members."
+title: PTY LTD Benefits
+description: GitLab PTY Australia benefits specific to Australia based team members.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/pty-benefits-australia_1_1/
+linkTitle: PTY LTD Benefits
+type: docs
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-group/).

@@ -1,5 +1,12 @@
 ---
-title: "GitLab Adoption Research Program"
+title: GitLab Adoption Research Program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-adoption-research-program_1_1/
+description: ''
+linkTitle: GitLab Adoption Research Program
+type: docs
 ---
 
 ## What is GitLab Adoption Research?

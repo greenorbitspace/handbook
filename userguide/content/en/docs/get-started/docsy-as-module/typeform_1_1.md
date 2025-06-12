@@ -1,14 +1,13 @@
 ---
-
-title: "Typeform"
-description: "People-friendly forms and surveys"
+title: Typeform
+description: People-friendly forms and surveys
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/typeform_1_1/
+linkTitle: Typeform
+type: docs
 ---
-
-
-
-
-
-
 
 ### About Typeform
 

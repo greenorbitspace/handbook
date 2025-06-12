@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Good First Issue 1 1
+aliases:
+- /docs/good-first-issue_1_1/
+description: ''
+linkTitle: Good First Issue 1 1
+type: docs
+---
+
 The issue was marked with the `good first issue` label by a maintainer.
 
 This means that it is a good candidate for someone interested in contributing to the project, but does not know where to start.

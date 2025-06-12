@@ -1,13 +1,13 @@
 ---
-
-title: "E-mail response workflow"
+title: E-mail response workflow
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/e-mail_1_1/
+description: ''
+linkTitle: E-mail response workflow
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

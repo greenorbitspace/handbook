@@ -1,6 +1,15 @@
 ---
-title: "GitLab Security Essentials - Hands-On Lab: Configure SAST, Secret Detection, and DAST"
-description: "This Hands-On Guide walks you through using SAST, Secret Detection, and DAST scans in a GitLab project."
+title: 'GitLab Security Essentials - Hands-On Lab: Configure SAST, Secret Detection,
+  and DAST'
+description: This Hands-On Guide walks you through using SAST, Secret Detection, and
+  DAST scans in a GitLab project.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/secessentialshandson1_1_1/
+linkTitle: 'GitLab Security Essentials - Hands-On Lab: Configure SAST, Secret Detection,
+  and DAST'
+type: docs
 ---
 
 > Estimated time to complete: 45 to 60 minutes

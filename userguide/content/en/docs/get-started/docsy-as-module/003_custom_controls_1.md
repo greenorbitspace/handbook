@@ -1,6 +1,13 @@
 ---
-title: "Compliance Frameworks ADR 003: Custom Controls"
+title: 'Compliance Frameworks ADR 003: Custom Controls'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/003_custom_controls_1/
+description: ''
+linkTitle: 'Compliance Frameworks ADR 003: Custom Controls'
+type: docs
 ---
 
 ## Context

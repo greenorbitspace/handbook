@@ -1,10 +1,14 @@
 ---
-title: "Content workflows for Developer Advocates"
-description: "Learn about the Developer Advocacy team's content library, creation and distribution workflows."
+title: Content workflows for Developer Advocates
+description: Learn about the Developer Advocacy team's content library, creation and
+  distribution workflows.
 aliases:
 - /handbook/marketing/developer-relations/developer-evangelism/content/index.html
+weight: 2
+date: '2025-06-12'
+linkTitle: Content workflows for Developer Advocates
+type: docs
 ---
-
 
 ## Content Library
 

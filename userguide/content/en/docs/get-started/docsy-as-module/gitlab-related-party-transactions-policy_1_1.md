@@ -1,7 +1,14 @@
 ---
-title: "GitLab Related Party Transactions Policy"
-description: "Overview of the Related Party Transactions Policy at GitLab."
+title: GitLab Related Party Transactions Policy
+description: Overview of the Related Party Transactions Policy at GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-related-party-transactions-policy_1_1/
+linkTitle: GitLab Related Party Transactions Policy
+type: docs
 ---
+
 {{% alert title="This is a Controlled Document" color="danger" %}}
 Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
 {{% /alert %}}

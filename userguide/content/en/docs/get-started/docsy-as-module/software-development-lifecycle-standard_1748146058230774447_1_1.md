@@ -1,8 +1,13 @@
 ---
-title: "Software Development Lifecycle Standard"
+title: Software Development Lifecycle Standard
 aliases:
 - /handbook/security/software-development-lifecycle-standard
 note: Do not remove alias due to extensive external use where it cannot be updated.
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Software Development Lifecycle Standard
+type: docs
 ---
 
 ## Purpose

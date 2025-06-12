@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Simple Upload 1 1
+aliases:
+- /docs/simple-upload_1_1/
+description: ''
+linkTitle: Simple Upload 1 1
+type: docs
+---
+
 You can use media upload endpoint to upload simple media, images(gifs).
 
 You can get more information for this at [docs](https://docs.x.com/x-api/media/media-upload)

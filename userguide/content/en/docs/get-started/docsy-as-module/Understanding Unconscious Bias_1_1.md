@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Understanding Unconscious Bias 1 1
+aliases:
+- /docs/Understanding Unconscious Bias_1_1/
+description: ''
+linkTitle: Understanding Unconscious Bias 1 1
+type: docs
+---
+
 # Understanding Unconscious Bias
 
 [Unsupported block type: table_of_contents]

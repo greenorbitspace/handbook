@@ -1,6 +1,13 @@
 ---
-title: "UX Research tools/applications"
-description: "Tools we use, how to find existing research, tracking research findings, and more."
+title: UX Research tools/applications
+description: Tools we use, how to find existing research, tracking research findings,
+  and more.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/research-tools_1_1/
+linkTitle: UX Research tools/applications
+type: docs
 ---
 
 Product Managers, Product Designers, and UX Researchers have access to the UX research tools below.  If you need access to any of these tools, please [open an access request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/).

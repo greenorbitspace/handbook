@@ -1,15 +1,13 @@
 ---
-
 title: Conferences
 description: This page will highlight the benefits of attending conferences
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/conferences_1_1/
+linkTitle: Conferences
+type: docs
 ---
-
-
-
-
-
-
-
 
 ## Why is it important to attend conferences?
 

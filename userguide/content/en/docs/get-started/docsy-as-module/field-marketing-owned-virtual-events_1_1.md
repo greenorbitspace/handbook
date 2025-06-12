@@ -1,6 +1,13 @@
 ---
-title: "Field Marketing Owned Virtual Events"
-description: "Step by Step instructions for Field Marketers on how to set up various owned virtual events."
+title: Field Marketing Owned Virtual Events
+description: Step by Step instructions for Field Marketers on how to set up various
+  owned virtual events.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/field-marketing-owned-virtual-events_1_1/
+linkTitle: Field Marketing Owned Virtual Events
+type: docs
 ---
 
 ## Overview of Zoom Virtual Event Types

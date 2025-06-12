@@ -1,5 +1,12 @@
 ---
-title: "Monitoring Engineer"
+title: Monitoring Engineer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/monitoring-engineer_1_1/
+description: ''
+linkTitle: Monitoring Engineer
+type: docs
 ---
 
 ## Responsibilities

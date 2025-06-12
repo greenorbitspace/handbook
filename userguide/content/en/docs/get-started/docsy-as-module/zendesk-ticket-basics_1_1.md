@@ -1,11 +1,14 @@
 ---
-
 title: Zendesk Ticket Basics
 category: Handling tickets
 description: Information about various Zendesk ticket fields, behaviors and procedures
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/zendesk-ticket-basics_1_1/
+linkTitle: Zendesk Ticket Basics
+type: docs
 ---
-
-
 
 ## Ticket status
 

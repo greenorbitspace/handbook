@@ -3,6 +3,13 @@ stage: enablement
 group: Tenant Scale
 title: 'Cells: Goals'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/goals_1_1/
+description: ''
+linkTitle: 'Cells: Goals'
+type: docs
 ---
 
 ## Goals

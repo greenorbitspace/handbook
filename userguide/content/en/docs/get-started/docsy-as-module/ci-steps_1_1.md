@@ -1,14 +1,13 @@
 ---
-
 title: CI Steps - Key Project Plan
 description: Weekly Engineering Project plan for CI Steps
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ci-steps_1_1/
+linkTitle: CI Steps - Key Project Plan
+type: docs
 ---
-
-
-
-
-
-
 
 ## Weekly Project Plan
 

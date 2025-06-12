@@ -1,15 +1,13 @@
 ---
-
-title: "Developer Advocacy on Social Media"
+title: Developer Advocacy on Social Media
 aliases:
 - /handbook/marketing/developer-relations/developer-evangelism/social-media/index.html
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Developer Advocacy on Social Media
+type: docs
 ---
-
-
-
-
-
-
 
 ## Introduction
 

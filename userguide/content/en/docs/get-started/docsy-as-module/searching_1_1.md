@@ -1,7 +1,13 @@
 ---
 title: Searching
 description: Support Operations documentation page for searching in Zendesk
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/searching"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/searching
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/searching_1_1/
+linkTitle: Searching
+type: docs
 ---
 
 ## Basic search

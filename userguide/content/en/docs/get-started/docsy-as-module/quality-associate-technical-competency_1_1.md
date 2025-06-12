@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Quality Associate Technical Competency 1 1
+aliases:
+- /docs/quality-associate-technical-competency_1_1/
+description: ''
+linkTitle: Quality Associate Technical Competency 1 1
+type: docs
+---
+
 ##### Quality
 
 - Test Coverage & Test Stability

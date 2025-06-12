@@ -1,6 +1,12 @@
 ---
-title: "Coupa End Users Guide"
-description: "Coupa End Users Guide"
+title: Coupa End Users Guide
+description: Coupa End Users Guide
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_70_1_1/
+linkTitle: Coupa End Users Guide
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

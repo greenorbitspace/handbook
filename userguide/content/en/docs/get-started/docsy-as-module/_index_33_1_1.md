@@ -1,6 +1,15 @@
 ---
-title: "Okta Configuration Management"
-description: "The Okta repository is used for managing configuration-as-code for any actions that can be performed in the Admin UI. This moves all day-to-day administrative actions and global configuration into state management with MR approval rules and CI/CD automation."
+title: Okta Configuration Management
+description: The Okta repository is used for managing configuration-as-code for any
+  actions that can be performed in the Admin UI. This moves all day-to-day administrative
+  actions and global configuration into state management with MR approval rules and
+  CI/CD automation.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_33_1_1/
+linkTitle: Okta Configuration Management
+type: docs
 ---
 
 {{% alert title="Not Live Yet" color="warning" %}}

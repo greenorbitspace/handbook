@@ -1,9 +1,14 @@
 ---
-
-title: "CI Primary Key Conversions - Weekly Project Plan"
-description: "Weekly Project Plan for converting the primary keys to bigint - Pipeline Execution Group."
+title: CI Primary Key Conversions - Weekly Project Plan
+description: Weekly Project Plan for converting the primary keys to bigint - Pipeline
+  Execution Group.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ci-pk-conversion_1_1/
+linkTitle: CI Primary Key Conversions - Weekly Project Plan
+type: docs
 ---
-
 
 ## CI Data Partitioning - Weekly Project Plan
 

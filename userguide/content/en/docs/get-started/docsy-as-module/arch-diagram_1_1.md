@@ -1,6 +1,13 @@
 ---
 title: Architecture Diagrams
 category: Artifacts
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/arch-diagram_1_1/
+description: ''
+linkTitle: Architecture Diagrams
+type: docs
 ---
 
 The following are reference architecture diagrams for various deployment methods of GitLab.

@@ -5,6 +5,13 @@ doc_id: doc-638
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070712_content-marketing-planning_1_1/
+description: ''
+linkTitle: Content Marketing Planning
+type: docs
 ---
 
 ## 1.	Background 

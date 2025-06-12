@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Projects 1
+aliases:
+- /docs/projects_1/
+description: ''
+linkTitle: Projects 1
+type: docs
+---
+
 +++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/

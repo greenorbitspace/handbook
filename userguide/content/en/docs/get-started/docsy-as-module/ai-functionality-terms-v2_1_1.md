@@ -1,6 +1,14 @@
 ---
-title: "AI Functionality Terms V2"
+title: AI Functionality Terms V2
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ai-functionality-terms-v2_1_1/
+description: ''
+linkTitle: AI Functionality Terms V2
+type: docs
 ---
+
 <!-- vale off -->
 *Deprecated 2024-08-29*
 

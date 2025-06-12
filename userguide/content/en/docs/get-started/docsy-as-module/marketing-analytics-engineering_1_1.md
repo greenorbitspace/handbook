@@ -1,7 +1,15 @@
 ---
 title: Marketing Analytics - Analytics Engineering
-description: >-
-  Marketing Analytics' Analytics Engineer supports the Marketing Analytics team directly as well as the wider Marketing Org to develop, hone, and refine SQL code by interfacing with and acting as liaison between the Central Data Team (CDT) and Marketing/Marketing Analytics.
+description: Marketing Analytics' Analytics Engineer supports the Marketing Analytics
+  team directly as well as the wider Marketing Org to develop, hone, and refine SQL
+  code by interfacing with and acting as liaison between the Central Data Team (CDT)
+  and Marketing/Marketing Analytics.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/marketing-analytics-engineering_1_1/
+linkTitle: Marketing Analytics - Analytics Engineering
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

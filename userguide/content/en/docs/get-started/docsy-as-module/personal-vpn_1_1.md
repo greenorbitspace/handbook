@@ -1,6 +1,13 @@
 ---
-title: "Personal VPN"
-description: "Basic questions answered, tips, and recommendations for using a personal VPN."
+title: Personal VPN
+description: Basic questions answered, tips, and recommendations for using a personal
+  VPN.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/personal-vpn_1_1/
+linkTitle: Personal VPN
+type: docs
 ---
 
 GitLab does not use a [corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn). We have selected [NordLayer](/handbook/it/guides/nordlayer/) as our personal VPN solution.

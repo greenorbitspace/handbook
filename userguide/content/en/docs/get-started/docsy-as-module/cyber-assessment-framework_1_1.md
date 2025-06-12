@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Cyber Assessment Framework 1 1
+aliases:
+- /docs/cyber-assessment-framework_1_1/
+description: ''
+linkTitle: Cyber Assessment Framework 1 1
+type: docs
+---
+
 ## Introduction to UK Cyber Essentials Framework
 
 The UK Cyber Essentials framework is a government-backed certification scheme managed by the National Cyber Security Centre (NCSC). It is designed to protect organizations from the most common cyber threats and offers multiple levels of engagement, from basic security practices to full independent verification through Cyber Essentials Plus.

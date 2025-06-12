@@ -1,5 +1,12 @@
 ---
-title: "Partner Account Manager"
+title: Partner Account Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/partner-account-manager_1_1/
+description: ''
+linkTitle: Partner Account Manager
+type: docs
 ---
 
 A strong partner ecosystem is crucial in the success and growth of  GitLab’s business. Partners are a strategic imperative for GitLab’s continued growth and market expansion. As customer requirements become more complex we need partners with capability and capacity to help customers implement, support and grow their usage of GitLab.  We work closely with cross functional leadership to ensure partners are integrated throughout the sales cycle both pre and post sales. Partner Account Managers are critical in recruiting and building relationships with partners. Partner Account Managers also work with partners to establish and measure goals and performance including pipeline, revenue generation and growing their overall GitLab practice.

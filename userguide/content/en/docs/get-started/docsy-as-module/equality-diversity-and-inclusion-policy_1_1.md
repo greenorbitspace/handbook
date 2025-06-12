@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Equality Diversity And Inclusion Policy 1 1
+aliases:
+- /docs/equality-diversity-and-inclusion-policy_1_1/
+description: ''
+linkTitle: Equality Diversity And Inclusion Policy 1 1
+type: docs
+---
+
 ## Principles of Equality, Diversity, and Inclusion
 
 At Green Orbit Digital Ltd, we uphold the principles of equality, diversity, and inclusion (EDI) as fundamental values that guide our actions, decisions, and culture. These principles are ingrained in every aspect of our organisation, fostering an environment where all individuals are treated with respect, fairness, and equality.

@@ -1,13 +1,13 @@
 ---
-
-title: "Community Learning Pathway: Course Resources"
+title: 'Community Learning Pathway: Course Resources'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/community-pathway_1_1/
+description: ''
+linkTitle: 'Community Learning Pathway: Course Resources'
+type: docs
 ---
-
-
-
-
-
-
 
 ## Community Learning Pathway
 

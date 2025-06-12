@@ -1,5 +1,12 @@
 ---
 title: Coupa FAQ
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/coupa-faq_1_1/
+description: ''
+linkTitle: Coupa FAQ
+type: docs
 ---
 
 ## General FAQ

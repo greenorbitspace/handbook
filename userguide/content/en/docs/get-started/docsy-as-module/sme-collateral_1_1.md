@@ -1,8 +1,12 @@
 ---
-title: SME Collateral and Resources 
-
+title: SME Collateral and Resources
 description: Maintaining Collateral for each SME Area
-
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sme-collateral_1_1/
+linkTitle: SME Collateral and Resources
+type: docs
 ---
 
 ## SME Content and Collateral (TBD)

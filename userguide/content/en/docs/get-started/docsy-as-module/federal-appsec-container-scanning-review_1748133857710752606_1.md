@@ -1,5 +1,12 @@
 ---
-title: "Federal AppSec Container Scan Result Review Process"
+title: Federal AppSec Container Scan Result Review Process
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/federal-appsec-container-scanning-review_1748133857710752606_1/
+description: ''
+linkTitle: Federal AppSec Container Scan Result Review Process
+type: docs
 ---
 
 Certain customers scan containers that GitLab provides for known vulnerabilities and other security concerns. The GitLab Federal Application Security team is responsible for reviewing these results. In many cases, these findings are related to dependencies that need to be updated to address vulnerabilities.

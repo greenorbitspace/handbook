@@ -1,6 +1,13 @@
 ---
-title: "Goals"
-description: "This document provides leadership and team members visbility on the Diversity, Inclusion & Belonging Goals"
+title: Goals
+description: This document provides leadership and team members visbility on the Diversity,
+  Inclusion & Belonging Goals
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dib-goals_1_1/
+linkTitle: Goals
+type: docs
 ---
 
 In this page you will find the current Diversity, Inclusion and Belonging Goals for GitLab. These will be updated on a quarterly basis to ensure they remain current. We will keep a list of completed or non-current goals at the bottom with a retention of 12 months. If you would like to see the history of goals going further back, you can view the evolution of the page in GitLab.

@@ -1,7 +1,14 @@
 ---
-title: "Still a Startup"
-description: "GitLab elevates others through knowledge sharing, job access, and our software platform.."
-canonical_path: "/company/still-a-startup/"
+title: Still a Startup
+description: GitLab elevates others through knowledge sharing, job access, and our
+  software platform..
+canonical_path: /company/still-a-startup/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/still-a-startup_1_1/
+linkTitle: Still a Startup
+type: docs
 ---
 
 ### Still a Startup Overview

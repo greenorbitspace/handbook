@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Happy Flows 1 1
+aliases:
+- /docs/happy_flows_1_1/
+description: ''
+linkTitle: Happy Flows 1 1
+type: docs
+---
+
 # Sequence diagrams of the happy flow
 
 ## "Hello! What can you do?"

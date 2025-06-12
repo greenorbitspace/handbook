@@ -1,14 +1,21 @@
 ---
 layout: default
 title: Remote Working Experiences
-description: "GitLab is an all-remote company. Read about how working remotely has changed our lives."
+description: GitLab is an all-remote company. Read about how working remotely has
+  changed our lives.
 suppress_header: true
 extra_css:
-  - team.css
+- team.css
 extra_js:
-  - team.js
+- team.js
 image_title: /images/team.jpg
-twitter_image: "/images/opengraph/all-remote.jpg"
+twitter_image: /images/opengraph/all-remote.jpg
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/stories_1_1/
+linkTitle: Remote Working Experiences
+type: docs
 ---
 
 {{< stories >}}

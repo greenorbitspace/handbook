@@ -1,14 +1,13 @@
 ---
-
-title: "Reporting Data Catalog"
-description: "Giltab's Reporting Data Catalog"
+title: Reporting Data Catalog
+description: Giltab's Reporting Data Catalog
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/reporting-data-catalog_1_1/
+linkTitle: Reporting Data Catalog
+type: docs
 ---
-
-
-
-
-
-
 
 ---
 

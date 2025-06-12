@@ -1,7 +1,13 @@
 ---
 title: gl-support-bot tokens
 description: An overview of gl-support-bot token use
-canonical_path: "/handbook/support/readiness/operations/docs/gitlab/gl-support-bot_tokens"
+canonical_path: /handbook/support/readiness/operations/docs/gitlab/gl-support-bot_tokens
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gl-support-bot_tokens_1_1/
+linkTitle: gl-support-bot tokens
+type: docs
 ---
 
 ## What is gl-support-bot used for?

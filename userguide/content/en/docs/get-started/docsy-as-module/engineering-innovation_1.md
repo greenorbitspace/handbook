@@ -1,5 +1,12 @@
 ---
-title: "Innovation at GitLab"
+title: Innovation at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engineering-innovation_1/
+description: ''
+linkTitle: Innovation at GitLab
+type: docs
 ---
 
 This guide serves as a comprehensive handbook for GitLab team members (engineers, product managers, and designers) who want to create innovations (proofs-of-concept) and share them internally—and eventually, with the public—in a transparent and collaborative way.

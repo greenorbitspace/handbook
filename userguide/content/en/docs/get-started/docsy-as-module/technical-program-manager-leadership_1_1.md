@@ -1,6 +1,13 @@
 ---
-title: "Technical Program Management - Leadership"
-description: "This job family represents all Managers in the Technical Program Management sub-department."
+title: Technical Program Management - Leadership
+description: This job family represents all Managers in the Technical Program Management
+  sub-department.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/technical-program-manager-leadership_1_1/
+linkTitle: Technical Program Management - Leadership
+type: docs
 ---
 
 This job family represents all Managers in the Technical Program Management sub-department within the Product Leadership department. They are responsible for managing, directly or indirectly, GitLab team members performing in the role of Technical Program Manager. More info about the Product Technical Program Management team can be found in the [TPM Job Family](/job-families/product/technical-program-manager) and the [Team Page](/handbook/product/groups/product-technical-program-management)

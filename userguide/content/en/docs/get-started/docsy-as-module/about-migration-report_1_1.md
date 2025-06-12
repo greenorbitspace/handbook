@@ -1,6 +1,13 @@
 ---
 title: About the Handbook
 Description: Migration report for moving the handbooks about section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/about-migration-report_1_1/
+description: ''
+linkTitle: About the Handbook
+type: docs
 ---
 
 **Section:** about

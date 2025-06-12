@@ -1,6 +1,13 @@
 ---
-title: "How to Use Product Usage Reporting"
-description: "Effective ways to apply product usage reporting for Sales and Customer Success teams to support their customers' top initiatives and business objectives."
+title: How to Use Product Usage Reporting
+description: Effective ways to apply product usage reporting for Sales and Customer
+  Success teams to support their customers' top initiatives and business objectives.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/using-product-usage-data-in-gainsight_1748146057853737415_1_1/
+linkTitle: How to Use Product Usage Reporting
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

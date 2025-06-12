@@ -1,7 +1,13 @@
 ---
 title: Contact Management Projects
 description: Operations workflows page for contact management projects
-canonical_path: "/handbook/security/customer-support-operations/workflows/cmps"
+canonical_path: /handbook/security/customer-support-operations/workflows/cmps
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cmps_2_1/
+linkTitle: Contact Management Projects
+type: docs
 ---
 
 ## Eligibility Criteria

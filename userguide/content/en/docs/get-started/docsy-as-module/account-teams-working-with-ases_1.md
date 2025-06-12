@@ -1,6 +1,13 @@
 ---
 title: Account Teams working with ASEs
-description: Information for Sales, CS and PS about how best to collaborate with Assigned Support Engineers (ASEs)
+description: Information for Sales, CS and PS about how best to collaborate with Assigned
+  Support Engineers (ASEs)
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/account-teams-working-with-ases_1/
+linkTitle: Account Teams working with ASEs
+type: docs
 ---
 
 ## Account Teams working with ASEs

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Ohs Policy 1 1
+aliases:
+- /docs/ohs-policy_1_1/
+description: ''
+linkTitle: Ohs Policy 1 1
+type: docs
+---
+
 # Occupational Health and Safety Policy
 
 At Green Orbit Digital, we are committed to providing a safe and healthy work environment for all employees, contractors, visitors, and other stakeholders. This policy demonstrates our dedication to preventing work-related injuries, illnesses, and promoting overall workplace wellbeing.

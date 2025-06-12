@@ -1,8 +1,12 @@
 ---
-title: SME Gather Feedback from Customers 
-
+title: SME Gather Feedback from Customers
 description: Gather Feedback from Customers
-
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sme-customer-feedback_1_1/
+linkTitle: SME Gather Feedback from Customers
+type: docs
 ---
 
 ## **Customer Feedback Loop**

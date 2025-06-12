@@ -1,6 +1,13 @@
 ---
-title: "Commercial & Licensing Working Group"
-description: "Define business & customer experience requirements for a system to handle commercial and licensing transactions into the future."
+title: Commercial & Licensing Working Group
+description: Define business & customer experience requirements for a system to handle
+  commercial and licensing transactions into the future.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/commercial-licensing_1/
+linkTitle: Commercial & Licensing Working Group
+type: docs
 ---
 
 ## Attributes

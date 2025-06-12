@@ -1,5 +1,12 @@
 ---
-title: "Workspaces ADR 008: Use SSH to access non-HTTP services running in a workspace"
+title: 'Workspaces ADR 008: Use SSH to access non-HTTP services running in a workspace'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/008_use_ssh_to_access_non_http_services_1_1/
+description: ''
+linkTitle: 'Workspaces ADR 008: Use SSH to access non-HTTP services running in a workspace'
+type: docs
 ---
 
 ## Context

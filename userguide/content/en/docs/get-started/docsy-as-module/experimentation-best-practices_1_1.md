@@ -1,14 +1,14 @@
 ---
-
-title: 'GitLab Experimentation Best Practices'
-description: "Experimentation allows us to learn and give the right experiences to our Customers, to create better value for Customers and GitLab."
+title: GitLab Experimentation Best Practices
+description: Experimentation allows us to learn and give the right experiences to
+  our Customers, to create better value for Customers and GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/experimentation-best-practices_1_1/
+linkTitle: GitLab Experimentation Best Practices
+type: docs
 ---
-
-
-
-
-
-
 
 ## Why Experimentation Best Practices?
 

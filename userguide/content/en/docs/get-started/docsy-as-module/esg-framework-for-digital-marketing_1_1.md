@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Esg Framework For Digital Marketing 1 1
+aliases:
+- /docs/esg-framework-for-digital-marketing_1_1/
+description: ''
+linkTitle: Esg Framework For Digital Marketing 1 1
+type: docs
+---
+
 # ESG Framework for Digital Marketing
 
 ## 1. Environmental Component

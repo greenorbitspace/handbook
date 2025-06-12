@@ -1,6 +1,13 @@
 ---
-title: "Staff - Infrastructure Department Career Framework"
-description: "The expected team member competencies in the Infrastructure department at GitLab for the Staff job level."
+title: Staff - Infrastructure Department Career Framework
+description: The expected team member competencies in the Infrastructure department
+  at GitLab for the Staff job level.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/staff_8_1_1/
+linkTitle: Staff - Infrastructure Department Career Framework
+type: docs
 ---
 
 {{% include "includes/engineering-careers/career-matrix-nav.md" %}}

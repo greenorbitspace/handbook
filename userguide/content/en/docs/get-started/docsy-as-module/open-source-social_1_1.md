@@ -1,10 +1,16 @@
 ---
-title: "Open Social Media Strategies from GitLab"
+title: Open Social Media Strategies from GitLab
 description: Use these micro-strategies to up your social game
-twitter_image: "/images/opengraph/open-social-strategies.png"
-twitter_image_alt: "These social strategies are licensed under CC BY-SA 4.0"
-twitter_site: "gitlab"
-twitter_creator: "gitlab"
+twitter_image: /images/opengraph/open-social-strategies.png
+twitter_image_alt: These social strategies are licensed under CC BY-SA 4.0
+twitter_site: gitlab
+twitter_creator: gitlab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/open-source-social_1_1/
+linkTitle: Open Social Media Strategies from GitLab
+type: docs
 ---
 
 ## Open Social Media Strategies

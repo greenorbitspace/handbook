@@ -1,5 +1,13 @@
 ---
-title: "Workspaces ADR 010: Extensions marketplace for GitLab VS Code fork for Workspaces"
+title: 'Workspaces ADR 010: Extensions marketplace for GitLab VS Code fork for Workspaces'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/010_extensions_marketplace_for_vscode_1_1/
+description: ''
+linkTitle: 'Workspaces ADR 010: Extensions marketplace for GitLab VS Code fork for
+  Workspaces'
+type: docs
 ---
 
 ## Context

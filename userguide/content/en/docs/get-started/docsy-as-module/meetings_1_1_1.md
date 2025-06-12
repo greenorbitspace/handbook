@@ -1,10 +1,16 @@
 ---
-title: "All-Remote Meetings"
+title: All-Remote Meetings
 description: How to conduct meetings at GitLab
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/meetings_1_1_1/
+linkTitle: All-Remote Meetings
+type: docs
 ---
 
 ## How to run an effective meeting at GitLab

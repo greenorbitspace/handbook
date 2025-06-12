@@ -1,6 +1,14 @@
 ---
-title: "Talent Acquisition Alignment"
-description: "This page is an overview of the search team alignment and the talent acquisition platform directly responsible individual in talent acquisition operations and talent brand."
+title: Talent Acquisition Alignment
+description: This page is an overview of the search team alignment and the talent
+  acquisition platform directly responsible individual in talent acquisition operations
+  and talent brand.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/recruiting-alignment_1_1/
+linkTitle: Talent Acquisition Alignment
+type: docs
 ---
 
 ## Search Team Alignment by Department

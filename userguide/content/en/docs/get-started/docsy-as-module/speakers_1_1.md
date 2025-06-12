@@ -1,6 +1,12 @@
 ---
 title: Learning Speaker Series
-description: "Overview of processes and history of L&D hosted learning speaker series"
+description: Overview of processes and history of L&D hosted learning speaker series
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/speakers_1_1/
+linkTitle: Learning Speaker Series
+type: docs
 ---
 
 ## Learning Speaker Series Overview

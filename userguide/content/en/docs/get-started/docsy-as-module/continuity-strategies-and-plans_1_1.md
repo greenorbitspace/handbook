@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Continuity Strategies And Plans 1 1
+aliases:
+- /docs/continuity-strategies-and-plans_1_1/
+description: ''
+linkTitle: Continuity Strategies And Plans 1 1
+type: docs
+---
+
 # Overview
 
 This document outlines comprehensive continuity strategies and plans for Green Orbit Digital to ensure business resilience and recovery in the face of disruptions.

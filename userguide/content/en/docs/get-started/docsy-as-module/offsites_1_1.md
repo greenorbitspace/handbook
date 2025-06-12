@@ -1,13 +1,13 @@
 ---
-
 title: Incubation Engineering Offsites
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/offsites_1_1/
+description: ''
+linkTitle: Incubation Engineering Offsites
+type: docs
 ---
-
-
-
-
-
-
 
 ## Incubation Engineering Offsites
 

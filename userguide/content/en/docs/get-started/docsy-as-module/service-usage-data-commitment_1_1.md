@@ -1,8 +1,14 @@
 ---
-
 title: Our Commitment to Individual User Privacy in relation to Service Usage Data
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/service-usage-data-commitment_1_1/
+description: ''
+linkTitle: Our Commitment to Individual User Privacy in relation to Service Usage
+  Data
+type: docs
 ---
-
 
 ## Our Commitment to Individual User Privacy in relation to Service Usage Data
 

@@ -1,9 +1,16 @@
 ---
 title: Zendesk agent personalization
-description: Describes agent display options that can be personalizd in Zendesk for support team members
+description: Describes agent display options that can be personalizd in Zendesk for
+  support team members
 category: Zendesk
-subcategory:
+subcategory: null
 last-reviewed: 2024-05-23
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/zendesk_agent_personalization_1748146058262465784_1_1/
+linkTitle: Zendesk agent personalization
+type: docs
 ---
 
 ## Zendesk agent personalization

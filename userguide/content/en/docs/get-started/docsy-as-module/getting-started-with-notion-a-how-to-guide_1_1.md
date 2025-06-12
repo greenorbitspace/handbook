@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Getting Started With Notion A How To Guide 1 1
+aliases:
+- /docs/getting-started-with-notion-a-how-to-guide_1_1/
+description: ''
+linkTitle: Getting Started With Notion A How To Guide 1 1
+type: docs
+---
+
 # Document Purpose
 
 <!-- Unsupported block type: divider -->

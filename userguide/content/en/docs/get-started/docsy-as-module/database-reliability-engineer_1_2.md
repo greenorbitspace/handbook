@@ -1,5 +1,12 @@
 ---
-title: "Database Reliability Engineer"
+title: Database Reliability Engineer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/database-reliability-engineer_1_2/
+description: ''
+linkTitle: Database Reliability Engineer
+type: docs
 ---
 
 Database Reliability Engineers (DBRE) are responsible for keeping database systems that support all user-facing services (most notably GitLab.com) and many other GitLab production systems running smoothly 24/7/365. DBREs are a blend of database engineering and administration gearheads and software developers that apply sound engineering principles, operational discipline and mature software development and automation, specializing in databases (PostgreSQL in particular). In that capacity, DBREs are peers to SREs and bring database expertise to the SRE and SAE Infrastructure teams as well as our engineering teams.

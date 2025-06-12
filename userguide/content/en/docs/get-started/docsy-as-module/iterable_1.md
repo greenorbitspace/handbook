@@ -2,8 +2,14 @@
 title: Iterable
 description: Iterable Overview
 twitter_image: /images/tweets/handbook-marketing.png
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/iterable_1/
+linkTitle: Iterable
+type: docs
 ---
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>

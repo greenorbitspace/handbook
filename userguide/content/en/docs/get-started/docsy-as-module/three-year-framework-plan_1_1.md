@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Three Year Framework Plan 1 1
+aliases:
+- /docs/three-year-framework-plan_1_1/
+description: ''
+linkTitle: Three Year Framework Plan 1 1
+type: docs
+---
+
 # Three Year Framework Plan 2025-2028
 
 ## Year 1: Building Foundations (2025-2026)

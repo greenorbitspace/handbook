@@ -1,7 +1,12 @@
 ---
-
 title: People Success Performance Indicators
-description: "GitLab's People Success Department Performance Indicators."
+description: GitLab's People Success Department Performance Indicators.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/people-success-performance-indicators_1_2/
+linkTitle: People Success Performance Indicators
+type: docs
 ---
 
 ## Key Review

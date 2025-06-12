@@ -1,6 +1,12 @@
 ---
-
-title: "Application Security Engineer Handling priority::1/severity::1 Issues"
+title: Application Security Engineer Handling priority::1/severity::1 Issues
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/handling-s1p1_1_1/
+description: ''
+linkTitle: Application Security Engineer Handling priority::1/severity::1 Issues
+type: docs
 ---
 
 The following process is a supplement to the first few steps of the [critical release process](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#critical-security-releases)

@@ -1,5 +1,12 @@
 ---
-title: "Data Governance and Quality Analyst"
+title: Data Governance and Quality Analyst
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/data-governance-and-quality-analyst_1_1/
+description: ''
+linkTitle: Data Governance and Quality Analyst
+type: docs
 ---
 
 ## Data Governance and Quality Analyst Roles at GitLab

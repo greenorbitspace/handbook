@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Client Certificate 1 1
+aliases:
+- /docs/client-certificate_1_1/
+description: ''
+linkTitle: Client Certificate 1 1
+type: docs
+---
+
 # Client certificate
 
 Client certificate authentication can be configured with the `Client`, the required options are passed along through the `connect` option.

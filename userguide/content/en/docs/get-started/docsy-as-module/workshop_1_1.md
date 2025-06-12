@@ -1,9 +1,13 @@
 ---
-
 title: Hands-on Workshop
 description: Hands-on Workshop
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/workshop_1_1/
+linkTitle: Hands-on Workshop
+type: docs
 ---
-
 
 ## Hands-on Workshop
 

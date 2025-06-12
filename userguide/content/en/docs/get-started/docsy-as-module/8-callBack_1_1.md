@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 8 Callback 1 1
+aliases:
+- /docs/8-callBack_1_1/
+description: ''
+linkTitle: 8 Callback 1 1
+type: docs
+---
+
 ### Call-Backs
 - in js, functions are first class objects
 - a function can be passed as an argument to a function

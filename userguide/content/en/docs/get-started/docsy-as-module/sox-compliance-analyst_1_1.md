@@ -1,5 +1,12 @@
 ---
 title: Internal Audit - SOX
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sox-compliance-analyst_1_1/
+description: ''
+linkTitle: Internal Audit - SOX
+type: docs
 ---
 
 The  Internal Audit - SOX  will have a key role in assessing the company’s compliance with the requirements of the Sarbanes-Oxley Act of 2002.

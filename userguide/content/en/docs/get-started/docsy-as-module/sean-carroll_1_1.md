@@ -1,8 +1,15 @@
 ---
-
-title: "Sean Carroll's Readme"
-job: "Engineering Manager, Source Code"
+title: Sean Carroll's Readme
+job: Engineering Manager, Source Code
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sean-carroll_1_1/
+description: ''
+linkTitle: Sean Carroll's Readme
+type: docs
 ---
+
 ## Sean Carroll's - README
 
 I'm [Sean Carroll](https://gitlab.com/sean_carroll), Engineering Manager for [Source Code](/handbook/product/categories/features/#createsource-code-group). I have been living in Geneva, Switzerland for a while now. I've also lived in the US, Turkey, Scotland and of course Australia, where I'm from. These experiences have given me a strong understanding of different cultures and work styles.

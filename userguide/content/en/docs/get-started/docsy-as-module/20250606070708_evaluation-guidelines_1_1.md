@@ -5,6 +5,13 @@ doc_id: doc-014
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070708_evaluation-guidelines_1_1/
+description: ''
+linkTitle: Evaluation Guidelines
+type: docs
 ---
 
 To measure the progress of your product or service at Green Orbit Digital, you can develop a methodical approach that includes both qualitative and quantitative metrics. Here’s a method to consider:

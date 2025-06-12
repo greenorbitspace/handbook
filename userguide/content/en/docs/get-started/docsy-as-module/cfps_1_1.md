@@ -1,10 +1,13 @@
 ---
-
-title: "Developer Advocacy CFPs"
+title: Developer Advocacy CFPs
 aliases:
 - /handbook/marketing/developer-relations/developer-evangelism/cfps/index.html
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Developer Advocacy CFPs
+type: docs
 ---
-
 
 ## CFP Resources
 

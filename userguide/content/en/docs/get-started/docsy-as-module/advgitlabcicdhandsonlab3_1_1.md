@@ -1,6 +1,12 @@
 ---
-title: "GitLab Advanced CI/CD - Hands-On Lab: Optimizing Pipeline Testing"
-description: "This Hands-On Guide walks you through optimizing a test pipeline"
+title: 'GitLab Advanced CI/CD - Hands-On Lab: Optimizing Pipeline Testing'
+description: This Hands-On Guide walks you through optimizing a test pipeline
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/advgitlabcicdhandsonlab3_1_1/
+linkTitle: 'GitLab Advanced CI/CD - Hands-On Lab: Optimizing Pipeline Testing'
+type: docs
 ---
 
 The goal of this lab is to explore the different ways that we can configure testing in an application.

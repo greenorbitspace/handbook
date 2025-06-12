@@ -1,7 +1,14 @@
 ---
 title: Developer Vulnerability Management Setup Guide
-description: "The Security Insights group at GitLab is charged with developing solutions to enable customers to manage their security risks effectively and efficiently."
+description: The Security Insights group at GitLab is charged with developing solutions
+  to enable customers to manage their security risks effectively and efficiently.
 layout: single
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/developer_setup_1_1/
+linkTitle: Developer Vulnerability Management Setup Guide
+type: docs
 ---
 
 ## Requirements

@@ -1,6 +1,13 @@
 ---
-title: "Compliance Standards Adherence Dashboard MVC"
+title: Compliance Standards Adherence Dashboard MVC
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/compliance_standards_adherence_dashboard_mvc_1/
+description: ''
+linkTitle: Compliance Standards Adherence Dashboard MVC
+type: docs
 ---
 
 ## Context

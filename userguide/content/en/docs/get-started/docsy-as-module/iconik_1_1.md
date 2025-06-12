@@ -1,14 +1,14 @@
 ---
-
-title: "iconik"
-description: "Iconik is a hybrid cloud media management solution for digital production workflows."
+title: iconik
+description: Iconik is a hybrid cloud media management solution for digital production
+  workflows.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/iconik_1_1/
+linkTitle: iconik
+type: docs
 ---
-
-
-
-
-
-
 
 ## About
 

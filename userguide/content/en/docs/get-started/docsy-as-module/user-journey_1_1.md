@@ -1,6 +1,12 @@
 ---
-title: "Contributor Success Team - Code Contributor User Journey"
-description: "Code Contributor User Journey"
+title: Contributor Success Team - Code Contributor User Journey
+description: Code Contributor User Journey
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/user-journey_1_1/
+linkTitle: Contributor Success Team - Code Contributor User Journey
+type: docs
 ---
 
 ## Journey Map

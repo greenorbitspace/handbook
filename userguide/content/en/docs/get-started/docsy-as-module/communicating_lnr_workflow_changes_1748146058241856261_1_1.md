@@ -1,7 +1,13 @@
 ---
 title: Communicating Licensing & Renewals Workflow Changes
-description: "The Support process to communicate workflow changes to team members"
+description: The Support process to communicate workflow changes to team members
 category: General
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/communicating_lnr_workflow_changes_1748146058241856261_1_1/
+linkTitle: Communicating Licensing & Renewals Workflow Changes
+type: docs
 ---
 
 When modifications are being made to any Licensing and Renewals workflows, consider the following:

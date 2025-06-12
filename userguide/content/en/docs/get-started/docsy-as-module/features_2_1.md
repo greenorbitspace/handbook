@@ -1,5 +1,12 @@
 ---
-title: "Features by Group"
+title: Features by Group
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/features_2_1/
+description: ''
+linkTitle: Features by Group
+type: docs
 ---
 
 ## Features by Group

@@ -5,6 +5,13 @@ doc_id: doc-1206
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070715_value-creation-frameworks_1_1/
+description: ''
+linkTitle: Value Creation Frameworks
+type: docs
 ---
 
 # 1. Value Creation Foundation

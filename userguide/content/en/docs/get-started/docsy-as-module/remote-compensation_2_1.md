@@ -1,10 +1,16 @@
 ---
-title: "All-Remote Compensation"
+title: All-Remote Compensation
 description: How does compensation work in a remote company
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/remote-compensation_2_1/
+linkTitle: All-Remote Compensation
+type: docs
 ---
 
 On this page, we're detailing how compensation works in a global all-remote company.

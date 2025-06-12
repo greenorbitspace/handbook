@@ -1,7 +1,13 @@
 ---
 title: Sales and Customer Success Escalations
-description: "How to escalate from Support to GitLab Sales or Customer Success"
+description: How to escalate from Support to GitLab Sales or Customer Success
 category: Handling tickets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-sales-escalations_1748146058259973125_1_1/
+linkTitle: Sales and Customer Success Escalations
+type: docs
 ---
 
 ## Purpose

@@ -1,5 +1,12 @@
 ---
-title: "macOS tools and tips"
+title: macOS tools and tips
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mac_1_1/
+description: ''
+linkTitle: macOS tools and tips
+type: docs
 ---
 
 This page lists various tips and tools for macOS.

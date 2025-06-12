@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Books Az 1
+aliases:
+- /docs/free-programming-books-az_1/
+description: ''
+linkTitle: Free Programming Books Az 1
+type: docs
+---
+
 ### Index
 
 * [C](#c)

@@ -1,6 +1,12 @@
 ---
-title: "Engineering Internship"
-description: "Establish an Engineering Internship to Hire program"
+title: Engineering Internship
+description: Establish an Engineering Internship to Hire program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engineering-internship_1_1/
+linkTitle: Engineering Internship
+type: docs
 ---
 
 ## Attributes

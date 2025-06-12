@@ -1,3 +1,18 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Accessibility Statement   Green Orbit 1 1
+aliases:
+- /docs/accessibility-statement
+linkTitle: Accessibility Statement   Green Orbit 1 1
+description: ''
+type: docs
+---
+
+green-orbit_1_1/
+description: ''
+---
+
 This website (wholegraindigital.com) is run by Scamper Limited, a UK limited company trading as Wholegrain Digital. We’re a web design agency based at Somerset House in London.
 
 We want as many people as possible to be able to use this website. We’ve started by trying to ensure that our website content is clearly presented, well structured, clutter free and written without jargon.

@@ -1,6 +1,13 @@
 ---
-title: "Self-managed Scalability Working Group"
-description: "This group within GitLab ensure all new customers are set up in a standardized environment that will scales with their needs. Learn more!"
+title: Self-managed Scalability Working Group
+description: This group within GitLab ensure all new customers are set up in a standardized
+  environment that will scales with their needs. Learn more!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/self-managed-scalability_1748147631598140987_1_1/
+linkTitle: Self-managed Scalability Working Group
+type: docs
 ---
 
 ## Attributes

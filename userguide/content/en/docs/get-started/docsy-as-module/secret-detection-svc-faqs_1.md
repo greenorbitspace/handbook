@@ -1,5 +1,12 @@
 ---
-title: "Secret Detection Service: General FAQs"
+title: 'Secret Detection Service: General FAQs'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/secret-detection-svc-faqs_1/
+description: ''
+linkTitle: 'Secret Detection Service: General FAQs'
+type: docs
 ---
 
 This page contains answers to the general questions about the Secret Detection Service. This runbook can be used by anyone who want to understand the technical aspects about the service.

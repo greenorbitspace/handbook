@@ -2,6 +2,11 @@
 title: Overview
 description: Here's where your user finds out if your project is for them.
 weight: 1
+date: '2025-06-12'
+aliases:
+- /docs/overview_1/
+linkTitle: Overview
+type: docs
 ---
 
 {{% pageinfo %}}

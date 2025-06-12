@@ -1,7 +1,13 @@
 ---
 title: Dev Pulse
 description: Support Operations documentation page for Dev Pulse
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/dev_pulse"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/dev_pulse
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dev_pulse_1_2/
+linkTitle: Dev Pulse
+type: docs
 ---
 
 <sup>*Introduced via [support-ops-project#970](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/970)*</sup>

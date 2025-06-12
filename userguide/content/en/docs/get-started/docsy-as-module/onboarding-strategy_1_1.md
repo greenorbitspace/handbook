@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Onboarding Strategy 1 1
+aliases:
+- /docs/onboarding-strategy_1_1/
+description: ''
+linkTitle: Onboarding Strategy 1 1
+type: docs
+---
+
 # Onboarding Strategy
 
 ## 1. Pre-boarding Phase

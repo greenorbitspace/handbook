@@ -1,11 +1,16 @@
 ---
 title: GitLab All-Remote Course (Remote Work Foundation)
 description: Get certified in GitLab's remote work foundations
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
-
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/remote-certification_1_1/
+linkTitle: GitLab All-Remote Course (Remote Work Foundation)
+type: docs
 ---
 
 ![GitLab all-remote team](/images/all-remote/GitLab-All-Remote-Zoom-Team-Tanuki.jpg)

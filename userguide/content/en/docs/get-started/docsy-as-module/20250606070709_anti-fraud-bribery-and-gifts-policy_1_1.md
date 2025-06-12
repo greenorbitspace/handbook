@@ -5,6 +5,13 @@ doc_id: doc-079
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070709_anti-fraud-bribery-and-gifts-policy_1_1/
+description: ''
+linkTitle: Anti Fraud Bribery And Gifts Policy
+type: docs
 ---
 
 Anti-Fraud, Bribery, and Gifts Policy - Green Orbit Digital

@@ -1,13 +1,13 @@
 ---
-
-title: "Executive Business Reviews (EBRs)"
+title: Executive Business Reviews (EBRs)
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ebr_1_1/
+description: ''
+linkTitle: Executive Business Reviews (EBRs)
+type: docs
 ---
-
-
-
-
-
-
 
 View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 

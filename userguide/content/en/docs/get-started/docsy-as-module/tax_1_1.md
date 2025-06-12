@@ -1,5 +1,12 @@
 ---
-title: "Tax"
+title: Tax
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tax_1_1/
+description: ''
+linkTitle: Tax
+type: docs
 ---
 
 ## Levels

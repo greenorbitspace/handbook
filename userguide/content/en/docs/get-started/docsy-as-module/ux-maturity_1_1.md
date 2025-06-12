@@ -1,6 +1,13 @@
 ---
-title: "UX maturity guidelines for AI-assisted features"
-description: "When to move an AI-assisted feature from Experiment to Beta, and to Generally Available (GA), from a UX perspective."
+title: UX maturity guidelines for AI-assisted features
+description: When to move an AI-assisted feature from Experiment to Beta, and to Generally
+  Available (GA), from a UX perspective.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ux-maturity_1_1/
+linkTitle: UX maturity guidelines for AI-assisted features
+type: docs
 ---
 
 ## Summary

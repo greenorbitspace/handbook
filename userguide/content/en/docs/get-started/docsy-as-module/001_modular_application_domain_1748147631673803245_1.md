@@ -1,8 +1,16 @@
 ---
-title: "Modular Monolith ADR 001: Modularize the application domain"
-creation-date: "2024-05-07"
-authors: [ "@fabiopitino" ]
+title: 'Modular Monolith ADR 001: Modularize the application domain'
+creation-date: '2024-05-07'
+authors:
+- '@fabiopitino'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/001_modular_application_domain_1748147631673803245_1/
+description: ''
+linkTitle: 'Modular Monolith ADR 001: Modularize the application domain'
+type: docs
 ---
 
 ## Context

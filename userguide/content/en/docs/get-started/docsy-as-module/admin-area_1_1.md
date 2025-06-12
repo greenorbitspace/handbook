@@ -3,6 +3,13 @@ stage: enablement
 group: Tenant Scale
 title: 'Cells: Admin Area'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/admin-area_1_1/
+description: ''
+linkTitle: 'Cells: Admin Area'
+type: docs
 ---
 
 {{% alert %}}

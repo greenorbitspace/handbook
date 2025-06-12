@@ -1,7 +1,14 @@
 ---
-title: "Customer Use Case Adoption"
-description: "Drive cross-functional alignment around use case adoption as the north star KPI and #1 predictor of Churn & Contraction."
+title: Customer Use Case Adoption
+description: 'Drive cross-functional alignment around use case adoption as the north
+  star KPI and #1 predictor of Churn & Contraction.'
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-use-case-adoption_1748133871250028469_1_1/
+linkTitle: Customer Use Case Adoption
+type: docs
 ---
 
 ## Purpose

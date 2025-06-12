@@ -1,6 +1,13 @@
 ---
-title: "Development Metrics Working Group"
-description: "The GitLab Development Metrics Working Group aims to speed up the delivery of value to customers by creating & interpreting quality metrics"
+title: Development Metrics Working Group
+description: The GitLab Development Metrics Working Group aims to speed up the delivery
+  of value to customers by creating & interpreting quality metrics
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/development-metrics_1_1/
+linkTitle: Development Metrics Working Group
+type: docs
 ---
 
 ## Attributes

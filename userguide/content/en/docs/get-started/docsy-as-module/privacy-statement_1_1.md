@@ -1,5 +1,12 @@
 ---
-title: "LEGACY: Privacy Statement"
+title: 'LEGACY: Privacy Statement'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/privacy-statement_1_1/
+description: ''
+linkTitle: 'LEGACY: Privacy Statement'
+type: docs
 ---
 
 ## LEGACY: Privacy Statement (Effective Dates June 10, 2022 - March 18, 2024)

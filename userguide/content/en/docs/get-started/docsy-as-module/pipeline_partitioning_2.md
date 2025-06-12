@@ -1,12 +1,24 @@
 ---
-title: "Pipeline data partitioning design"
+title: Pipeline data partitioning design
 status: ongoing
-creation-date: "2022-05-31"
-authors: [ "@grzesiek" ]
-coach: [ "@ayufan", "@grzesiek" ]
-approvers: [ "@jreporter", "@cheryl.li" ]
-owning-stage: "~devops::verify"
+creation-date: '2022-05-31'
+authors:
+- '@grzesiek'
+coach:
+- '@ayufan'
+- '@grzesiek'
+approvers:
+- '@jreporter'
+- '@cheryl.li'
+owning-stage: ~devops::verify
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/pipeline_partitioning_2/
+description: ''
+linkTitle: Pipeline data partitioning design
+type: docs
 ---
 
 {{< design-document-header >}}

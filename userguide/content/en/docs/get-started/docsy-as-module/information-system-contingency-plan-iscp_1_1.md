@@ -1,6 +1,12 @@
 ---
-title: "Information System Contingency Plan (ISCP)"
-description: "Provides procedures and capabilities for recovering an information system."
+title: Information System Contingency Plan (ISCP)
+description: Provides procedures and capabilities for recovering an information system.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/information-system-contingency-plan-iscp_1_1/
+linkTitle: Information System Contingency Plan (ISCP)
+type: docs
 ---
 
 ## Purpose

@@ -1,6 +1,13 @@
 ---
 title: Anti-Abuse Group
-description: "The Anti-Abuse group creates controls to prevent abuse of the GitLab product"
+description: The Anti-Abuse group creates controls to prevent abuse of the GitLab
+  product
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/anti-abuse_1_1_1/
+linkTitle: Anti-Abuse Group
+type: docs
 ---
 
 ## Vision

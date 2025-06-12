@@ -1,7 +1,12 @@
 ---
-
-title: "GitLab Data Seeder (GDS)"
-description: "Demo and Test Data generator"
+title: GitLab Data Seeder (GDS)
+description: Demo and Test Data generator
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-data-seeder_1_1/
+linkTitle: GitLab Data Seeder (GDS)
+type: docs
 ---
 
 ## What is the GitLab Data Seeder (GDS)?

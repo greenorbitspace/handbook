@@ -1,12 +1,22 @@
 ---
-title: "Setting feature flags in Cells"
+title: Setting feature flags in Cells
 status: proposed
-creation-date: "2024-10-14"
-authors: [ "@rpereira2" ]
-coaches: [ "@nolith", "@skarbek" ]
-owning-stage: "~devops::platforms"
+creation-date: '2024-10-14'
+authors:
+- '@rpereira2'
+coaches:
+- '@nolith'
+- '@skarbek'
+owning-stage: ~devops::platforms
 group: Software Delivery::Deploy
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/feature_flags_2_1/
+description: ''
+linkTitle: Setting feature flags in Cells
+type: docs
 ---
 
 <!-- Design Documents often contain forward-looking statements -->

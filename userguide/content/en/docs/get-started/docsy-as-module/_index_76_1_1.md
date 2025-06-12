@@ -1,6 +1,12 @@
 ---
 title: Git and Gitaly Support Pod
 description: For all things Git, Gitaly, Gitlay Cluster, and Praefect related.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_76_1_1/
+linkTitle: Git and Gitaly Support Pod
+type: docs
 ---
 
 ## Purpose

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Release Channels Publishing 1 1
+aliases:
+- /docs/release-channels-publishing_1_1/
+description: ''
+linkTitle: Release Channels Publishing 1 1
+type: docs
+---
+
 # Release Channels and Publishing
 
 Next.js has two release channels: `stable` and `canary`.

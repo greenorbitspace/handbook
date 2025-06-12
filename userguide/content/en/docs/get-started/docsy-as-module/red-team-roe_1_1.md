@@ -1,7 +1,12 @@
 ---
-title: "Red Team Rules of Engagement"
+title: Red Team Rules of Engagement
 aliases:
-  - /handbook/security/threat-management/red-team/red-team-roe/
+- /handbook/security/threat-management/red-team/red-team-roe/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Red Team Rules of Engagement
+type: docs
 ---
 
 This page outlines the general rules that apply to all work conducted by the Red Team. Individual operations may include additional rules defined during planning stages.

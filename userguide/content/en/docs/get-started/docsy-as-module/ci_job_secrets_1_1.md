@@ -1,7 +1,14 @@
 ---
 title: 'Use case study: using secrets in a CI job'
-owning-stage: "~devops::verify"
+owning-stage: ~devops::verify
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ci_job_secrets_1_1/
+description: ''
+linkTitle: 'Use case study: using secrets in a CI job'
+type: docs
 ---
 
 ## Objectives

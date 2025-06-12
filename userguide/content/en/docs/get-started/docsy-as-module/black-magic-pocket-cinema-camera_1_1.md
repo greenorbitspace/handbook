@@ -1,9 +1,15 @@
 ---
-title: "Digital Production Equipment List: Equipment Use and Operation"
+title: 'Digital Production Equipment List: Equipment Use and Operation'
 description: A guide for use of the Digital Production Equipment.
-twitter_image: '/images/tweets/handbook-marketing.png'
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/tweets/handbook-marketing.png
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/black-magic-pocket-cinema-camera_1_1/
+linkTitle: 'Digital Production Equipment List: Equipment Use and Operation'
+type: docs
 ---
 
 ## Blackmagic Pocket Cinema

@@ -1,5 +1,12 @@
 ---
-title: "Workspaces ADR 014: Default container image and configuration for Workspaces"
+title: 'Workspaces ADR 014: Default container image and configuration for Workspaces'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/014_default_container_image_and_configuration_1/
+description: ''
+linkTitle: 'Workspaces ADR 014: Default container image and configuration for Workspaces'
+type: docs
 ---
 
 ## Context

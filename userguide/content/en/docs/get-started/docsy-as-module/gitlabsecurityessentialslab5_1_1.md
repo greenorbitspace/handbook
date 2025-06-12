@@ -1,6 +1,13 @@
 ---
-title: "GitLab Security Essentials - Hands-On Lab: DAST and API Scans"
-description: "This Hands-On Guide walks you through the process of using container scanning in your projects"
+title: 'GitLab Security Essentials - Hands-On Lab: DAST and API Scans'
+description: This Hands-On Guide walks you through the process of using container
+  scanning in your projects
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabsecurityessentialslab5_1_1/
+linkTitle: 'GitLab Security Essentials - Hands-On Lab: DAST and API Scans'
+type: docs
 ---
 
 > Estimated time to complete: 40 minutes

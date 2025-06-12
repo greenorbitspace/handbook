@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Annual Performance Self Review 1 1
+aliases:
+- /docs/annual-performance-self-review_1_1/
+description: ''
+linkTitle: Annual Performance Self Review 1 1
+type: docs
+---
+
 # Step 1: Identify the Year's Yay Moments
 
 A whole year is hard to get through (especially this year). 

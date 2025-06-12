@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Deep Dives 1
+aliases:
+- /docs/deep-dives_1/
+description: ''
+linkTitle: Deep Dives 1
+type: docs
+---
+
 The groups in the [Create stage](/handbook/product/categories/#create-stage) organize regular [Deep Dive sessions](/handbook/communication/deep-dives/)
 to share our domain specific knowledge with others in the stage, the organization,
 and the wider community. All existing Deep Dives can be found on [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0KqsiWzD0YZYp9xSxgTRoWxH)

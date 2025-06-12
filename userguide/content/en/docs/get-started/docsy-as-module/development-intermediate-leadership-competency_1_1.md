@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Development Intermediate Leadership Competency 1 1
+aliases:
+- /docs/development-intermediate-leadership-competency_1_1/
+description: ''
+linkTitle: Development Intermediate Leadership Competency 1 1
+type: docs
+---
+
 ##### Development
 
 * Still largely concentrates on growing themselves.

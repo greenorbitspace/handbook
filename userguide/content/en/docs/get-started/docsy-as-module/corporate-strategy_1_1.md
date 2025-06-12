@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Corporate Strategy 1 1
+aliases:
+- /docs/corporate-strategy_1_1/
+description: ''
+linkTitle: Corporate Strategy 1 1
+type: docs
+---
+
 # 🌍 Green Orbit Digital | Corporate Strategy
 
 Defining our long-term direction and sustainability leadership in the space sector.

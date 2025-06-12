@@ -1,6 +1,13 @@
 ---
-title: "BootstrapVue Removal Group"
-description: "Learn more about the BootstrapVue Removal Task Group attributes, goals, roles and responsibilities."
+title: BootstrapVue Removal Group
+description: Learn more about the BootstrapVue Removal Task Group attributes, goals,
+  roles and responsibilities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bootstrap-vue-removal_1_1/
+linkTitle: BootstrapVue Removal Group
+type: docs
 ---
 
 ## Attributes

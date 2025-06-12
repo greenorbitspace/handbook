@@ -1,6 +1,13 @@
 ---
-title: "Services to Accelerate Customer Adoption"
-description: "Discover the customer benefits and value of working with GitLab Professional Services."
+title: Services to Accelerate Customer Adoption
+description: Discover the customer benefits and value of working with GitLab Professional
+  Services.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sales-enablement_1_1/
+linkTitle: Services to Accelerate Customer Adoption
+type: docs
 ---
 
 ## Overview

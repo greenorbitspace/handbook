@@ -1,5 +1,12 @@
 ---
-title: "Vice President of Tax"
+title: Vice President of Tax
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vice-president-of-tax_1_1/
+description: ''
+linkTitle: Vice President of Tax
+type: docs
 ---
 
 The Vice President of Tax is responsible for GitLab’s overall tax strategy including all components of compliance, tax planning and accounting for income taxes.  The Vice President of Tax will work with advisors, service providers, GitLab’s auditors, the Audit Committee and other tax professionals in carrying out his or her responsibilities. The Vice President of Tax will regularly report to the Company’s Board of Directors and/or Committees of the Board to update the members on the Company’s tax strategy, practices and exposures.}

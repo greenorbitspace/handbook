@@ -1,6 +1,12 @@
 ---
-title: "Trademarks Training Materials"
-description: "Trademarks training materials for GitLab team members"
+title: Trademarks Training Materials
+description: Trademarks training materials for GitLab team members
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/trademarks-training-materials_1_1/
+linkTitle: Trademarks Training Materials
+type: docs
 ---
 
 ## Trademarks at GitLab

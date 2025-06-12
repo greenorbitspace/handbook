@@ -1,8 +1,13 @@
 ---
-title: "Anti-Harassment Policy"
-description: "Everyone at GitLab has a responsibility to prevent and stop harassment. Learn more about our Anti-harassment policy."
+title: Anti-Harassment Policy
+description: Everyone at GitLab has a responsibility to prevent and stop harassment.
+  Learn more about our Anti-harassment policy.
 aliases:
 - /handbook/anti-harassment/
+weight: 2
+date: '2025-06-12'
+linkTitle: Anti-Harassment Policy
+type: docs
 ---
 
 ## Introduction

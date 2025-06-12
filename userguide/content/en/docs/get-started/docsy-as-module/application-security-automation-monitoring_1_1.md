@@ -1,5 +1,12 @@
 ---
-title: "Application Security - Automation and Monitoring"
+title: Application Security - Automation and Monitoring
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/application-security-automation-monitoring_1_1/
+description: ''
+linkTitle: Application Security - Automation and Monitoring
+type: docs
 ---
 
 ## Monitoring

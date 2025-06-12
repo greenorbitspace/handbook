@@ -1,7 +1,13 @@
 ---
 title: Token rotation
 description: Support Operations proceses page for token rotation
-canonical_path: "/handbook/support/readiness/operations/docs/policies/token_rotation"
+canonical_path: /handbook/support/readiness/operations/docs/policies/token_rotation
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/token_rotation_1_1/
+linkTitle: Token rotation
+type: docs
 ---
 
 This page documents what to do when a token needs to be rotated (meaning one

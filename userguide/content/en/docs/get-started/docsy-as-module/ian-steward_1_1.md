@@ -1,7 +1,13 @@
 ---
-title: "Ian Steward - CRO"
+title: Ian Steward - CRO
 description: Learn more about working with Ian Steward, Chief Revenue Officer at GitLab.
-job: "CRO"
+job: CRO
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ian-steward_1_1/
+linkTitle: Ian Steward - CRO
+type: docs
 ---
 
 ## Ian Steward's README

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Mockpool 1 1
+aliases:
+- /docs/MockPool_1_1/
+description: ''
+linkTitle: Mockpool 1 1
+type: docs
+---
+
 # Class: MockPool
 
 Extends: `undici.Pool`

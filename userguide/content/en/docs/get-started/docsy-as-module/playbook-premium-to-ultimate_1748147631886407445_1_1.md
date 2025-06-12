@@ -1,7 +1,12 @@
 ---
-title: "Sales Play: Upsell Premium to Ultimate"
-description: "This page has all the information for the GTM-CICD sales play."
-
+title: 'Sales Play: Upsell Premium to Ultimate'
+description: This page has all the information for the GTM-CICD sales play.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/playbook-premium-to-ultimate_1748147631886407445_1_1/
+linkTitle: 'Sales Play: Upsell Premium to Ultimate'
+type: docs
 ---
 
 Note: Think of a sales play as a recipe. If you follow the recipe, we can achieve more predictable, consistent results. And if we find an asset or approach that works best (or flops), then we can tweak the recipe to continuously improve. **If you have improvements to suggest, please contribute comments to [this MR](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5095) to suggest your edits and upvote on others.

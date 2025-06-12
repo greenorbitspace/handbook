@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Timelines 1 1
+aliases:
+- /docs/timelines_1_1/
+description: ''
+linkTitle: Timelines 1 1
+type: docs
+---
+
 The user Tweet timeline endpoints provides access to Tweets published by a specific Twitter account.
 
 Each timeline endpoints may use the following parameters to filter out the timeline. Use these parameters to create

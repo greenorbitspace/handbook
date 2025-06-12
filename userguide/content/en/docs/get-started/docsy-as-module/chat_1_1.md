@@ -1,5 +1,12 @@
 ---
-title: "GitLab Communication Chat"
+title: GitLab Communication Chat
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/chat_1_1/
+description: ''
+linkTitle: GitLab Communication Chat
+type: docs
 ---
 
 ## Introduction

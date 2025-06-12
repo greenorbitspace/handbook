@@ -1,8 +1,13 @@
 ---
 title: Engagement Surveys and Employer Awards
-description: >-
-  GitLab uses engagement surveys to allow team members to provide feedback and
-  leadership to gain insight.
+description: GitLab uses engagement surveys to allow team members to provide feedback
+  and leadership to gain insight.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engagement_1_1/
+linkTitle: Engagement Surveys and Employer Awards
+type: docs
 ---
 
 ### Surveys Overview

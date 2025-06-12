@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Ethical Marketing 1 1
+aliases:
+- /docs/ethical-marketing_1_1/
+description: ''
+linkTitle: Ethical Marketing 1 1
+type: docs
+---
+
 # Purpose and Scope
 
 This policy outlines Green Orbit Digital's commitment to ethical marketing practices, ensuring transparency, honesty, and responsibility in all marketing activities. It applies to all marketing communications, advertising, and customer engagement initiatives.

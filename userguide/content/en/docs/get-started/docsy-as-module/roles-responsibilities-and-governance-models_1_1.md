@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Roles Responsibilities And Governance Models 1 1
+aliases:
+- /docs/roles-responsibilities-and-governance-models_1_1/
+description: ''
+linkTitle: Roles Responsibilities And Governance Models 1 1
+type: docs
+---
+
 ### Roles, Responsibilities, and Governance Models in Compliance with ISO 44001
 
 ISO 44001 is an international standard that outlines the requirements for establishing and maintaining successful business relationships (collaborations, joint ventures, partnerships) to achieve mutually beneficial outcomes. The standard focuses on collaboration, shared governance, and a strategic approach to managing relationships with external partners, ensuring efficiency and value creation.

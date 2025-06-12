@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Publications 1
+aliases:
+- /docs/publications_1/
+description: ''
+linkTitle: Publications 1
+type: docs
+---
+
 +++
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.

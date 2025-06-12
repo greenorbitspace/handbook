@@ -1,6 +1,13 @@
 ---
 title: Friends and Family Day
 Description: Migration report for moving the handbooks family-and-friends-day section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/family-and-friends-day-migration-report_1_1/
+description: ''
+linkTitle: Friends and Family Day
+type: docs
 ---
 
 **Section:** family-and-friends-day

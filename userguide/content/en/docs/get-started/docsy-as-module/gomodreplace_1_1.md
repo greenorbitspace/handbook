@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Gomodreplace 1 1
+aliases:
+- /docs/gomodreplace_1_1/
+description: ''
+linkTitle: Gomodreplace 1 1
+type: docs
+---
+
 # How to add a `replace` directive to `go.mod`
 
 `go.mod` files allow different types of directives including `require` or `replace`.

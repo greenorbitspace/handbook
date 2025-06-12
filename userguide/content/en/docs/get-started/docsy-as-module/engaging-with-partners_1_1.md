@@ -1,6 +1,12 @@
 ---
-
-title: "Engaging with Partners"
+title: Engaging with Partners
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engaging-with-partners_1_1/
+description: ''
+linkTitle: Engaging with Partners
+type: docs
 ---
 
 ## Process for Engaging with Partners in [CSM-Assigned](/handbook/customer-success/csm/segment/) Customer Accounts

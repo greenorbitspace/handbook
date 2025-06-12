@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Navigation Inventory 1 1
+aliases:
+- /docs/navigation-inventory_1_1/
+description: ''
+linkTitle: Navigation Inventory 1 1
+type: docs
+---
+
 <div class="alert alert-primary">
 Last updated at {{ index .Site.Data.navigation "generated_at" }}
 from `{{ index .Site.Data.navigation "commit_sha" }}`.

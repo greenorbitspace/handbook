@@ -1,11 +1,14 @@
 ---
-
 title: How to Handle Product Offering Migration Tickets
-description: "How to handle product offering migration tickets"
+description: How to handle product offering migration tickets
 category: Handling tickets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/handling_offer_migration_tickets_1_1/
+linkTitle: How to Handle Product Offering Migration Tickets
+type: docs
 ---
-
-
 
 ## Overview
 

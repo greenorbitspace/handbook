@@ -1,9 +1,13 @@
 ---
-
 title: Solutions Architects Content Calendar
-description: "Content calendar for Solutions Architects."
+description: Content calendar for Solutions Architects.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sa-content_1_1/
+linkTitle: Solutions Architects Content Calendar
+type: docs
 ---
-
 
 ## Introduction
 

@@ -1,14 +1,14 @@
 ---
-
-title: "SMB Area Sales Manager Operating Rhythm"
-description: "Successful management includes onboarding, coaching, career development and performance management"
+title: SMB Area Sales Manager Operating Rhythm
+description: Successful management includes onboarding, coaching, career development
+  and performance management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/smb-sales_1_1/
+linkTitle: SMB Area Sales Manager Operating Rhythm
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

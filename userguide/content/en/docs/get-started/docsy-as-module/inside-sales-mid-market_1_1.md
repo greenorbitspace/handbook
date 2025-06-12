@@ -1,5 +1,12 @@
 ---
-title: "Inside Sales, Mid-Market"
+title: Inside Sales, Mid-Market
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/inside-sales-mid-market_1_1/
+description: ''
+linkTitle: Inside Sales, Mid-Market
+type: docs
 ---
 
 ## Responsibilities

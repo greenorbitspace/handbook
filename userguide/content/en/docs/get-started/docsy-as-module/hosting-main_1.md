@@ -1,5 +1,12 @@
 ---
-title: "Hosting"
+title: Hosting
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/hosting-main_1/
+description: ''
+linkTitle: Hosting
+type: docs
 ---
 
 ---

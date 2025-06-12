@@ -1,5 +1,12 @@
 ---
-title: "Marketing Groups and Projects guidelines"
+title: Marketing Groups and Projects guidelines
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/groups_2_1/
+description: ''
+linkTitle: Marketing Groups and Projects guidelines
+type: docs
 ---
 
 {{< include "includes/wip-notice.md" >}}

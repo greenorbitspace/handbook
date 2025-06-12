@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Client 1 1
+aliases:
+- /docs/Client_1_1/
+description: ''
+linkTitle: Client 1 1
+type: docs
+---
+
 # Class: Client
 
 Extends: `undici.Dispatcher`

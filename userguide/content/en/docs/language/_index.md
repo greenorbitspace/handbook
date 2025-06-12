@@ -3,6 +3,11 @@ title: Multi-language Support
 weight: 7
 description: Support multiple languages in your site.
 cSpell:ignore: Goldydocs rtlcss subdir operativsystem skyen Norsk
+type: docs
+date: '2025-06-12T01:05:53+01:00'
+linkTitle: Multi-language Support
+aliases:
+- /docs/_index/
 ---
 
 If you'd like to provide site content in multiple languages, the Docsy theme and

@@ -1,13 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/team/gitlab-dedicated/architecture/from-dedicated-to-cells-technical-analysis.html
-title: "From Dedicated to Cells: A Technical Analysis"
+aliases:
+- /docs/from-dedicated-to-cells-technical-analysis_1_1/
+title: 'From Dedicated to Cells: A Technical Analysis'
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: 'From Dedicated to Cells: A Technical Analysis'
+type: docs
 ---
-
-
-
-
-
-
 
 ## Introduction
 

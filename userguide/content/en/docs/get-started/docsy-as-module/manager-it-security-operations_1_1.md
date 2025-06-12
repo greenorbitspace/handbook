@@ -1,7 +1,14 @@
 ---
 title: Manager, IT Security Operations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/manager-it-security-operations_1_1/
+description: ''
+linkTitle: Manager, IT Security Operations
+type: docs
 ---
- 
+
 The Manager, IT Security Operations job family leads a team of highly-collaborative and results-oriented IT Security and IT Compliance team members tasked with assessing, identifying gaps, and developing and maturing Security and Compliance processes and policies. The Manager, IT Security Operations is in charge of scaling, increasing performance, providing team leadership and guidance to help evolve the security programs in accordance with strategic objectives, identify and engineer technology initiatives, and develop and enhance defensive measures.
 
 ## Levels

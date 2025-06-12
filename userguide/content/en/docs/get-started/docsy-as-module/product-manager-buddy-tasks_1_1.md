@@ -1,6 +1,13 @@
 ---
 title: Buddy Tasks
 draft: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-manager-buddy-tasks_1_1/
+description: ''
+linkTitle: Buddy Tasks
+type: docs
 ---
 
 1. [ ] - Book a 1:1 with the new Product Manager for day 1

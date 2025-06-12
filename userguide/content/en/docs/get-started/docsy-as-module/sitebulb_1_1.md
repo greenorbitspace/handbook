@@ -1,14 +1,13 @@
 ---
-
-title: "Sitebulb"
-description: "Sitebulb is a website auditing tool for search engine optimization."
+title: Sitebulb
+description: Sitebulb is a website auditing tool for search engine optimization.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sitebulb_1_1/
+linkTitle: Sitebulb
+type: docs
 ---
-
-
-
-
-
-
 
 ## About
 

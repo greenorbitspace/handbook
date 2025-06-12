@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Lca 1 1
+aliases:
+- /docs/lca_1_1/
+description: ''
+linkTitle: Lca 1 1
+type: docs
+---
+
 An
 understanding of your organization’s environmental impacts, even at
 a high level, will help concentrate efforts on where environmental

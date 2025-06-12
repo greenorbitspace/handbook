@@ -1,5 +1,12 @@
 ---
 title: Sharding GitLab with CitusDB
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/citus_1_1/
+description: ''
+linkTitle: Sharding GitLab with CitusDB
+type: docs
 ---
 
 ## Sharding GitLab with CitusDB

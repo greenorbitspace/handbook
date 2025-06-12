@@ -1,8 +1,14 @@
 ---
-
-title: "Previous GitLab Contributes & Summits"
-description: "Over the years, GitLab has hosted team member events as both GitLab Contribute and GitLab Summit. View some times we shared!"
-canonical_path: "/company/culture/contribute/previous/"
+title: Previous GitLab Contributes & Summits
+description: Over the years, GitLab has hosted team member events as both GitLab Contribute
+  and GitLab Summit. View some times we shared!
+canonical_path: /company/culture/contribute/previous/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/previous_1_1/
+linkTitle: Previous GitLab Contributes & Summits
+type: docs
 ---
 
 ### Summit in Las Vegas, Nevada, USA

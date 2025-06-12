@@ -1,6 +1,12 @@
 ---
-aliases: /handbook/product/product-manager-role/product-CDF-competencies
+aliases:
+- /docs/product-cdf-competencies_1_1/
 title: Product Management CDF and Competencies
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Product Management CDF and Competencies
+type: docs
 ---
 
 On this page, you'll find an overview as well as links to helpful resources for evaluating a product manager's performance at GitLab. To better understand a product manager's responsiblities at GitLab, please visit [The Product Manager Role at GitLab](/handbook/product/product-manager-role/)

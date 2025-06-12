@@ -1,13 +1,13 @@
 ---
-
-title: "SMB Marketing"
+title: SMB Marketing
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/smb-marketing_1_1/
+description: ''
+linkTitle: SMB Marketing
+type: docs
 ---
-
-
-
-
-
-
 
 ## Who we are
 

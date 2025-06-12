@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Financial Management Policy 1 1
+aliases:
+- /docs/financial-management-policy_1_1/
+description: ''
+linkTitle: Financial Management Policy 1 1
+type: docs
+---
+
 Policy Statement:
 Green Orbit Digital is committed to sound financial management practices to ensure accountability, transparency, and prudent use of resources. This policy outlines the procedures for managing the finances of Green Orbit Digital in a responsible manner.
 

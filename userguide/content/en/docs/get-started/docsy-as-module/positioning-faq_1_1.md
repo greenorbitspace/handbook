@@ -1,7 +1,12 @@
 ---
-title: "GitLab Positioning FAQs"
+title: GitLab Positioning FAQs
 aliases:
 - /handbook/positioning-faq/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: GitLab Positioning FAQs
+type: docs
 ---
 
 ## What is GitLab?

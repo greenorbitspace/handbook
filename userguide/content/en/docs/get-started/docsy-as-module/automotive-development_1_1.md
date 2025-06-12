@@ -1,7 +1,15 @@
 ---
-title: "Automotive Development"
-description: "The Automotive Development Working Group is a cross-functional group focused on gathering requirements and providing product support for automotive development use cases."
+title: Automotive Development
+description: The Automotive Development Working Group is a cross-functional group
+  focused on gathering requirements and providing product support for automotive development
+  use cases.
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/automotive-development_1_1/
+linkTitle: Automotive Development
+type: docs
 ---
 
 ## Attributes

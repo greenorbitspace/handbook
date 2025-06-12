@@ -1,12 +1,20 @@
 ---
-title: "Coordinating changes in Cells"
-owning-stage: "~devops::platforms"
+title: Coordinating changes in Cells
+owning-stage: ~devops::platforms
 group: Delivery
-creation-date: "2024-07-16"
-authors: [ "@nolith" ]
-coach: "@andrewn"
+creation-date: '2024-07-16'
+authors:
+- '@nolith'
+coach: '@andrewn'
 approvers: []
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/managing_changes_2_1/
+description: ''
+linkTitle: Coordinating changes in Cells
+type: docs
 ---
 
 {{< design-document-header >}}

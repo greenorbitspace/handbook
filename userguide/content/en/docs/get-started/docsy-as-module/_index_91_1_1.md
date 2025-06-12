@@ -1,6 +1,13 @@
 ---
 title: Performance and Reliability Support Pod
-description: A group of Support Engineers focused on the Performance and Reliability of GitLab and the systems it runs on.
+description: A group of Support Engineers focused on the Performance and Reliability
+  of GitLab and the systems it runs on.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_91_1_1/
+linkTitle: Performance and Reliability Support Pod
+type: docs
 ---
 
 ## Purpose

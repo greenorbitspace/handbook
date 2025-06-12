@@ -1,16 +1,13 @@
 ---
-
 title: Marketing Strategy & Platforms
-description: >-
-  Learn more about the Marketing Strategy & Platforms.
+description: Learn more about the Marketing Strategy & Platforms.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/marketing-strategy-and-platforms_1_1/
+linkTitle: Marketing Strategy & Platforms
+type: docs
 ---
-
-
-
-
-
-
-
 
 ## Marketing Strategy, Operations, and Analytics Team Charter
 

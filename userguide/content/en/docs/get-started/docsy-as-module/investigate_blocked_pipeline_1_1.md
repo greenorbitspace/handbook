@@ -1,8 +1,14 @@
 ---
 title: Investigate Blocked Pipeline
-description: "Workflow to determine the cause of a blocked pipeline on gitlab.com"
+description: Workflow to determine the cause of a blocked pipeline on gitlab.com
 category: GitLab.com
 subcategory: Security
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/investigate_blocked_pipeline_1_1/
+linkTitle: Investigate Blocked Pipeline
+type: docs
 ---
 
 ## Overview

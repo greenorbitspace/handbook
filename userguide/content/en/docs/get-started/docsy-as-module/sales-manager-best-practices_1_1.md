@@ -1,15 +1,14 @@
 ---
-
-title: "Sales Manager Best Practices"
-description: "Successful management includes onboarding, reviewing Command Plans, opportunity coaching, strategic coaching, career development and performance management"
+title: Sales Manager Best Practices
+description: Successful management includes onboarding, reviewing Command Plans, opportunity
+  coaching, strategic coaching, career development and performance management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sales-manager-best-practices_1_1/
+linkTitle: Sales Manager Best Practices
+type: docs
 ---
-
-
-
-
-
-
-
 
 ## Onboarding New Team Members
 

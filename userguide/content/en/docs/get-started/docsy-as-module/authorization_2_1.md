@@ -1,5 +1,12 @@
 ---
-title: "Authorization Group"
+title: Authorization Group
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/authorization_2_1/
+description: ''
+linkTitle: Authorization Group
+type: docs
 ---
 
 ## Planning

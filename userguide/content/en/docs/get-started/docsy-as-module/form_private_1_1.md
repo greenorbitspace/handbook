@@ -1,7 +1,14 @@
 ---
 title: Form (internal)
-description: Support Operations policies page for project setup for forms open to GitLab team members only
-canonical_path: "/handbook/support/readiness/operations/docs/policies/project_setup/form_private"
+description: Support Operations policies page for project setup for forms open to
+  GitLab team members only
+canonical_path: /handbook/support/readiness/operations/docs/policies/project_setup/form_private
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/form_private_1_1/
+linkTitle: Form (internal)
+type: docs
 ---
 
 For forms intended only for internal submissions (i.e. GitLab team members

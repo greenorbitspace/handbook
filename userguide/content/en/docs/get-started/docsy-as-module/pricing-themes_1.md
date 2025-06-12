@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Pricing Themes 1
+aliases:
+- /docs/pricing-themes_1/
+description: ''
+linkTitle: Pricing Themes 1
+type: docs
+---
+
 {{ range .Params }}
 {{ $tier := . }}
 

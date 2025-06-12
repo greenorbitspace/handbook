@@ -1,7 +1,13 @@
 ---
 title: Global Apps
 description: Support Operations documentation page for Zendesk Global apps
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/apps/global-apps"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/apps/global-apps
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/global-apps_1_1/
+linkTitle: Global Apps
+type: docs
 ---
 
 ## Advanced Search

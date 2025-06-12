@@ -1,5 +1,12 @@
 ---
 title: GitLab for Open Source Program Agreement
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/opensource-agreement_1_1/
+description: ''
+linkTitle: GitLab for Open Source Program Agreement
+type: docs
 ---
 
 ## **Open Source Program Agreement**

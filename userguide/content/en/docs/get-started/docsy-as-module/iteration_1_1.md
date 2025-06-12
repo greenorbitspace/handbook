@@ -1,5 +1,12 @@
 ---
-title: "Iteration"
+title: Iteration
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/iteration_1_1/
+description: ''
+linkTitle: Iteration
+type: docs
 ---
 
 In order to provide changes in an [iterative](/handbook/values/#iteration) and [incremental manner](/handbook/product/product-principles/#iteration), we should always seek to create smaller merge requests.

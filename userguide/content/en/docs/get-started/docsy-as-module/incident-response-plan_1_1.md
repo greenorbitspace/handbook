@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Incident Response Plan 1 1
+aliases:
+- /docs/incident-response-plan_1_1/
+description: ''
+linkTitle: Incident Response Plan 1 1
+type: docs
+---
+
 <!-- Unsupported block type: callout -->
 
 # 1. Immediate Response Procedures

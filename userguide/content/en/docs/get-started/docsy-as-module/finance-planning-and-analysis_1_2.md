@@ -1,5 +1,12 @@
 ---
-title: "Financial Planning and Analysis"
+title: Financial Planning and Analysis
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/finance-planning-and-analysis_1_2/
+description: ''
+linkTitle: Financial Planning and Analysis
+type: docs
 ---
 
 The FP&A team partners with executive team members across the company to provide timely, fact-based, data-driven decision support to help drive critical decisions. The team drives annual planning, owns the operating plan and long-term financial model, internal financial reporting, and financial and analytical tools to make GitLab predictable.

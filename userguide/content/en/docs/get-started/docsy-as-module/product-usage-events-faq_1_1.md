@@ -1,7 +1,14 @@
 ---
-title: "FAQ - Customer Product Usage Events"
-description: "Answers to common questions about product usage event data"
+title: FAQ - Customer Product Usage Events
+description: Answers to common questions about product usage event data
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-usage-events-faq_1_1/
+linkTitle: FAQ - Customer Product Usage Events
+type: docs
 ---
+
 This page answers frequently asked questions about customer product usage [event data collection](https://docs.gitlab.com/administration/settings/event_data).
 
 **Important Notes:**

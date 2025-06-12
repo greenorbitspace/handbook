@@ -1,5 +1,12 @@
 ---
 title: Field Security Observation and OFI Quality Guide
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/field_security_observation_and_ofi_quality_guide_1_1/
+description: ''
+linkTitle: Field Security Observation and OFI Quality Guide
+type: docs
 ---
 
 ## Purpose

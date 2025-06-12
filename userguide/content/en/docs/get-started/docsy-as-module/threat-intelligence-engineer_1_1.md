@@ -1,6 +1,14 @@
 ---
-title: "Threat Intelligence Engineer"
-description: "Threat intelligence engineers research and provide information about specific threats to help us protect from the types of attacks that could cause the most damage."
+title: Threat Intelligence Engineer
+description: Threat intelligence engineers research and provide information about
+  specific threats to help us protect from the types of attacks that could cause the
+  most damage.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/threat-intelligence-engineer_1_1/
+linkTitle: Threat Intelligence Engineer
+type: docs
 ---
 
 Threat intelligence engineers research and provide information about specific threats to help us protect from the types of attacks that could cause the most damage.

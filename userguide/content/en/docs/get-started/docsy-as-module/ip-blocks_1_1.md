@@ -1,8 +1,15 @@
 ---
 title: Identifying the Cause of IP Blocks on GitLab.com
-description: "Workflow to try to determine what caused an IP address block and relay that information back to the user."
+description: Workflow to try to determine what caused an IP address block and relay
+  that information back to the user.
 category: GitLab.com
 subcategory: Troubleshooting
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ip-blocks_1_1/
+linkTitle: Identifying the Cause of IP Blocks on GitLab.com
+type: docs
 ---
 
 At times, users of GitLab.com can find that their IP address has been blocked due to rate limiting. Currently, rate limit parameters on GitLab.com are best described on the [GitLab.com settings docs page](https://docs.gitlab.com/ee/user/gitlab_com/#gitlabcom-specific-rate-limits). When this happens we *may* be able to determine what caused a block and relay that information back to the user.

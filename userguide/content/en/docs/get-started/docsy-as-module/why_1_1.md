@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Why 1 1
+aliases:
+- /docs/why_1_1/
+description: ''
+linkTitle: Why 1 1
+type: docs
+---
+
 # Why does Luxon exist?
 
 What's the deal with this whole Luxon thing anyway? Why did I write it? How is it related to the Moment project? What's different about it? This page tries to hash all that out.

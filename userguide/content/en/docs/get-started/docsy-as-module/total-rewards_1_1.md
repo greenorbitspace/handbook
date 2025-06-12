@@ -1,5 +1,12 @@
 ---
-title: "Total Rewards"
+title: Total Rewards
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/total-rewards_1_1/
+description: ''
+linkTitle: Total Rewards
+type: docs
 ---
 
 The [Total Rewards](/handbook/total-rewards/) department strategically aligns the three pillars of team member rewards to create optimal organizational performance at GitLab: Compensation, Benefits, and Equity. Total Rewards designs and strategically executes programs in alignment with business goals. Programs fuel motivated and productive team members that are appreciated and rewarded for their contributions, driving GitLab to ever greater success.

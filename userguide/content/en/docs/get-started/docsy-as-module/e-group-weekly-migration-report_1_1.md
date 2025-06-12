@@ -1,6 +1,13 @@
 ---
 title: E-Group Weekly
 Description: Migration report for moving the handbooks e-group-weekly section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/e-group-weekly-migration-report_1_1/
+description: ''
+linkTitle: E-Group Weekly
+type: docs
 ---
 
 **Section:** e-group-weekly

@@ -1,15 +1,13 @@
 ---
-
-title: "Writing Successful Conference Proposals"
+title: Writing Successful Conference Proposals
 aliases:
 - /handbook/marketing/developer-relations/developer-evangelism/writing-cfps/index.html
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Writing Successful Conference Proposals
+type: docs
 ---
-
-
-
-
-
-
 
 Writing good conference proposals is both an art and a science. The science is the details of the technical content. The art is presenting it in a way that appeals to the audience - the conference committee.
 

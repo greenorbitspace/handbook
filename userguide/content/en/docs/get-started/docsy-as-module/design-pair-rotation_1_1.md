@@ -1,6 +1,12 @@
 ---
-title: "Product Design Pairs"
-description: "Product designer pairs rotation schedule"
+title: Product Design Pairs
+description: Product designer pairs rotation schedule
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/design-pair-rotation_1_1/
+linkTitle: Product Design Pairs
+type: docs
 ---
 
 ## Design Pairs

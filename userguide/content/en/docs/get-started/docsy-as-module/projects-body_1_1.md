@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Projects Body 1 1
+aliases:
+- /docs/projects-body_1_1/
+description: ''
+linkTitle: Projects Body 1 1
+type: docs
+---
+
 {{- $knownRoles := (slice "owner" "maintainer" "trainee_maintainer" "reviewer") -}}
 {{- $projectTeams := dict -}}
 {{- range $k, $d := site.Data.public.projects -}}

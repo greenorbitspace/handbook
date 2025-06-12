@@ -1,9 +1,13 @@
 ---
-title: "Adding CTAs to Learn@GitLab YouTube Videos"
+title: Adding CTAs to Learn@GitLab YouTube Videos
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/add-ctas-to-learn-videos_1_1/
+description: ''
+linkTitle: Adding CTAs to Learn@GitLab YouTube Videos
+type: docs
 ---
-
-
-
 
 ## Why?
 

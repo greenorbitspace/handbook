@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Deploy With Docker 1 1
+aliases:
+- /docs/deploy-with-docker_1_1/
+description: ''
+linkTitle: Deploy With Docker 1 1
+type: docs
+---
+
 # Deploy with Docker
 
 Follow the [official Next.js repo docker build example and instructions](https://github.com/vercel/next.js/tree/canary/examples/with-docker) to deploy with docker. Copy the [`Dockerfile`](https://github.com/vercel/next.js/blob/canary/examples/with-docker/Dockerfile) into the root of the project and modify the `next.config.js` file:

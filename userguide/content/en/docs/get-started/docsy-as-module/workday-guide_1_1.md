@@ -1,5 +1,12 @@
 ---
 title: Workday Guide
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/workday-guide_1_1/
+description: ''
+linkTitle: Workday Guide
+type: docs
 ---
 
 ## Why Workday?

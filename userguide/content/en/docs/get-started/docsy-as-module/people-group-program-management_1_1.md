@@ -1,6 +1,14 @@
 ---
 title: People Group Program Management
-description: "This page provides an overview of Program Management positions within the People Group today, a list of key competencies, and links to templates and resources for reference."
+description: This page provides an overview of Program Management positions within
+  the People Group today, a list of key competencies, and links to templates and resources
+  for reference.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/people-group-program-management_1_1/
+linkTitle: People Group Program Management
+type: docs
 ---
 
 ## Overview

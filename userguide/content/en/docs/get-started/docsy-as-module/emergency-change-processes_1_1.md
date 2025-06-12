@@ -1,5 +1,12 @@
 ---
-title: "Emergency Change Processes for GitLab SaaS"
+title: Emergency Change Processes for GitLab SaaS
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/emergency-change-processes_1_1/
+description: ''
+linkTitle: Emergency Change Processes for GitLab SaaS
+type: docs
 ---
 
 The Infrastructure Department, responsible for managing GitLab SaaS environment, has a number of processes that have an implicit emergency process component as a part of a regular workflow. This page serves as a high level overview of the most important components of those processes, with links to pages describing said processes in more depth.

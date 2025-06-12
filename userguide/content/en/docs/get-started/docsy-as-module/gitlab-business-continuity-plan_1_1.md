@@ -1,6 +1,13 @@
 ---
-title: "Business Continuity Plan"
+title: Business Continuity Plan
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-business-continuity-plan_1_1/
+description: ''
+linkTitle: Business Continuity Plan
+type: docs
 ---
 
 ## Purpose

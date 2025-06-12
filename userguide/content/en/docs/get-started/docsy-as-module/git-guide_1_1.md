@@ -1,14 +1,13 @@
 ---
-
-title: "Git Guide for Blog Contributors"
-description: "A guide for working with Git, terminal, and the www-gitlab-com repository"
+title: Git Guide for Blog Contributors
+description: A guide for working with Git, terminal, and the www-gitlab-com repository
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/git-guide_1_1/
+linkTitle: Git Guide for Blog Contributors
+type: docs
 ---
-
-
-
-
-
-
 
 ## General Tips
 

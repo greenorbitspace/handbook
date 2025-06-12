@@ -1,6 +1,13 @@
 ---
 title: Global Travel and Expense Policy
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/expenses_1_2/
+description: ''
+linkTitle: Global Travel and Expense Policy
+type: docs
 ---
 
 ## 1. POLICY

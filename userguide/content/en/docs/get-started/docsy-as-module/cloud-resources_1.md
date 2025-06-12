@@ -1,5 +1,12 @@
 ---
-title: "Cloud Resources for Developer Relations"
+title: Cloud Resources for Developer Relations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cloud-resources_1/
+description: ''
+linkTitle: Cloud Resources for Developer Relations
+type: docs
 ---
 
 This page outlines cloud resources and workflows used by the Developer Relations team at GitLab. It provides guidance on managing and allocating resources effectively, ensuring that team members can leverage cloud infrastructure for community apps, demo projects, and contributor success tools while maintaining best practices for both long-term production environments and short-lived individual resources.

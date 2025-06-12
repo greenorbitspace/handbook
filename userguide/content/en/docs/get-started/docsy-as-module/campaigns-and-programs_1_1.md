@@ -1,13 +1,14 @@
 ---
-
-title: "Campaigns and Programs"
-description: "Campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads."
+title: Campaigns and Programs
+description: Campaigns are used to track efforts of marketing tactics - field events,
+  webcasts, content downloads.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/campaigns-and-programs_1_1/
+linkTitle: Campaigns and Programs
+type: docs
 ---
-
-
-
-
-
 
 ## Campaigns
 

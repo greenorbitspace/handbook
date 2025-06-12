@@ -1,6 +1,13 @@
 ---
-title: "Product Analytics Working Group"
-description: "The GitLab Product Analytics Working Group fast track GitLab to becoming a data-driven organisation by meeting the data needs of the Product team."
+title: Product Analytics Working Group
+description: The GitLab Product Analytics Working Group fast track GitLab to becoming
+  a data-driven organisation by meeting the data needs of the Product team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-analytics_1_1/
+linkTitle: Product Analytics Working Group
+type: docs
 ---
 
 ## Attributes

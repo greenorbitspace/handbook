@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Github 1 1
+aliases:
+- /docs/github_1_1/
+description: ''
+linkTitle: Github 1 1
+type: docs
+---
+
 <h1>Github and automated tests</h1>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vTel8Ya4MO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

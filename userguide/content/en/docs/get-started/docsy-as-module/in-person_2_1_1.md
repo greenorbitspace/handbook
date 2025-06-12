@@ -1,6 +1,14 @@
 ---
 title: GitLab Onsites - Getting your team together in person
-decsription: "This page outlines resources for managers who organize in person time with their team."
+decsription: This page outlines resources for managers who organize in person time
+  with their team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/in-person_2_1_1/
+description: ''
+linkTitle: GitLab Onsites - Getting your team together in person
+type: docs
 ---
 
 ## GitLab Onsites

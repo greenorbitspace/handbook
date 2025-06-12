@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Technical Security Validation 1 1
+aliases:
+- /docs/technical-security-validation_1_1/
+description: ''
+linkTitle: Technical Security Validation 1 1
+type: docs
+---
+
 # Technical Security Validation (TSV)
 
 The Technical Security Validation (TSV) process is a partnership between GitLab's Security Risk and Security Research teams, designed to supplement [TPRM procedures](/handbook/security/security-assurance/security-risk/third-party-risk-management/) performed during software procurement. While the TPRM process serves to validate the design and operating effectiveness of a company's internal controls, the TSV is leveraged to perform additional due diligence around high risk systems such as those associated to a [Security Notice](/handbook/security/security-assurance/security-risk/third-party-risk-management/#tprm-security-notice-process). These procedures align with Security's Post Implementation Checklist, which serves as an attestation from the Business Owner that appropriate controls have been established by GitLab to secure third party systems.

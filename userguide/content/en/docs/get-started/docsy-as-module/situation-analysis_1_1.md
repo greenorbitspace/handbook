@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Situation Analysis 1 1
+aliases:
+- /docs/situation-analysis_1_1/
+description: ''
+linkTitle: Situation Analysis 1 1
+type: docs
+---
+
 ## Situation Analysis Structure
 
 ### 1. Internal Analysis

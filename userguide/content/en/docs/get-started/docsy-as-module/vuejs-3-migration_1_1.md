@@ -1,7 +1,14 @@
 ---
-title: "Vue.js 3 Migration Working Group"
-description: "Learn more about the Vue.js 3 Migration Working Group attributes, goals, roles and responsibilities."
+title: Vue.js 3 Migration Working Group
+description: Learn more about the Vue.js 3 Migration Working Group attributes, goals,
+  roles and responsibilities.
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vuejs-3-migration_1_1/
+linkTitle: Vue.js 3 Migration Working Group
+type: docs
 ---
 
 ## Attributes

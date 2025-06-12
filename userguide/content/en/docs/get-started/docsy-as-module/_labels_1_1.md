@@ -1,6 +1,13 @@
 ---
 draft: true
 description: Partial not currently in use
+weight: 2
+date: '2025-06-12'
+title: ' Labels 1 1'
+aliases:
+- /docs/_labels_1_1/
+linkTitle: ' Labels 1 1'
+type: docs
 ---
 
 ### Labels

@@ -1,7 +1,13 @@
 ---
 title: Customer calls
 category: Handling tickets
-description: "Workflow for conducting customer calls in Support Engineering"
+description: Workflow for conducting customer calls in Support Engineering
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer_calls_1_1/
+linkTitle: Customer calls
+type: docs
 ---
 
 ## Introduction

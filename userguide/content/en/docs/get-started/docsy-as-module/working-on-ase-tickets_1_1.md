@@ -2,6 +2,12 @@
 title: Working on ASE Tickets
 category: Assigned Support Engineer
 description: Handling tickets from customers that have an ASE
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/working-on-ase-tickets_1_1/
+linkTitle: Working on ASE Tickets
+type: docs
 ---
 
 ## Working on ASE Tickets

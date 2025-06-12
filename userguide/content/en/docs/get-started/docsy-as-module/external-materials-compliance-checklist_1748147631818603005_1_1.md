@@ -1,6 +1,12 @@
 ---
-title: "External Materials Compliance Checklist"
-description: "Checklist for use when developing materials for external use"
+title: External Materials Compliance Checklist
+description: Checklist for use when developing materials for external use
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/external-materials-compliance-checklist_1748147631818603005_1_1/
+linkTitle: External Materials Compliance Checklist
+type: docs
 ---
 
 When developing materials for external use, follow the [SAFE Framework](/handbook/legal/safe-framework/) and the [Guidelines for Use of Third-party IP in External Materials](/handbook/legal/ip-public-materials-guidelines/) (the "**IP Guidelines**"). If you have any questions, reach out to the Legal & Corporate Affairs Team via the [#safe Slack channel](https://app.slack.com/client/T02592416/C01UZQ63WFQ).

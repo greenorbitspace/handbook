@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 2 Appgenerator 1 1
+aliases:
+- /docs/2-appGenerator_1_1/
+description: ''
+linkTitle: 2 Appgenerator 1 1
+type: docs
+---
+
 ### application generator
 Use the application generator tool, **express-generator**, to quickly create an application skeleton.
 ```bash

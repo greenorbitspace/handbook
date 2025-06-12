@@ -1,7 +1,13 @@
 ---
 title: Account merges
 description: Operations workflow page for SFDC account merges
-canonical_path: "/handbook/security/customer-support-operations/workflows/salesforce/account-merges"
+canonical_path: /handbook/security/customer-support-operations/workflows/salesforce/account-merges
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/account-merges_1_1/
+linkTitle: Account merges
+type: docs
 ---
 
 <sup>*Introduced via [gitlab-com/support/support-ops/support-ops-project#1694](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/1694)*</sup>

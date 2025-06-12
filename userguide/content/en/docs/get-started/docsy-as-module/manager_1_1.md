@@ -1,13 +1,13 @@
 ---
-
 title: Engineering Manager Onboarding
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/manager_1_1/
+description: ''
+linkTitle: Engineering Manager Onboarding
+type: docs
 ---
-
-
-
-
-
-
 
 ## Training
 

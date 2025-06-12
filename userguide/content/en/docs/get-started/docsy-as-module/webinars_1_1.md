@@ -1,5 +1,12 @@
 ---
-title: "GitLab Webinars on Zoom"
+title: GitLab Webinars on Zoom
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/webinars_1_1/
+description: ''
+linkTitle: GitLab Webinars on Zoom
+type: docs
 ---
 
 ## Everything you need to know about hosting or participating in a GitLab webinar

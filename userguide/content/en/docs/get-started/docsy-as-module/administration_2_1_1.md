@@ -1,5 +1,12 @@
 ---
 title: Level Up Administration Guide
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/administration_2_1_1/
+description: ''
+linkTitle: Level Up Administration Guide
+type: docs
 ---
 
 This page is intended to be a guide for the administration of our Learning System, Level Up. Level Up is built on a learning system called Thought Industries, a vendor external to GitLab. Throughout this guide `Level Up` and `Thought Industries` are used interchangeably.

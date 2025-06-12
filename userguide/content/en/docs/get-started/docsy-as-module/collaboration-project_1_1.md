@@ -1,10 +1,13 @@
 ---
-
 title: Solutions Architecture Collaboration Project
-description: >-
-  Collaboration project with the customer and product as a forum to discuss
+description: Collaboration project with the customer and product as a forum to discuss
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/collaboration-project_1_1/
+linkTitle: Solutions Architecture Collaboration Project
+type: docs
 ---
-
 
 ## When should a Collaboration Project be considered during an engagement with a customer?
 

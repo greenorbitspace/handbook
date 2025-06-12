@@ -1,3 +1,13 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Changes 1 1
+aliases:
+- /docs/CHANGES_1_1/
+description: ''
+linkTitle: Changes 1 1
+type: docs
+---
 
 ## 1.4.1
 

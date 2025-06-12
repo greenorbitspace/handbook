@@ -1,5 +1,12 @@
 ---
 title: Previous Quarter OKR Timelines
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/previous-quarters_1_1/
+description: ''
+linkTitle: Previous Quarter OKR Timelines
+type: docs
 ---
 
 {{% include "includes/product-handbook-links.md" %}}

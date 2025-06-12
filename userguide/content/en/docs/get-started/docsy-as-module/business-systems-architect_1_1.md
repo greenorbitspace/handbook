@@ -1,5 +1,12 @@
 ---
-title: "Business Systems Architect"
+title: Business Systems Architect
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/business-systems-architect_1_1/
+description: ''
+linkTitle: Business Systems Architect
+type: docs
 ---
 
 The Business Systems Architect job family works on custom APEX and Visualforce solutions for GitLab's Salesforce.com instance along with all packages, tools and integrations associated with it. They work with Field Operation's internal customers such as Sales, Marketing, Customer Success and Finance to translate improvement project technical specifications into a project approach and then execute on those projects. They work with a combined team of Business Systems Administrators, Data Analysts, and Sales Operations Specialists to keep our Go-To-Market processes automated and efficent.

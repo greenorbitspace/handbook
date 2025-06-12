@@ -1,13 +1,13 @@
 ---
-aliases: /handbook/engineering/communication
+aliases:
+- /docs/engineering-comms_1_1/
 title: Engineering Communication
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Engineering Communication
+type: docs
 ---
-
-
-
-
-
-
 
 ## Communication
 

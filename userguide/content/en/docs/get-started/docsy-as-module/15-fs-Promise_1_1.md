@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 15 Fs Promise 1 1
+aliases:
+- /docs/15-fs-Promise_1_1/
+description: ''
+linkTitle: 15 Fs Promise 1 1
+type: docs
+---
+
 ### promise based fs module
 ```js
 const fs = reqire('node:fs/promises');

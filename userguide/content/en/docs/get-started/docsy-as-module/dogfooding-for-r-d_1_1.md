@@ -1,5 +1,12 @@
 ---
 title: Dogfooding for R&D
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dogfooding-for-r-d_1_1/
+description: ''
+linkTitle: Dogfooding for R&D
+type: docs
 ---
 
 ### Dogfood everything

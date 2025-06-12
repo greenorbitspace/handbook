@@ -1,7 +1,13 @@
 ---
 title: Issue trackers
 description: Support Operations policies page for project setup for issue trackers
-canonical_path: "/handbook/support/readiness/operations/docs/policies/project_setup/issue_trackers"
+canonical_path: /handbook/support/readiness/operations/docs/policies/project_setup/issue_trackers
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/issue_trackers_1_1/
+linkTitle: Issue trackers
+type: docs
 ---
 
 Issue tracker projects are a bit simpler to create, since they only serve for

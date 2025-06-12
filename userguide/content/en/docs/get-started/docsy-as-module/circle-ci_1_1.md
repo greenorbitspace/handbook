@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Circle Ci 1 1
+aliases:
+- /docs/circle-ci_1_1/
+description: ''
+linkTitle: Circle Ci 1 1
+type: docs
+---
+
 <h1>CircleCI</h1>
 
 CircleCI is a "continuous integration" (CI) cloud service. It is useful for Open SDG in a way that is typical of open-source projects: it "listens" for certain events in your GitHub repository, and then provides temporary virtual machines to perform various server-side tasks. Open SDG needs a CI tool to accomplish these things:

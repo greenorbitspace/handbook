@@ -1,8 +1,13 @@
 ---
-
 title: AWS Marketplace license
-description: "How to handle license purchased via AWS Marketplace"
+description: How to handle license purchased via AWS Marketplace
 category: GitLab Self-Managed licenses
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/aws_marketplace_license_1_1/
+linkTitle: AWS Marketplace license
+type: docs
 ---
 
 ## AWS Marketplace License Overview

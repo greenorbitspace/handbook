@@ -1,6 +1,13 @@
 ---
 title: 'GitLab CI Events Proposal 1: Using the .gitlab-ci.yml file'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/proposal-1-using-the-gitlab-ci-file_1/
+description: ''
+linkTitle: 'GitLab CI Events Proposal 1: Using the .gitlab-ci.yml file'
+type: docs
 ---
 
 Currently, we have two proof-of-concept (POC) implementations:

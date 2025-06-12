@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Meta 1 1
+aliases:
+- /docs/meta_1_1/
+description: ''
+linkTitle: Meta 1 1
+type: docs
+---
+
 ### 1
 The `max-preview-image` meta tag controls how large of an image preview is displayed when a page is shared on platforms like search engines or social media. 
 

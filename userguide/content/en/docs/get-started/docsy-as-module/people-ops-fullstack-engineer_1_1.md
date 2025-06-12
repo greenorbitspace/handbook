@@ -1,5 +1,12 @@
 ---
-title: "People Group Fullstack Engineering"
+title: People Group Fullstack Engineering
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/people-ops-fullstack-engineer_1_1/
+description: ''
+linkTitle: People Group Fullstack Engineering
+type: docs
 ---
 
 ## Levels

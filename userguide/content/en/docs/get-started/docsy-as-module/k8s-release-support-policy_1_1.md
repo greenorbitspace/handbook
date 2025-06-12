@@ -1,6 +1,12 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/systems/distribution/workflow/k8s-release-support-policy.html
-title: "Distribution Team Kubernetes and OpenShift release support policy"
+aliases:
+- /docs/k8s-release-support-policy_1_1/
+title: Distribution Team Kubernetes and OpenShift release support policy
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Distribution Team Kubernetes and OpenShift release support policy
+type: docs
 ---
 
 The Distribution team's support policy for various Kubernetes and OpenShift

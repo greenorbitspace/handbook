@@ -1,5 +1,12 @@
 ---
-title: "IT Helpdesk"
+title: IT Helpdesk
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/it-helpdesk-analyst_1_1/
+description: ''
+linkTitle: IT Helpdesk
+type: docs
 ---
 
 ## IT Helpdesk Analyst

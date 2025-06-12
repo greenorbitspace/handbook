@@ -1,5 +1,12 @@
 ---
 title: Sensing Mechanisms
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sensing-mechanisms_1_1/
+description: ''
+linkTitle: Sensing Mechanisms
+type: docs
 ---
 
 ## What are sensing mechanisms?

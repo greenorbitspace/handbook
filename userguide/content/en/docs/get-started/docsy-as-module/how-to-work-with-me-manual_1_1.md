@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: How To Work With Me Manual 1 1
+aliases:
+- /docs/how-to-work-with-me-manual_1_1/
+description: ''
+linkTitle: How To Work With Me Manual 1 1
+type: docs
+---
+
 ### How to Write Your Personal “How to Work with Me” Manual
 This guide will help you create your own manual to communicate how you work best. The key is to provide clear insights into your preferences and habits, allowing team members to collaborate more effectively with you. 
 ### Step 1: Know Thyself

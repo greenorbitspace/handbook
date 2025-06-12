@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Sustainable Working Home And Working 1 1
+aliases:
+- /docs/sustainable-working-home-and-working_1_1/
+description: ''
+linkTitle: Sustainable Working Home And Working 1 1
+type: docs
+---
+
 category: Code of Conduct
 
 In line with our sustainability policy, we encourage all actively team members to contribute to environmentally responsible working, both at the our co-working space and when working from home.

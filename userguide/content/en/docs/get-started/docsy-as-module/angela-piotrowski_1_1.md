@@ -1,10 +1,15 @@
 ---
-
-title: "Angela Piotrowski's README"
-job: "Support Engineering Manager"
-description: Personal readme page for Angela Piotrowski, Support Engineering Manager, GitLab"
+title: Angela Piotrowski's README
+job: Support Engineering Manager
+description: Personal readme page for Angela Piotrowski, Support Engineering Manager,
+  GitLab"
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/angela-piotrowski_1_1/
+linkTitle: Angela Piotrowski's README
+type: docs
 ---
-
 
 Combo of Support Engineering Handbook “[Getting to know you](/handbook/support/managers/getting-to-know-you.html)” and Manager README (strongly inspired by “https://about.gitlab.com/handbook/engineering/readmes/mike-dunninger/”)
 

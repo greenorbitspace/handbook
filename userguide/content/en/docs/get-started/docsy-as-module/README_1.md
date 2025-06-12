@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 1
+aliases:
+- /docs/README_1/
+description: ''
+linkTitle: Readme 1
+type: docs
+---
+
 # new.docusaurus.io + docusaurus.new
 
 This is a Netlify deployment to handle the Docusaurus playgrounds shortcuts:

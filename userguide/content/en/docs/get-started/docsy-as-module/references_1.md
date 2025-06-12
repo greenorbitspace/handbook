@@ -1,12 +1,20 @@
 ---
-title: "References"
+title: References
 status: proposed
-creation-date: "2023-06-21"
-authors: [ "@fabiopitino" ]
-coach: [ ]
-approvers: [ ]
-owning-stage: ""
+creation-date: '2023-06-21'
+authors:
+- '@fabiopitino'
+coach: []
+approvers: []
+owning-stage: ''
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/references_1/
+description: ''
+linkTitle: References
+type: docs
 ---
 
 ## Related design docs

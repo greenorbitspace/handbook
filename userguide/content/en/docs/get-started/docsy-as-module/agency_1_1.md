@@ -1,14 +1,14 @@
 ---
-
-title: "GitLab PMG Team"
-description: "The GitLab Digital Strategy team works directly with our digital agency PMG to execute all paid digital campaigns."
+title: GitLab PMG Team
+description: The GitLab Digital Strategy team works directly with our digital agency
+  PMG to execute all paid digital campaigns.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/agency_1_1/
+linkTitle: GitLab PMG Team
+type: docs
 ---
-
-
-
-
-
-
 
 ## PMG
 

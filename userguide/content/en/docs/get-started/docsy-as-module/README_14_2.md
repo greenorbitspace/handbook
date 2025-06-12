@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 14 2
+aliases:
+- /docs/README_14_2/
+description: ''
+linkTitle: Readme 14 2
+type: docs
+---
+
 ## meta folder
 
 Metadata files are uploaded and updated in this folder. These files should contain the metadata which displays in the metadata tabs.

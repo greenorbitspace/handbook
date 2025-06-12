@@ -1,5 +1,12 @@
 ---
-title: " Sales Commissions"
+title: ' Sales Commissions'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sales-commissions_1_1/
+description: ''
+linkTitle: ' Sales Commissions'
+type: docs
 ---
 
 Team Members of the Sales Commission's team manage GitLab's commissions programs globally.  These Team Members work cross-functionally and leverage systems for all related business processes.

@@ -1,7 +1,13 @@
 ---
 title: Gratis Support requests
 description: Support Operations workflows and policies page for Gratis Support requests
-canonical_path: "/handbook/support/readiness/operations/docs/policies/gratis_support"
+canonical_path: /handbook/support/readiness/operations/docs/policies/gratis_support
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gratis_support_1_1/
+linkTitle: Gratis Support requests
+type: docs
 ---
 
 <sup>*Introduced via [support-team-meta#2408](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2408)*</sup>

@@ -1,5 +1,12 @@
 ---
-title: "Compliance Group"
+title: Compliance Group
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/compliance_1_2/
+description: ''
+linkTitle: Compliance Group
+type: docs
 ---
 
 ## Mission

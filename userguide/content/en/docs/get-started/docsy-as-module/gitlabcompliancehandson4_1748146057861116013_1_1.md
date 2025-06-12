@@ -1,6 +1,13 @@
 ---
-title: "GitLab Compliance - Hands-On Lab: Enable and Configure License Compliance"
-description: "This Hands-On Guide walks you through enabling and using License Compliance in a GitLab project."
+title: 'GitLab Compliance - Hands-On Lab: Enable and Configure License Compliance'
+description: This Hands-On Guide walks you through enabling and using License Compliance
+  in a GitLab project.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabcompliancehandson4_1748146057861116013_1_1/
+linkTitle: 'GitLab Compliance - Hands-On Lab: Enable and Configure License Compliance'
+type: docs
 ---
 
 > Estimated time to complete: 15 minutes

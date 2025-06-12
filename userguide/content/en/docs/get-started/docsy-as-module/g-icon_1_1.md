@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: G Icon 1 1
+aliases:
+- /docs/g-icon_1_1/
+description: ''
+linkTitle: G Icon 1 1
+type: docs
+---
+
 # Icon
 
 ![Icon layer](https://d1a3f4spazzrp4.cloudfront.net/kepler.gl/documentation/image33.png "Icon layer")

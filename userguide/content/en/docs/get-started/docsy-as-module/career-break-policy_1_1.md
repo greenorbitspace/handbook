@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Career Break Policy 1 1
+aliases:
+- /docs/career-break-policy_1_1/
+description: ''
+linkTitle: Career Break Policy 1 1
+type: docs
+---
+
 1. Introduction
 
 At Green Orbit Digital, we understand that employees may need to take a break from their careers for various personal reasons, such as family commitments, personal development, or health-related issues. Our Career Break Policy is designed to support employees in taking extended periods of leave while maintaining a connection with the organization and facilitating a smooth transition back to work.

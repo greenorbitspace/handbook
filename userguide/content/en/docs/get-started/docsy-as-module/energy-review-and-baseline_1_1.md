@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Energy Review And Baseline 1 1
+aliases:
+- /docs/energy-review-and-baseline_1_1/
+description: ''
+linkTitle: Energy Review And Baseline 1 1
+type: docs
+---
+
 ### Energy Review and Baseline for ISO 50001
 
 The Energy Review and Baseline is a key requirement of ISO 50001, providing the foundation for an organization's Energy Management System (EnMS). The energy review identifies significant areas of energy use, establishes energy performance indicators (EnPIs), and sets a baseline for future energy performance improvements. The following outlines the steps for conducting an energy review and establishing an energy baseline in compliance with ISO 50001.

@@ -5,6 +5,13 @@ doc_id: doc-406
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070710_the-complete-guide-to-remote-onboarding-for-new-hires_1_1/
+description: ''
+linkTitle: The Complete Guide To Remote Onboarding For New Hires
+type: docs
 ---
 
 A complete guide to onboarding new remote work employees and establishing processes that ensure success from day one. Learn more here!

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Importants 1 1
+aliases:
+- /docs/importants_1_1/
+description: ''
+linkTitle: Importants 1 1
+type: docs
+---
+
 For a **junior backend developer**, the focus is on mastering foundational concepts and developing practical skills that will enable you to contribute effectively to backend systems. Here's a breakdown of the key areas you should focus on:
 
 ### 1. **Core Backend Programming Languages**

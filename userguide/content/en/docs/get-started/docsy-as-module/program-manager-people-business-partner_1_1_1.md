@@ -1,5 +1,12 @@
 ---
 title: People Business Partner Program Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/program-manager-people-business-partner_1_1_1/
+description: ''
+linkTitle: People Business Partner Program Manager
+type: docs
 ---
 
 The People Business Partner (PBP) Program Manager is an integral part of the PBP team. This function supports and drives program execution and project management across the People Business Partner group for programs where PBPs are DRIs or stakeholders and serves as a critical liaison cross-functionally within the People Group division, collaborating regularly across other departments in the function to drive program excellence.

@@ -5,6 +5,13 @@ doc_id: doc-540
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070711_accounting-and-reporting_1_1/
+description: ''
+linkTitle: Accounting And Reporting
+type: docs
 ---
 
 This page contains GitLab’s accounting and reporting policies, which can be made public. Please find our internal processes in the Accounting and Reporting internal handbook section.

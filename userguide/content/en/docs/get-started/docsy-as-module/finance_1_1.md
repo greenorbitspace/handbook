@@ -1,10 +1,16 @@
 ---
-title: "Remote Guide for Finance Teams"
+title: Remote Guide for Finance Teams
 description: Remote Guide for Finance Teams
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/finance_1_1/
+linkTitle: Remote Guide for Finance Teams
+type: docs
 ---
 
 ![GitLab navigation](/images/all-remote/gitlab-journey-and-navigation.jpg)

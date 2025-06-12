@@ -3,6 +3,11 @@ title: JiHu contribution process
 aliases:
 - /handbook/ceo/office-of-the-ceo/jihu-support/jihu-contribution-process/
 - /handbook/ceo/chief-of-staff-team/jihu-support/jihu-contribution-process/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: JiHu contribution process
+type: docs
 ---
 
 Contributions from the JiHu team will follow two methods depending on whether they have JiHu proprietary changes or not.

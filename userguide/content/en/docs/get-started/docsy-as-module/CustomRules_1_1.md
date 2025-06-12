@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Customrules 1 1
+aliases:
+- /docs/CustomRules_1_1/
+description: ''
+linkTitle: Customrules 1 1
+type: docs
+---
+
 # Custom Rules
 
 In addition to its built-in rules, `markdownlint` lets you enhance the linting

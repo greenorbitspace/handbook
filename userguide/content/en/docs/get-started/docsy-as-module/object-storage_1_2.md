@@ -1,6 +1,14 @@
 ---
-title: "Object Storage Working Group"
-description: "The GitLab Object Storage Working Group aim is to assist in improving the performance, security, and technical debt of our current object storage solution. Read more!"
+title: Object Storage Working Group
+description: The GitLab Object Storage Working Group aim is to assist in improving
+  the performance, security, and technical debt of our current object storage solution.
+  Read more!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/object-storage_1_2/
+linkTitle: Object Storage Working Group
+type: docs
 ---
 
 ## Attributes

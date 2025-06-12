@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Feature Change Locks 1
+aliases:
+- /docs/feature-change-locks_1/
+description: ''
+linkTitle: Feature Change Locks 1
+type: docs
+---
+
 ### Feature Change Locks
 
 A Feature Change Lock (FCL) is a process to improve the reliability and availability of GitLab.com. We will enact an FCL anytime there is an S1 or public-facing (status page) S2 incident on GitLab.com (including the License App, CustomersDot, and Versions) determined to be caused by an engineering department change. The [team](/handbook/company/structure/#organizational-structure) involved should be determined by the author, their line manager, and that manager's other direct reports.

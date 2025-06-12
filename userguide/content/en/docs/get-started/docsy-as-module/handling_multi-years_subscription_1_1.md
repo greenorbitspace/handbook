@@ -1,8 +1,13 @@
 ---
-
 title: Handling multi-year subscriptions
-description: "How to handle GitLab multi-year subscriptions"
+description: How to handle GitLab multi-year subscriptions
 category: GitLab Self-Managed licenses
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/handling_multi-years_subscription_1_1/
+linkTitle: Handling multi-year subscriptions
+type: docs
 ---
 
 From time to time, you will run into cases where customer has a multi-year subscription. This is only possible if a subscription is purchased through Sales, since there's no option to make a multi-year subscription from [CustomersDot](https://customers.gitlab.com).

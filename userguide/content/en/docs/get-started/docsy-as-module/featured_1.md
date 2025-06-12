@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Featured 1
+aliases:
+- /docs/featured_1/
+description: ''
+linkTitle: Featured 1
+type: docs
+---
+
 +++
 # A Featured Publications section created with the Featured Content widget.
 # This section displays publications from `content/publication/` which have

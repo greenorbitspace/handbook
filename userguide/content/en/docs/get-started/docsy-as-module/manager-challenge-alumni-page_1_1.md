@@ -1,6 +1,12 @@
 ---
-
 title: Manager Challenge Alumni
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/manager-challenge-alumni-page_1_1/
+description: ''
+linkTitle: Manager Challenge Alumni
+type: docs
 ---
 
 ## Manager Challenge Currently Paused

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Blog Posting 1 1
+aliases:
+- /docs/blog-posting_1_1/
+description: ''
+linkTitle: Blog Posting 1 1
+type: docs
+---
+
 <!-- Unsupported block type: callout -->
 
 <!-- Unsupported block type: column_list -->

@@ -1,5 +1,12 @@
 ---
-title: "Creating an AWS EKS cluster for a GitLab demo"
+title: Creating an AWS EKS cluster for a GitLab demo
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/eks-cluster-for-demo_1_1/
+description: ''
+linkTitle: Creating an AWS EKS cluster for a GitLab demo
+type: docs
 ---
 
 ## Account info

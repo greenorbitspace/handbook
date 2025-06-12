@@ -1,7 +1,14 @@
 ---
 title: Readiness Gem
-description: Support Operations documentation page for the GitLab Support Readiness Gem
-canonical_path: "/handbook/support/readiness/operations/docs/gem"
+description: Support Operations documentation page for the GitLab Support Readiness
+  Gem
+canonical_path: /handbook/support/readiness/operations/docs/gem
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gem_1_1/
+linkTitle: Readiness Gem
+type: docs
 ---
 
 ## General info

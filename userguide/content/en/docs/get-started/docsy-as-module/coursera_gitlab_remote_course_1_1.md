@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Coursera Gitlab Remote Course 1 1
+aliases:
+- /docs/coursera_gitlab_remote_course_1_1/
+description: ''
+linkTitle: Coursera Gitlab Remote Course 1 1
+type: docs
+---
+
 ## Complete 'How to Manage a Remote Team' course
 
 ![GitLab all-remote journey illustration](/images/all-remote/gitlab-remote-journey-color-illustration.png)

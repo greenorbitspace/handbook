@@ -1,6 +1,13 @@
 ---
 id: baz
 title: baz
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/baz_1/
+description: ''
+linkTitle: baz
+type: docs
 ---
 
 ## Images

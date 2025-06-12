@@ -1,6 +1,13 @@
 ---
 title: Communications
 Description: Migration report for moving the handbooks communication section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/communication-migration-report_1_1/
+description: ''
+linkTitle: Communications
+type: docs
 ---
 
 **Section:** communication

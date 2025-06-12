@@ -1,5 +1,12 @@
 ---
-title: "Workspaces ADR 002: Provision compute and storage for a workspace"
+title: 'Workspaces ADR 002: Provision compute and storage for a workspace'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/002_provision_compute_and_storage_1748147631683996012_1_1/
+description: ''
+linkTitle: 'Workspaces ADR 002: Provision compute and storage for a workspace'
+type: docs
 ---
 
 ## Context

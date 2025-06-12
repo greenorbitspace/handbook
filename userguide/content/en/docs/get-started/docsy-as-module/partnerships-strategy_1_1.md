@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Partnerships Strategy 1 1
+aliases:
+- /docs/partnerships-strategy_1_1/
+description: ''
+linkTitle: Partnerships Strategy 1 1
+type: docs
+---
+
 # Green Orbit Digital Partnerships Strategy
 
 ## 1. Strategic Vision

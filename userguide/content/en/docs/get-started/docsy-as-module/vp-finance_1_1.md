@@ -1,5 +1,12 @@
 ---
-title: "VP, Financial Planning and Analysis"
+title: VP, Financial Planning and Analysis
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vp-finance_1_1/
+description: ''
+linkTitle: VP, Financial Planning and Analysis
+type: docs
 ---
 
 The VP of Finance is responsible for implementing financial processes and systems as GitLab continues to grow. The team member has proven success developing robust financial reporting processes, financial controls and insightful KPI dashboards necessary for a fast-moving leading software/SaaS company. Experience leading a company through an IPO process and operating as a public company post IPO. This leadership role actively partners with other leaders across the GitLab team in addition to leading finance organization. The VP finance has a passion for how the finance function can transform the strategy, accountability and operations of the Company as a whole. The position reports directly to the CFO.

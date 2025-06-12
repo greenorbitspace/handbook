@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Stakeholder Needs Analysis 1 1
+aliases:
+- /docs/stakeholder-needs-analysis_1_1/
+description: ''
+linkTitle: Stakeholder Needs Analysis 1 1
+type: docs
+---
+
 # Stakeholder Groups and Their Knowledge Needs
 
 ## Internal Stakeholders

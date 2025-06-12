@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Home 1
+aliases:
+- /docs/home_1/
+description: ''
+linkTitle: Home 1
+type: docs
+---
+
 +++
 # A section created with the Blank widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/

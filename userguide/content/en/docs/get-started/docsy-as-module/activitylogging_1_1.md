@@ -1,7 +1,12 @@
 ---
-
-title: "Logging Activities - Best Practices"
-description: "Overview of the SMB Logging Activities Best Practices"
+title: Logging Activities - Best Practices
+description: Overview of the SMB Logging Activities Best Practices
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/activitylogging_1_1/
+linkTitle: Logging Activities - Best Practices
+type: docs
 ---
 
 ## Logging Activities - Best Practices

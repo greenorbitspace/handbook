@@ -1,5 +1,12 @@
 ---
-title: "Leadership Recurring Check-Ins"
+title: Leadership Recurring Check-Ins
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/leadership-recurring-checkin_1748147631605764759_1_1/
+description: ''
+linkTitle: Leadership Recurring Check-Ins
+type: docs
 ---
 
 View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.

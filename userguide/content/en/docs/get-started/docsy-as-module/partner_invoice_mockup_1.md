@@ -1,6 +1,12 @@
 ---
-title: "Professional Services Partner Invoice Example"
-description: "An example invoice between GitLab Professional Services and our partners"
+title: Professional Services Partner Invoice Example
+description: An example invoice between GitLab Professional Services and our partners
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/partner_invoice_mockup_1/
+linkTitle: Professional Services Partner Invoice Example
+type: docs
 ---
 
 ## Partner Company Name INVOICE

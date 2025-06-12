@@ -1,6 +1,13 @@
 ---
-title: "gitlab-ui (CSS and Reusable Components)"
-description: "gitlab-ui drive forward the roadmap of our CSS Cleanup/Restructuring and the implementation of Reusable Components based on our design system."
+title: gitlab-ui (CSS and Reusable Components)
+description: gitlab-ui drive forward the roadmap of our CSS Cleanup/Restructuring
+  and the implementation of Reusable Components based on our design system.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-ui_1_1/
+linkTitle: gitlab-ui (CSS and Reusable Components)
+type: docs
 ---
 
 ## Attributes

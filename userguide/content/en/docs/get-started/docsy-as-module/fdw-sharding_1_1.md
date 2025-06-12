@@ -1,12 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/data_stores/database/doc/fdw-sharding.html
+aliases:
+- /docs/fdw-sharding_1_1/
 title: PostgreSQL 11 sharding with foreign data wrappers and partitioning
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: PostgreSQL 11 sharding with foreign data wrappers and partitioning
+type: docs
 ---
-
-
-
-
-
 
 ## PostgreSQL 11 sharding with foreign data wrappers and partitioning
 

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Create Retrospectives 1 1
+aliases:
+- /docs/create-retrospectives_1_1/
+description: ''
+linkTitle: Create Retrospectives 1 1
+type: docs
+---
+
 {{- $groupLabel := "" }}
 {{- $groupSlug := "" }}
 {{- if .IsNamedParams }}

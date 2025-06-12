@@ -1,7 +1,13 @@
 ---
-aliases: /handbook/engineering/development/sec/delineate-sec.html
+aliases:
+- /docs/delineate-sec_1_1/
 title: Secure / Govern sub-department delineation
-description: "Definition of what engineering group is responsible for features in the Secure and Govern stages of the GitLab product"
+description: Definition of what engineering group is responsible for features in the
+  Secure and Govern stages of the GitLab product
+weight: 2
+date: '2025-06-12'
+linkTitle: Secure / Govern sub-department delineation
+type: docs
 ---
 
 ## Why does this page exist?

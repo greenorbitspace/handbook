@@ -1,8 +1,13 @@
 ---
-
-title: "Ben King's README"
-description: "README for Ben King (Support Engineer (APAC))"
-job: "Support Engineer (APAC)"
+title: Ben King's README
+description: README for Ben King (Support Engineer (APAC))
+job: Support Engineer (APAC)
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ben-king_1_1/
+linkTitle: Ben King's README
+type: docs
 ---
 
 ## Ben's README

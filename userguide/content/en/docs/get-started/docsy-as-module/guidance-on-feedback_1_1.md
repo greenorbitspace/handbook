@@ -1,6 +1,12 @@
 ---
 title: Guidance on Feedback
-description: "GitLab's views and directions on how to give and receive feedback."
+description: GitLab's views and directions on how to give and receive feedback.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/guidance-on-feedback_1_1/
+linkTitle: Guidance on Feedback
+type: docs
 ---
 
 Giving and receiving feedback is an important part of building strong relationships and high performing teams. Feedback aligns to GitLab values in the following ways:

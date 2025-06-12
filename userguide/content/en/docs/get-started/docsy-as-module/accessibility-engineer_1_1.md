@@ -1,6 +1,14 @@
 ---
-title: "Accessibility Engineer"
-description: "At GitLab, Accessibility Engineers collaborate closely with product designers, engineers, UX researchers, technical writers, and other team members to ensure GitLab's products are accessible to all users, including those with disabilities."
+title: Accessibility Engineer
+description: At GitLab, Accessibility Engineers collaborate closely with product designers,
+  engineers, UX researchers, technical writers, and other team members to ensure GitLab's
+  products are accessible to all users, including those with disabilities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/accessibility-engineer_1_1/
+linkTitle: Accessibility Engineer
+type: docs
 ---
 
 ## Accessibility Engineer Roles at GitLab

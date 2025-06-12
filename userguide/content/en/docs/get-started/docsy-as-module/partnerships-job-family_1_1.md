@@ -1,5 +1,12 @@
 ---
-title: "Strategic Partnerships"
+title: Strategic Partnerships
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/partnerships-job-family_1_1/
+description: ''
+linkTitle: Strategic Partnerships
+type: docs
 ---
 
 The Business Development and Strategic Partnerships team is responsible for the strategy and relationship management with Cloud, Hyperscalers, and Strategic Technology Partners.

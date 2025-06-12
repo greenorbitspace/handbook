@@ -1,5 +1,12 @@
 ---
-title: "Epics project management guidelines"
+title: Epics project management guidelines
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/epics_1_1/
+description: ''
+linkTitle: Epics project management guidelines
+type: docs
 ---
 
 {{< include "includes/wip-notice.md" >}}

@@ -1,6 +1,12 @@
 ---
-title: "Creating and managing a research participant panel"
-description: "How to create and manage a research participant panel"
+title: Creating and managing a research participant panel
+description: How to create and manage a research participant panel
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/research-panel-management_1_1/
+linkTitle: Creating and managing a research participant panel
+type: docs
 ---
 
 A research panel is a frequently used means for recruiting participants when conducting research consisting of studying the same group of opted-in participants through various methods and stages that are developed as part of a research effort. This page walks through a self-service process to create and manage panels.

@@ -5,6 +5,13 @@ doc_id: doc-004
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070708_company-infrastructure-plan_1_1/
+description: ''
+linkTitle: Company Infrastructure Plan
+type: docs
 ---
 
 Determining the timelines for when infrastructure elements need to be in place depends heavily on the specific nature of your business, growth plans, and operational requirements. Here’s a general framework to consider:

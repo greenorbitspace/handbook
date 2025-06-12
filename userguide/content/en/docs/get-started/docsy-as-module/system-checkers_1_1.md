@@ -1,7 +1,13 @@
 ---
 title: System Checkers
 description: Information about the system checkers in place
-canonical_path: "/handbook/security/customer-support-operations/docs/system_checkers"
+canonical_path: /handbook/security/customer-support-operations/docs/system_checkers
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/system-checkers_1_1/
+linkTitle: System Checkers
+type: docs
 ---
 
 ## Calendly

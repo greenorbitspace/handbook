@@ -1,15 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/systems/geo/staging.html
-
-title: "Geo on staging.gitlab.com"
-description: "Document Geo installation on staging.gitlab.com"
+aliases:
+- /docs/staging_1_1/
+title: Geo on staging.gitlab.com
+description: Document Geo installation on staging.gitlab.com
+weight: 2
+date: '2025-06-12'
+linkTitle: Geo on staging.gitlab.com
+type: docs
 ---
-
-
-
-
-
-
 
 #### Summary
 

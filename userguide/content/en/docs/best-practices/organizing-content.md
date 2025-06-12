@@ -1,9 +1,13 @@
 ---
-title: "Organizing Your Content"
-linkTitle: "Organizing Your Content"
+title: Organizing Your Content
+linkTitle: Organizing Your Content
 weight: 9
-description: >
+description: |
   Optional guidance and recommendations on how to organize your documentation site.
+type: docs
+date: '2025-06-12T01:05:53+01:00'
+aliases:
+- /docs/organizing-content/
 ---
 
 If you have a look at our [Example Site](https://example.docsy.dev/about/), you'll see that we've organized 

@@ -1,5 +1,12 @@
 ---
-title: "Professional Services Engineer"
+title: Professional Services Engineer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/professional-services-engineer_1_1_1/
+description: ''
+linkTitle: Professional Services Engineer
+type: docs
 ---
 
 Professional Services Engineers engage with customers to provide installation, migration, training, and advisory services. They handle installations ranging from single-node Omnibus installs, to our largest reference architectures utilizing IaC/CaC, migrations from multiple systems to GitLab SaaS or self-hosted, and advisory services across the entire GitLab feature stack.

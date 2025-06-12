@@ -1,10 +1,13 @@
 ---
-title: "Create a new site: start with a prepopulated site"
-linkTitle: "Start with a prepopulated site"
-date: 2021-12-08T09:21:54+01:00
+title: 'Create a new site: start with a prepopulated site'
+linkTitle: Start with a prepopulated site
+date: '2025-06-12T01:06:00+01:00'
 weight: 2
-description: >
+description: |
   Create a new Hugo site by using a clone of the Docsy example site as your starting point.
+aliases:
+- /docs/example-site-as-template/
+type: docs
 ---
 
 The simplest way to create a new Docsy site is to use the source of the [Docsy example site](https://github.com/google/docsy-example) as starting point. This approach gives you a skeleton structure for your site, with top-level and documentation sections and templates that you can modify as necessary. The example site automatically pulls in the Docsy theme as a [Hugo Module](https://gohugo.io/hugo-modules/), so it's easy to [keep up to date](/docs/updating/updating-hugo-module/).

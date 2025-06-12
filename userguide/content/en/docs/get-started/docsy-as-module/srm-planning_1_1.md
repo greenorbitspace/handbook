@@ -1,5 +1,12 @@
 ---
 title: Security Risk Management Planning
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/srm-planning_1_1/
+description: ''
+linkTitle: Security Risk Management Planning
+type: docs
 ---
 
 ## How we do planning

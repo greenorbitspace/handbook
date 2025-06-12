@@ -1,7 +1,13 @@
 ---
 title: Themes
 description: Operations documentation page for Zendesk themes
-canonical_path: "/handbook/security/customer-support-operations/docs/zendesk/themes"
+canonical_path: /handbook/security/customer-support-operations/docs/zendesk/themes
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/themes_1_1_1/
+linkTitle: Themes
+type: docs
 ---
 
 {{% alert title="Note" color="danger" %}}

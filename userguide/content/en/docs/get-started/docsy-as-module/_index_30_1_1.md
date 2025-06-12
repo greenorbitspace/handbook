@@ -1,6 +1,12 @@
 ---
-title: "Identity Platform CI/CD Auditlog Pipeline"
-description: ""
+title: Identity Platform CI/CD Auditlog Pipeline
+description: ''
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_30_1_1/
+linkTitle: Identity Platform CI/CD Auditlog Pipeline
+type: docs
 ---
 
 {{% alert title="Not Live Yet" color="warning" %}}

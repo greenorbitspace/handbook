@@ -1,6 +1,12 @@
 ---
-title: "Designing your survey"
-description: "A list of tips to consider when designing your UX research survey."
+title: Designing your survey
+description: A list of tips to consider when designing your UX research survey.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/designing-your-survey_1_1/
+linkTitle: Designing your survey
+type: docs
 ---
 
 Designing a survey isn’t easy.  It requires thoughtful planning to make sure the flow of the survey is easy to follow, the questions are clear to the respondent, and that the output will yield accurate data.

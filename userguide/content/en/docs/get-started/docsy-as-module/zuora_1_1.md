@@ -1,7 +1,13 @@
 ---
-
-title: "Zuora - Enterprise Application Guides"
-description: “Zuora is an order-to-revenue SaaS platform that supports GitLab's quoting, billing, collections, revenue recognition, and subscription metrics.”
+title: Zuora - Enterprise Application Guides
+description: “Zuora is an order-to-revenue SaaS platform that supports GitLab's quoting,
+  billing, collections, revenue recognition, and subscription metrics.”
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/zuora_1_1/
+linkTitle: Zuora - Enterprise Application Guides
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

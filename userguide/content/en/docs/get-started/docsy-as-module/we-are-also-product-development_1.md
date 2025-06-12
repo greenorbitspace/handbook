@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: We Are Also Product Development 1
+aliases:
+- /docs/we-are-also-product-development_1/
+description: ''
+linkTitle: We Are Also Product Development 1
+type: docs
+---
+
 ## We are also Product Development
 
 Unlike typical companies, part of the mandates of our Security, Infrastructure, and Support Departments is to contribute to the development of the GitLab Product. This follows from these concepts, many of which are also behaviors attached to our [core values](/handbook/values/):

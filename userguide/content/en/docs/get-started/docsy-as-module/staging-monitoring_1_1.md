@@ -1,6 +1,12 @@
 ---
-title: "Staging Monitoring"
-description: "How Staging is monitored and how traffic is generated"
+title: Staging Monitoring
+description: How Staging is monitored and how traffic is generated
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/staging-monitoring_1_1/
+linkTitle: Staging Monitoring
+type: docs
 ---
 
 [Staging environment](../../../engineering/infrastructure/environments/#staging) has the same [service-level monitoring rules as Production](../):

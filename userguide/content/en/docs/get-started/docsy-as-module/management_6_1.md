@@ -1,5 +1,12 @@
 ---
-title: "Engineering Management - Engineering Analytics"
+title: Engineering Management - Engineering Analytics
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/management_6_1/
+description: ''
+linkTitle: Engineering Management - Engineering Analytics
+type: docs
 ---
 
 Engineering Analytics Manager manages a team of Engineering Analysts that work on data capabilities for the Engineering Division.

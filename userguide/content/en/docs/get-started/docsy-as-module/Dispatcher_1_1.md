@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Dispatcher 1 1
+aliases:
+- /docs/Dispatcher_1_1/
+description: ''
+linkTitle: Dispatcher 1 1
+type: docs
+---
+
 # Dispatcher
 
 Extends: `events.EventEmitter`

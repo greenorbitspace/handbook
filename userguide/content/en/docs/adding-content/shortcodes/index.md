@@ -1,14 +1,17 @@
 ---
 title: Docsy Shortcodes
 linkTitle: Shortcodes
-date: 2017-01-05
+date: '2025-06-12T01:05:53+01:00'
 weight: 5
-description: >
+description: |
   Use Docsy's Hugo shortcodes to quickly build site pages.
 resources:
-  - src: '**spruce*.jpg'
-    params:
-      byline: '*Photo*: Bjørn Erik Pedersen / CC-BY-SA'
+- src: '**spruce*.jpg'
+  params:
+    byline: '*Photo*: Bjørn Erik Pedersen / CC-BY-SA'
+type: docs
+aliases:
+- /docs/index/
 ---
 
 Rather than writing all your site pages from scratch, Hugo lets you define and

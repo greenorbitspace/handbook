@@ -1,7 +1,12 @@
 ---
-
-title: "Renewals FAQ"
-description: "Customer Renewals - Frequently Asked Questions"
+title: Renewals FAQ
+description: Customer Renewals - Frequently Asked Questions
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/renewals-faq_1_1/
+linkTitle: Renewals FAQ
+type: docs
 ---
 
 ## Customer Renewals FAQ

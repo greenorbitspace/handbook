@@ -1,9 +1,12 @@
 ---
 title: Doc Versioning
-date: 2020-02-02
+date: '2025-06-12T01:05:57+01:00'
 weight: 4
-description: >-
-  Customize navigation and banners for multiple versions of your docs.
+description: Customize navigation and banners for multiple versions of your docs.
+aliases:
+- /docs/versioning_1_1/
+linkTitle: Doc Versioning
+type: docs
 ---
 
 Depending on your project's releases and versioning, you may want to let your

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Management Strategy 1 1
+aliases:
+- /docs/management-strategy_1_1/
+description: ''
+linkTitle: Management Strategy 1 1
+type: docs
+---
+
 # Management Strategy
 
 ## 1. Strategic Vision and Objectives

@@ -1,14 +1,14 @@
 ---
-
-title: "Best Practices for Building Value with Customers"
-description: "An overview of some of the GitLab Field team's best-practices to build value with customers."
+title: Best Practices for Building Value with Customers
+description: An overview of some of the GitLab Field team's best-practices to build
+  value with customers.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/build-value-with-customers_1_1/
+linkTitle: Best Practices for Building Value with Customers
+type: docs
 ---
-
-
-
-
-
-
 
 The below page overviews some best-practices to build value with customers. For a full overview of Sales Operating Procedures, see the four phases [here](/handbook/sales/sales-operating-procedures/).
 

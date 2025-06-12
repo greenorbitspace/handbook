@@ -1,6 +1,12 @@
 ---
-title: "Guidelines for Use of Third-party IP in External Materials"
-description: "Guidelines for the use of third-party content in external materials"
+title: Guidelines for Use of Third-party IP in External Materials
+description: Guidelines for the use of third-party content in external materials
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ip-public-materials-guidelines_1_1/
+linkTitle: Guidelines for Use of Third-party IP in External Materials
+type: docs
 ---
 
 ## Scope and purpose

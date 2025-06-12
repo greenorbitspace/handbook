@@ -1,10 +1,16 @@
 ---
-name: 'Help/Support'
-about: 'Need help?'
+name: Help/Support
+about: Need help?
 title: '[HELP]'
 labels: help wanted, question
 assignees: ''
-
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/help-support_1_1/
+description: ''
+linkTitle: '[HELP]'
+type: docs
 ---
 
 **Resources**

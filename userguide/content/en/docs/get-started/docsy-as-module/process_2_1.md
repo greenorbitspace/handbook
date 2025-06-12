@@ -1,8 +1,12 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/systems/geo/process.html
-
-title: "Geo and Disaster Recovery - Planning"
-description: "How the Geo Team Operates"
+aliases:
+- /docs/process_2_1/
+title: Geo and Disaster Recovery - Planning
+description: How the Geo Team Operates
+weight: 2
+date: '2025-06-12'
+linkTitle: Geo and Disaster Recovery - Planning
+type: docs
 ---
 
 ## Discussions

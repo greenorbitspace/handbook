@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: C Hide Edit And Delete Layers 1 1
+aliases:
+- /docs/c-hide-edit-and-delete-layers_1_1/
+description: ''
+linkTitle: C Hide Edit And Delete Layers 1 1
+type: docs
+---
+
 # Hide, Edit and Delete Layers
 
 Each layer has its own tab in the __Data Layers__ menu:

@@ -1,7 +1,14 @@
 ---
-title: "Support Management"
-description: "Support Engineering Management at GitLab isn't your typical management opportunity because of our approach to the function."
-canonical_path: "/job-families/engineering/support-management/"
+title: Support Management
+description: Support Engineering Management at GitLab isn't your typical management
+  opportunity because of our approach to the function.
+canonical_path: /job-families/engineering/support-management/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-management_1_1_1/
+linkTitle: Support Management
+type: docs
 ---
 
 ## A brief overview

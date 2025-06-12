@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 7 Render 1 1
+aliases:
+- /docs/7-render_1_1/
+description: ''
+linkTitle: 7 Render 1 1
+type: docs
+---
+
 ### view engine
 - for render to worke install view engine either js or pug
 ```bash

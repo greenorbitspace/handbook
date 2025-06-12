@@ -1,9 +1,13 @@
 ---
-title: "Innsiden av rekursjon: Drivverket"
+title: 'Innsiden av rekursjon: Drivverket'
 linkTitle: Innsiden av rekursjon
-date: 2017-01-07
-description: >
- En kort oppsummering av denne siden. Tekst kan **utheves** sller skrives i _kursiv_ og kan ha flere avsnitt.
+date: '2025-06-12T01:05:55+01:00'
+description: |
+  En kort oppsummering av denne siden. Tekst kan **utheves** sller skrives i _kursiv_ og kan ha flere avsnitt.
+weight: 2
+aliases:
+- /docs/20250606070822_the-inside-of-recursion-the-inner-workings_1_1/
+type: docs
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).

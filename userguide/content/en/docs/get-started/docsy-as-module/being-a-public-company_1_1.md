@@ -2,6 +2,11 @@
 title: Being a public company
 aliases:
 - /handbook/being-a-public-company/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Being a public company
+type: docs
 ---
 
 ## GitLab as a Public Company

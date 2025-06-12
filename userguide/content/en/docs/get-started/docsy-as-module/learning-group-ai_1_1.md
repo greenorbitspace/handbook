@@ -1,6 +1,14 @@
 ---
-title: "AI in Security Learning Group"
-description: "This learning group is to help interested GitLab Security team members to learn and share what they have learned about artificial intelligence (AI) and machine learning (ML) technologies."
+title: AI in Security Learning Group
+description: This learning group is to help interested GitLab Security team members
+  to learn and share what they have learned about artificial intelligence (AI) and
+  machine learning (ML) technologies.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/learning-group-ai_1_1/
+linkTitle: AI in Security Learning Group
+type: docs
 ---
 
 ## Description

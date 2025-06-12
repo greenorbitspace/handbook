@@ -5,6 +5,13 @@ doc_id: doc-320
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070710_short-guide-to-sustainability-from-for-and-in-space_1_1/
+description: ''
+linkTitle: Short Guide To Sustainability From For And In Space
+type: docs
 ---
 
 Outline: Short Guide to Sustainability from, for, and in Space

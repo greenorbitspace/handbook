@@ -1,7 +1,13 @@
 ---
-title: "Sustainability Brief"
-author: "Green Orbit Digital"
-date: 2025-05-24
+title: Sustainability Brief
+author: Green Orbit Digital
+date: '2025-06-12T01:05:55+01:00'
+weight: 2
+aliases:
+- /docs/example_1_1/
+description: ''
+linkTitle: Sustainability Brief
+type: docs
 ---
 
 # Executive Summary

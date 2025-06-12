@@ -1,6 +1,16 @@
 ---
-title: "Identity User Guide - Onboarding Operations"
-description: "The Identity Platform handles the automation of provisioning user access to applications, groups, and infrastructure when they join the company (referred to as onboarding). This page provides a quick reference guide and runbooks for IT, People Operations, and Security Operations team members to manage day-to-day workflows and a self service guide for frequently asked questions and use cases."
+title: Identity User Guide - Onboarding Operations
+description: The Identity Platform handles the automation of provisioning user access
+  to applications, groups, and infrastructure when they join the company (referred
+  to as onboarding). This page provides a quick reference guide and runbooks for IT,
+  People Operations, and Security Operations team members to manage day-to-day workflows
+  and a self service guide for frequently asked questions and use cases.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_21_1_1/
+linkTitle: Identity User Guide - Onboarding Operations
+type: docs
 ---
 
 {{% alert title="Not Live Yet" color="warning" %}}

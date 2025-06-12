@@ -1,6 +1,12 @@
 ---
-title: "TMRG - Caregivers"
-description: "Gathering place for the caregivers of GitLab!"
+title: TMRG - Caregivers
+description: Gathering place for the caregivers of GitLab!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tmrg-caregivers_1_1/
+linkTitle: TMRG - Caregivers
+type: docs
 ---
 
 Welcome to the Caregivers Team Member Resource Group space! Join us in our Slack channel #caregivers-tmrg to be notified of events and meet other members.

@@ -1,6 +1,12 @@
 ---
-title: "Marketing - Emergency Response"
-description: "GitLab's email response process for marketing emergencies"
+title: Marketing - Emergency Response
+description: GitLab's email response process for marketing emergencies
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/emergency-response_1_1/
+linkTitle: Marketing - Emergency Response
+type: docs
 ---
 
 ## Marketing emergency response

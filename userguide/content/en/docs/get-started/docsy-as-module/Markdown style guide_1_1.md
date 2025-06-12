@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Markdown Style Guide 1 1
+aliases:
+- /docs/Markdown style guide_1_1/
+description: ''
+linkTitle: Markdown Style Guide 1 1
+type: docs
+---
+
 # Markdown style guide
 
 Read through our Markdown Style Guide!

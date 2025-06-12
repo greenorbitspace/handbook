@@ -1,8 +1,12 @@
 ---
 title: Navigation and Menus
-date: 2017-01-05
+date: '2025-06-12T01:05:54+01:00'
 weight: 3
 description: Customize site navigation for your Docsy site.
+aliases:
+- /docs/navigation_1_1/
+linkTitle: Navigation and Menus
+type: docs
 ---
 
 Docsy provides multiple built-in navigation features for your sites, including

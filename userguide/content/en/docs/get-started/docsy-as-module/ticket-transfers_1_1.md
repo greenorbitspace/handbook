@@ -2,6 +2,12 @@
 title: Ticket transfers
 category: Handling tickets
 description: How to handover and rehome tickets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ticket-transfers_1_1/
+linkTitle: Ticket transfers
+type: docs
 ---
 
 ## Introduction

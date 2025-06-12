@@ -1,6 +1,15 @@
 ---
 title: InfraSec Issue Lifecycle
-description: This page outlines the structured process for managing InfraSec issues from creation to closure. It includes clear stages such as issue triage, prioritization, backlog checks, and closure, ensuring efficient tracking, timely resolution, and accountability through systematic labeling and workflows
+description: This page outlines the structured process for managing InfraSec issues
+  from creation to closure. It includes clear stages such as issue triage, prioritization,
+  backlog checks, and closure, ensuring efficient tracking, timely resolution, and
+  accountability through systematic labeling and workflows
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/issue-lifecycle_1_1/
+linkTitle: InfraSec Issue Lifecycle
+type: docs
 ---
 
 Managing issues—from creation to closure—is a fundamental process that ensures they are addressed systematically. The issue lifecycle typically begins when a team member or stakeholder creates an issue, detailing the problem, enhancement, or task to be completed. The issue progresses through various stages, including triage and in-progress, before being resolved or closed. This workflow allows for transparent tracking of work, accountability among team members, and a structured approach to delivering solutions. Each stage is crucial to ensuring that issues are handled efficiently, fostering collaboration and addressing all concerns on time.

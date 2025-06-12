@@ -1,6 +1,14 @@
 ---
-title: "Experimentation Working Group"
-description: "The GitLab Experimentation Working Group aims to define the process for Product Groups at GitLab to self-service the definition, running, and results analysis of Product experiments on GitLab.com."
+title: Experimentation Working Group
+description: The GitLab Experimentation Working Group aims to define the process for
+  Product Groups at GitLab to self-service the definition, running, and results analysis
+  of Product experiments on GitLab.com.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/experimentation_1/
+linkTitle: Experimentation Working Group
+type: docs
 ---
 
 ## Attributes

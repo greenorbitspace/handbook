@@ -1,5 +1,12 @@
 ---
-title: "Secret Push Protection Monitoring"
+title: Secret Push Protection Monitoring
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/secret-push-protection-monitoring_1_1/
+description: ''
+linkTitle: Secret Push Protection Monitoring
+type: docs
 ---
 
 ### When to use this runbook?

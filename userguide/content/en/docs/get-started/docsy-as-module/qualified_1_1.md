@@ -1,7 +1,13 @@
 ---
-
-title: "Qualified"
-description: "Qualified facilitates instant sales conversations with visitors on the GitLab marketing website"
+title: Qualified
+description: Qualified facilitates instant sales conversations with visitors on the
+  GitLab marketing website
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/qualified_1_1/
+linkTitle: Qualified
+type: docs
 ---
 
 ## Overview

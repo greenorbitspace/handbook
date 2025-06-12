@@ -1,6 +1,13 @@
 ---
-title: "Product Leadership Team"
-description: "This job family represents all members of the Product Leadership Team for the Product Division."
+title: Product Leadership Team
+description: This job family represents all members of the Product Leadership Team
+  for the Product Division.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-leadership_4_1/
+linkTitle: Product Leadership Team
+type: docs
 ---
 
 This job family represents all members of the Product Leadership team within the Product Division. They are responsible for managing,

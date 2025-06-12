@@ -1,6 +1,13 @@
 ---
-title: "Observation Remediation Procedure"
+title: Observation Remediation Procedure
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/observation-remediation-procedure_1_1/
+description: ''
+linkTitle: Observation Remediation Procedure
+type: docs
 ---
 
 ## Purpose

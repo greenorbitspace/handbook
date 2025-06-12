@@ -1,7 +1,13 @@
 ---
 title: Round Robin
 description: Operations documentation page for round robin
-canonical_path: "/handbook/security/customer-support-operations/zendesk/round-robin"
+canonical_path: /handbook/security/customer-support-operations/zendesk/round-robin
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/round-robin_1_1/
+linkTitle: Round Robin
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

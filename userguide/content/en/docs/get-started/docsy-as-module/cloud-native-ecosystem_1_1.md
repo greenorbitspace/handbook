@@ -1,13 +1,13 @@
 ---
-
-title: "Cloud Native Ecosystem Sales Enablement"
+title: Cloud Native Ecosystem Sales Enablement
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cloud-native-ecosystem_1_1/
+description: ''
+linkTitle: Cloud Native Ecosystem Sales Enablement
+type: docs
 ---
-
-
-
-
-
-
 
 ## [Video](https://www.youtube.com/watch?v=0DxQKVKB3nY)
 

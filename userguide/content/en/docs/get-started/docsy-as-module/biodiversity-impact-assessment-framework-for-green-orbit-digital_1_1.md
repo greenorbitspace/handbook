@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Biodiversity Impact Assessment Framework For Green Orbit Digital 1 1
+aliases:
+- /docs/biodiversity-impact-assessment-framework-for-green-orbit-digital_1_1/
+description: ''
+linkTitle: Biodiversity Impact Assessment Framework For Green Orbit Digital 1 1
+type: docs
+---
+
 A Biodiversity Impact Assessment (BIA) framework helps Green Orbit Digital identify, evaluate, and mitigate potential impacts on biodiversity due to its operations, products, or services. The framework will guide the company in ensuring that all activities are environmentally responsible and aligned with sustainability goals.
 
 <!-- Unsupported block type: divider -->

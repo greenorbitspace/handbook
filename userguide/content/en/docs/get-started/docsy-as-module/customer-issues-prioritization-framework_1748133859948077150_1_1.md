@@ -1,5 +1,12 @@
 ---
-title: "Customer Issues Prioritization Framework"
+title: Customer Issues Prioritization Framework
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-issues-prioritization-framework_1748133859948077150_1_1/
+description: ''
+linkTitle: Customer Issues Prioritization Framework
+type: docs
 ---
 
 ## Context

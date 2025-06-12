@@ -1,7 +1,12 @@
 ---
-aliases: /handbook/customer-success/education-services/tech_stack/credly.html
-title: "Credly Tech Stack Guide"
+aliases:
+- /docs/credly_1_1/
+title: Credly Tech Stack Guide
 description: “Tech Stack Guide for Credly Digital Credentialing System"
+weight: 2
+date: '2025-06-12'
+linkTitle: Credly Tech Stack Guide
+type: docs
 ---
 
 The Tech Stack single source of truth is the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and contains more detail about this app.

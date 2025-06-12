@@ -1,7 +1,13 @@
 ---
 title: Schedules
 description: Operations documentation page for Zendesk schedules
-canonical_path: "/handbook/security/customer-support-operations/docs/zendesk/schedules"
+canonical_path: /handbook/security/customer-support-operations/docs/zendesk/schedules
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/schedules_1_1_1/
+linkTitle: Schedules
+type: docs
 ---
 
 {{% alert title="Note" color="danger" %}}

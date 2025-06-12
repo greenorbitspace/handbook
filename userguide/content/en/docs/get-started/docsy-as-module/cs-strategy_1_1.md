@@ -1,5 +1,12 @@
 ---
-title: "Customer Success Strategy Job Family"
+title: Customer Success Strategy Job Family
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cs-strategy_1_1/
+description: ''
+linkTitle: Customer Success Strategy Job Family
+type: docs
 ---
 
 The Customer Success Strategy job family partners with our global customer engagement teams to drive and influence business improvements and bolster customer-centric decision-making across the business. You will play a pivotal role in driving customer satisfaction and loyalty by analyzing insights and feedback, identifying areas for improvement, and partnering with cross-functional teams to develop and implement strategies that enhance the overall customer experience.

@@ -1,9 +1,14 @@
 ---
-title: "GitLab Iberia s.r.l. (Spain) Information and Benefits"
-description: "Entitity Information for GitLab Iberia s.r.l. Spain Team Members"
+title: GitLab Iberia s.r.l. (Spain) Information and Benefits
+description: Entitity Information for GitLab Iberia s.r.l. Spain Team Members
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/iberia-srl-spain_1_1/
+linkTitle: GitLab Iberia s.r.l. (Spain) Information and Benefits
+type: docs
 ---
-
 
 Bienvenido! This Handbook is for team members employed by GitLab Iberia s.r.l and includes (we hope!), all the information you might want or need. If there's anything we don't have here, that you think should be included, please feel free to make a suggestion.
 

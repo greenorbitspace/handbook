@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Functional Strategy 1 1
+aliases:
+- /docs/functional-strategy_1_1/
+description: ''
+linkTitle: Functional Strategy 1 1
+type: docs
+---
+
 # 🛠️ Green Orbit Digital | Functional Strategy
 
 Turning strategic intent into operational excellence across every core function.

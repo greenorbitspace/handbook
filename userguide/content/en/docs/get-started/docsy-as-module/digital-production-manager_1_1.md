@@ -1,6 +1,12 @@
 ---
-title: "Digital Production Roles"
-description: "Learn more about Digital Production roles, responsibilities and requirements."
+title: Digital Production Roles
+description: Learn more about Digital Production roles, responsibilities and requirements.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/digital-production-manager_1_1/
+linkTitle: Digital Production Roles
+type: docs
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBSQmB_ruco" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

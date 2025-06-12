@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Staff Leadership Competency 1
+aliases:
+- /docs/staff-leadership-competency_1/
+description: ''
+linkTitle: Staff Leadership Competency 1
+type: docs
+---
+
 ##### Engineering
 
 A staff engineer generally operates at a team level scope, serving as the technical leader for one or more of their team's domains of responsibility.

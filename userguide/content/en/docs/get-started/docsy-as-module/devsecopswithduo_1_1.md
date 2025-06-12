@@ -1,6 +1,13 @@
 ---
-title: "DevSecOps with GitLab Duo - Hands-On Lab Overview"
-description: "This Hands-On Guide walks you through the lab exercises in the DevSecOps with GitLab Duo course."
+title: DevSecOps with GitLab Duo - Hands-On Lab Overview
+description: This Hands-On Guide walks you through the lab exercises in the DevSecOps
+  with GitLab Duo course.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/devsecopswithduo_1_1/
+linkTitle: DevSecOps with GitLab Duo - Hands-On Lab Overview
+type: docs
 ---
 
 ## DevSecOps with GitLab Duo

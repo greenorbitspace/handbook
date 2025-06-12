@@ -1,6 +1,12 @@
 ---
-title: "GitLab Compliance - Separation of Privileges"
-description: "This Hands-On Guide demonstrates separation of privileges"
+title: GitLab Compliance - Separation of Privileges
+description: This Hands-On Guide demonstrates separation of privileges
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabcompliancehandson1_1_1/
+linkTitle: GitLab Compliance - Separation of Privileges
+type: docs
 ---
 
 > Estimated time to complete: 10 minutes

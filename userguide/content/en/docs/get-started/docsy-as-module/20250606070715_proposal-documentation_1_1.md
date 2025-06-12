@@ -5,6 +5,13 @@ doc_id: doc-1259
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070715_proposal-documentation_1_1/
+description: ''
+linkTitle: Proposal Documentation
+type: docs
 ---
 
 When sending a proposal to a client at Green Orbit Digital, it's essential to provide key outputs that clearly outline your understanding of their needs, your proposed solutions, and the expected outcomes. Here’s a list of the key outputs you should include:

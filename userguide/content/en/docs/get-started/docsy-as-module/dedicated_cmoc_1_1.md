@@ -1,7 +1,14 @@
 ---
 title: How to Perform GitLab Dedicated CMOC Duties
 category: On-call
-description: "Describes the role and responsibilities for the GitLab Dedicated CMOC rotation in Support Engineering"
+description: Describes the role and responsibilities for the GitLab Dedicated CMOC
+  rotation in Support Engineering
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dedicated_cmoc_1_1/
+linkTitle: How to Perform GitLab Dedicated CMOC Duties
+type: docs
 ---
 
 ## Introduction

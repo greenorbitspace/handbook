@@ -1,5 +1,12 @@
 ---
 title: Leading through Adversity
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/leading-through-adversity_1748146058040774516_1_1/
+description: ''
+linkTitle: Leading through Adversity
+type: docs
 ---
 
 ## Leading team through adversity and challenging times

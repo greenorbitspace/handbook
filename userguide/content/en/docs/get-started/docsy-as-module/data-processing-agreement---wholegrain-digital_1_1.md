@@ -1,3 +1,18 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Data Processing Agreement   Wholegrain Digital 1 1
+aliases:
+- /docs/data-processing-agreement
+linkTitle: Data Processing Agreement   Wholegrain Digital 1 1
+description: ''
+type: docs
+---
+
+wholegrain-digital_1_1/
+description: ''
+---
+
 In short – We promise to look after your data, and have in place clear policies to ensure that our processes comply with our legal obligations, and our obligations to you, as our client. The necessary legal blurb follows below. If it’s too legal jargon-y, please let us know!
 
 ## The Details

@@ -1,5 +1,14 @@
 ---
-title: "Workspaces ADR 005: Explicitly define the user/group ID of the containers at runtime"
+title: 'Workspaces ADR 005: Explicitly define the user/group ID of the containers
+  at runtime'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/005_explicitly_set_user_group_id_of_containers_1748133869118104587_1_1/
+description: ''
+linkTitle: 'Workspaces ADR 005: Explicitly define the user/group ID of the containers
+  at runtime'
+type: docs
 ---
 
 ## Context

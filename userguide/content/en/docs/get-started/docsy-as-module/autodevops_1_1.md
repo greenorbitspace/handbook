@@ -1,14 +1,14 @@
 ---
-
 title: Auto DevOps
-description: "Auto DevOps is a technology that allows automated application of DevOps best practices."
+description: Auto DevOps is a technology that allows automated application of DevOps
+  best practices.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/autodevops_1_1/
+linkTitle: Auto DevOps
+type: docs
 ---
-
-
-
-
-
-
 
 ## Current end-to-end tests
 

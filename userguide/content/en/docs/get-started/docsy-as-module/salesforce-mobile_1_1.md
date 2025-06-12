@@ -1,7 +1,13 @@
 ---
-
-title: "Salesforce Mobile App Users Guide"
-description: "Instructions on where to download and how to login to the Salesforce Mobile App"
+title: Salesforce Mobile App Users Guide
+description: Instructions on where to download and how to login to the Salesforce
+  Mobile App
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/salesforce-mobile_1_1/
+linkTitle: Salesforce Mobile App Users Guide
+type: docs
 ---
 
 ## How to Login To The Salesforce Mobile App

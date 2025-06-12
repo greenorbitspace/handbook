@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 1Password And Environment Variables 1 1
+aliases:
+- /docs/1Password and Environment Variables_1_1/
+description: ''
+linkTitle: 1Password And Environment Variables 1 1
+type: docs
+---
+
 # 1Password and Environment Variables
 
 [Unsupported block type: image]

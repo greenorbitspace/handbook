@@ -1,14 +1,14 @@
 ---
-
-title: "Google Lighthouse"
-description: "Google Lighthouse is used on our Buyer Experience site to measure the performance of our site over time."
+title: Google Lighthouse
+description: Google Lighthouse is used on our Buyer Experience site to measure the
+  performance of our site over time.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/google-lighthouse_1_1/
+linkTitle: Google Lighthouse
+type: docs
 ---
-
-
-
-
-
-
 
 Relevant links
 

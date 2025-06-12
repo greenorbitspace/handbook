@@ -1,6 +1,12 @@
 ---
-
-title: "Data POC Working Group"
+title: Data POC Working Group
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/data-poc_1_1/
+description: ''
+linkTitle: Data POC Working Group
+type: docs
 ---
 
 ## Attributes

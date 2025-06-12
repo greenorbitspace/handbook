@@ -1,13 +1,13 @@
 ---
-
 title: Keeping secure coding knowledge fresh in development
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/secure-coding_1_1/
+description: ''
+linkTitle: Keeping secure coding knowledge fresh in development
+type: docs
 ---
-
-
-
-
-
-
 
 ## Secure Coding Training Guidelines
 

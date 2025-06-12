@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Timezones 1 1
+aliases:
+- /docs/timeZones_1_1/
+description: ''
+linkTitle: Timezones 1 1
+type: docs
+---
+
 # Time zones
 
 Starting from v4, date-fns has first-class support for time zones. It is provided via [`@date-fns/tz`] and [`@date-fns/utc`] packages. Visit the links to learn more about corresponding packages.

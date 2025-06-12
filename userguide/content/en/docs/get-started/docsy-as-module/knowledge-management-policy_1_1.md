@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Knowledge Management Policy 1 1
+aliases:
+- /docs/knowledge-management-policy_1_1/
+description: ''
+linkTitle: Knowledge Management Policy 1 1
+type: docs
+---
+
 ## Knowledge Management Policy
 
 ### 1. Purpose

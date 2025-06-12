@@ -1,5 +1,12 @@
 ---
 title: Leadership People Operations, Technology, Analytics, TMR, & Risk
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/leadership-people-operations-tech-analytics_1_1/
+description: ''
+linkTitle: Leadership People Operations, Technology, Analytics, TMR, & Risk
+type: docs
 ---
 
 ## Levels

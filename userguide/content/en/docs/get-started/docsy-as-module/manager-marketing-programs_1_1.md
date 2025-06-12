@@ -1,6 +1,13 @@
 ---
-title: "Manager, Marketing Programs"
-summary: " "
+title: Manager, Marketing Programs
+summary: ' '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/manager-marketing-programs_1_1/
+description: ''
+linkTitle: Manager, Marketing Programs
+type: docs
 ---
 
 The Manager of Marketing Programs for GitLab should have a background and hands-on experience in all areas of marketing programs: campaign organization and planning email marketing, marketing operations, ABM, and integrated campaigns. They will have experience managing marketing teams and working with all teams within the larger marketing department. They should also be able to maintain a budget, use analytics tools, CRM, MAT, and other marketing tools, and have a data-inspired approach to marketing. Experience in marketing operations and marketing project management are also helpful in this role.

@@ -1,15 +1,14 @@
 ---
-
-title: "Customer Onboarding Best Practices"
+title: Customer Onboarding Best Practices
 aliases:
 - /handbook/customer-success/csm/segment/cse/customer-onboarding-best-practices/
 - /handbook/customer-success/csm/segment/scale/customer-onboarding-best-practices/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Customer Onboarding Best Practices
+type: docs
 ---
-
-
-
-
-
 
 View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM/CSE-related handbook pages.
 

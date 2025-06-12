@@ -1,5 +1,12 @@
 ---
-title: "Closing Vulnerability Tracking Issues"
+title: Closing Vulnerability Tracking Issues
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/closing-issues_1_1/
+description: ''
+linkTitle: Closing Vulnerability Tracking Issues
+type: docs
 ---
 
 At GitLab, we use GitLab to track the detection and remediation of vulnerability findings. In the case of remediation work, a vulnerability tracking issue (which is a regular GitLab issue) is used to track work required to remediate a specific vulnerability finding, typically against one or more assets where the vulnerability was detected.

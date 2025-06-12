@@ -1,6 +1,12 @@
 ---
-title: "Security Program Manager"
-description: "Driving security strategy and initiatives company-wide"
+title: Security Program Manager
+description: Driving security strategy and initiatives company-wide
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-program-manager_1_1/
+linkTitle: Security Program Manager
+type: docs
 ---
 
 The Security Program Manager will be responsible for complete overview and driving security initiatives across product, engineering and business enablement.  This includes the tracking, monitoring and influencing priority of significant security objectives, goals and plans from all security sub-departments.

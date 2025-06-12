@@ -1,10 +1,16 @@
 ---
 name: Feature request
 about: Suggest an idea for this library
-title: ''
+title: Feature Request 1 1
 labels: 'type: feature request, triage me'
 assignees: ''
-
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/feature_request_1_1/
+description: ''
+linkTitle: Feature Request 1 1
+type: docs
 ---
 
 Thanks for stopping by to let us know something could be better!

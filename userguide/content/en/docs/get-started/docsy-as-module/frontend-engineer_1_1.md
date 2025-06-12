@@ -1,5 +1,12 @@
 ---
-title: "Frontend Engineer, Infrastructure"
+title: Frontend Engineer, Infrastructure
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/frontend-engineer_1_1/
+description: ''
+linkTitle: Frontend Engineer, Infrastructure
+type: docs
 ---
 
 ### Switchboard

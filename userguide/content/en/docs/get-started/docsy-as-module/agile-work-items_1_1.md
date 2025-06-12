@@ -1,8 +1,12 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/systems/geo/agile-work-items.html
-
-title: "Geo and Disaster Recovery - Hierarchy of Agile Work Items"
-description: "How the Geo Team organizes agile work items"
+aliases:
+- /docs/agile-work-items_1_1/
+title: Geo and Disaster Recovery - Hierarchy of Agile Work Items
+description: How the Geo Team organizes agile work items
+weight: 2
+date: '2025-06-12'
+linkTitle: Geo and Disaster Recovery - Hierarchy of Agile Work Items
+type: docs
 ---
 
 This section describes the approach that the Geo team takes to break down the requirements into work-in-progress items that engineers move through the workflow of implementation.

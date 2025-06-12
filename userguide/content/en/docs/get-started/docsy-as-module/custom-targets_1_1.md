@@ -1,6 +1,14 @@
 ---
-title: "Engineering Error Budget Custom Targets"
-description: "Custom Targets introduce the ability to set tailored Error Budget durations on individual endpoints and jobs, allowing for the accepted performance of different workloads to be defined as appropriate."
+title: Engineering Error Budget Custom Targets
+description: Custom Targets introduce the ability to set tailored Error Budget durations
+  on individual endpoints and jobs, allowing for the accepted performance of different
+  workloads to be defined as appropriate.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/custom-targets_1_1/
+linkTitle: Engineering Error Budget Custom Targets
+type: docs
 ---
 
 ## What are Custom Targets for Error Budgets?

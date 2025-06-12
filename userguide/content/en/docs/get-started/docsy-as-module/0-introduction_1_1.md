@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 0 Introduction 1 1
+aliases:
+- /docs/0-introduction_1_1/
+description: ''
+linkTitle: 0 Introduction 1 1
+type: docs
+---
+
 ### NodeJS
 
 - **Node.js** is an open-source and cross-platform environment that allows you to run JavaScript code outside of a web browser. It’s commonly used for building server-side applications, meaning it runs on a server rather than in your browser.

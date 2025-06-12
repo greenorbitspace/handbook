@@ -1,9 +1,14 @@
 ---
 title: Liquid language
 description: Support Operations documentation page for the Zendesk liquid language
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/liquid"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/liquid
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/liquid_1_1/
+linkTitle: Liquid language
+type: docs
 ---
-
 
 ## What is the liquid language
 

@@ -1,5 +1,12 @@
 ---
 title: Meet Our Team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/team_1_1/
+description: ''
+linkTitle: Meet Our Team
+type: docs
 ---
 
 More than 3,000 people have [contributed to GitLab](http://contributors.gitlab.com/). The GitLab Inc. team consists of

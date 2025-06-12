@@ -1,6 +1,13 @@
 ---
 title: OKRs
 Description: Migration report for moving the handbooks okrs section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/okrs-migration-report_1_1/
+description: ''
+linkTitle: OKRs
+type: docs
 ---
 
 **Section:** okrs

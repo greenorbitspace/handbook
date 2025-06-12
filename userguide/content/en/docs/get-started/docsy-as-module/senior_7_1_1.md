@@ -1,5 +1,12 @@
 ---
-title: "Support Career Framework: Senior Support Engineer"
+title: 'Support Career Framework: Senior Support Engineer'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior_7_1_1/
+description: ''
+linkTitle: 'Support Career Framework: Senior Support Engineer'
+type: docs
 ---
 
 ## Senior Support Engineer

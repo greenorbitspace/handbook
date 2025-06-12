@@ -1,8 +1,13 @@
 ---
 title: Tracking reviews
-description: "Process for Tracking and Escalating Glassdoor Reviews"
+description: Process for Tracking and Escalating Glassdoor Reviews
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/glassdoor-escalation_1_1/
+linkTitle: Tracking reviews
+type: docs
 ---
-
 
 The Talent Acquisition Operations and Insights team tracks Glassdoor reviews on a regular basis. We share this info regularly through:
 

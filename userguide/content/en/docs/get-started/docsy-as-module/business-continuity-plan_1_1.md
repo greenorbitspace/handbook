@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Business Continuity Plan 1 1
+aliases:
+- /docs/business-continuity-plan_1_1/
+description: ''
+linkTitle: Business Continuity Plan 1 1
+type: docs
+---
+
 <!-- Unsupported block type: image -->
 
 Your insurance policy cover might allow you to replace damaged equipment, repair damaged property, or cover you for business disruption, allowing you to claim back any loss of earnings.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Contributing 2 2
+aliases:
+- /docs/CONTRIBUTING_2_2/
+description: ''
+linkTitle: Contributing 2 2
+type: docs
+---
+
 # How to become a contributor and submit your own code
 
 ## Contributor License Agreements

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Data Handling Guide 1 1
+aliases:
+- /docs/data-handling-guide_1_1/
+description: ''
+linkTitle: Data Handling Guide 1 1
+type: docs
+---
+
 <!-- Unsupported block type: table_of_contents -->
 
 <!-- Unsupported block type: divider -->

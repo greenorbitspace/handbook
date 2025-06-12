@@ -1,6 +1,12 @@
 ---
-title: "Demo Systems Infrastructure - Networking"
+title: Demo Systems Infrastructure - Networking
 description: “Discover GitLab’s networking solutions for Demo Systems Infrastructure”
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/networking_2_2/
+linkTitle: Demo Systems Infrastructure - Networking
+type: docs
 ---
 
 ## Global CIDR Ranges

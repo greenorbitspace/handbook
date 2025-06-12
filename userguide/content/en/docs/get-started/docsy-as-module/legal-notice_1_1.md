@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Legal Notice 1 1
+aliases:
+- /docs/legal-notice_1_1/
+description: ''
+linkTitle: Legal Notice 1 1
+type: docs
+---
+
 # Legal Notice
 
 ## 1. General Information

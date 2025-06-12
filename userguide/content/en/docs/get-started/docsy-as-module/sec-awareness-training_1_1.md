@@ -1,5 +1,12 @@
 ---
-title: "Security Awareness Training Program"
+title: Security Awareness Training Program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sec-awareness-training_1_1/
+description: ''
+linkTitle: Security Awareness Training Program
+type: docs
 ---
 
 ## Security awareness training program

@@ -1,6 +1,13 @@
 ---
-title: "GitLab System Admin - Hands-On Lab: Exploring the Kubernetes Admin Dashboard"
-description: "This Hands-On Guide demonstrates the admin dashboard of the Kubernetes GitLab installation."
+title: 'GitLab System Admin - Hands-On Lab: Exploring the Kubernetes Admin Dashboard'
+description: This Hands-On Guide demonstrates the admin dashboard of the Kubernetes
+  GitLab installation.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sysadminhandsonlab1k8s_1/
+linkTitle: 'GitLab System Admin - Hands-On Lab: Exploring the Kubernetes Admin Dashboard'
+type: docs
 ---
 
 ## Objectives

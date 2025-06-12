@@ -1,5 +1,13 @@
 ---
 sidebar_position: 2
+weight: 2
+date: '2025-06-12'
+title: 20250606070916 Translate Your Site 1 1
+aliases:
+- /docs/20250606070916_translate-your-site_1_1/
+description: ''
+linkTitle: 20250606070916 Translate Your Site 1 1
+type: docs
 ---
 
 # Translate your site

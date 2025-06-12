@@ -1,9 +1,12 @@
 ---
-title: "Long Page Title"
-linkTitle: "Short Nav Title"
+title: Long Page Title
+linkTitle: Short Nav Title
 weight: 100
-description: >-
-     Page description for heading and indexes.
+description: Page description for heading and indexes.
+date: '2025-06-12'
+aliases:
+- /docs/new-page-template_1_1/
+type: docs
 ---
 
 ## Heading

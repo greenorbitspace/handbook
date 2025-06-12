@@ -1,7 +1,13 @@
 ---
-
 title: 6sense
-description: 6sense is an Account Based Marketing platform that uses a predictive model to identify the right customers at the ideal time
+description: 6sense is an Account Based Marketing platform that uses a predictive
+  model to identify the right customers at the ideal time
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/6sense_1_1/
+linkTitle: 6sense
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

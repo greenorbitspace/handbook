@@ -1,12 +1,13 @@
 ---
-
 title: Cadence Calls
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cadence-calls_1_1/
+description: ''
+linkTitle: Cadence Calls
+type: docs
 ---
-
-
-
-
-
 
 View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 

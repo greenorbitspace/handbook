@@ -1,10 +1,13 @@
 ---
-
 title: RFI/RFP Process
-description: >-
-  Solution Architect Assisted RFI/RFP Process
+description: Solution Architect Assisted RFI/RFP Process
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/rfp_1_1/
+linkTitle: RFI/RFP Process
+type: docs
 ---
-
 
 ## RFI/RFP Process
 

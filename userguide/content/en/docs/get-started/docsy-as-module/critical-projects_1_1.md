@@ -1,5 +1,12 @@
 ---
-title: "Critical Projects"
+title: Critical Projects
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/critical-projects_1_1/
+description: ''
+linkTitle: Critical Projects
+type: docs
 ---
 
 ## How are critical projects defined?

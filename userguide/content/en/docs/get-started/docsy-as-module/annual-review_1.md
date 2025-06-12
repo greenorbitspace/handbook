@@ -1,7 +1,13 @@
 ---
 title: Annual Review
 description: Operations workflow for thhe annual review
-canonical_path: "/handbook/security/customer-support-operations/workflows/annual-review"
+canonical_path: /handbook/security/customer-support-operations/workflows/annual-review
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/annual-review_1/
+linkTitle: Annual Review
+type: docs
 ---
 
 Once a year, in December, we review all unused items to determine if they need to be kept around. This is done to keep our systems and repos clean.

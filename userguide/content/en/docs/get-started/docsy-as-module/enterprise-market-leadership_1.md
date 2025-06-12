@@ -1,6 +1,13 @@
 ---
-title: "Enterprise Market Leadership Working Group"
-description: "Learn more about how GTM and Product Management are working together to support the enterprise market leadership!"
+title: Enterprise Market Leadership Working Group
+description: Learn more about how GTM and Product Management are working together
+  to support the enterprise market leadership!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/enterprise-market-leadership_1/
+linkTitle: Enterprise Market Leadership Working Group
+type: docs
 ---
 
 ## Attributes

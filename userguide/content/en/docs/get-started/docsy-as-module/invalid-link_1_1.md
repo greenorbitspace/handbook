@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Invalid Link 1 1
+aliases:
+- /docs/invalid-link_1_1/
+description: ''
+linkTitle: Invalid Link 1 1
+type: docs
+---
+
 We could not detect a valid reproduction link. **Make sure to follow the bug report template carefully.**
 
 ### Why was this issue closed?

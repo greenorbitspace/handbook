@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Metadata Format 1 1
+aliases:
+- /docs/metadata-format_1_1/
+description: ''
+linkTitle: Metadata Format 1 1
+type: docs
+---
+
 <h1>Metadata format</h1>
 
 In your [data repository](glossary.md#data-repository) the metadata is maintained on an indicator-by-indicator basis. 

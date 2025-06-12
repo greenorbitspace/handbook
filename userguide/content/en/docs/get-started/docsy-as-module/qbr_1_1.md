@@ -1,13 +1,13 @@
 ---
-
-title: "QBR Support"
+title: QBR Support
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/qbr_1_1/
+description: ''
+linkTitle: QBR Support
+type: docs
 ---
-
-
-
-
-
-
 
 ## Strategic QBR Support
 

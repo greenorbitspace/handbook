@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Chief Marketing Officer 1 1
+aliases:
+- /docs/Chief Marketing Officer_1_1/
+description: ''
+linkTitle: Chief Marketing Officer 1 1
+type: docs
+---
+
 # Chief Marketing Officer
 
 GitLab CMO Handbook: Review requests and communication guidelines

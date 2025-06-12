@@ -1,6 +1,13 @@
 ---
 title: People Connect bot
-description: Information on Slack People Connect bot created by the People Engineering team.
+description: Information on Slack People Connect bot created by the People Engineering
+  team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/people-connect-bot_1_1/
+linkTitle: People Connect bot
+type: docs
 ---
 
 We're using a custom Slack app, the [People Connect Bot](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-connect-bot/)

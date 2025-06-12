@@ -5,6 +5,17 @@ doc_id: doc-649
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070712_draft
+linkTitle: Draft Booking Cancellations And Non Attendance Dna Policy
+description: ''
+type: docs
+---
+
+booking-cancellations-and-non-attendance-dna-policy_1_1/
+description: ''
 ---
 
 ## Waitlist Management

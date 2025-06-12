@@ -1,5 +1,12 @@
 ---
 title: Hyperscaler Campaign
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/hyperscalers_1/
+description: ''
+linkTitle: Hyperscaler Campaign
+type: docs
 ---
 
 ## Hypercaler Campaign

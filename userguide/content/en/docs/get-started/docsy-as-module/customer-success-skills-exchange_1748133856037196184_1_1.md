@@ -1,6 +1,13 @@
 ---
-title: "Technical Skills Exchange"
-description: "Continuous education webcast series for GitLab's technical field team members"
+title: Technical Skills Exchange
+description: Continuous education webcast series for GitLab's technical field team
+  members
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-success-skills-exchange_1748133856037196184_1_1/
+linkTitle: Technical Skills Exchange
+type: docs
 ---
 
 The Technical Skills Exchange (previously known as Customer Success Skills Exchange) is a bi-weekly webinar focused on topics for the technical field team members. While this series is primarily planned with our Customer Success and SA organizations in mind, any and all field team members are welcome to attend.

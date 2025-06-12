@@ -1,5 +1,12 @@
 ---
-title: "Trademark Guidelines"
+title: Trademark Guidelines
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/trademark-guidelines_1_1/
+description: ''
+linkTitle: Trademark Guidelines
+type: docs
 ---
 
 *Date of last revision: 2023/04/27*

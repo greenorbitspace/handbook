@@ -1,6 +1,13 @@
 ---
-title: "Referral Operations"
-description: "This page is for information regarding the backend process of the Referral Process."
+title: Referral Operations
+description: This page is for information regarding the backend process of the Referral
+  Process.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/referral-operations_1_1/
+linkTitle: Referral Operations
+type: docs
 ---
 
 This page is for information regarding the “backend” of the [Referral Process]({{< ref "referral-process" >}}).

@@ -1,6 +1,12 @@
 ---
-title: "Continuous Interviews"
-description: "The purpose of continuous interviews and how to set them up"
+title: Continuous Interviews
+description: The purpose of continuous interviews and how to set them up
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/continuous-interviewing_1748147631936811478_1_1/
+linkTitle: Continuous Interviews
+type: docs
 ---
 
 [Continuous interviewing](https://medium.com/@ttorres/continuous-interviewing-the-key-to-successful-product-teams-6bf63bfc1936) is a process where Product Managers (PMs) can continuously learn from their users and uncover insights that can be applied towards product discovery. These interviews follow the same script most of the time because they are not organized around any specific hypothesis or research requests. However, PMs can shift the potential focus of the interview as needed to dig deeper into specific topics.

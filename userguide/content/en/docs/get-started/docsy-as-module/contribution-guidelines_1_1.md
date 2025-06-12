@@ -2,6 +2,11 @@
 title: Contribution Guidelines
 description: How to contribute to the docs
 weight: 10
+date: '2025-06-12'
+aliases:
+- /docs/contribution-guidelines_1_1/
+linkTitle: Contribution Guidelines
+type: docs
 ---
 
 {{% pageinfo %}}

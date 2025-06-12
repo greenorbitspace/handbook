@@ -4,6 +4,11 @@ weight: 11
 description: Add generated diagrams and scientific formulae to your site.
 math: true
 chem: true
+type: docs
+date: '2025-06-12T01:05:53+01:00'
+linkTitle: Diagrams and Formulae
+aliases:
+- /docs/index/
 ---
 
 Docsy has built-in support for a number of diagram creation and typesetting

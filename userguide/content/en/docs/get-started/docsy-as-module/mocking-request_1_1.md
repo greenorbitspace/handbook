@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Mocking Request 1 1
+aliases:
+- /docs/mocking-request_1_1/
+description: ''
+linkTitle: Mocking Request 1 1
+type: docs
+---
+
 # Mocking Request
 
 Undici has its own mocking [utility](../api/MockAgent.md). It allow us to intercept undici HTTP requests and return mocked values instead. It can be useful for testing purposes.

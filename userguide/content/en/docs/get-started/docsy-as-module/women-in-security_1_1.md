@@ -1,5 +1,12 @@
 ---
-title: "Women in Security"
+title: Women in Security
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/women-in-security_1_1/
+description: ''
+linkTitle: Women in Security
+type: docs
 ---
 
 ## Women in Security Mission Statement

@@ -1,7 +1,13 @@
 ---
-title: "Marc Di Sabatino's README"
-description: "Personal README page for Marc Di Sabatino"
-job: "Manager, Enterprise Applications Services"
+title: Marc Di Sabatino's README
+description: Personal README page for Marc Di Sabatino
+job: Manager, Enterprise Applications Services
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/marc-disabatino_1_1/
+linkTitle: Marc Di Sabatino's README
+type: docs
 ---
 
 This page's intention is to give a little information about who I am and what it's like to work with me.

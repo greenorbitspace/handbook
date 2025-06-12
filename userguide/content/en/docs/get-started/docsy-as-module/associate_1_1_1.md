@@ -1,5 +1,12 @@
 ---
-title: "Support Career Framework: Associate Support Engineer"
+title: 'Support Career Framework: Associate Support Engineer'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/associate_1_1_1/
+description: ''
+linkTitle: 'Support Career Framework: Associate Support Engineer'
+type: docs
 ---
 
 ## Associate Support Engineer

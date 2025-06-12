@@ -1,6 +1,13 @@
 ---
 title: Support Team Handbook
-description: The GitLab Support Team Handbook is the central repository for why and how we work the way we do.
+description: The GitLab Support Team Handbook is the central repository for why and
+  how we work the way we do.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_97_1_1/
+linkTitle: Support Team Handbook
+type: docs
 ---
 
 ## Welcome to the GitLab Support Team Handbook

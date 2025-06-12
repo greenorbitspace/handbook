@@ -1,9 +1,15 @@
 ---
-
-title: "Chris 'CK' README"
-description: "Personal readme page for CK, Support Engineer, GitLab"
-job: "Support Engineering"
+title: Chris 'CK' README
+description: Personal readme page for CK, Support Engineer, GitLab
+job: Support Engineering
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/chris-kaburu_1_1/
+linkTitle: Chris 'CK' README
+type: docs
 ---
+
 ## Chris Kaburu's README
 
 Here you'll get a glimpse of who I am and how I work. You wanna chat, got some questions, a brainwave, or just fancy a chinwag, don't hesitate to ping me. Let's share stories!

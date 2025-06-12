@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Interview Guide 1 1
+aliases:
+- /docs/interview-guide_1_1/
+description: ''
+linkTitle: Interview Guide 1 1
+type: docs
+---
+
 <!-- Unsupported block type: callout -->
 
 

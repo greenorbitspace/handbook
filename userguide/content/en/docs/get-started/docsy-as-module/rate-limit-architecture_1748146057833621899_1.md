@@ -1,6 +1,13 @@
 ---
-title: "Rate Limit Architecture Working Group"
-description: "Learn more about the Rate Limit Architecture Working Group attributes, goals, roles and responsibilities."
+title: Rate Limit Architecture Working Group
+description: Learn more about the Rate Limit Architecture Working Group attributes,
+  goals, roles and responsibilities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/rate-limit-architecture_1748146057833621899_1/
+linkTitle: Rate Limit Architecture Working Group
+type: docs
 ---
 
 ## Attributes

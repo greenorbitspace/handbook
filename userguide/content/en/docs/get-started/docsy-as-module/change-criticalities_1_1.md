@@ -1,7 +1,13 @@
 ---
 title: Change Criticalities
 description: Operations documentation page for change criticalities
-canonical_path: "/handbook/security/customer-support-operations/change-criticalities"
+canonical_path: /handbook/security/customer-support-operations/change-criticalities
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/change-criticalities_1_1/
+linkTitle: Change Criticalities
+type: docs
 ---
 
 ## Overview

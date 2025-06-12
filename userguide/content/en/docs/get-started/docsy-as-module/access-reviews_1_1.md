@@ -1,6 +1,13 @@
 ---
-title: "Access Review Procedure"
+title: Access Review Procedure
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/access-reviews_1_1/
+description: ''
+linkTitle: Access Review Procedure
+type: docs
 ---
 
 ## Purpose

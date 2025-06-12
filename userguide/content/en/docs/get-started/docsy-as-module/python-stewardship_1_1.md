@@ -1,9 +1,14 @@
 ---
-title: "Python Stewardship Working Group"
-description: "Consolidating Python development within GitLab"
+title: Python Stewardship Working Group
+description: Consolidating Python development within GitLab
 status: not started
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/python-stewardship_1_1/
+linkTitle: Python Stewardship Working Group
+type: docs
 ---
-
 
 ## Attributes
 

@@ -5,6 +5,13 @@ doc_id: doc-1065
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070714_5cs-analysis-for-green-orbit-digital_1_1/
+description: ''
+linkTitle: 5Cs Analysis For Green Orbit Digital
+type: docs
 ---
 
 ### 1. Company

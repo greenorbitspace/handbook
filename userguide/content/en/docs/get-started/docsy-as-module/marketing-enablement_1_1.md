@@ -1,7 +1,14 @@
 ---
-
-title: "Intra-Department Learning: Marketing Functional Conversations"
-description: "The goal of Intra-Department Learning is to create, conduct, and host cross-department learning sessions to drive collaboration and understanding of marketing functional team priorities."
+title: 'Intra-Department Learning: Marketing Functional Conversations'
+description: The goal of Intra-Department Learning is to create, conduct, and host
+  cross-department learning sessions to drive collaboration and understanding of marketing
+  functional team priorities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/marketing-enablement_1_1/
+linkTitle: 'Intra-Department Learning: Marketing Functional Conversations'
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

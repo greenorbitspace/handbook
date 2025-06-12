@@ -1,13 +1,13 @@
 ---
-title: "Laura Duggan's README"
-description: "Learn more about working with Laura Duggan"
+title: Laura Duggan's README
+description: Learn more about working with Laura Duggan
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/laura-duggan_1_1/
+linkTitle: Laura Duggan's README
+type: docs
 ---
-
-
-
-
-
-
 
 ## Laura Duggan's README
 

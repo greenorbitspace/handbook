@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Chunked Upload 1 1
+aliases:
+- /docs/chunked-upload_1_1/
+description: ''
+linkTitle: Chunked Upload 1 1
+type: docs
+---
+
 This guide will help you make your first requests to upload media using the X API v2 media upload endpoint(s).
 
 You can get more information for this at [docs](https://docs.x.com/x-api/media/quickstart/media-upload-chunked)

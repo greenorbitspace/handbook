@@ -1,6 +1,13 @@
 ---
 title: Career Mobility Automation Flow
-description: "Information on the automations we have in place to support the People Connect Team with career mobility related tasks."
+description: Information on the automations we have in place to support the People
+  Connect Team with career mobility related tasks.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/career-mobility_1_1/
+linkTitle: Career Mobility Automation Flow
+type: docs
 ---
 
 The People Group Engineering team aims to reduce as much manual work as possible. One of the areas we have done this, is everything related to the employment automation flow.

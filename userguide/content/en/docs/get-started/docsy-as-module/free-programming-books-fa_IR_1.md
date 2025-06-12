@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Books Fa Ir 1
+aliases:
+- /docs/free-programming-books-fa_IR_1/
+description: ''
+linkTitle: Free Programming Books Fa Ir 1
+type: docs
+---
+
 ### فهرست
 
 * [C#](#c-sharp)

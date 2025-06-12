@@ -1,7 +1,12 @@
 ---
-title: "Core DevOps Solutions"
+title: Core DevOps Solutions
 aliases:
 - /handbook/use-cases/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Core DevOps Solutions
+type: docs
 ---
 
 ## Core DevOps Solution Definition

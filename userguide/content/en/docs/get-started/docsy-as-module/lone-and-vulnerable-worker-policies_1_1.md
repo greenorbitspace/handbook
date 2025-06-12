@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Lone And Vulnerable Worker Policies 1 1
+aliases:
+- /docs/lone-and-vulnerable-worker-policies_1_1/
+description: ''
+linkTitle: Lone And Vulnerable Worker Policies 1 1
+type: docs
+---
+
 1. Introduction
 
 At Green Orbit Digital, we recognize that some employees may work alone or in isolation as part of their roles. This Lone Worker Policy is designed to ensure the safety, health, and well-being of lone workers by providing guidelines and procedures to minimize risks associated with working alone. The policy applies to all employees who may work alone or in isolated conditions as part of their duties.

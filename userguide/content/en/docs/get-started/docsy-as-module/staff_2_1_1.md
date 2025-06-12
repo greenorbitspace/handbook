@@ -1,6 +1,13 @@
 ---
-title: "Quality Department SET Career Framework: Staff"
-description: "These are the expected competencies of a Staff Software Engineer in Test (SET) at GitLab."
+title: 'Quality Department SET Career Framework: Staff'
+description: These are the expected competencies of a Staff Software Engineer in Test
+  (SET) at GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/staff_2_1_1/
+linkTitle: 'Quality Department SET Career Framework: Staff'
+type: docs
 ---
 
 ## Quality Department Competencies: Staff

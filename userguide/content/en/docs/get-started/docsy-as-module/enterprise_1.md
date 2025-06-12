@@ -1,8 +1,16 @@
 ---
-title: 'Enterprise'
-description: 'Learn about the Enterprise NASA space shuttle.'
-publishedDate: 'Tue Jun 08 2021 00:00:00 GMT-0400 (Eastern Daylight Time)'
-tags: [space, 70s]
+title: Enterprise
+description: Learn about the Enterprise NASA space shuttle.
+publishedDate: Tue Jun 08 2021 00:00:00 GMT-0400 (Eastern Daylight Time)
+tags:
+- space
+- 70s
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/enterprise_1/
+linkTitle: Enterprise
+type: docs
 ---
 
 **Source:** [Wikipedia](https://en.wikipedia.org/wiki/Space_Shuttle_Enterprise)

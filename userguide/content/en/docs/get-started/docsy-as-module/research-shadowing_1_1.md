@@ -1,6 +1,13 @@
 ---
-title: "UX Research shadowing"
-description: "All new Product Managers and Designers at GitLab should complete research shadowing as a part of their onboarding before conducting independent research."
+title: UX Research shadowing
+description: All new Product Managers and Designers at GitLab should complete research
+  shadowing as a part of their onboarding before conducting independent research.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/research-shadowing_1_1/
+linkTitle: UX Research shadowing
+type: docs
 ---
 
 All new Product Managers and Product Designers should go through this research shadowing process as a part of their onboarding before conduting independent research.

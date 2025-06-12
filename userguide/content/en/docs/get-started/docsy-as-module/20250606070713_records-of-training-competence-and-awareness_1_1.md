@@ -5,6 +5,13 @@ doc_id: doc-932
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070713_records-of-training-competence-and-awareness_1_1/
+description: ''
+linkTitle: Records Of Training Competence And Awareness
+type: docs
 ---
 
 ### Framework for Records of Training, Competence, and Awareness for ISO 9001

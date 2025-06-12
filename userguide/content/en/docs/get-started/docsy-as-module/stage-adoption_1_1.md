@@ -1,14 +1,13 @@
 ---
-
-title: "Stage Adoption Metrics"
+title: Stage Adoption Metrics
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/stage-adoption_1_1/
+description: ''
+linkTitle: Stage Adoption Metrics
+type: docs
 ---
-
-
-
-
-
-
-
 
 View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 

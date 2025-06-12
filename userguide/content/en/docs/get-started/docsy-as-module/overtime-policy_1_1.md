@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Overtime Policy 1 1
+aliases:
+- /docs/overtime-policy_1_1/
+description: ''
+linkTitle: Overtime Policy 1 1
+type: docs
+---
+
 category: Policies
 
 In general, we expect you to plan your days so you can complete your duties within your contracted hours (40 hours per week for full-time staff, pro-rated for part-time employees).

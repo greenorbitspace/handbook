@@ -1,6 +1,12 @@
 ---
 title: Stack Overflow for Teams
 description: Stack Overflow for Teams
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_69_1_1/
+linkTitle: Stack Overflow for Teams
+type: docs
 ---
 
 ## Stack Overflow

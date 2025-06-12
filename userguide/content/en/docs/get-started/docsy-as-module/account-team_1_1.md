@@ -1,15 +1,14 @@
 ---
-
-title: "Account Team"
-description: "The account team works together to drive value, success, and growth for a customer"
+title: Account Team
+description: The account team works together to drive value, success, and growth for
+  a customer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/account-team_1_1/
+linkTitle: Account Team
+type: docs
 ---
-
-
-
-
-
-
-
 
 ---
 

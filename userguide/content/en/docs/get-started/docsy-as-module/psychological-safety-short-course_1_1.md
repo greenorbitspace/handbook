@@ -1,5 +1,12 @@
 ---
 title: Psychological Safety Short Course
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/psychological-safety-short-course_1_1/
+description: ''
+linkTitle: Psychological Safety Short Course
+type: docs
 ---
 
 ## Introduction

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Changelog 3 1 1
+aliases:
+- /docs/CHANGELOG_3_1_1/
+description: ''
+linkTitle: Changelog 3 1 1
+type: docs
+---
+
 3.3.0 2022-06-24
 =================
 - `JSONVisitor.onObjectBegin` and `JSONVisitor.onArrayBegin` can now return `false` to instruct the visitor that no children should be visited.

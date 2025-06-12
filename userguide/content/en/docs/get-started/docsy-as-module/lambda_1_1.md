@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Lambda 1 1
+aliases:
+- /docs/lambda_1_1/
+description: ''
+linkTitle: Lambda 1 1
+type: docs
+---
+
 # Lambda
 
 Lambda is Amazon's function-as-a-service (FaaS) platform. This instrumentation follows the [OpenTelemetry specification for FaaS systems](https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/trace/semantic_conventions/faas.md).

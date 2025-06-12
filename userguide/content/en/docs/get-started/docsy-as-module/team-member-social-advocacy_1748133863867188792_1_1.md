@@ -1,10 +1,17 @@
 ---
 title: Team Member Social Media Advocacy
-description: Strategies and details to enable team members to share GitLab-related news on personal social media channels
+description: Strategies and details to enable team members to share GitLab-related
+  news on personal social media channels
 twitter_image: /images/opengraph/handbook/social-marketing/team-member-social-advocacy-opengraph.png
 twitter_image_alt: GitLab's Social Media Handbook branded image
 twitter_site: gitlab
 twitter_creator: gitlab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/team-member-social-advocacy_1748133863867188792_1_1/
+linkTitle: Team Member Social Media Advocacy
+type: docs
 ---
 
 Login to EveryoneSocial via Okta SSO (link tbd)

@@ -1,13 +1,13 @@
 ---
-
-title: "Service Ping FAQ"
+title: Service Ping FAQ
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/service-ping-faq_1_1/
+description: ''
+linkTitle: Service Ping FAQ
+type: docs
 ---
-
-
-
-
-
-
 
 View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 

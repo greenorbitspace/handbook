@@ -1,6 +1,14 @@
 ---
-title: "Identity User Guide - Identity Operations"
-description: "The Identity Platform and Infrastructure has several backend components, infrastructure, and services. This page provides a quick reference guide and runbooks for Identity Operations team members to manage various aspects of the Identity Platform."
+title: Identity User Guide - Identity Operations
+description: The Identity Platform and Infrastructure has several backend components,
+  infrastructure, and services. This page provides a quick reference guide and runbooks
+  for Identity Operations team members to manage various aspects of the Identity Platform.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_15_1_1/
+linkTitle: Identity User Guide - Identity Operations
+type: docs
 ---
 
 {{% alert title="Not Live Yet" color="warning" %}}

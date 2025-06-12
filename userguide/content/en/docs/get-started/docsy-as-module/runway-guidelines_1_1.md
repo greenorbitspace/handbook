@@ -1,5 +1,12 @@
 ---
-title: "Runway guidelines"
+title: Runway guidelines
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/runway-guidelines_1_1/
+description: ''
+linkTitle: Runway guidelines
+type: docs
 ---
 
 ## Runway tooling guidelines

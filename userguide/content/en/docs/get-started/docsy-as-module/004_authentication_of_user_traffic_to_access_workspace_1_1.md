@@ -1,5 +1,12 @@
 ---
-title: "Workspaces ADR 004: Authentication of user traffic to access a workspace"
+title: 'Workspaces ADR 004: Authentication of user traffic to access a workspace'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/004_authentication_of_user_traffic_to_access_workspace_1_1/
+description: ''
+linkTitle: 'Workspaces ADR 004: Authentication of user traffic to access a workspace'
+type: docs
 ---
 
 ## Context

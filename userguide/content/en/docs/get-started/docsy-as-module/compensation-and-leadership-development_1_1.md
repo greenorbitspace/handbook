@@ -1,5 +1,12 @@
 ---
-title: "Compensation and Leadership Development Committee"
+title: Compensation and Leadership Development Committee
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/compensation-and-leadership-development_1_1/
+description: ''
+linkTitle: Compensation and Leadership Development Committee
+type: docs
 ---
 
 ## Compensation and Leadership Development Committee Composition

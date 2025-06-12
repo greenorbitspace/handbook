@@ -1,3 +1,15 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Our Path To Getting There Green Orbits Roadmap For Sustainable Impact 1 1
+aliases:
+- /docs/our-path-to-getting-there-green-orbits-roadmap-for-sustainable-impact_1_1/
+description: ''
+linkTitle: Our Path To Getting There Green Orbits Roadmap For Sustainable Impact 1
+  1
+type: docs
+---
+
 The core premise enabling the realization of Green Orbit’s vision is the acceleration of collective action within the space industry and beyond. Achieving our desired future will require focused efforts in several key areas, all aligned with our values of sustainability, innovation, collaboration, and systems change. Our path forward will require a deep commitment to shifting paradigms, fostering long-term engagement, and creating systemic changes that ensure a greener and more inclusive space sector.
 
 <!-- Unsupported block type: divider -->

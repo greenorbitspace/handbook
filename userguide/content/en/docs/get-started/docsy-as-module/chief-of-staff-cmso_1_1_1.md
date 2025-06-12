@@ -1,5 +1,12 @@
 ---
 title: Chief of Staff (CMSO)
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/chief-of-staff-cmso_1_1_1/
+description: ''
+linkTitle: Chief of Staff (CMSO)
+type: docs
 ---
 
 This is a key leadership position on the Chief Marketing & Strategy Officer's (CMSO) team. This highly visible role is a trusted partner to the CMSO to drive operational excellence and deliver repeatable business results. This role serves as a partner to the CMSO as a strategic advisor and executes cross-functional and cross-organization initiatives and activities supporting the CMSO's strategy and vision in alignment with our company values. This role reports directly to the CMSO.

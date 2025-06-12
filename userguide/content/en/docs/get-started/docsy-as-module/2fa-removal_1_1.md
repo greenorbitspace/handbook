@@ -2,7 +2,13 @@
 title: 2FA Removal
 category: GitLab.com
 subcategory: Accounts
-description: "Workflow detailing how we process 2FA removal requests"
+description: Workflow detailing how we process 2FA removal requests
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/2fa-removal_1_1/
+linkTitle: 2FA Removal
+type: docs
 ---
 
 ## Overview

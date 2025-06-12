@@ -1,6 +1,13 @@
 ---
 title: Individual Growth Plan (IGP) Guide
-description: "Step by Step resource for team members filling out the GitLab Individual Growth Plan (IGP) "
+description: 'Step by Step resource for team members filling out the GitLab Individual
+  Growth Plan (IGP) '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/igp-guide_1_1_1/
+linkTitle: Individual Growth Plan (IGP) Guide
+type: docs
 ---
 
 This guide is for team members who are looking for guidance on how to complete their IGP. The guide will go through each section of the IGP including resources, inspiration, and suggestions for how to best use the IGP in Workday to plan and take action towards your career goals.

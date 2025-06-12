@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: E Filters 1 1
+aliases:
+- /docs/e-filters_1_1/
+description: ''
+linkTitle: E Filters 1 1
+type: docs
+---
+
 # Filters
 
 Add filters to your map to limit the data that is displayed. Filters must be based on the columns in your dataset. 

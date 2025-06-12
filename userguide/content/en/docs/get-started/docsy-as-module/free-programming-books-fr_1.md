@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Books Fr 1
+aliases:
+- /docs/free-programming-books-fr_1/
+description: ''
+linkTitle: Free Programming Books Fr 1
+type: docs
+---
+
 ### Index
 
 * [0 - Méta-listes](#0---méta-listes)

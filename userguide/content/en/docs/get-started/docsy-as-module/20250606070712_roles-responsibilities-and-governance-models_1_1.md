@@ -5,6 +5,13 @@ doc_id: doc-679
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070712_roles-responsibilities-and-governance-models_1_1/
+description: ''
+linkTitle: Roles Responsibilities And Governance Models
+type: docs
 ---
 
 ### Roles, Responsibilities, and Governance Models in Compliance with ISO 44001

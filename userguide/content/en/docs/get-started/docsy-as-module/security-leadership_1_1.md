@@ -1,7 +1,13 @@
 ---
 layout: job_family_page
-title: "Security Leadership"
-description: "Leaders in the security department at GitLab see the team as their product."
+title: Security Leadership
+description: Leaders in the security department at GitLab see the team as their product.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-leadership_1_1/
+linkTitle: Security Leadership
+type: docs
 ---
 
 ## Security Leadership Roles at GitLab

@@ -1,10 +1,15 @@
 ---
-
 title: Cloud licensing and the support exemption process explained
-description: "How to generate a legacy license for a customer who cannot use Cloud Licensing"
+description: How to generate a legacy license for a customer who cannot use Cloud
+  Licensing
 category: GitLab Self-Managed licenses
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cloud-licensing_1_1/
+linkTitle: Cloud licensing and the support exemption process explained
+type: docs
 ---
-
 
 ## Cloud Licensing Overview
 

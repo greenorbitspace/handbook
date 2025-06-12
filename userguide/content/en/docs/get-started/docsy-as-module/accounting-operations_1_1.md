@@ -1,6 +1,13 @@
 ---
-title: "Accounting Operations"
-description: "The Accounting Operations function is responsible for the strategy and leadership of our Accounting shared services teams"
+title: Accounting Operations
+description: The Accounting Operations function is responsible for the strategy and
+  leadership of our Accounting shared services teams
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/accounting-operations_1_1/
+linkTitle: Accounting Operations
+type: docs
 ---
 
 ## Levels

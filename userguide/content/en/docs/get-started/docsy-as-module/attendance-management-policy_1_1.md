@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Attendance Management Policy 1 1
+aliases:
+- /docs/attendance-management-policy_1_1/
+description: ''
+linkTitle: Attendance Management Policy 1 1
+type: docs
+---
+
 ### Introduction
 
 At Green Orbit Digital, we value attendance and punctuality as essential components of a productive and cohesive work environment. Our Attendance Management Policy outlines our expectations regarding attendance, tardiness, and leave procedures to ensure the smooth operation of our business and the fair treatment of all employees.

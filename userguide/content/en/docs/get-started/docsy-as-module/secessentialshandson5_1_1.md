@@ -1,6 +1,15 @@
 ---
-title: "GitLab Security Essentials - Hands-On Lab: Enable and Configure Coverage-Guided Fuzz Testing"
-description: "This hands-on guide walks you through enabling and using Coverage-Guided Fuzz Testing in a GitLab project."
+title: 'GitLab Security Essentials - Hands-On Lab: Enable and Configure Coverage-Guided
+  Fuzz Testing'
+description: This hands-on guide walks you through enabling and using Coverage-Guided
+  Fuzz Testing in a GitLab project.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/secessentialshandson5_1_1/
+linkTitle: 'GitLab Security Essentials - Hands-On Lab: Enable and Configure Coverage-Guided
+  Fuzz Testing'
+type: docs
 ---
 
 > Estimated time to complete: 15 to 20 minutes

@@ -1,14 +1,14 @@
 ---
-
-title: "Roleplay Scenarios"
-description: "This handbook page collects links to all roleplaying scenarios, for CSMs to utilize to improve their conversations and enable them to be audible-ready."
+title: Roleplay Scenarios
+description: This handbook page collects links to all roleplaying scenarios, for CSMs
+  to utilize to improve their conversations and enable them to be audible-ready.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/roleplays_1_1/
+linkTitle: Roleplay Scenarios
+type: docs
 ---
-
-
-
-
-
-
 
 View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 

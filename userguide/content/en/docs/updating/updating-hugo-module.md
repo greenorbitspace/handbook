@@ -2,6 +2,11 @@
 title: Update your Docsy Hugo Module
 weight: 1
 description: Update your Docsy theme to the latest version using Hugo Modules.
+type: docs
+date: '2025-06-12T01:05:53+01:00'
+linkTitle: Update your Docsy Hugo Module
+aliases:
+- /docs/updating-hugo-module/
 ---
 
 When using the Docsy theme as a Hugo Module, updating your theme is really easy.

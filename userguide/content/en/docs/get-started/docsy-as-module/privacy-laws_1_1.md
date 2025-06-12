@@ -1,6 +1,12 @@
 ---
-title: "Privacy Laws and GitLab"
-description: "This is an educational page about commonly referenced data privacy laws"
+title: Privacy Laws and GitLab
+description: This is an educational page about commonly referenced data privacy laws
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/privacy-laws_1_1/
+linkTitle: Privacy Laws and GitLab
+type: docs
 ---
 
 GitLab treats every users' data the same regardless of their local regulations because we take privacy seriously. Still, there are some privacy laws that get a lot of attention, so we want our team members to understand what they are about. Below are some explanations of laws you may have already heard of.

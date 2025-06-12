@@ -1,13 +1,13 @@
 ---
-
-title: "Developer Relations tools: Zapier"
+title: 'Developer Relations tools: Zapier'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/zapier_1_2/
+description: ''
+linkTitle: 'Developer Relations tools: Zapier'
+type: docs
 ---
-
-
-
-
-
-
 
 ### Zapier subscription
 

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Frontpage Config 1 1
+aliases:
+- /docs/frontpage-config_1_1/
+description: ''
+linkTitle: Frontpage Config 1 1
+type: docs
+---
+
 <h1>Tutorial: Front page text configuration</h1>
 
 This tutorial will describe how to use some configuration options for the frontpage of your Open SDG implementation. This is intended to be a continuation of the [quick start](../quick-start.md) tutorial.

@@ -1,6 +1,13 @@
 ---
 title: Growth:Activation Group
-description: "The Growth:Activation group works on feature enhancements and growth experiments across GitLab projects"
+description: The Growth:Activation group works on feature enhancements and growth
+  experiments across GitLab projects
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/activation_2_1/
+linkTitle: Growth:Activation Group
+type: docs
 ---
 
 ## Vision

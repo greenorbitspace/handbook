@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Jekyll Templates 1 1
+aliases:
+- /docs/jekyll-templates_1_1/
+description: ''
+linkTitle: Jekyll Templates 1 1
+type: docs
+---
+
 <h1>Working with Jekyll templates</h1>
 
 ## Jekyll include files

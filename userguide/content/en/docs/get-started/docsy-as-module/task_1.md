@@ -1,9 +1,13 @@
 ---
 title: Another Task
-description: >
+description: |
   A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
-date: 2017-01-05
+date: '2025-06-12T01:06:00+01:00'
 weight: 5
+aliases:
+- /docs/task_1/
+linkTitle: Another Task
+type: docs
 ---
 
 {{% pageinfo %}}

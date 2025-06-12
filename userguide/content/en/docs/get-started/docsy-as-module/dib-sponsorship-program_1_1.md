@@ -1,6 +1,12 @@
 ---
-title: "Sales Sponsorship Pilot Program"
-description: "A page for the Sales Sponsorship Pilot Program"
+title: Sales Sponsorship Pilot Program
+description: A page for the Sales Sponsorship Pilot Program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dib-sponsorship-program_1_1/
+linkTitle: Sales Sponsorship Pilot Program
+type: docs
 ---
 
 In 2023 we conducted a pilot program to address an imbalance of Black Team Members at job grade 9+ within Sales and lack of representation in sales leadership positions. The pilot program was designed to create pathways for Black Team Members to progress effectively at GitLab. We have since extended this program to promote pathways for all Sales team members to progress at GitLab.

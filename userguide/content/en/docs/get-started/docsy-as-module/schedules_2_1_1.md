@@ -1,7 +1,13 @@
 ---
 title: Schedules
 description: Support Operations documentation page for Pagerduty schedules
-canonical_path: "/handbook/support/readiness/operations/docs/pagerduty/schedules"
+canonical_path: /handbook/support/readiness/operations/docs/pagerduty/schedules
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/schedules_2_1_1/
+linkTitle: Schedules
+type: docs
 ---
 
 ## What are Pagerduty services

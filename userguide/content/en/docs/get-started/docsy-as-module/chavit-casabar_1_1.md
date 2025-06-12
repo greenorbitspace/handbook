@@ -1,7 +1,13 @@
 ---
-title: "Chavit Casabar's README"
-description: "Personal README for Chavit Casabar"
-job: "IT Enterprise Applications Administrator"
+title: Chavit Casabar's README
+description: Personal README for Chavit Casabar
+job: IT Enterprise Applications Administrator
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/chavit-casabar_1_1/
+linkTitle: Chavit Casabar's README
+type: docs
 ---
 
 ### Introduction

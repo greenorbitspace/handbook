@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 1 Mediaquery 1 1
+aliases:
+- /docs/1-mediaQuery_1_1/
+description: ''
+linkTitle: 1 Mediaquery 1 1
+type: docs
+---
+
 ### media query
 Websites are often displayed on screens but CSS can also be used to style websites for other outputs too. You might want your web pages to look one way on a screen but different when printed out. Querying media types makes this possible.
 

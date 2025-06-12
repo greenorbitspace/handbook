@@ -1,6 +1,13 @@
 ---
-title: "Sales Training Facilitator, Sales and Customer Enablement"
-RoleName: "Sales Training Facilitator, Sales and Customer Enablement"
+title: Sales Training Facilitator, Sales and Customer Enablement
+RoleName: Sales Training Facilitator, Sales and Customer Enablement
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sales-training-facilitator-field-enablement_1_1/
+description: ''
+linkTitle: Sales Training Facilitator, Sales and Customer Enablement
+type: docs
 ---
 
 As an integral member of the GitLab Sales and Customer Enablement team, our Sales Training Facilitator is responsible for delivering world-class virtual (and sometimes in-person) global sales training and enablement programs.

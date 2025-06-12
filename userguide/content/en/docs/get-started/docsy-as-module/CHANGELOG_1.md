@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Changelog 1
+aliases:
+- /docs/CHANGELOG_1/
+description: ''
+linkTitle: Changelog 1
+type: docs
+---
+
 ### [5.1.2](https://github.com/gulpjs/glob-parent/compare/v5.1.1...v5.1.2) (2021-03-06)
 
 

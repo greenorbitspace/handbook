@@ -1,6 +1,13 @@
 ---
-title: "Global Digital SMB - Feedback Collection and Best Practices"
-description: "Overview of how GDS collects product, systems, and case operations feedback, along with how to best provide feedback"
+title: Global Digital SMB - Feedback Collection and Best Practices
+description: Overview of how GDS collects product, systems, and case operations feedback,
+  along with how to best provide feedback
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/GDS-Feedback_1_1/
+linkTitle: Global Digital SMB - Feedback Collection and Best Practices
+type: docs
 ---
 
 ## Background

@@ -1,16 +1,18 @@
 ---
 title: 'Docsy 2024 Review: Adoptions and Enhancements'
 linkTitle: '2024 Review: Adoptions and Enhancements'
-date: 2024-12-12
-author: >-
-  [Patrice Chalin](https://github.com/chalin) ([CNCF](https://www.cncf.io/)),
-  for the [Docsy Steering Committee](/blog/2022/hello/#introducing-the-psc)
-description: >-
-  Celebrating Docsy's 2024 growth in features and adoption, including a 57%
-  usage increase, new features like dark mode, and improved internationalization
+date: '2025-06-12T01:06:02+01:00'
+author: '[Patrice Chalin](https://github.com/chalin) ([CNCF](https://www.cncf.io/)),
+  for the [Docsy Steering Committee](/blog/2022/hello/#introducing-the-psc)'
+description: Celebrating Docsy's 2024 growth in features and adoption, including a
+  57% usage increase, new features like dark mode, and improved internationalization
   support.
-# prettier-ignore
-cSpell:ignore: Chalin jaegertracing mentees opentelemetry toto upvoted kubernetes theupdateframework Dindi Dariksha Ansari
+cSpell:ignore: Chalin jaegertracing mentees opentelemetry toto upvoted kubernetes
+  theupdateframework Dindi Dariksha Ansari
+weight: 2
+aliases:
+- /docs/year-in-review_1_1/
+type: docs
 ---
 
 As we reflect on 2024, it’s exciting to see steady progress toward the goals

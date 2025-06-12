@@ -1,6 +1,13 @@
 ---
-title: "Testing for conversion at GitLab"
-description: "The Inbound Marketing team run tests to improve visitor experience and conversion rate across about.gitlab.com."
+title: Testing for conversion at GitLab
+description: The Inbound Marketing team run tests to improve visitor experience and
+  conversion rate across about.gitlab.com.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/testing_1_1/
+linkTitle: Testing for conversion at GitLab
+type: docs
 ---
 
 We test changes at GitLab to verify a hypothesis for design or copy changes. These changes can use a variety of tools and methods, but the goal is the same: to make changes to help improve the visitor experience and better explain the value of GitLab.

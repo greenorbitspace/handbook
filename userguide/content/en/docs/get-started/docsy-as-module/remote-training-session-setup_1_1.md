@@ -1,15 +1,14 @@
 ---
-
-title: "Professional Services Remote Training Session Setup and Reporting"
-description: "Explore how a GitLab Professional Services team members can setup and deliver a remote training."
-
+title: Professional Services Remote Training Session Setup and Reporting
+description: Explore how a GitLab Professional Services team members can setup and
+  deliver a remote training.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/remote-training-session-setup_1_1/
+linkTitle: Professional Services Remote Training Session Setup and Reporting
+type: docs
 ---
-
-
-
-
-
-
 
 ## Professional Services Remote Training Session Setup and Reporting
 

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 'Meeting Best Practices: Live Doc Meetings 1 1'
+aliases:
+- '/docs/Meeting Best Practices: Live Doc Meetings_1_1/'
+description: ''
+linkTitle: 'Meeting Best Practices: Live Doc Meetings 1 1'
+type: docs
+---
+
 # Meeting Best Practices: Live Doc Meetings
 
 Overview of GitLab’s meeting best practices, which create efficient, transparent, documentation-based meetings

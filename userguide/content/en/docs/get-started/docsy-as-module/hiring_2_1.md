@@ -1,10 +1,16 @@
 ---
-title: "All-Remote Hiring"
+title: All-Remote Hiring
 description: How to hire and support a remote team
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/hiring_2_1/
+linkTitle: All-Remote Hiring
+type: docs
 ---
 
 ## Remote hiring, explained

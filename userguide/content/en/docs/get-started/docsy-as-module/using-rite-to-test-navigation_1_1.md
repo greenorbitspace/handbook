@@ -1,5 +1,12 @@
 ---
-title: "Using RITE to test navigation"
+title: Using RITE to test navigation
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/using-rite-to-test-navigation_1_1/
+description: ''
+linkTitle: Using RITE to test navigation
+type: docs
 ---
 
 Rapid Iterative Testing and Evaluation (RITE) is a [usability testing method](/handbook/product/ux/ux-research/rite/) in which you evaluate a prototype multiple times in a rapid and iterative manner. The goal is not to determine statistical validity, but to observe behaviors, learn insights, and iterate rapidly. This is different from traditional usability testing, because you iterate during testing rather than waiting until the end to make changes. This method is intended to identify and fix as many usability issues as possible while verifying the effectiveness of changes made within testing. This will result in a navigation prototype that we can be highly confident about (in the context of usability), which helps to remove uncertainty around whether a proposed solution will be usable.

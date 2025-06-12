@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Contents 1 1
+aliases:
+- /docs/contents_1_1/
+description: ''
+linkTitle: Contents 1 1
+type: docs
+---
+
 # Sequence Diagrams
 
 ## General architecture

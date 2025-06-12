@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Development 1 1
+aliases:
+- /docs/development_1_1/
+description: ''
+linkTitle: Development 1 1
+type: docs
+---
+
 <h1>Local development</h1>
 
 When making changes to the website, it is useful to check how those changes look before committing and pushing them to GitHub. In this case, we can build the website locally first. To do this, you will need to have a few tools installed, namely you will need:

@@ -1,6 +1,14 @@
 ---
 title: Customer Success Operations Job Family
-description: "Customer Success Operations cross-functionally aligns GitLab for a superb customer experience through creating trust in data, clarity in effective processes, and predictability in outcomes."
+description: Customer Success Operations cross-functionally aligns GitLab for a superb
+  customer experience through creating trust in data, clarity in effective processes,
+  and predictability in outcomes.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-success-operations_1_1/
+linkTitle: Customer Success Operations Job Family
+type: docs
 ---
 
 Customer Success Operations cross-functionally aligns GitLab for a superb customer experience through creating trust in data, clarity in effective processes, and predictability in outcomes.

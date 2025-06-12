@@ -1,5 +1,12 @@
 ---
 title: Environment Automation Team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/environment-automation_1_1/
+description: ''
+linkTitle: Environment Automation Team
+type: docs
 ---
 
 ## Summary

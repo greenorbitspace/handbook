@@ -1,14 +1,14 @@
 ---
-aliases: /handbook/marketing/marketing-operations/Cognism
-title: "Cognism"
-description: "Cognism is sales intelligence software that provides contact or account data helping sales and marketing teams drive predictable pipeline"
+aliases:
+- /docs/cognism_1_1/
+title: Cognism
+description: Cognism is sales intelligence software that provides contact or account
+  data helping sales and marketing teams drive predictable pipeline
+weight: 2
+date: '2025-06-12'
+linkTitle: Cognism
+type: docs
 ---
-
-
-
-
-
-
 
 ## About Cognism
 

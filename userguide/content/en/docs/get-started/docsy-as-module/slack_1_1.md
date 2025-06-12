@@ -1,6 +1,12 @@
 ---
-title: "Slack"
-description: "Slack usage and tips at GitLab"
+title: Slack
+description: Slack usage and tips at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/slack_1_1/
+linkTitle: Slack
+type: docs
 ---
 
 ## In general

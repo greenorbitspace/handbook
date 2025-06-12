@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Connector 1 1
+aliases:
+- /docs/Connector_1_1/
+description: ''
+linkTitle: Connector 1 1
+type: docs
+---
+
 # Connector
 
 Undici creates the underlying socket via the connector builder.

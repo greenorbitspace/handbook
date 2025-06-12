@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Access Control Policy 1 1
+aliases:
+- /docs/access-control-policy_1_1/
+description: ''
+linkTitle: Access Control Policy 1 1
+type: docs
+---
+
 <!-- Unsupported block type: table_of_contents -->
 
 # 1. Purpose

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Safe Framework 1 1
+aliases:
+- /docs/safe-framework_1_1/
+description: ''
+linkTitle: Safe Framework 1 1
+type: docs
+---
+
 <!-- Unsupported block type: table_of_contents -->
 
 The Green Orbit Digital SAFE Framework serves as a guide to ensuring that we share information responsibly while maintaining transparency and integrity, in line with our core values. This framework is designed to help us protect sensitive information, maintain accuracy, ensure financial data is safeguarded, and be mindful of the impact that information can have.

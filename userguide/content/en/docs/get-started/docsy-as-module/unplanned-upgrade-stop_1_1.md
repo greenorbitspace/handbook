@@ -1,5 +1,12 @@
 ---
 title: Unplanned Upgrade Stop Workflow
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/unplanned-upgrade-stop_1_1/
+description: ''
+linkTitle: Unplanned Upgrade Stop Workflow
+type: docs
 ---
 
 An unplanned upgrade stop is disruptive for customers as it requires to perform rollback and additional maintenance work for performing the upgrade. Unplanned stops should be treated as incidents. The process below outlines the different stages of the incident resolution process and the steps to be taken by the corresponding teams and Directly Responsible Individuals (DRIs).

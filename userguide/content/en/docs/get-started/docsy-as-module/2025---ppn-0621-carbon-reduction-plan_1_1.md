@@ -1,3 +1,18 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 2025   Ppn 0621 Carbon Reduction Plan 1 1
+aliases:
+- /docs/2025
+linkTitle: 2025   Ppn 0621 Carbon Reduction Plan 1 1
+description: ''
+type: docs
+---
+
+ppn-0621-carbon-reduction-plan_1_1/
+description: ''
+---
+
 <!-- Unsupported block type: table_of_contents -->
 
 [COMPANY NAME]

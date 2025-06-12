@@ -1,11 +1,15 @@
 ---
-
 title: Handling Licensing & Subscription Requests
-description: "How to handle requests for GitLab license or subscription upgrades or renewals"
+description: How to handle requests for GitLab license or subscription upgrades or
+  renewals
 category: License and subscription
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/handling_upgrade_renewal_requests_1_1/
+linkTitle: Handling Licensing & Subscription Requests
+type: docs
 ---
-
-
 
 ##### Overview
 

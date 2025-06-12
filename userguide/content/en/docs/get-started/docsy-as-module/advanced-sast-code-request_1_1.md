@@ -1,8 +1,16 @@
 ---
 title: Request for source code of LGPL-licensed components in GitLab Advanced SAST
-description: This guide provides information on handling requests for source code of LGPL-licensed components in GitLab Advanced SAST.
+description: This guide provides information on handling requests for source code
+  of LGPL-licensed components in GitLab Advanced SAST.
 category: References
 subcategory: Legal
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/advanced-sast-code-request_1_1/
+linkTitle: Request for source code of LGPL-licensed components in GitLab Advanced
+  SAST
+type: docs
 ---
 
 For requests concerning the source code of LGPL-licensed components in GitLab Advanced SAST, you will utilize the `Advanced SAST App` within the Zendesk instance. It will automate the process and guide you through it until a legal issue is created.

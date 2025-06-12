@@ -1,11 +1,14 @@
 ---
-
 title: Setting ticket priority
 category: Zendesk
 description: How to set and change priority for a ZenDesk ticket.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/setting_ticket_priority_1_1/
+linkTitle: Setting ticket priority
+type: docs
 ---
-
-
 
 ## Definitions
 

@@ -1,5 +1,12 @@
 ---
 title: Associate Fullstack Engineer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/associate_2_2/
+description: ''
+linkTitle: Associate Fullstack Engineer
+type: docs
 ---
 
 Fullstack Engineers at GitLab work on our product. This includes both the open source version of GitLab, the enterprise editions, and the GitLab.com service as well. They work with peers on teams dedicated to areas of the product. They work together with product managers, designers, and other engineers to solve common goals.

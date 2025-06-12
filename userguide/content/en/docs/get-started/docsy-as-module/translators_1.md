@@ -2,6 +2,13 @@
 layout: page
 title: Translators
 permalink: translators/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/translators_1/
+description: ''
+linkTitle: Translators
+type: docs
 ---
 
 ## Weblate

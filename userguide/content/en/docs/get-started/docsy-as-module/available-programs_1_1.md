@@ -1,8 +1,14 @@
 ---
-
-title: "Available Customer Programs"
-description: "Programs available to specific customer types and segments."
+title: Available Customer Programs
+description: Programs available to specific customer types and segments.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/available-programs_1_1/
+linkTitle: Available Customer Programs
+type: docs
 ---
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ### Program Content

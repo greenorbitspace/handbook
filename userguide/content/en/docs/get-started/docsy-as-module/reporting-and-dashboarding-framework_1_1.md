@@ -1,15 +1,15 @@
 ---
-
 title: Customer Success Reporting and Dashboarding framework
-description: This page describes the underlying philosophy and framework for how to consider and build toward the long term goal of effective and efficient reporting and dashboarding
+description: This page describes the underlying philosophy and framework for how to
+  consider and build toward the long term goal of effective and efficient reporting
+  and dashboarding
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/reporting-and-dashboarding-framework_1_1/
+linkTitle: Customer Success Reporting and Dashboarding framework
+type: docs
 ---
-
-
-
-
-
-
-
 
 ## Problem statement
 

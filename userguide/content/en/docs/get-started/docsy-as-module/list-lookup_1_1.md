@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: List Lookup 1 1
+aliases:
+- /docs/list-lookup_1_1/
+description: ''
+linkTitle: List Lookup 1 1
+type: docs
+---
+
 ~~This List lookup group has two available endpoints. You are able to retrieve a specified List by ID and get details on user-owned Lists. With the Lists endpoints, you can build solutions that enable people to curate and organize Tweets based on preferences, interests, groups, or topics.
 
 You can use either [OAuth 1.0a User Context](https://developer.twitter.com/en/docs/authentication/oauth-1-0a) or [OAuth 2.0 Bearer Token](https://developer.twitter.com/en/docs/authentication/oauth-2-0) to authenticate to these endpoints. If you choose to use [OAuth 1.0a User Context](https://developer-staging.twitter.com/en/docs/authentication/oauth-1-0a), use the Access Tokens associated with a user that has authorized your App. You can generate Access Tokens using the [3-legged OAuth flow](https://developer-staging.twitter.com/en/docs/authentication/oauth-1-0a/obtaining-user-access-tokens).

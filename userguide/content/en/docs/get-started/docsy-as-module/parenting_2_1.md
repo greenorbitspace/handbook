@@ -1,10 +1,17 @@
 ---
-title: "Parenting as a remote worker"
+title: Parenting as a remote worker
 description: Tips and tricks for parents who juggle working from home
-twitter_image: "/images/opengraph/Talent-Brand/hiring-day-in-the-life-darren.png"
-twitter_image_alt: "GitLab Team Member working from home office, happy to see baby join the video call."
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/Talent-Brand/hiring-day-in-the-life-darren.png
+twitter_image_alt: GitLab Team Member working from home office, happy to see baby
+  join the video call.
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/parenting_2_1/
+linkTitle: Parenting as a remote worker
+type: docs
 ---
 
 Parents who work from home have unique demands and expectations, as well as unique challenges. Being an excellent coworker and an excellent parent is a tall order, particularly when childcare and school are impacted by a global crisis.

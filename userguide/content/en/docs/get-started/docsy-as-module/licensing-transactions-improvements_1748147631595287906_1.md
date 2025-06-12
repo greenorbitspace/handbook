@@ -1,6 +1,13 @@
 ---
-title: "Licensing and Transactions Improvements Working Group"
-description: "This group within GitLab aims to quickly identify and address actionable, high priority iterations to our portal process. Learn more!"
+title: Licensing and Transactions Improvements Working Group
+description: This group within GitLab aims to quickly identify and address actionable,
+  high priority iterations to our portal process. Learn more!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/licensing-transactions-improvements_1748147631595287906_1/
+linkTitle: Licensing and Transactions Improvements Working Group
+type: docs
 ---
 
 ## Attributes

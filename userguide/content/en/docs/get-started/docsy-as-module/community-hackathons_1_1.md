@@ -1,5 +1,12 @@
 ---
-title: "GitLab Community Hackathons"
+title: GitLab Community Hackathons
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/community-hackathons_1_1/
+description: ''
+linkTitle: GitLab Community Hackathons
+type: docs
 ---
 
 **DRI:** Arianna Haradon

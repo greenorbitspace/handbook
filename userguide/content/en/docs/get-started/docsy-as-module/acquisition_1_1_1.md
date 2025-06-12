@@ -1,6 +1,13 @@
 ---
 title: Growth:Acquisition Group
-description: "The Growth:Acquisition group works on feature enhancements and growth experiments across GitLab projects"
+description: The Growth:Acquisition group works on feature enhancements and growth
+  experiments across GitLab projects
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/acquisition_1_1_1/
+linkTitle: Growth:Acquisition Group
+type: docs
 ---
 
 ## Vision

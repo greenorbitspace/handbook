@@ -1,6 +1,13 @@
 ---
 title: Solutions Architects People Leader Shadow Program
-description: "A program enabling Solutions Architects (SA) to shadow a Solutions Architect people leader."
+description: A program enabling Solutions Architects (SA) to shadow a Solutions Architect
+  people leader.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sa-leader-shadow_1_1/
+linkTitle: Solutions Architects People Leader Shadow Program
+type: docs
 ---
 
 ## Overview

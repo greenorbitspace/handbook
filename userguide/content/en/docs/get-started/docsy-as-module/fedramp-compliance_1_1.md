@@ -1,5 +1,12 @@
 ---
-title: "GitLab FedRAMP Authorization Program"
+title: GitLab FedRAMP Authorization Program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/fedramp-compliance_1_1/
+description: ''
+linkTitle: GitLab FedRAMP Authorization Program
+type: docs
 ---
 
 ## Overview

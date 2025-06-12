@@ -1,5 +1,12 @@
 ---
 description: Handy methods to implement import functionality
+weight: 2
+date: '2025-06-12'
+title: Import 1 1
+aliases:
+- /docs/import_1_1/
+linkTitle: Import 1 1
+type: docs
 ---
 
 # Import

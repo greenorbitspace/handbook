@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Authenticated Pages 1 1
+aliases:
+- /docs/authenticated-pages_1_1/
+description: ''
+linkTitle: Authenticated Pages 1 1
+type: docs
+---
+
 # Running Lighthouse on Authenticated Pages
 
 Default runs of Lighthouse load a page as a "new user", with no previous session or storage data. This means that pages requiring authenticated access do not work without additional setup. You have a few options for running Lighthouse on pages behind a login:

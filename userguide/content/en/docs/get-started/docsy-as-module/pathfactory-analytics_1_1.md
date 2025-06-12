@@ -1,14 +1,13 @@
 ---
-
-title: "PathFactory Analytics"
-description: "All roles and permissions have access to reporting functionality in PathFactory."
+title: PathFactory Analytics
+description: All roles and permissions have access to reporting functionality in PathFactory.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/pathfactory-analytics_1_1/
+linkTitle: PathFactory Analytics
+type: docs
 ---
-
-
-
-
-
-
 
 ## PathFactory Analytics
 

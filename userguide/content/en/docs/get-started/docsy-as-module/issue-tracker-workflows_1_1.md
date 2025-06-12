@@ -1,6 +1,13 @@
 ---
-title: "Legal Issue Tracker Workflows"
-description: "These internal instructions will help GitLab Team Members engage with Legal in the Legal and Compliance issue tracker"
+title: Legal Issue Tracker Workflows
+description: These internal instructions will help GitLab Team Members engage with
+  Legal in the Legal and Compliance issue tracker
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/issue-tracker-workflows_1_1/
+linkTitle: Legal Issue Tracker Workflows
+type: docs
 ---
 
 ## Submitting an Issue

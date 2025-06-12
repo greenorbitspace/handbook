@@ -1,12 +1,16 @@
 ---
-
 title: Working with Security
 category: GitLab.com
 subcategory: Security
-description: Documenting the various types of Security related tickets and the escalation process to notify Security.
+description: Documenting the various types of Security related tickets and the escalation
+  process to notify Security.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/working_with_security_1_1/
+linkTitle: Working with Security
+type: docs
 ---
-
-
 
 ## Overview
 

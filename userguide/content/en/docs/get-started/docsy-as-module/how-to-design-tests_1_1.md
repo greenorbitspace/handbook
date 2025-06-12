@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: How To Design Tests 1 1
+aliases:
+- /docs/how-to-design-tests_1_1/
+description: ''
+linkTitle: How To Design Tests 1 1
+type: docs
+---
+
 # How To Design Tests
 
 Testing is a complex topic. In this document, we want to provide a few tips for writing helpful tests that focus on the

@@ -2,6 +2,11 @@
 title: Hugo Content Tips
 weight: 9
 description: Tips for authoring content for your Docsy-themed Hugo site.
+type: docs
+date: '2025-06-12T01:05:53+01:00'
+linkTitle: Hugo Content Tips
+aliases:
+- /docs/site-guidance/
 ---
 
 Docsy is a theme for the [Hugo](https://gohugo.io/) static site generator. If

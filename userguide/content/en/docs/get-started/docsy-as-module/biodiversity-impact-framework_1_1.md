@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Biodiversity Impact Framework 1 1
+aliases:
+- /docs/biodiversity-impact-framework_1_1/
+description: ''
+linkTitle: Biodiversity Impact Framework 1 1
+type: docs
+---
+
 # 1. Framework Overview
 
 A comprehensive framework to identify, evaluate, and mitigate potential impacts on biodiversity from Green Orbit Digital's operations, products, and services. This framework ensures environmentally responsible activities aligned with sustainability goals.

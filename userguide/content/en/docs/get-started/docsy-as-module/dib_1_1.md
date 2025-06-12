@@ -1,6 +1,12 @@
 ---
 title: Fulfillment Diversity, inclusion, and belonging
-description: "Fulfillment Diversity, inclusion, and belonging initiatives and metrics"
+description: Fulfillment Diversity, inclusion, and belonging initiatives and metrics
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dib_1_1/
+linkTitle: Fulfillment Diversity, inclusion, and belonging
+type: docs
 ---
 
 ## Fulfillment Social

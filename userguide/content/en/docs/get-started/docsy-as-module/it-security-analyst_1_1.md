@@ -1,5 +1,12 @@
 ---
 title: IT Security Analyst
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/it-security-analyst_1_1/
+description: ''
+linkTitle: IT Security Analyst
+type: docs
 ---
 
 The security analyst plays a vital role in keeping an organization’s proprietary and sensitive information secure. He/she works inter-departmentally to identify and correct flaws in the company’s security systems, solutions, and programs while recommending specific measures that can improve the company’s overall security posture.

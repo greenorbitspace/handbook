@@ -1,16 +1,16 @@
 ---
-
-title: "Product Certification for GitLab Field Team Members"
-description: "Training and certification program to ensure field team members have the requisite knowledge to serve as trusted advisors to customers, prospects, and partners by properly positioning the right GitLab solutions based on customers’ or prospects’ expressed needs and/or challenges"
+title: Product Certification for GitLab Field Team Members
+description: Training and certification program to ensure field team members have
+  the requisite knowledge to serve as trusted advisors to customers, prospects, and
+  partners by properly positioning the right GitLab solutions based on customers’
+  or prospects’ expressed needs and/or challenges
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-certification_1_1/
+linkTitle: Product Certification for GitLab Field Team Members
+type: docs
 ---
-
-
-
-
-
-
-
-
 
 ## Overview
 

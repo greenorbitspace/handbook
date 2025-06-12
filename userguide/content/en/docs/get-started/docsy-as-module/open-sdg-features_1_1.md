@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Open Sdg Features 1 1
+aliases:
+- /docs/open-sdg-features_1_1/
+description: ''
+linkTitle: Open Sdg Features 1 1
+type: docs
+---
+
 <h1>Open SDG features</h1>
 
 Open SDG platforms are very customisable and there are a variety of optional features which can be easily configured.

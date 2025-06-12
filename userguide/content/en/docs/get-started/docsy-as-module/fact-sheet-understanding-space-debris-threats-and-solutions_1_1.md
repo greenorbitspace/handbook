@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Fact Sheet Understanding Space Debris Threats And Solutions 1 1
+aliases:
+- /docs/fact-sheet-understanding-space-debris-threats-and-solutions_1_1/
+description: ''
+linkTitle: Fact Sheet Understanding Space Debris Threats And Solutions 1 1
+type: docs
+---
+
 ### What is Space Debris?
 
 Space debris, often referred to as "space junk," consists of defunct human-made objects in Earth's orbit. This includes everything from non-functional satellites and discarded rocket stages to fragments from collisions and explosions. These debris pose significant risks to operational satellites, space missions, and even the International Space Station (ISS).

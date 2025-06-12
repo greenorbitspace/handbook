@@ -1,9 +1,16 @@
 ---
-
-title: "Lee Matos' README"
-description: "Personal readme page for Lee Matos, Senior Support Engineering Manager, GitLab"
-job: "Senior Support Engineering Manager (Americas East)"
+title: Lee Matos' README
+description: Personal readme page for Lee Matos, Senior Support Engineering Manager,
+  GitLab
+job: Senior Support Engineering Manager (Americas East)
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/lee-matos_1_1/
+linkTitle: Lee Matos' README
+type: docs
 ---
+
 + As your manager, my goal is to find the intersection of what you want and what the department needs. I am always open to ideas and helping to carve out time for you to accomplish things you find important.
 
 + By nature, I end up being “the manager I want to have.” I need to be more of the manager you want to have. Help me fulfill that by giving me feedback, and I’ll do what I can to make those changes.

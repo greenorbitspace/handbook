@@ -1,6 +1,12 @@
 ---
-title: "MQL SLAs"
-description: "SLAs for Sales/Business Development to follow up with MQLs"
+title: MQL SLAs
+description: SLAs for Sales/Business Development to follow up with MQLs
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mql-sla_1/
+linkTitle: MQL SLAs
+type: docs
 ---
 
 ## How do SLAs work?

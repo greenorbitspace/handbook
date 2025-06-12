@@ -1,17 +1,13 @@
 ---
-
-title: "AWS"
-description: "Learn about various aspects of cost management for AWS"
+title: AWS
+description: Learn about various aspects of cost management for AWS
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/aws_1_1/
+linkTitle: AWS
+type: docs
 ---
-
-
-
-
-
-
-
-
-
 
 ---
 

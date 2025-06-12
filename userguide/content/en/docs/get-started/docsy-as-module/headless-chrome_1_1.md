@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Headless Chrome 1 1
+aliases:
+- /docs/headless-chrome_1_1/
+description: ''
+linkTitle: Headless Chrome 1 1
+type: docs
+---
+
 # Running Lighthouse using headless Chrome
 
 ## CLI (headless)

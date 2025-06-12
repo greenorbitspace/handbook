@@ -1,7 +1,13 @@
 ---
-description: >-
-  In this page you will find how to retrieve, create, update or delete single
-  raindrop.
+description: In this page you will find how to retrieve, create, update or delete
+  single raindrop.
+weight: 2
+date: '2025-06-12'
+title: Single 1 1
+aliases:
+- /docs/single_1_1/
+linkTitle: Single 1 1
+type: docs
 ---
 
 # Single raindrop

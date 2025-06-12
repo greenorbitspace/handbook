@@ -1,7 +1,13 @@
 ---
 title: SSAT
 description: Support Operations documentation page for Zendesk satisfaction surveys
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/ssat"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/ssat
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ssat_2_2/
+linkTitle: SSAT
+type: docs
 ---
 
 ## What is the Zendesk satisfaction survey?

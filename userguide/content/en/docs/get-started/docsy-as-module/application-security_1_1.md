@@ -1,8 +1,15 @@
 ---
-title: "Application Security Engineer"
-description: "Application Security Engineers work closely with development teams, product managers (PM), and third-party groups to ensure that GitLab products are secure."
+title: Application Security Engineer
+description: Application Security Engineers work closely with development teams, product
+  managers (PM), and third-party groups to ensure that GitLab products are secure.
 extra_js:
 - libs/mermaid.min.js
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/application-security_1_1/
+linkTitle: Application Security Engineer
+type: docs
 ---
 
 ## What's it like to work in security at GitLab?

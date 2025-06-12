@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Happy Flows Sum My Subs Top Level Concepts 1 1
+aliases:
+- /docs/happy_flows_sum_my_subs_top_level_concepts_1_1/
+description: ''
+linkTitle: Happy Flows Sum My Subs Top Level Concepts 1 1
+type: docs
+---
+
 # "What did I spend more on last month, Amazon or Netflix?"
 
 I am a user who wants to know if last month I spent more on my Netflix subscription than my Amazon one

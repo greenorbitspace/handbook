@@ -1,5 +1,12 @@
 ---
 title: Design Pods
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/design-pod_1_1/
+description: ''
+linkTitle: Design Pods
+type: docs
 ---
 
 ## What is a Design Pod

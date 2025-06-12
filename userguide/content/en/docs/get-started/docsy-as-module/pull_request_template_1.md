@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Pull Request Template 1
+aliases:
+- /docs/pull_request_template_1/
+description: ''
+linkTitle: Pull Request Template 1
+type: docs
+---
+
 <!--
 Thank you for sending the PR! We appreciate you spending the time to work on these changes.
 You can learn more about contributing to Docusaurus here: https://github.com/facebook/docusaurus/blob/main/CONTRIBUTING.md

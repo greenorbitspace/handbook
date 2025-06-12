@@ -1,6 +1,13 @@
 ---
-title: "GitLab.com Cost Working Group"
-description: "GitLab Cost Working Group aim to reduce the cost of running GitLab.com to within acceptable levels. View more information here!"
+title: GitLab.com Cost Working Group
+description: GitLab Cost Working Group aim to reduce the cost of running GitLab.com
+  to within acceptable levels. View more information here!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-com-cost_1_1/
+linkTitle: GitLab.com Cost Working Group
+type: docs
 ---
 
 ## Attributes

@@ -1,7 +1,13 @@
 ---
 title: DEWR
 description: Support Operations documentation page for dotcom escalation weekly reports
-canonical_path: "/handbook/support/readiness/operations/docs/gitlab/dewr"
+canonical_path: /handbook/support/readiness/operations/docs/gitlab/dewr
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dewr_1_1/
+linkTitle: DEWR
+type: docs
 ---
 
 ## What is the DEWR

@@ -1,5 +1,12 @@
 ---
 title: Global Digital SMB
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/self-service-online-sales-growth_1_1_1/
+description: ''
+linkTitle: Global Digital SMB
+type: docs
 ---
 
 The Global Digital SMB team is focused on building an easy self-service experience for our customers. The team is accountable for the growth of our online sales KPI's. The team drives those numbers by experimenting with: programs that drive GTM or product improvements and campaigns to drive self-service customer adoption.

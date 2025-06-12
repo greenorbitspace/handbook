@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Jekyll And Open Sdg 1 1
+aliases:
+- /docs/jekyll-and-open-sdg_1_1/
+description: ''
+linkTitle: Jekyll And Open Sdg 1 1
+type: docs
+---
+
 <h1>Jekyll and Open SDG</h1>
 
 Jekyll is a popular, free and open source static website generator which works like a content management system such as [Drupal](https://www.drupal.org/) and [WordPress](https://wordpress.com/). However, unlike those systems, Jekyll generates at build-time rather than at request-time. Jekyll creates static websites with some templating abilities. In this way, Jekyll is similar to other static site generators, like [Next.js](https://nextjs.org/) and [Hugo](https://gohugo.io/).

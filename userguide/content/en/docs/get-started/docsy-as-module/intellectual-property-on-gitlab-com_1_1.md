@@ -1,5 +1,12 @@
 ---
-title: "Intellectual property on gitlab.com"
+title: Intellectual property on gitlab.com
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/intellectual-property-on-gitlab-com_1_1/
+description: ''
+linkTitle: Intellectual property on gitlab.com
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

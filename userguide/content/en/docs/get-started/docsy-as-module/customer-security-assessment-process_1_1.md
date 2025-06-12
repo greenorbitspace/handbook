@@ -1,6 +1,14 @@
 ---
-title: "GitLab's Customer Assurance Activities"
+title: GitLab's Customer Assurance Activities
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-security-assessment-process_1_1/
+description: ''
+linkTitle: GitLab's Customer Assurance Activities
+type: docs
 ---
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 If you would like to request security collateral which are under NDA, (such as SOC 2 Type 2, Pentest executive summary, etc.) please visit the [Trust Center](https://trust.gitlab.com/) and click on the request access button at the top right-hand corner.

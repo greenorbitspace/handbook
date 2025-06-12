@@ -3,6 +3,13 @@ stage: enablement
 group: Tenant Scale
 title: 'Cells: Git Access'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/git-access_1_1/
+description: ''
+linkTitle: 'Cells: Git Access'
+type: docs
 ---
 
 {{% alert %}}

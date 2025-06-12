@@ -1,6 +1,14 @@
 ---
-title: "Product Designer"
-description: "At GitLab, product designers collaborate closely with product managers, engineers, UX researchers, technical writers, and other product designers to create a productive, minimal, and human experience."
+title: Product Designer
+description: At GitLab, product designers collaborate closely with product managers,
+  engineers, UX researchers, technical writers, and other product designers to create
+  a productive, minimal, and human experience.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-designer_1_1_1/
+linkTitle: Product Designer
+type: docs
 ---
 
 ## Product Design Roles at GitLab

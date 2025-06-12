@@ -1,5 +1,12 @@
 ---
 title: GitLab's Guide to Total Rewards
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_4_1_1/
+description: ''
+linkTitle: GitLab's Guide to Total Rewards
+type: docs
 ---
 
 {{% cardpane %}}

@@ -1,6 +1,13 @@
 ---
-title: "Backstage Specialist"
-description: "A Backstage Specialist handles behind-the-scenes development that helps improve the productivity of other developers."
+title: Backstage Specialist
+description: A Backstage Specialist handles behind-the-scenes development that helps
+  improve the productivity of other developers.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/backstage_1_1/
+linkTitle: Backstage Specialist
+type: docs
 ---
 
 A Backstage Specialist handles behind-the-scenes development that

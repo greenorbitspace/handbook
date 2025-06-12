@@ -1,5 +1,12 @@
 ---
-title: "Governance Documents"
+title: Governance Documents
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bylaws_1_1/
+description: ''
+linkTitle: Governance Documents
+type: docs
 ---
 
 ## **GITLAB INC.  AMENDED AND RESTATED BYLAWS As Amended and Restated on December 13, 2022 and Effective December 13, 2022)**

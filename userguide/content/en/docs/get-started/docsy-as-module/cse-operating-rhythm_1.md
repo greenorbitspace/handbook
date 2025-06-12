@@ -1,5 +1,12 @@
 ---
-title: "CSE Operating Rhythm"
+title: CSE Operating Rhythm
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cse-operating-rhythm_1/
+description: ''
+linkTitle: CSE Operating Rhythm
+type: docs
 ---
 
 View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM/CSE-related handbook pages.

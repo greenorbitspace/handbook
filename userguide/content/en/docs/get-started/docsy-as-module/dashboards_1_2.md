@@ -1,6 +1,13 @@
 ---
-title: "Dashboards"
-description: "Define and align our product design teams on elements regarding dashboard features."
+title: Dashboards
+description: Define and align our product design teams on elements regarding dashboard
+  features.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dashboards_1_2/
+linkTitle: Dashboards
+type: docs
 ---
 
 ## Attributes

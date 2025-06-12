@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Slider 1
+aliases:
+- /docs/slider_1/
+description: ''
+linkTitle: Slider 1
+type: docs
+---
+
 +++
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/

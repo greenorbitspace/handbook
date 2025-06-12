@@ -1,5 +1,12 @@
 ---
-title: "Global Education Services"
+title: Global Education Services
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/professional-services-education-services_1_1/
+description: ''
+linkTitle: Global Education Services
+type: docs
 ---
 
 ## Certification Exam Developer

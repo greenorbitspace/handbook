@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Unicodetokens 1 1
+aliases:
+- /docs/unicodeTokens_1_1/
+description: ''
+linkTitle: Unicodetokens 1 1
+type: docs
+---
+
 # Unicode Tokens
 
 Starting with v2, `format` and `parse` use [Unicode tokens].

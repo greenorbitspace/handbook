@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Energy Performance Indicators Enpis 1 1
+aliases:
+- /docs/energy-performance-indicators-enpis_1_1/
+description: ''
+linkTitle: Energy Performance Indicators Enpis 1 1
+type: docs
+---
+
 ### Energy Performance Indicators (EnPIs) for ISO 50001
 
 Energy Performance Indicators (EnPIs) are crucial for monitoring and improving energy efficiency within an organization. They help measure energy consumption and efficiency relative to specific factors, such as production output, building usage, or operational processes. The following set of EnPIs aligns with ISO 50001 requirements, focusing on continual improvement and energy performance.

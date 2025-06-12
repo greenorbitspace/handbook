@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 20250606070646 Tech Stack Applications 1 1
+aliases:
+- /docs/20250606070646_tech-stack-applications_1_1/
+description: ''
+linkTitle: 20250606070646 Tech Stack Applications 1 1
+type: docs
+---
+
 <!-- Unsupported block type: image -->
 
 Instructions for how to access the GitLab tech stack and request updates to it

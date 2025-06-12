@@ -1,8 +1,15 @@
 ---
-title: "Backend Engineering"
-description: "Backend Engineers at GitLab work on our product. This includes both the open source and enterprise editions, and the GitLab.com service."
-canonical_path: "/job-families/engineering/backend-engineer/"
+title: Backend Engineering
+description: Backend Engineers at GitLab work on our product. This includes both the
+  open source and enterprise editions, and the GitLab.com service.
+canonical_path: /job-families/engineering/backend-engineer/
 manual_cookiebot: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/backend-engineer_3_1_1/
+linkTitle: Backend Engineering
+type: docs
 ---
 
 ## Backend Engineering Roles at GitLab

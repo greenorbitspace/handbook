@@ -1,7 +1,14 @@
 ---
-title: "Conducting a GitLab Interview"
-description: "Helpful information about how to prepare and conduct interviews for GitLab"
+title: Conducting a GitLab Interview
+description: Helpful information about how to prepare and conduct interviews for GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/conducting-a-gitlab-interview_1_1/
+linkTitle: Conducting a GitLab Interview
+type: docs
 ---
+
 ## **Overview**
 
 Interviewing can be challenging for both parties involved. In a relatively short space of time, a decision must be made about the potential collaboration. This page aims to provide clear guidelines to ease the interview process for everyone.

@@ -3,6 +3,11 @@ title: Release Certification
 aliases:
 - /handbook/ceo/office-of-the-ceo/jihu-support/release-certification/
 - /handbook/ceo/chief-of-staff-team/jihu-support/release-certification/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Release Certification
+type: docs
 ---
 
 ## Process for Release Certification

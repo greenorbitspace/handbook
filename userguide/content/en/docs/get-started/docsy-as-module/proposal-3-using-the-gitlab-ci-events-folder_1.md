@@ -1,6 +1,13 @@
 ---
 title: 'GitLab CI Events Proposal 3: Using the .gitlab/ci/events folder'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/proposal-3-using-the-gitlab-ci-events-folder_1/
+description: ''
+linkTitle: 'GitLab CI Events Proposal 3: Using the .gitlab/ci/events folder'
+type: docs
 ---
 
 In this proposal we want to create separate files for each group of events. We

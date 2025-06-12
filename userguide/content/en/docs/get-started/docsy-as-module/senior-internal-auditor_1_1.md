@@ -1,6 +1,13 @@
 ---
 title: Senior Internal Auditor
-description: Responsible for performing individual internal audit projects, as part of the total internal audit plan.
+description: Responsible for performing individual internal audit projects, as part
+  of the total internal audit plan.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior-internal-auditor_1_1/
+linkTitle: Senior Internal Auditor
+type: docs
 ---
 
 Responsibilities includes developing internal audit scope, performing internal audit procedures, and preparing internal audit reports reflecting the results of the work performed. Work performed will include coverage of functional and operating units and focusing on financial, IT and operational processes. Additionally, the senior internal auditor performs follow-up on the status of outstanding internal audit issues. The senior internal auditor will also assist internal audit management with periodic reporting to the audit committee, development of the annual internal audit plan, and championing internal control and corporate governance concepts throughout the business.

@@ -1,5 +1,12 @@
 ---
-title: "Setting up a local environment"
+title: Setting up a local environment
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/setup_1_1/
+description: ''
+linkTitle: Setting up a local environment
+type: docs
 ---
 
 Whether you are a contributor or a GitLab Technical Writing team member, one of your first tasks is to set up

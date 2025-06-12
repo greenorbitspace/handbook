@@ -1,7 +1,13 @@
 ---
 title: Marketing Analytics Data - L2R Models
-description: >-
-  The L2R Models grouping is comprised of the core Lead to Revenue model and those models built directly from it. 
+description: 'The L2R Models grouping is comprised of the core Lead to Revenue model
+  and those models built directly from it. '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/marketing-analytics-data-l2r_1_1/
+linkTitle: Marketing Analytics Data - L2R Models
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

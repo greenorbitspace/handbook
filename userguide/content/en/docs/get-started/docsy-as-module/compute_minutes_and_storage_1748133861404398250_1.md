@@ -2,6 +2,12 @@
 title: Handling compute minutes and Storage
 description: Adjusting compute minutes and storage
 category: GitLab.com subscriptions & purchases
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/compute_minutes_and_storage_1748133861404398250_1/
+linkTitle: Handling compute minutes and Storage
+type: docs
 ---
 
 ## Adding additional compute minutes

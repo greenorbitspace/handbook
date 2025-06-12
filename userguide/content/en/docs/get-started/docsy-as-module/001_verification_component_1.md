@@ -1,6 +1,13 @@
 ---
-title: "SLSA Level 3 Provenance Attestations ADR 001: Verification Component"
+title: 'SLSA Level 3 Provenance Attestations ADR 001: Verification Component'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/001_verification_component_1/
+description: ''
+linkTitle: 'SLSA Level 3 Provenance Attestations ADR 001: Verification Component'
+type: docs
 ---
 
 ## Context

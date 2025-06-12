@@ -1,7 +1,12 @@
 ---
-
-title: "Engineering Internships"
-description: "Learn about GitLab's engineering internship program."
+title: Engineering Internships
+description: Learn about GitLab's engineering internship program.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/internships_1_1/
+linkTitle: Engineering Internships
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

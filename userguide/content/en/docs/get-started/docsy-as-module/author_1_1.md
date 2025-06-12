@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Author 1 1
+aliases:
+- /docs/author_1_1/
+description: ''
+linkTitle: Author 1 1
+type: docs
+---
+
 # Author
 
 

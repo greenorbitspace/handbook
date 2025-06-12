@@ -1,6 +1,13 @@
 ---
-title: "IC Gearing Working Group"
-description: "The charter of this working group is to implement Individual Contributor Gearing Ratio policy within Engineering, but adaptable for use in other roles"
+title: IC Gearing Working Group
+description: The charter of this working group is to implement Individual Contributor
+  Gearing Ratio policy within Engineering, but adaptable for use in other roles
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ic-gearing_1_1/
+linkTitle: IC Gearing Working Group
+type: docs
 ---
 
 ## Attributes

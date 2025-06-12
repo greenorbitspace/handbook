@@ -1,6 +1,13 @@
 ---
-title: "Building an Inclusive Remote Culture"
-description: "We are passionate about all remote working and enabling an inclusive work environment."
+title: Building an Inclusive Remote Culture
+description: We are passionate about all remote working and enabling an inclusive
+  work environment.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/building-diversity-and-inclusion_1_1/
+linkTitle: Building an Inclusive Remote Culture
+type: docs
 ---
 
 We are passionate about [all remote working]({{< ref "remote-vision" >}}) and enabling an [inclusive work]({{< ref "inclusion#fully-distributed-and-completely-connected" >}}) environment. There isn't one big activity we can take to accomplish this. Instead, it is a mix of numerous [activities and behaviors](https://about.gitlab.com/blog/2019/12/06/how-all-remote-supports-inclusion-and-bolsters-communities/) combined to enable our team members to feel they belong in GitLab.

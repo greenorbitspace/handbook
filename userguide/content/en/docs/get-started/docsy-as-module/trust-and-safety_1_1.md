@@ -1,8 +1,15 @@
 ---
-title: "Trust and Safety"
-description: "Trust & Safety team members are the builders and maintainers of the anti-abuse world at GitLab.com."
+title: Trust and Safety
+description: Trust & Safety team members are the builders and maintainers of the anti-abuse
+  world at GitLab.com.
 extra_js:
 - libs/mermaid.min.js
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/trust-and-safety_1_1/
+linkTitle: Trust and Safety
+type: docs
 ---
 
 [Trust & Safety](/handbook/security/security-operations/trustandsafety/) team members are the builders and maintainers of the anti-abuse world at GitLab.com. They develop the tools and manage the workflows that are needed to monitor, mitigate and report on abusive activity, and are an essential part of our goal of being good internet citizens.

@@ -1,5 +1,12 @@
 ---
-title: "Data and Insights Executive"
+title: Data and Insights Executive
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/data-and-insights-executive_1_1/
+description: ''
+linkTitle: Data and Insights Executive
+type: docs
 ---
 
 The Data job family comprises executive-level roles dedicated to delivering a resilient data platform infrastructure, data-driven insights, data governance, data quality, and innovative data science products to empower informed decision-making and drive business success. These executives lead data teams focused on collaborating on cross-functional initiatives like top-priority projects or Go-to-Market challenges that thrive on data-driven solutions.

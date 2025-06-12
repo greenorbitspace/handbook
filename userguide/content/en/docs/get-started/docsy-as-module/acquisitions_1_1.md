@@ -1,9 +1,13 @@
 ---
-title: "Talent Acquisition Process - Acquisitions"
-description: "An outline of the talent acquisition process for the acquition hires."
+title: Talent Acquisition Process - Acquisitions
+description: An outline of the talent acquisition process for the acquition hires.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/acquisitions_1_1/
+linkTitle: Talent Acquisition Process - Acquisitions
+type: docs
 ---
-
-
 
 ## Talent Acquisition Process Framework - Acquisitions {#framework-acquihires}
 

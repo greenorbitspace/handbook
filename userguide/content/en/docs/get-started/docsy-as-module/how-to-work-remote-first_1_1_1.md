@@ -1,10 +1,16 @@
 ---
-title: "How to use forcing functions to work remote-first"
+title: How to use forcing functions to work remote-first
 description: How to use forcing functions to work remote-first
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/how-to-work-remote-first_1_1_1/
+linkTitle: How to use forcing functions to work remote-first
+type: docs
 ---
 
 ## What is a forcing function?

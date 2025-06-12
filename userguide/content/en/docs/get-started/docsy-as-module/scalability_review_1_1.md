@@ -1,6 +1,13 @@
 ---
-title: "Compliance Frameworks Scalability Review"
+title: Compliance Frameworks Scalability Review
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/scalability_review_1_1/
+description: ''
+linkTitle: Compliance Frameworks Scalability Review
+type: docs
 ---
 
 ## Context

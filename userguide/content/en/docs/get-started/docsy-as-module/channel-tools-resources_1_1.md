@@ -1,7 +1,12 @@
 ---
-
-title: "Channel Partner Tools and Resources"
-description: "Channel Partner tools and resources to help grow your GitLab business."
+title: Channel Partner Tools and Resources
+description: Channel Partner tools and resources to help grow your GitLab business.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/channel-tools-resources_1_1/
+linkTitle: Channel Partner Tools and Resources
+type: docs
 ---
 
 **We invite organizations interested in becoming a GitLab Channel Partner to [APPLY NOW](https://partners.gitlab.com/English/register_email.aspx).**

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Porting Buffer 1 1
+aliases:
+- /docs/Porting-Buffer_1_1/
+description: ''
+linkTitle: Porting Buffer 1 1
+type: docs
+---
+
 # Porting to the Buffer.from/Buffer.alloc API
 
 <a id="overview"></a>

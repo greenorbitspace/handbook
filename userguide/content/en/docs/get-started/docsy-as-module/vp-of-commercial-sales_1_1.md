@@ -1,6 +1,13 @@
 ---
-title: "Vice President of Commerical Sales (Mid-Market and SMB)"
-RoleName: "VP of Commercial Sales"
+title: Vice President of Commerical Sales (Mid-Market and SMB)
+RoleName: VP of Commercial Sales
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vp-of-commercial-sales_1_1/
+description: ''
+linkTitle: Vice President of Commerical Sales (Mid-Market and SMB)
+type: docs
 ---
 
 At GitLab, we are fundamentally changing the way our customers get their software to market by putting the entire DevOps lifecycle into a single application. With over 100,000 organizations using the product GitLab is one of the fastest growing companies in technology. Our channel teams are responsible for building, enabling, supporting and driving revenue with SIs, VARs, VADs, and DMRs. Our channel partners deliver both sales and professional services to our joint customers. Together, we make our customers successful in achieving their business outcomes with the GitLab product as they move to truly modern DevOps. We know that our customers trust GitLab to take their ideas all the way from plan to shipped product in production. we take that responsibility seriously and are building a worldwide partner program with like-minded partners. We have an incredible existing, and rapidly growing, customer base, with a passionate, supportive open-source community and incredibly talented teams located in 40 countries focused on supporting them.

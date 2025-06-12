@@ -1,5 +1,12 @@
 ---
-title: "Automation and Compliance"
+title: Automation and Compliance
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/automation-and-compliance_1748147632037896422_1/
+description: ''
+linkTitle: Automation and Compliance
+type: docs
 ---
 
 ## Purpose

@@ -1,7 +1,13 @@
 ---
 title: Support Super Form
 description: Operations documentation page for the Support Super Form
-canonical_path: "/handbook/security/customer-support-operations/docs/gitlab/support-super-form"
+canonical_path: /handbook/security/customer-support-operations/docs/gitlab/support-super-form
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-super-form_1_1_1/
+linkTitle: Support Super Form
+type: docs
 ---
 
 <sup>*Introduced via [support-team-meta#5654](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5654)*</sup>

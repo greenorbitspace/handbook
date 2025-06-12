@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Navan Expense End Users Guide 1 1
+aliases:
+- /docs/navan-expense-end-users-guide_1_1/
+description: ''
+linkTitle: Navan Expense End Users Guide 1 1
+type: docs
+---
+
 Navan Expense End Users Guide
 
 ## What is Navan Expense

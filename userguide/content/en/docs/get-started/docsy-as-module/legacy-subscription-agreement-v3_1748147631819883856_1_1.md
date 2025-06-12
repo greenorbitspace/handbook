@@ -1,6 +1,14 @@
 ---
-title: "LEGACY: GitLab Subscription Agreement V3"
+title: 'LEGACY: GitLab Subscription Agreement V3'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/legacy-subscription-agreement-v3_1748147631819883856_1_1/
+description: ''
+linkTitle: 'LEGACY: GitLab Subscription Agreement V3'
+type: docs
 ---
+
 <!-- vale off -->
 ## Subscription Agreement
 

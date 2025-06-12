@@ -1,9 +1,14 @@
 ---
 title: Team Member Social Media Policy
 description: This is the GitLab employee social media policy
-twitter_image: "/images/opengraph/handbook/social-marketing/team-member-social-media-policy.png"
+twitter_image: /images/opengraph/handbook/social-marketing/team-member-social-media-policy.png
 twitter_image_alt: GitLab Social Media Policy
-
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/team-member-social-media-policy_1748146058114727703_1_1/
+linkTitle: Team Member Social Media Policy
+type: docs
 ---
 
 ## Introduction

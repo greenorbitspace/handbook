@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Requirements 1 1
+aliases:
+- /docs/requirements_1_1/
+description: ''
+linkTitle: Requirements 1 1
+type: docs
+---
+
 <h1>Requirements</h1>
 
 This document describes the software, services, and expertise that will be needed for the implementation of the Open SDG platform.

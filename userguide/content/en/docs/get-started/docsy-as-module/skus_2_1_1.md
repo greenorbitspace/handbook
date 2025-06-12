@@ -1,6 +1,12 @@
 ---
-title: "PS Standard SKUs"
-description: "Discover GitLab's Professional Services Standard SKUs"
+title: PS Standard SKUs
+description: Discover GitLab's Professional Services Standard SKUs
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/skus_2_1_1/
+linkTitle: PS Standard SKUs
+type: docs
 ---
 
 Some Professional Services Offerings, such as non-customized Education Services courses, Health Check, CI/CD andDevSecOps Workshop, Implementation/Migration QuickStart SKUS, and other out-of-the-box packages can be sold as a standard SKU. Professional Services SKUs can be easily added to an order within Zuora and do not require creation of a custom SOW.

@@ -1,6 +1,12 @@
 ---
-title: "Product Design Manager Pairs"
-description: "Product designer manager pairs rotation"
+title: Product Design Manager Pairs
+description: Product designer manager pairs rotation
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-design-manager-pairs_1_1/
+linkTitle: Product Design Manager Pairs
+type: docs
 ---
 
 ## Product Design Manager Pairs

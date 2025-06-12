@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Flexible Working 1 1
+aliases:
+- /docs/flexible-working_1_1/
+description: ''
+linkTitle: Flexible Working 1 1
+type: docs
+---
+
 # Flexible Working Policy
 
 ## 1. Purpose and Scope

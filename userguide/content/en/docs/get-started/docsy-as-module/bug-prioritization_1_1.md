@@ -1,6 +1,13 @@
 ---
-title: "Bug Prioritization"
-description: "This page describes the bug prioritization process performed by the quality engineering sub-department as part of the cross-functional prioritization process."
+title: Bug Prioritization
+description: This page describes the bug prioritization process performed by the quality
+  engineering sub-department as part of the cross-functional prioritization process.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bug-prioritization_1_1/
+linkTitle: Bug Prioritization
+type: docs
 ---
 
 ## Overview

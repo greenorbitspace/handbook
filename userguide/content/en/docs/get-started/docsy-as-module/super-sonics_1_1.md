@@ -1,14 +1,16 @@
 ---
-
-title: "Dynamic Quote Templates"
-description: "This page outlines the Dynamic Quote Templates Automation in Salesforce that supported the Super Sonics project. It includes both information for the end user, answers frequently asked questions as well as highlights the location of the related technical logic in the code."
+title: Dynamic Quote Templates
+description: This page outlines the Dynamic Quote Templates Automation in Salesforce
+  that supported the Super Sonics project. It includes both information for the end
+  user, answers frequently asked questions as well as highlights the location of the
+  related technical logic in the code.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/super-sonics_1_1/
+linkTitle: Dynamic Quote Templates
+type: docs
 ---
-
-
-
-
-
-
 
 ## Related Handbook Sections
 

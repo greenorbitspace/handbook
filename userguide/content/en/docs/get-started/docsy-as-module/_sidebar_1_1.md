@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: ' Sidebar 1 1'
+aliases:
+- /docs/_sidebar_1_1/
+description: ''
+linkTitle: ' Sidebar 1 1'
+type: docs
+---
+
 * [Home](/)
 * [Install guide](install.md)
 * [A quick tour](tour.md)

@@ -1,15 +1,14 @@
 ---
-
-title: "CI/CD Campaign"
-description: "Everything you need to know about the CI/CD campaign."
-twitter_image: '/images/tweets/handbook-marketing.png'
+title: CI/CD Campaign
+description: Everything you need to know about the CI/CD campaign.
+twitter_image: /images/tweets/handbook-marketing.png
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cicd_1_1/
+linkTitle: CI/CD Campaign
+type: docs
 ---
-
-
-
-
-
-
 
 ## Campaign Overview
 

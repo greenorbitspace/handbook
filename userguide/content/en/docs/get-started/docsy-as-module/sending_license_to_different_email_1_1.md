@@ -1,10 +1,15 @@
 ---
-
 title: Sending licenses to a different email address
-description: "Information on the process for sending licenses to a different email address"
+description: Information on the process for sending licenses to a different email
+  address
 category: GitLab Self-Managed licenses
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sending_license_to_different_email_1_1/
+linkTitle: Sending licenses to a different email address
+type: docs
 ---
-
 
 ## Overview
 

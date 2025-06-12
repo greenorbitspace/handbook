@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Contact 1
+aliases:
+- /docs/contact_1/
+description: ''
+linkTitle: Contact 1
+type: docs
+---
+
 +++
 # Contact widget.
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/

@@ -1,12 +1,22 @@
 ---
-title: "Cells Networking"
+title: Cells Networking
 status: accepted
-creation-date: "2025-02-21"
-authors: [ "@sxuereb", "@tkhandelwal3" ]
-coach:
-owning-stage: "~devops::platforms"
-dris: ["@tkhandelwal3"]
+creation-date: '2025-02-21'
+authors:
+- '@sxuereb'
+- '@tkhandelwal3'
+coach: null
+owning-stage: ~devops::platforms
+dris:
+- '@tkhandelwal3'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/networking_1_1_1/
+description: ''
+linkTitle: Cells Networking
+type: docs
 ---
 
 {{< engineering/design-document-header >}}

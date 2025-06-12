@@ -1,5 +1,12 @@
 ---
-title: "Abuse on GitLab.com"
+title: Abuse on GitLab.com
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/abuse-on-gitlab-com_1_1/
+description: ''
+linkTitle: Abuse on GitLab.com
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

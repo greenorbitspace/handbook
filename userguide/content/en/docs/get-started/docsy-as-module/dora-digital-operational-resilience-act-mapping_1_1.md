@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Dora Digital Operational Resilience Act Mapping 1 1
+aliases:
+- /docs/dora-digital-operational-resilience-act-mapping_1_1/
+description: ''
+linkTitle: Dora Digital Operational Resilience Act Mapping 1 1
+type: docs
+---
+
 <!-- Unsupported block type: image -->
 
 ### How GitLab addresses the key contractual requirements of the Digital Operational Resilience Act

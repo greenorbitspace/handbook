@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Holidays And Pay 1 1
+aliases:
+- /docs/holidays-and-pay_1_1/
+description: ''
+linkTitle: Holidays And Pay 1 1
+type: docs
+---
+
 category: Policies
 
 Our holiday year runs from 1st April until 31st March. All full-time team members (those working 40 hours a week) are entitled to 22 days holidays and 8 bank holidays. This is pro-rated for part-time employees.

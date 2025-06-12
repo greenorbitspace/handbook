@@ -1,7 +1,14 @@
 ---
-owning-stage: "~devops::tenant scale"
-title: "Cells ADR 014: Clusterwide syncing for Cells 1.0"
+owning-stage: ~devops::tenant scale
+title: 'Cells ADR 014: Clusterwide syncing for Cells 1.0'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/014_clusterwide_syncing_in_cells_1_0_1/
+description: ''
+linkTitle: 'Cells ADR 014: Clusterwide syncing for Cells 1.0'
+type: docs
 ---
 
 ## Context

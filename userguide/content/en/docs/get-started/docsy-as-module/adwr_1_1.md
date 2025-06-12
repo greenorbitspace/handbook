@@ -1,7 +1,13 @@
 ---
 title: ADWR
 description: Support Operations documentation page for account deletion weekly reports
-canonical_path: "/handbook/support/readiness/operations/docs/gitlab/adwr"
+canonical_path: /handbook/support/readiness/operations/docs/gitlab/adwr
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/adwr_1_1/
+linkTitle: ADWR
+type: docs
 ---
 
 <sup>*Introduced via [support-team-meta#3190](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3190)*</sup>

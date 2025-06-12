@@ -1,7 +1,17 @@
 ---
 title: Duo Chat case scenarios for support
-description: "This documentation page provides an overview of common use cases for leveraging artificial intelligence (AI) to enhance and streamline support operations. It aims to help support teams and managers understand how AI can be effectively applied to solve various challenges in customer service, technical support, and user assistance."
+description: This documentation page provides an overview of common use cases for
+  leveraging artificial intelligence (AI) to enhance and streamline support operations.
+  It aims to help support teams and managers understand how AI can be effectively
+  applied to solve various challenges in customer service, technical support, and
+  user assistance.
 category: AI
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/duo_chat_in_support_1/
+linkTitle: Duo Chat case scenarios for support
+type: docs
 ---
 
 ## Overview

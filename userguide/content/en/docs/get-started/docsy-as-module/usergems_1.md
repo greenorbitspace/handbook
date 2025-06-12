@@ -1,6 +1,14 @@
 ---
-title: "UserGems"
-description: "UserGems is a job changes tracking tool which captures and combines signals to help our teams identify the best buyers, have compelling reasons to reach out, and act on those insights with automation"
+title: UserGems
+description: UserGems is a job changes tracking tool which captures and combines signals
+  to help our teams identify the best buyers, have compelling reasons to reach out,
+  and act on those insights with automation
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/usergems_1/
+linkTitle: UserGems
+type: docs
 ---
 
 ### Ways to access UserGems data

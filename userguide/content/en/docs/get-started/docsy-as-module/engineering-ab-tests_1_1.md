@@ -1,6 +1,12 @@
 ---
 title: Engineering A/B tests
-description: "Learn more about how Digital Experience engineers our A/B tests."
+description: Learn more about how Digital Experience engineers our A/B tests.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engineering-ab-tests_1_1/
+linkTitle: Engineering A/B tests
+type: docs
 ---
 
 ## Overview

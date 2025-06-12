@@ -1,7 +1,12 @@
 ---
-
-title: "CSM Operations Manager"
-description: "Regional role to manage operations for CSM teams."
+title: CSM Operations Manager
+description: Regional role to manage operations for CSM teams.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/operations-manager_1_1/
+linkTitle: CSM Operations Manager
+type: docs
 ---
 
 ## Overview

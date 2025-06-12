@@ -1,5 +1,12 @@
 ---
-title: "Board Member"
+title: Board Member
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/board_member_1_1/
+description: ''
+linkTitle: Board Member
+type: docs
 ---
 
 GitLab Board Members are accountable to GitLab shareholders.

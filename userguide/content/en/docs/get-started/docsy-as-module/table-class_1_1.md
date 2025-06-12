@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Table Class 1 1
+aliases:
+- /docs/table-class_1_1/
+description: ''
+linkTitle: Table Class 1 1
+type: docs
+---
+
 Replace kepler.gl dataset with table class
 
 ## Current Dataset structure

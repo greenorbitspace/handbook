@@ -1,13 +1,17 @@
 ---
 title: Docsy priorities for 2024
 linkTitle: 2024 Priorities
-author: >
-  [Patrice Chalin](https://github.com/chalin) ([CNCF](https://www.cncf.io/)),
-  for the [Docsy Steering
-  Committee](/blog/2022/hello/#introducing-the-psc)
-date: 2023-11-28
-# prettier-ignore
+author: '[Patrice Chalin](https://github.com/chalin) ([CNCF](https://www.cncf.io/)),
+  for the [Docsy Steering Committee](/blog/2022/hello/#introducing-the-psc)
+
+  '
+date: '2025-06-12T01:06:11+01:00'
 cSpell:ignore: CNCF Chalin opentelemetry namespacing docsy customizability deprioritize
+type: blog
+weight: 2
+aliases:
+- /blog/priorities-for-2024/
+description: ''
 ---
 
 > **TL;DR** 1.4K projects use Docsy! The top user-project focused priorities for

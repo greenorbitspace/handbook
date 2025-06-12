@@ -1,6 +1,14 @@
 ---
 title: DBO Escalation Process
-summary: This page outlines the DBO team escalation process and guidelines for developing the rotation schedule for handling infrastructure incident escalations.
+summary: This page outlines the DBO team escalation process and guidelines for developing
+  the rotation schedule for handling infrastructure incident escalations.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dbre-escalation-process_1_1_1/
+description: ''
+linkTitle: DBO Escalation Process
+type: docs
 ---
 
 {{% alert title="Note" color="danger" %}}

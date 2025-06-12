@@ -1,6 +1,13 @@
 ---
-title: "Content Marketing Roles"
-description: "Learn more about Content Marketing roles at GitLab including levels, responsibilities and requirements."
+title: Content Marketing Roles
+description: Learn more about Content Marketing roles at GitLab including levels,
+  responsibilities and requirements.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/content-marketing_2_1/
+linkTitle: Content Marketing Roles
+type: docs
 ---
 
 ## Levels

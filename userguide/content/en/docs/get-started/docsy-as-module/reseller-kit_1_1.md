@@ -1,6 +1,12 @@
 ---
-
-title: "Reseller Marketing Kit"
+title: Reseller Marketing Kit
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/reseller-kit_1_1/
+description: ''
+linkTitle: Reseller Marketing Kit
+type: docs
 ---
 
 ## Getting Started

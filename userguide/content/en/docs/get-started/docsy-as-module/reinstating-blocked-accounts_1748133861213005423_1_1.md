@@ -3,6 +3,12 @@ title: Locked, Blocked and Banned Accounts
 category: GitLab.com
 subcategory: Security
 description: How to determine if a blocked user can be re-instated
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/reinstating-blocked-accounts_1748133861213005423_1_1/
+linkTitle: Locked, Blocked and Banned Accounts
+type: docs
 ---
 
 This workflow page will describe how to action on **Locked**,  **Blocked** and **Banned** accounts. Sometimes users believe they are blocked, but their accounts are locked. There are several ways to verify:

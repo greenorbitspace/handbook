@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Performance Indicator Links 1 1
+aliases:
+- /docs/performance_indicator_links_1_1/
+description: ''
+linkTitle: Performance Indicator Links 1 1
+type: docs
+---
+
 * [Performance Indicator Maturity Table](/handbook/engineering/performance-indicators/maturity/)
 * [Engineering Function Performance Indicators](/handbook/engineering/performance-indicators/)
   * [Customer Support Department Performance Indicators](/handbook/support/performance-indicators/)

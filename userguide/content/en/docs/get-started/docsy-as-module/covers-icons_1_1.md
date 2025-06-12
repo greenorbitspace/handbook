@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Covers Icons 1 1
+aliases:
+- /docs/covers-icons_1_1/
+description: ''
+linkTitle: Covers Icons 1 1
+type: docs
+---
+
 # Covers/icons
 
 In your app you could easily make icon/cover selector from more than 10 000 icons

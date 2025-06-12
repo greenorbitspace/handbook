@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Local Purchasing And Hiring Policy 1 1
+aliases:
+- /docs/local-purchasing-and-hiring-policy_1_1/
+description: ''
+linkTitle: Local Purchasing And Hiring Policy 1 1
+type: docs
+---
+
 <!-- Unsupported block type: table_of_contents -->
 
 Green Orbit Digital is committed to supporting local economic development through strategic local purchasing and hiring practices. This policy outlines our approach to prioritizing local suppliers and talent while maintaining our high standards for quality and sustainability.

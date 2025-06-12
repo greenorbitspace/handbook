@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Follows 1 1
+aliases:
+- /docs/follows_1_1/
+description: ''
+linkTitle: Follows 1 1
+type: docs
+---
+
 Following users is one of the most foundational actions on Twitter. 
 
 Twitter offer two sets of endpoint groups to help you lookup, create, and delete follow relationships: follows lookup and manage follows.

@@ -1,8 +1,13 @@
 ---
-
 title: Technical Discovery
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/technical-discovery_1_1/
+description: ''
+linkTitle: Technical Discovery
+type: docs
 ---
-
 
 ## Key Links
 

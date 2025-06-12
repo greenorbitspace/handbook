@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Ig Contributing 1 1
+aliases:
+- /docs/IG-CONTRIBUTING_1_1/
+description: ''
+linkTitle: Ig Contributing 1 1
+type: docs
+---
+
 Contributions to this repository are intended to become part of Interest Group documents governed by the [Software and Document License](https://www.w3.org/copyright/software-license/). By committing here, you agree to that licensing of your contributions.
 
 If you are not the sole contributor to a contribution (pull request), please identify all contributors in the pull request comment.

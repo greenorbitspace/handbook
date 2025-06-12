@@ -1,6 +1,13 @@
 ---
-title: "Senior Director of Sales Operations"
-RoleName: "Senior Director of Sales Operations"
+title: Senior Director of Sales Operations
+RoleName: Senior Director of Sales Operations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior-director-of-sales-operations_1_1/
+description: ''
+linkTitle: Senior Director of Sales Operations
+type: docs
 ---
 
 ## Analyst

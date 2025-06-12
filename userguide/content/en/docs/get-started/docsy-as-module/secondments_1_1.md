@@ -1,7 +1,12 @@
 ---
-
-title: "Engineering Secondments"
-description: "Learn about GitLab's secondment program for external engineers."
+title: Engineering Secondments
+description: Learn about GitLab's secondment program for external engineers.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/secondments_1_1/
+linkTitle: Engineering Secondments
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

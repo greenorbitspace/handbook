@@ -1,6 +1,13 @@
 ---
-title: "E-Group Scheduling"
-description: “Find out how to schedule with E-Group members with Executive Business Administrators”
+title: E-Group Scheduling
+description: “Find out how to schedule with E-Group members with Executive Business
+  Administrators”
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/e-group-scheduling_1_1/
+linkTitle: E-Group Scheduling
+type: docs
 ---
 
 Before scheduling with an E-Group member, please be sure to reach out to their perspective EBA with meeting details.

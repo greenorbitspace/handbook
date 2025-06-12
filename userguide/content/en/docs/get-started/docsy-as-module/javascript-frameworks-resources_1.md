@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Javascript Frameworks Resources 1
+aliases:
+- /docs/javascript-frameworks-resources_1/
+description: ''
+linkTitle: Javascript Frameworks Resources 1
+type: docs
+---
+
 ## Angular.js
 
 * [Angular Basics](http://www.angularjsbook.com)

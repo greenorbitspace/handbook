@@ -1,13 +1,13 @@
 ---
-
-title: "Common Room workflows"
+title: Common Room workflows
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/common-room_1_1/
+description: ''
+linkTitle: Common Room workflows
+type: docs
 ---
-
-
-
-
-
-
 
 [Common Room](https://docs.commonroom.io/) is a community growth platform that helps manage, engage, and grow digital communities by integrating data across different platforms, identifying members, and reporting trends and sentiment.
 

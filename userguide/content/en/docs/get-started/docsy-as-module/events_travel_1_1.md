@@ -1,13 +1,13 @@
 ---
-
-title: "Travel Priorities"
+title: Travel Priorities
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/events_travel_1_1/
+description: ''
+linkTitle: Travel Priorities
+type: docs
 ---
-
-
-
-
-
-
 
 As a team, we need to help our team maintain a healthy work/life balance.  We often face multiple requests for support for various events and activities around the world.  The following priority list will help us make hard decisions about events that we can support and those that we may have to decline.
 

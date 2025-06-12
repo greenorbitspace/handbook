@@ -1,5 +1,12 @@
 ---
 title: GitLab Product Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_65_1_1/
+description: ''
+linkTitle: GitLab Product Management
+type: docs
 ---
 
 This document describes what Product Management does, where, when, and how to engage with the product management team.

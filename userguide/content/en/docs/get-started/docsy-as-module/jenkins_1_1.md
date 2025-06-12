@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Jenkins 1 1
+aliases:
+- /docs/jenkins_1_1/
+description: ''
+linkTitle: Jenkins 1 1
+type: docs
+---
+
 <h1>Jenkins</h1>
 
 Jenkins is a self-contained, open-source automation server. It is useful for Open SDG in a way that is typical of open-source projects: it "listens" for certain events in your Github repository, and then performs pre-configured tasks. Open SDG needs a CI tool to accomplish these things:

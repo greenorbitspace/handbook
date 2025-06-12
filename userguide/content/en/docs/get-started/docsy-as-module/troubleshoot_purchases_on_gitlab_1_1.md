@@ -2,6 +2,12 @@
 title: Troubleshoot Errors While Making Purchases on GitLab.com
 category: GitLab.com subscriptions & purchases
 description: Troubleshooting guide for purchase errors on GitLab.com
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/troubleshoot_purchases_on_gitlab_1_1/
+linkTitle: Troubleshoot Errors While Making Purchases on GitLab.com
+type: docs
 ---
 
 ## Overview

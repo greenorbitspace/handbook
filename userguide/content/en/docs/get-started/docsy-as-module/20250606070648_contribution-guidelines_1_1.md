@@ -2,7 +2,13 @@
 title: Contribution Guidelines
 description: How to contribute to the docs
 weight: 10
+date: '2025-06-12'
+aliases:
+- /docs/20250606070648_contribution-guidelines_1_1/
+linkTitle: Contribution Guidelines
+type: docs
 ---
+
 {{% pageinfo %}}
 
 These basic sample guidelines assume that your Docsy site is deployed using Netlify and your files are stored in GitHub. You can use the guidelines "as is" or adapt them with your own instructions: for example, other deployment options, information about your doc project's file structure, project-specific review guidelines, versioning guidelines, or any other information your users might find useful when updating your site. [Kubeflow](https://github.com/kubeflow/website/blob/master/README.md) has a great example.

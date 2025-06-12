@@ -1,13 +1,29 @@
 ---
-title: "Vertex AI Search"
+title: Vertex AI Search
 status: proposed
-creation-date: "2024-02-20"
-authors: [ "@bvenker", "@mikolaj_wawrzyniak" ]
-coach: [ "@stanhu" ]
-approvers: [ "@pwietchner", "@oregand", "@shinya.meda", "@mikolaj_wawrzyniak" ]
-owning-stage: "~devops::data stores"
-participating-stages: ["~devops::ai-powered", "~devops::create"]
+creation-date: '2024-02-20'
+authors:
+- '@bvenker'
+- '@mikolaj_wawrzyniak'
+coach:
+- '@stanhu'
+approvers:
+- '@pwietchner'
+- '@oregand'
+- '@shinya.meda'
+- '@mikolaj_wawrzyniak'
+owning-stage: ~devops::data stores
+participating-stages:
+- ~devops::ai-powered
+- ~devops::create
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vertex_ai_search_1_1/
+description: ''
+linkTitle: Vertex AI Search
+type: docs
 ---
 
 This page explains how to retrieve data from Google Vertex AI Search for [RAG](index.md).

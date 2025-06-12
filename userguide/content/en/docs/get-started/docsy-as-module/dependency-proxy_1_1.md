@@ -1,9 +1,15 @@
 ---
-# TODO: Remove stage and group because the handbook doesn't need these attributes
 stage: enablement
 group: Tenant Scale
 title: 'Cells: Dependency Proxy'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dependency-proxy_1_1/
+description: ''
+linkTitle: 'Cells: Dependency Proxy'
+type: docs
 ---
 
 {{% alert %}}

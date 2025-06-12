@@ -1,8 +1,12 @@
 ---
 title: Logos and Images
-date: 2017-01-05
+date: '2025-06-12T01:05:53+01:00'
 weight: 6
 description: Add and customize logos, icons, and images in your project.
+type: docs
+linkTitle: Logos and Images
+aliases:
+- /docs/iconsimages/
 ---
 
 ## Add your logo

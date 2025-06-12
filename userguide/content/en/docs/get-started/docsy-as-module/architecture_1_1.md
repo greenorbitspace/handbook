@@ -1,7 +1,12 @@
 ---
-
-title: "GitLab CSF - Architecture activity"
-description: "CSF Architecture activity and deliverables"
+title: GitLab CSF - Architecture activity
+description: CSF Architecture activity and deliverables
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/architecture_1_1/
+linkTitle: GitLab CSF - Architecture activity
+type: docs
 ---
 
 ## Architecture

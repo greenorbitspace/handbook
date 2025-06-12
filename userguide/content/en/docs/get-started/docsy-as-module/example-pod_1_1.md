@@ -1,6 +1,12 @@
 ---
 title: Example Support Pod
 description: A template for team members who want to create their own Support Pod.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/example-pod_1_1/
+linkTitle: Example Support Pod
+type: docs
 ---
 
 ## Purpose

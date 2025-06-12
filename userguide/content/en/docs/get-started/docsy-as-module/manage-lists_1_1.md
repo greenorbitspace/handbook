@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Manage Lists 1 1
+aliases:
+- /docs/manage-lists_1_1/
+description: ''
+linkTitle: Manage Lists 1 1
+type: docs
+---
+
 The manage List endpoints allow you to create, delete, and update Lists on behalf of an authenticated user. 
 
 For these endpoints, there are three methods available: POST, DELETE and PUT. The POST method allows you to create a List, the DELETE method allows you to delete a List, and the PUT method allows you to update the metadata of a List.

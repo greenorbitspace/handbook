@@ -1,10 +1,16 @@
 ---
-title: "How do you conduct interviews remotely?"
+title: How do you conduct interviews remotely?
 description: How do you conduct interviews remotely?
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/interviews_1_2/
+linkTitle: How do you conduct interviews remotely?
+type: docs
 ---
 
 On this page, we're addressing a popular question: "How do you interview remotely?" We're also curating a list of questions that we at GitLab appreciate hearing answers to from others in remote organizations.

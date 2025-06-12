@@ -1,15 +1,15 @@
 ---
-
 title: Inside Sales Department
-description: >-
-  The Inside Sales department is part of the GitLab Sales function who partners with the sales and customer success teams to deliver maximum value to GitLab customers throughout their journey with GitLab.
+description: The Inside Sales department is part of the GitLab Sales function who
+  partners with the sales and customer success teams to deliver maximum value to GitLab
+  customers throughout their journey with GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/insidesales_1_1/
+linkTitle: Inside Sales Department
+type: docs
 ---
-
-
-
-
-
-
 
 The Inside Sales department is part of the [GitLab Sales](/handbook/sales/) function who partners with the sales and customer success teams to deliver maximum value to GitLab customers throughout their journey with GitLab.
 

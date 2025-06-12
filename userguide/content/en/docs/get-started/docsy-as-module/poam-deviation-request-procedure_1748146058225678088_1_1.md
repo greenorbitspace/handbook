@@ -1,5 +1,12 @@
 ---
-title: "FedRAMP Vulnerability Deviation Request Procedure"
+title: FedRAMP Vulnerability Deviation Request Procedure
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/poam-deviation-request-procedure_1748146058225678088_1_1/
+description: ''
+linkTitle: FedRAMP Vulnerability Deviation Request Procedure
+type: docs
 ---
 
 ## Submit a Request

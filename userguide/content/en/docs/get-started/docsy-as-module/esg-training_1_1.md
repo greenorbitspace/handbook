@@ -1,7 +1,12 @@
 ---
-aliases: /handbook/legal/esg/esg-training
-title: "ESG Training"
-description: "ESG Training for GitLab team members"
+aliases:
+- /docs/esg-training_1_1/
+title: ESG Training
+description: ESG Training for GitLab team members
+weight: 2
+date: '2025-06-12'
+linkTitle: ESG Training
+type: docs
 ---
 
 ## What is ESG?

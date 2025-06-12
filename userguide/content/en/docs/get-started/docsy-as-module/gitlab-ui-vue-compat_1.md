@@ -1,6 +1,13 @@
 ---
-title: "GitLab UI @vue/compat Compatibility Task Group"
-description: "Learn more about the GitLab UI @vue/compat Compatibility Task Group's attributes, goals, roles and responsibilities."
+title: GitLab UI @vue/compat Compatibility Task Group
+description: Learn more about the GitLab UI @vue/compat Compatibility Task Group's
+  attributes, goals, roles and responsibilities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-ui-vue-compat_1/
+linkTitle: GitLab UI @vue/compat Compatibility Task Group
+type: docs
 ---
 
 ## Attributes

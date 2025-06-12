@@ -1,5 +1,12 @@
 ---
 title: Self-Service Growth
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/self-service-online-sales-growth_2_1/
+description: ''
+linkTitle: Self-Service Growth
+type: docs
 ---
 
 The Self Service Growth team is focused on building an easy self-service experience for our customers. The Growth team is accountable for the growth of our online sales KPI’s. The Growth team drives those numbers by experimenting with: programs that drive GTM or product improvements and campaigns to drive self-service customer adoption.

@@ -1,7 +1,14 @@
 ---
 title: Zendesk Global with contributions
-description: Support Operations policies page for project setup for Zendesk Global with support contributions
-canonical_path: "/handbook/support/readiness/operations/docs/policies/project_setup/zendesk_global_with"
+description: Support Operations policies page for project setup for Zendesk Global
+  with support contributions
+canonical_path: /handbook/support/readiness/operations/docs/policies/project_setup/zendesk_global_with
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/zendesk_global_with_1_1/
+linkTitle: Zendesk Global with contributions
+type: docs
 ---
 
 Before proceeding, make sure you are comfortable with the

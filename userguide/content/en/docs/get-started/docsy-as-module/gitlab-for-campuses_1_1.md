@@ -1,6 +1,13 @@
 ---
-title: "Pricing and Packaging - GitLab for Campuses"
-canonical_path: "/handbook/product/packaging-and-pricing/gitlab-for-campuses/"
+title: Pricing and Packaging - GitLab for Campuses
+canonical_path: /handbook/product/packaging-and-pricing/gitlab-for-campuses/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-for-campuses_1_1/
+description: ''
+linkTitle: Pricing and Packaging - GitLab for Campuses
+type: docs
 ---
 
 ---

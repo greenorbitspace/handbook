@@ -1,8 +1,14 @@
 ---
-
 title: Ticket Tsunami Workflow
 category: Assigned Support Engineer
-description: Workflow for an ASE when their account submits a lot of tickets in a short amount of time
+description: Workflow for an ASE when their account submits a lot of tickets in a
+  short amount of time
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ticket_tsunami_1_1/
+linkTitle: Ticket Tsunami Workflow
+type: docs
 ---
 
 As an ASE you are expected to use a SOW-specific amount of your workweek, on

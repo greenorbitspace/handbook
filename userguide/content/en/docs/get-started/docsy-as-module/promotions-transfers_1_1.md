@@ -1,6 +1,12 @@
 ---
 title: Promotions and Transfers
-description: "Information and protocols related to GitLab promotions and transfers."
+description: Information and protocols related to GitLab promotions and transfers.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/promotions-transfers_1_1/
+linkTitle: Promotions and Transfers
+type: docs
 ---
 
 Developing talent internally is a key component of our success at GitLab, and our promotion and transfer process is built to support that development in alignment with our [values]({{< ref "values" >}}). Team members have two main avenues to pursue career advancement at GitLab: 1) Via our cyclical [promotion calibration process]({{< ref "promotions-transfers#calibration" >}}), and 2) by applying and interviewing for open positions.

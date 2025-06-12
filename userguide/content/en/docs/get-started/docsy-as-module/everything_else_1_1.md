@@ -1,7 +1,13 @@
 ---
 title: Everything else
 description: Support Operations policies page for project setup for everything else
-canonical_path: "/handbook/support/readiness/operations/docs/policies/project_setup/everything_else"
+canonical_path: /handbook/support/readiness/operations/docs/policies/project_setup/everything_else
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/everything_else_1_1/
+linkTitle: Everything else
+type: docs
 ---
 
 The every so fun "we don't have a process for this" situation. These are going

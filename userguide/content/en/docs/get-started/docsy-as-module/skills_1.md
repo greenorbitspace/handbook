@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Skills 1
+aliases:
+- /docs/skills_1/
+description: ''
+linkTitle: Skills 1
+type: docs
+---
+
 +++
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/

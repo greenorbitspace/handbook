@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Tmf 1 1
+aliases:
+- /docs/tmf_1_1/
+description: ''
+linkTitle: Tmf 1 1
+type: docs
+---
+
 ### Forest Definition in TMF
 
 - TMF focuses on tropical rainforests, therefore not including all types of forests present in these countries.

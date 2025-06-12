@@ -1,14 +1,14 @@
 ---
-aliases: /handbook/sales/field-operations/changelog
-title: "RSOE Changelog"
-description: "A running log of Field Operations changes (Sales Ops, CS Ops, Channel Ops & Deal Desk) organized by quarter and further by bi-weekly releases."
+aliases:
+- /docs/field-operations-changelog_1_1/
+title: RSOE Changelog
+description: A running log of Field Operations changes (Sales Ops, CS Ops, Channel
+  Ops & Deal Desk) organized by quarter and further by bi-weekly releases.
+weight: 2
+date: '2025-06-12'
+linkTitle: RSOE Changelog
+type: docs
 ---
-
-
-
-
-
-
 
 The Revenue Strategy, Operations & Enablement (RSOE) Changelog keeps a running log of changes related to RSOE functions. The log is organized by fiscal year/quarter and sub-organized by the bi-weekly RSOE release milestone/epic. It was started in Q3-FY22 and is organized by newest updates at the top.
 

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Industries We Do Not Work With 1 1
+aliases:
+- /docs/industries-we-do-not-work-with_1_1/
+description: ''
+linkTitle: Industries We Do Not Work With 1 1
+type: docs
+---
+
 Based on our core values of sustainability, ethics, and environmental responsibility, Green Orbit Digital does not engage with:
 
 ## Fossil Fuel Industries

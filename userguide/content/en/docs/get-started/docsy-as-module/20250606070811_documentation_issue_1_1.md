@@ -1,9 +1,19 @@
 ---
-name: "Documentation issue"
+name: Documentation issue
 about: Some information within the documentation is wrong or missing
-labels: ["documentation", "To Triage"]
-
+labels:
+- documentation
+- To Triage
+weight: 2
+date: '2025-06-12'
+title: 20250606070811 Documentation Issue 1 1
+aliases:
+- /docs/20250606070811_documentation_issue_1_1/
+description: ''
+linkTitle: 20250606070811 Documentation Issue 1 1
+type: docs
 ---
+
 <!-- Please report only issues related to the documentation on https://matomo.org here -->
 <!-- Documentation issues within our developer documentation on http://developer.matomo.org -->
 <!-- should be reported at https://github.com/matomo-org/developer-documentation/issues/new -->

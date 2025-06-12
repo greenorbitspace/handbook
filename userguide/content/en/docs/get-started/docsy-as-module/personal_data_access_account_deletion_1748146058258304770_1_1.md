@@ -2,8 +2,15 @@
 title: Account Deletion & Data Access Requests - Introduction
 category: GitLab.com
 subcategory: Legal
-description: "Description of duties and scope for Account Deletion and Data Access requests."
+description: Description of duties and scope for Account Deletion and Data Access
+  requests.
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/personal_data_access_account_deletion_1748146058258304770_1_1/
+linkTitle: Account Deletion & Data Access Requests - Introduction
+type: docs
 ---
 
 ## Purpose

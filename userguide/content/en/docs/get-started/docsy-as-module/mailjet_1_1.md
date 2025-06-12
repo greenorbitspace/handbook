@@ -1,7 +1,12 @@
 ---
-
-title: "Deprecated - MailJet"
-description: "MailJet is used for large scale transactional email sends"
+title: Deprecated - MailJet
+description: MailJet is used for large scale transactional email sends
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mailjet_1_1/
+linkTitle: Deprecated - MailJet
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

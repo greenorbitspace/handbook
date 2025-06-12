@@ -1,11 +1,13 @@
 ---
-
-title: "Helping Customers Decide to Migrate to SaaS"
+title: Helping Customers Decide to Migrate to SaaS
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/self-managed-vs-saas_1_1/
+description: ''
+linkTitle: Helping Customers Decide to Migrate to SaaS
+type: docs
 ---
- 
-
-
-
 
 View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 

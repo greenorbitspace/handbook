@@ -1,5 +1,12 @@
 ---
-title: "Nominating and Corporate Governance Committee"
+title: Nominating and Corporate Governance Committee
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/nomgov_1_1/
+description: ''
+linkTitle: Nominating and Corporate Governance Committee
+type: docs
 ---
 
 ## Nominating and Corporate Governance Committee Composition

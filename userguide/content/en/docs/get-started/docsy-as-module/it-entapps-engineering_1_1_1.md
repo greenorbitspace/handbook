@@ -1,5 +1,12 @@
 ---
 title: IT Enterprise Applications Engineering
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/it-entapps-engineering_1_1_1/
+description: ''
+linkTitle: IT Enterprise Applications Engineering
+type: docs
 ---
 
 The IT Enterprise Applications Engineering job family is responsible for the implementation and operational ownership of all Enterprise Applications.

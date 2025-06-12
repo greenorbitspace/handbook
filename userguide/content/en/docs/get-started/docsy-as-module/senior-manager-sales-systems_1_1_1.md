@@ -1,6 +1,13 @@
 ---
-title: "Sales Systems Leadership"
-RoleName: "Senior Manager Sales Systems"
+title: Sales Systems Leadership
+RoleName: Senior Manager Sales Systems
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior-manager-sales-systems_1_1_1/
+description: ''
+linkTitle: Sales Systems Leadership
+type: docs
 ---
 
 ## Manager, Sales Systems

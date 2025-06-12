@@ -1,6 +1,14 @@
 ---
-title: "Revenue Programs Job Family"
-description: "The Revenue Programs job family is responsible for developing and executing effective pipeline and revenue acceleration strategies and tactics to drive growth within our sales organization."
+title: Revenue Programs Job Family
+description: The Revenue Programs job family is responsible for developing and executing
+  effective pipeline and revenue acceleration strategies and tactics to drive growth
+  within our sales organization.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/revenue-programs_1_1/
+linkTitle: Revenue Programs Job Family
+type: docs
 ---
 
 The Revenue Programs job family is responsible for developing and executing effective pipeline and revenue acceleration strategies and tactics to drive growth within our sales organization.

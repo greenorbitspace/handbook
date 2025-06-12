@@ -1,13 +1,13 @@
 ---
-
 title: Self Healing Dependencies
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/self-healing-dependencies_1_1/
+description: ''
+linkTitle: Self Healing Dependencies
+type: docs
 ---
-
-
-
-
-
-
 
 ## Self Healing Dependencies Single-Engineer Group
 

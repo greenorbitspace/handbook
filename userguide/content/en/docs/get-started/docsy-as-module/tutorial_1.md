@@ -1,4 +1,15 @@
 ---
+weight: 2
+date: '2025-06-12'
+title: Tutorial 1
+aliases:
+- /docs/tutorial_1/
+description: ''
+linkTitle: Tutorial 1
+type: docs
+---
+
+---
 title: "{ replace .Name "-" " " | title }"
 type: "tutorial"
 category: "operations"

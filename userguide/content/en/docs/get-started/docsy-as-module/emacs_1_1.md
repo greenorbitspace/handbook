@@ -1,5 +1,12 @@
 ---
-title: "emacs"
+title: emacs
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/emacs_1_1/
+description: ''
+linkTitle: emacs
+type: docs
 ---
 
 Website: <https://www.gnu.org/software/emacs/>

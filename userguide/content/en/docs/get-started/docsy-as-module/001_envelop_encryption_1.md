@@ -1,7 +1,14 @@
 ---
 title: 'GitLab Secrets Manager ADR 001: Use envelope encryption'
-owning-stage: "~devops::verify"
+owning-stage: ~devops::verify
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/001_envelop_encryption_1/
+description: ''
+linkTitle: 'GitLab Secrets Manager ADR 001: Use envelope encryption'
+type: docs
 ---
 
 ## Context

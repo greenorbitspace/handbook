@@ -1,10 +1,16 @@
 ---
-title: "Remote work emergency plan: What to do (and where to start)"
+title: 'Remote work emergency plan: What to do (and where to start)'
 description: Remote work emergency plan — What to do (and where to start)
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/remote-work-emergency-plan_1_2/
+linkTitle: 'Remote work emergency plan: What to do (and where to start)'
+type: docs
 ---
 
 Due to global issues concerning [COVID-19 (Coronavirus)](https://www.cdc.gov/coronavirus/2019-ncov/index.html), many employees and employers are facing a new reality: they're remote, and they’re unsure of when they’ll be able to return to the office.

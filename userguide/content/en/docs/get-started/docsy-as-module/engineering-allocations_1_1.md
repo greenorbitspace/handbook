@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Engineering Allocations 1 1
+aliases:
+- /docs/engineering-allocations_1_1/
+description: ''
+linkTitle: Engineering Allocations 1 1
+type: docs
+---
+
 ### Engineering Allocation
 
 While we have moved to the [cross-functional prioritization process](/handbook/product/cross-functional-prioritization/) to empower teams to determine the optimal balance of all types of issues, we will keep Engineering Allocations as a way to allow teams to quickly shift to a critical priority, designating the EM as the DRI to drive the effort.

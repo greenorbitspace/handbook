@@ -1,6 +1,13 @@
 ---
-title: "Customer Success Engineer"
-description: "The Customer Success Engineering (CSE) team focuses on the themes of align, enable, and expand."
+title: Customer Success Engineer
+description: The Customer Success Engineering (CSE) team focuses on the themes of
+  align, enable, and expand.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-success-engineer_1_1/
+linkTitle: Customer Success Engineer
+type: docs
 ---
 
 ### Customer Success Engineer (CSE)

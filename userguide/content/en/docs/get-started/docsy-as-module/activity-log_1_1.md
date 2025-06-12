@@ -1,13 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/data_stores/database/activity-log.html
+aliases:
+- /docs/activity-log_1_1/
 title: Database Group Activity Log
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Database Group Activity Log
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

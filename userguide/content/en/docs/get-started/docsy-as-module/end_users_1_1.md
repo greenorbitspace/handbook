@@ -1,7 +1,13 @@
 ---
 title: End-users
 description: Support Operations documentation page for Zendesk end-users
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/end_users"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/end_users
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/end_users_1_1/
+linkTitle: End-users
+type: docs
 ---
 
 ## Zendesk Global customer settings

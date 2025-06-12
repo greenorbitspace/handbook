@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Authors 1
+aliases:
+- /docs/AUTHORS_1/
+description: ''
+linkTitle: Authors 1
+type: docs
+---
+
 # Authors
 
 #### Ordered by first contribution.

@@ -1,13 +1,13 @@
 ---
-
 title: Incubation Engineer's Playbook
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/playbook_1_1/
+description: ''
+linkTitle: Incubation Engineer's Playbook
+type: docs
 ---
-
-
-
-
-
-
 
 ## Incubation Engineer's Playbook
 

@@ -1,5 +1,13 @@
 ---
 sidebar_position: 2
+weight: 2
+date: '2025-06-12'
+title: Create A Document 1
+aliases:
+- /docs/create-a-document_1/
+description: ''
+linkTitle: Create A Document 1
+type: docs
 ---
 
 # Create a Document

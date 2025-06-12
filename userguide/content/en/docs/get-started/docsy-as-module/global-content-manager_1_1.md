@@ -1,6 +1,13 @@
 ---
-title: "Global Content"
-summary: " "
+title: Global Content
+summary: ' '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/global-content-manager_1_1/
+description: ''
+linkTitle: Global Content
+type: docs
 ---
 
 ## Levels

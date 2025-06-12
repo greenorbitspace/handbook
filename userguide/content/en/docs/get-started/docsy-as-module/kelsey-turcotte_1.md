@@ -1,7 +1,14 @@
 ---
-title: "Kelsey Turcotte's README"
-description: "Learn more about working with Kelsey Turcotte, VP Investor Relations"
+title: Kelsey Turcotte's README
+description: Learn more about working with Kelsey Turcotte, VP Investor Relations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/kelsey-turcotte_1/
+linkTitle: Kelsey Turcotte's README
+type: docs
 ---
+
 ## Why I'm at GitLab
 
 It is not often that one has the opportunity to be part of a company that is at the heart of our global economy and shaping what the future of software looks like. Software is at the core of so much of our day to day experience. GitLab plays a strategic role in this eco-system by helping customers deliver better, more secure software faster. It is amazing to speak with our customers who are incredibly loyal to GitLab and passionate about the role that we play in building their businesses.

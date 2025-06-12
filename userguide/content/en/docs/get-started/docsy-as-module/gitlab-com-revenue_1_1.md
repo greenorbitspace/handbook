@@ -1,6 +1,13 @@
 ---
-title: "GitLab.com Revenue Working Group"
-description: "GitLab Revenue Working Group aim to grow revenue by kickstarting the Growth group. Find more information here!"
+title: GitLab.com Revenue Working Group
+description: GitLab Revenue Working Group aim to grow revenue by kickstarting the
+  Growth group. Find more information here!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-com-revenue_1_1/
+linkTitle: GitLab.com Revenue Working Group
+type: docs
 ---
 
 ## Attributes

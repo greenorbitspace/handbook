@@ -1,10 +1,13 @@
 ---
-
 title: Support Channels
-description: "Communication channels for GitLab Support"
+description: Communication channels for GitLab Support
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/channels_1_1/
+linkTitle: Support Channels
+type: docs
 ---
-
-
 
 Our [support engineers](/job-families/engineering/support-engineer) handle the channels listed below. They are sorted in order of priority (strictest SLA at top), and as a result, it is possible that channels that appear lower in this list experience longer delays in receiving responses. We are actively [hiring](https://about.gitlab.com/jobs/) more Support Engineers to strengthen the team and provide support to the community.
 

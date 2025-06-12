@@ -5,6 +5,13 @@ doc_id: doc-634
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070711_no-greenwashing-commitment_1_1/
+description: ''
+linkTitle: No Greenwashing Commitment
+type: docs
 ---
 
 At Green Orbit Digital, we commit to maintaining complete authenticity and transparency in our sustainability communications. We pledge to:

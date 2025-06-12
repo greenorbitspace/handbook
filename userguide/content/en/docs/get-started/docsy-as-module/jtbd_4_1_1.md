@@ -1,5 +1,12 @@
 ---
 title: Runner Group - JTBD
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/jtbd_4_1_1/
+description: ''
+linkTitle: Runner Group - JTBD
+type: docs
 ---
 
 ## Overview

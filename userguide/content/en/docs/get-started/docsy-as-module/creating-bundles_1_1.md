@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Creating Bundles 1 1
+aliases:
+- /docs/creating-bundles_1_1/
+description: ''
+linkTitle: Creating Bundles 1 1
+type: docs
+---
+
 # Creating a bundle
 
 A bundle is a grouping of related components. The goal of a bundle is to ease the usage of multiple components working together to constitute a product.

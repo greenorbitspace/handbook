@@ -1,5 +1,12 @@
 ---
-title: "Engineering Career Framework: Intermediate"
+title: 'Engineering Career Framework: Intermediate'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/intermediate_10_1_1/
+description: ''
+linkTitle: 'Engineering Career Framework: Intermediate'
+type: docs
 ---
 
 ## Engineering Function Competencies: Intermediate

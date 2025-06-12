@@ -1,11 +1,14 @@
 ---
-
 title: Working with Support Pods
 category: Handling tickets
 description: How to work with the Support Pods
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/working-with-pods_1_1/
+linkTitle: Working with Support Pods
+type: docs
 ---
-
-
 
 ## What is Support Pods?
 

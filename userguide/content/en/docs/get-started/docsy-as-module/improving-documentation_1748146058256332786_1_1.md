@@ -1,7 +1,14 @@
 ---
 title: Improving Documentation
-description: "Workflow for submitting GitLab documentation improvements from the Support team"
+description: Workflow for submitting GitLab documentation improvements from the Support
+  team
 category: Handling tickets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/improving-documentation_1748146058256332786_1_1/
+linkTitle: Improving Documentation
+type: docs
 ---
 
 ## Improving Documentation

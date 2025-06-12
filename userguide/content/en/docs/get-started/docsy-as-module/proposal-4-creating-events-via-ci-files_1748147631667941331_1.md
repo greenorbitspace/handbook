@@ -1,6 +1,15 @@
 ---
-title: 'GitLab CI Events Proposal 4: Defining subscriptions in a dedicated configuration file'
+title: 'GitLab CI Events Proposal 4: Defining subscriptions in a dedicated configuration
+  file'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/proposal-4-creating-events-via-ci-files_1748147631667941331_1/
+description: ''
+linkTitle: 'GitLab CI Events Proposal 4: Defining subscriptions in a dedicated configuration
+  file'
+type: docs
 ---
 
 Each project can have its own configuration file for defining subscriptions to

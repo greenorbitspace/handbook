@@ -1,6 +1,12 @@
 ---
-title: "Unconscious bias"
-description: "Learn more about unconscious bias and how to recognize it."
+title: Unconscious bias
+description: Learn more about unconscious bias and how to recognize it.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/unconscious-bias_1_1/
+linkTitle: Unconscious bias
+type: docs
 ---
 
 ## What is unconscious bias?

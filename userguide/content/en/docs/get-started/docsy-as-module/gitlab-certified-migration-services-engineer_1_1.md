@@ -1,15 +1,14 @@
 ---
-
-title: "GitLab Certified Migration Services Engineer"
-description: "How GitLab Professional Services validates engineering readiness to deliver Migration Services"
-
+title: GitLab Certified Migration Services Engineer
+description: How GitLab Professional Services validates engineering readiness to deliver
+  Migration Services
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-certified-migration-services-engineer_1_1/
+linkTitle: GitLab Certified Migration Services Engineer
+type: docs
 ---
-
-
-
-
-
-
 
 ## GitLab Certified Migration Services Engineer
 

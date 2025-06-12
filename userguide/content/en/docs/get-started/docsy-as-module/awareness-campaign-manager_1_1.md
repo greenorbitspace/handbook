@@ -1,6 +1,16 @@
 ---
 title: Awareness Campaign Manager
-summary: The GitLab awareness campaign manager will help run the management of the brand awareness campaigns, working across the company as well as with our agency to provide deliverables in a timely manner and launch awareness campaigns in select markets.
+summary: The GitLab awareness campaign manager will help run the management of the
+  brand awareness campaigns, working across the company as well as with our agency
+  to provide deliverables in a timely manner and launch awareness campaigns in select
+  markets.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/awareness-campaign-manager_1_1/
+description: ''
+linkTitle: Awareness Campaign Manager
+type: docs
 ---
 
 ## Awareness Campaign Manager

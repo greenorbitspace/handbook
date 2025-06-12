@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Javascript Frameworks Resources Pt Br 1
+aliases:
+- /docs/javascript-frameworks-resources-pt_BR_1/
+description: ''
+linkTitle: Javascript Frameworks Resources Pt Br 1
+type: docs
+---
+
 ### Vue.js
 
 * [Adicionar Bootstrap e Font-awesome no projeto criado com o Vue Cli](http://www.vedovelli.com.br/frontend/adicionar-bootstrap-e-font-awesome-no-projeto-criado-com-o-vue-cli/)

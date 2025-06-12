@@ -1,6 +1,12 @@
 ---
-title: "Milestone Planning"
-description: "Learn how the GitLab Application Security team does Milestone Planning"
+title: Milestone Planning
+description: Learn how the GitLab Application Security team does Milestone Planning
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/milestone-planning_1_1/
+linkTitle: Milestone Planning
+type: docs
 ---
 
 ## Milestone Planning

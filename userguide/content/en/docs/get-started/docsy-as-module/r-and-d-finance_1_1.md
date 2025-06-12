@@ -1,5 +1,12 @@
 ---
-title: "R&D Finance"
+title: R&D Finance
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/r-and-d-finance_1_1/
+description: ''
+linkTitle: R&D Finance
+type: docs
 ---
 
 Welcome to the R&D Finance Handbook!

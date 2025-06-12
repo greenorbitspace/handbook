@@ -1,12 +1,13 @@
 ---
-aliases: /handbook/engineering/development/ops/fy21-celebrations.html
-
+aliases:
+- /docs/fy21-celebrations_1_1/
 title: FY21 Celebrations - Ops Sub-department
-description: "Info about team celebrations in FY21"
+description: Info about team celebrations in FY21
+weight: 2
+date: '2025-06-12'
+linkTitle: FY21 Celebrations - Ops Sub-department
+type: docs
 ---
-
-
-
 
 ### 2020 Ops Sub-department Year End Holiday Celebration
 

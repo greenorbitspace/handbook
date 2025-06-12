@@ -1,6 +1,13 @@
 ---
-title: "Manager, Sales Development"
-summary: " "
+title: Manager, Sales Development
+summary: ' '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sales-development-manager_1_1_1/
+description: ''
+linkTitle: Manager, Sales Development
+type: docs
 ---
 
 ## Manager, Sales Development (SDR or BDR)

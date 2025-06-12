@@ -1,9 +1,16 @@
 ---
 title: External Virtual Events
-description: An overview of external virtual events including virtual conferences where we sponsor a booth, and sponsored webinars with third party vendors.
-twitter_image: '/images/tweets/handbook-marketing.png'
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+description: An overview of external virtual events including virtual conferences
+  where we sponsor a booth, and sponsored webinars with third party vendors.
+twitter_image: /images/tweets/handbook-marketing.png
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/external-virtual-events_1_1/
+linkTitle: External Virtual Events
+type: docs
 ---
 
 ## Overview

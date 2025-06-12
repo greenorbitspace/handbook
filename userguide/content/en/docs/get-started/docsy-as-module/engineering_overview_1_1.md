@@ -1,5 +1,12 @@
 ---
-title: "Create:Code Creation Group engineering overview"
+title: Create:Code Creation Group engineering overview
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engineering_overview_1_1/
+description: ''
+linkTitle: Create:Code Creation Group engineering overview
+type: docs
 ---
 
 ## Introduction

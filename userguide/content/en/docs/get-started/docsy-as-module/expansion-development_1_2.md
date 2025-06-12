@@ -1,5 +1,12 @@
 ---
 title: Expansion Development Department
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/expansion-development_1_2/
+description: ''
+linkTitle: Expansion Development Department
+type: docs
 ---
 
 ## Vision

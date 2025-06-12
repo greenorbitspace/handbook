@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Throttling 1 1
+aliases:
+- /docs/throttling_1_1/
+description: ''
+linkTitle: Throttling 1 1
+type: docs
+---
+
 # Network Throttling
 
 Lighthouse applies network throttling to emulate the ~85th percentile mobile connection speed even when run on much faster fiber connections.

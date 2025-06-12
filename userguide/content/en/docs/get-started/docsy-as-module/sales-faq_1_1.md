@@ -1,12 +1,13 @@
 ---
-
-title: "GitLab Sales FAQ - Selling with Partners"
+title: GitLab Sales FAQ - Selling with Partners
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sales-faq_1_1/
+description: ''
+linkTitle: GitLab Sales FAQ - Selling with Partners
+type: docs
 ---
-
-
-
-
-
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 

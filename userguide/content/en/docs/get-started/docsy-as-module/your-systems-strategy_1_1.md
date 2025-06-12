@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Your Systems Strategy 1 1
+aliases:
+- /docs/your-systems-strategy_1_1/
+description: ''
+linkTitle: Your Systems Strategy 1 1
+type: docs
+---
+
 # Systems Strategy
 
 ## 1. Strategic Overview

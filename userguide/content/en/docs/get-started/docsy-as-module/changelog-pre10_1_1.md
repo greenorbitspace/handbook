@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Changelog Pre10 1 1
+aliases:
+- /docs/changelog-pre10_1_1/
+description: ''
+linkTitle: Changelog Pre10 1 1
+type: docs
+---
+
 # Pre-10.0 Changelog
 
 See the [newer changelog](changelog.md) for newer revisions.

@@ -1,6 +1,13 @@
 ---
 title: EBAs
 Description: Migration report for moving the handbooks eba section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/eba-migration-report_1_1/
+description: ''
+linkTitle: EBAs
+type: docs
 ---
 
 **Section:** eba

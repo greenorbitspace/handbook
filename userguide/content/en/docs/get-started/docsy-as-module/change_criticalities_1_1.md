@@ -1,7 +1,13 @@
 ---
 title: Change Criticalities
 description: Support Operations documentation page for change criticalities
-canonical_path: "/handbook/support/readiness/operations/docs/change_criticalities"
+canonical_path: /handbook/support/readiness/operations/docs/change_criticalities
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/change_criticalities_1_1/
+linkTitle: Change Criticalities
+type: docs
 ---
 
 ## Overview

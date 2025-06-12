@@ -1,6 +1,13 @@
 ---
-title: "Browser Performance Testing"
-description: "The GitLab Browser Performance Tool (GBPT) provides frontend performance testing capabilities for GitLab environments"
+title: Browser Performance Testing
+description: The GitLab Browser Performance Tool (GBPT) provides frontend performance
+  testing capabilities for GitLab environments
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/browser-performance-testing_1_1/
+linkTitle: Browser Performance Testing
+type: docs
 ---
 
 The [GitLab Browser Performance Tool](https://gitlab.com/gitlab-org/quality/performance-sitespeed) (GBPT) is a [SiteSpeed](https://www.sitespeed.io/) wrapper that measures frontend performance in browsers, providing insights into web page performance across GitLab environments. The tool is maintained by the [Performance Enablement team](_index.md).

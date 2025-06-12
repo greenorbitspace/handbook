@@ -1,6 +1,14 @@
 ---
-title: "Legal Operations"
-description: Legal Operations supports Legal & Corporate Affairs processes with a focus on defining and driving initiatives that improve the team's efficiency and effectiveness.
+title: Legal Operations
+description: Legal Operations supports Legal & Corporate Affairs processes with a
+  focus on defining and driving initiatives that improve the team's efficiency and
+  effectiveness.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/legal-operations_1_1_1/
+linkTitle: Legal Operations
+type: docs
 ---
 
 ## Levels

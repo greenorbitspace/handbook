@@ -1,5 +1,12 @@
 ---
-title: "Partner Programs"
+title: Partner Programs
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/partner-program-manager_1_1/
+description: ''
+linkTitle: Partner Programs
+type: docs
 ---
 
 The Partner Program Manager will be responsible for the design, management & execution of GitLab’s Channels & Alliances Partner Programs.  In addition to the partner programs, the Partner Program Managers will manage deal registration, sales and services engagement and partner success programs.

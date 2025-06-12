@@ -1,5 +1,12 @@
 ---
-title: "Monitor:Platform Insights Group"
+title: Monitor:Platform Insights Group
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/platform-insights_1_2/
+description: ''
+linkTitle: Monitor:Platform Insights Group
+type: docs
 ---
 
 ## Who we are?

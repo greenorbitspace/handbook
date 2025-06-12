@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Defining Bundles 1 1
+aliases:
+- /docs/defining-bundles_1_1/
+description: ''
+linkTitle: Defining Bundles 1 1
+type: docs
+---
+
 # Defining Component Bundles
 
 A bundle is defined in a dedicated package named `comp/<bundleName>`. The package must have the following defined in `bundle.go`:

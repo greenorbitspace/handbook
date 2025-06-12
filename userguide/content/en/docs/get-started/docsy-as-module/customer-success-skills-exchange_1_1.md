@@ -1,6 +1,13 @@
 ---
-title: "Customer Success Skills Exchange Sessions"
-description: "Continuous education webcast series for GitLab Customer Success team members"
+title: Customer Success Skills Exchange Sessions
+description: Continuous education webcast series for GitLab Customer Success team
+  members
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-success-skills-exchange_1_1/
+linkTitle: Customer Success Skills Exchange Sessions
+type: docs
 ---
 
 The Customer Success Skills Exchange is a bi-weekly webinar focused on topics for the Customer Success and SA team.

@@ -1,7 +1,13 @@
 ---
 title: Help Center categories
 description: Operations documentation page for Zendesk Help Center categories
-canonical_path: "/handbook/security/customer-support-operations/docs/zendesk/help-center-categories"
+canonical_path: /handbook/security/customer-support-operations/docs/zendesk/help-center-categories
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/help-center-categories_1_1_1/
+linkTitle: Help Center categories
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

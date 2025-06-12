@@ -1,6 +1,13 @@
 ---
-title: "CSS Utilities Task Group"
-description: "Learn more about the CSS Utilities Task Group attributes, goals, roles and responsibilities."
+title: CSS Utilities Task Group
+description: Learn more about the CSS Utilities Task Group attributes, goals, roles
+  and responsibilities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/css-utils_1_1/
+linkTitle: CSS Utilities Task Group
+type: docs
 ---
 
 ## Attributes

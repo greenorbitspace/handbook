@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Release Checklist 1 1
+aliases:
+- /docs/release-checklist_1_1/
+description: ''
+linkTitle: Release Checklist 1 1
+type: docs
+---
+
 The following is meant to be copy-pasted into a Github issue whenever it is time to start working towards a new release:
 
 In the steps below, "all four repos" refers to open-sdg, sdg-build, sdg-translations, and jekyll-open-sdg-plugins.

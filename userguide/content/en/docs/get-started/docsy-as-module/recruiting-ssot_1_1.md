@@ -1,7 +1,14 @@
 ---
-title: "Talent Acquisition SSOT"
-description: "The GitLab Talent Acquisition SSOT will be used by Finance for forecasting and Talent Acquisition for hiring. Find more information here!"
+title: Talent Acquisition SSOT
+description: The GitLab Talent Acquisition SSOT will be used by Finance for forecasting
+  and Talent Acquisition for hiring. Find more information here!
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/recruiting-ssot_1_1/
+linkTitle: Talent Acquisition SSOT
+type: docs
 ---
 
 ## Attributes

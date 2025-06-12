@@ -1,6 +1,13 @@
 ---
-title: "PCI Charter"
+title: PCI Charter
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/pci-charter_1_1/
+description: ''
+linkTitle: PCI Charter
+type: docs
 ---
 
 ## Purpose

@@ -1,5 +1,12 @@
 ---
 title: Business Value Services
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/business-value-consulting_1748146058233958281_1_1/
+description: ''
+linkTitle: Business Value Services
+type: docs
 ---
 
 Business Value Services is a practice and approach that allows the GitLab deal team (AEs and SAs as well as the extended team) to:

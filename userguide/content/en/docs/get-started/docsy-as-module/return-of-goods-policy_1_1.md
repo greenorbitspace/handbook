@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Return Of Goods Policy 1 1
+aliases:
+- /docs/return-of-goods-policy_1_1/
+description: ''
+linkTitle: Return Of Goods Policy 1 1
+type: docs
+---
+
 # RETURN OF GOODS POLICY
 
 2.Introduction

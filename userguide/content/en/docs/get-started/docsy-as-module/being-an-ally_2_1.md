@@ -1,6 +1,12 @@
 ---
-title: "The Ally Lab"
+title: The Ally Lab
 description: Learn what is an ally, how to be an ally and what it means to be an ally.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/being-an-ally_2_1/
+linkTitle: The Ally Lab
+type: docs
 ---
 
 ## What is an ally?

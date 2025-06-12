@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Content Plan 1 1
+aliases:
+- /docs/content-plan_1_1/
+description: ''
+linkTitle: Content Plan 1 1
+type: docs
+---
+
 # 1. Strategic Vision & Objectives
 
 Green Orbit Digital aims to transform space marketing through sustainable practices, focusing on eco-conscious solutions for the space industry.

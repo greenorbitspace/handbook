@@ -5,6 +5,13 @@ doc_id: doc-846
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070713_tableau-style-guide_1_1/
+description: ''
+linkTitle: Tableau Style Guide
+type: docs
 ---
 
 Tableau’s robust visualization capability allows for more options and flexibility around customizing the look-and-feel for our dashboards. In order to create consistent front-end designs that are true to GitLab’s branding, we recommend following the tips and tricks, along with resources, provided below:

@@ -1,7 +1,13 @@
 ---
-
-title: "GitLab for Startups Program Workflows"
-description: "Details on program-specific workflows related to the GitLab for Startups Program"
+title: GitLab for Startups Program Workflows
+description: Details on program-specific workflows related to the GitLab for Startups
+  Program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/startups-program-workflows_1_1/
+linkTitle: GitLab for Startups Program Workflows
+type: docs
 ---
 
 ## Overview

@@ -1,6 +1,13 @@
 ---
-title: "Our Team & Partners"
-description: "Who we are, what we do, and who we work with across GitLab to drive customer excellence."
+title: Our Team & Partners
+description: Who we are, what we do, and who we work with across GitLab to drive customer
+  excellence.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/raci_1/
+linkTitle: Our Team & Partners
+type: docs
 ---
 
 ## **Our Team**

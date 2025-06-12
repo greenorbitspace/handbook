@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Flow 1 1
+aliases:
+- /docs/flow_1_1/
+description: ''
+linkTitle: Flow 1 1
+type: docs
+---
+
 ### Flow**
 > When you click "Sign Up" in the frontend, the request is sent to a route, where it first reaches the **controller**. The controller then calls `passport.authenticate()`, which delegates the request to your Passport strategy (e.g., `local-signup.js`). Here, the signup logic is handled, and eventually, `done(null, user)` is called.  
 >   

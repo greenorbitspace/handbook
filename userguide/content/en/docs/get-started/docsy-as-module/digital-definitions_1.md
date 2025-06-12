@@ -1,6 +1,13 @@
 ---
-title: "Digital definitions"
-description: "The purpose of this page is to present definitions for technical jargon and explanations around related technologies."
+title: Digital definitions
+description: The purpose of this page is to present definitions for technical jargon
+  and explanations around related technologies.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/digital-definitions_1/
+linkTitle: Digital definitions
+type: docs
 ---
 
 The purpose of this page is to present definitions for technical jargon and explanations around related technologies. The intended audiences are people who might not be familiar with development tools and methods nor our unique requirements when working on items like [about.gitlab.com](https://about.gitlab.com/).

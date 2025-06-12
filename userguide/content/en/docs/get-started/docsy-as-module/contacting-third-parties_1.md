@@ -1,7 +1,13 @@
 ---
 title: Contacting third parties
 description: Operations workflow for contacting third parties
-canonical_path: "/handbook/security/customer-support-operations/workflows/policies/contacting_third_parties"
+canonical_path: /handbook/security/customer-support-operations/workflows/policies/contacting_third_parties
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/contacting-third-parties_1/
+linkTitle: Contacting third parties
+type: docs
 ---
 
 Several of the systems we manage are made by third-parties. Sometimes, we encounter issues specific to these the third-party applications that cannot be fully resolved by internally. In such scenarios, the Customer Support Operations team will need to contact the application's support system.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 1 Simplenodejscode 1 1
+aliases:
+- /docs/1-simpleNodeJsCode_1_1/
+description: ''
+linkTitle: 1 Simplenodejscode 1 1
+type: docs
+---
+
 ### Basic nodejs web server
 ```js
 const { createServer } = require('node:http'); // cjs

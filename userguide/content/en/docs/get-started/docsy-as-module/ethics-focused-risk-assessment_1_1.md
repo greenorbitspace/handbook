@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Ethics Focused Risk Assessment 1 1
+aliases:
+- /docs/ethics-focused-risk-assessment_1_1/
+description: ''
+linkTitle: Ethics Focused Risk Assessment 1 1
+type: docs
+---
+
 ## Scope
 
 This Ethics Focused Risk Assessment identifies potential ethical risks associated with the organization's operations, projects, and decision-making processes. The aim is to mitigate risks that could harm stakeholders, damage the organization's reputation, or contravene ethical guidelines.

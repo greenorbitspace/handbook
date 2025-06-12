@@ -1,10 +1,19 @@
 ---
 title: Example Page
-date: 2017-01-05
-description: >
+date: '2025-06-12T01:06:02+01:00'
+description: |
   A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
-categories: [Examples]
-tags: [test, sample, docs]
+categories:
+- Examples
+tags:
+- test
+- sample
+- docs
+weight: 2
+aliases:
+- /docs/example-page_1/
+linkTitle: Example Page
+type: docs
 ---
 
 {{% pageinfo %}}

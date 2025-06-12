@@ -1,8 +1,14 @@
 ---
-
-title: "Getting Help from Digital Customer Success Programs"
-description: "How to request help from the DCS team and what to expect"
+title: Getting Help from Digital Customer Success Programs
+description: How to request help from the DCS team and what to expect
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/getting-help-from-dcs_1_1/
+linkTitle: Getting Help from Digital Customer Success Programs
+type: docs
 ---
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## Propose a new program or update an existing one

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Joint R D Okr Process 1 1
+aliases:
+- /docs/joint-r-d-okr-process_1_1/
+description: ''
+linkTitle: Joint R D Okr Process 1 1
+type: docs
+---
+
 ## R&D OKR Overview
 
 This page provides an overview of the joint R&D OKR workflow. All departments within R&D, which includes the [Product](/handbook/product/) and [Engineering](/handbook/engineering/) Divisions, collaborate by following this guidance. For clarifications on the OKR process, team members can post in Slack #product or #engineering-fyi.

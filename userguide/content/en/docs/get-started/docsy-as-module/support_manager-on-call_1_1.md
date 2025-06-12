@@ -1,7 +1,14 @@
 ---
 title: How to be a Support Manager On-call
 category: On-call
-description: "Describes the role and responsibilities for the Support Managers rotation in Support Engineering"
+description: Describes the role and responsibilities for the Support Managers rotation
+  in Support Engineering
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support_manager-on-call_1_1/
+linkTitle: How to be a Support Manager On-call
+type: docs
 ---
 
 ## Introduction

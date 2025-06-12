@@ -1,6 +1,13 @@
 ---
-title: "GitLab Compliance - Compliance Center and Frameworks"
-description: "This Hands-On Guide demonstrates how to create and view Compliance Center events."
+title: GitLab Compliance - Compliance Center and Frameworks
+description: This Hands-On Guide demonstrates how to create and view Compliance Center
+  events.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabcompliancehandson6_1748146057861248515_1_1/
+linkTitle: GitLab Compliance - Compliance Center and Frameworks
+type: docs
 ---
 
 > Estimated time to complete: 15 minutes

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Unhappy Flows 1 1
+aliases:
+- /docs/unhappy_flows_1_1/
+description: ''
+linkTitle: Unhappy Flows 1 1
+type: docs
+---
+
 # Sequence diagrams of the unhappy flows
 
 >## Notes - to be removed

@@ -1,7 +1,14 @@
 ---
-title: "GitLab Mission"
-description: "We at GitLab believe that all digital products should be open to contributions; from legal documents to movie scripts, and from websites to chip designs."
-canonical_path: "/company/mission/"
+title: GitLab Mission
+description: We at GitLab believe that all digital products should be open to contributions;
+  from legal documents to movie scripts, and from websites to chip designs.
+canonical_path: /company/mission/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mission_1_1_1/
+linkTitle: GitLab Mission
+type: docs
 ---
 
 ## Mission

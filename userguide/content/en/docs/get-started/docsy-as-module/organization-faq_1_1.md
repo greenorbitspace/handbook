@@ -1,9 +1,15 @@
 ---
-title: "Organization: Frequently Asked Questions"
-owning-stage: "~devops::enablement"
-# TODO: The group attribute doesn't exist
+title: 'Organization: Frequently Asked Questions'
+owning-stage: ~devops::enablement
 group: Tenant Scale
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/organization-faq_1_1/
+description: ''
+linkTitle: 'Organization: Frequently Asked Questions'
+type: docs
 ---
 
 ## Do we expect large SaaS customers to be licensed at the Organization level?

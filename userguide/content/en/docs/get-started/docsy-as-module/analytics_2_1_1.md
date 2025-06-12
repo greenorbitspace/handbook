@@ -1,5 +1,12 @@
 ---
-title: "Analytics Section"
+title: Analytics Section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/analytics_2_1_1/
+description: ''
+linkTitle: Analytics Section
+type: docs
 ---
 
 ## What we cover

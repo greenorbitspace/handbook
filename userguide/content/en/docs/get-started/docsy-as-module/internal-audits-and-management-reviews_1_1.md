@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Internal Audits And Management Reviews 1 1
+aliases:
+- /docs/internal-audits-and-management-reviews_1_1/
+description: ''
+linkTitle: Internal Audits And Management Reviews 1 1
+type: docs
+---
+
 ### Internal Audit and Management Review for ISO 50001
 
 The Internal Audit and Management Review processes are essential for ensuring that the Energy Management System (EnMS) is effectively implemented and continues to perform as required, in alignment with the ISO 50001:2018 standard. These processes enable continual improvement and ensure that energy performance is optimized, legal and regulatory compliance is maintained, and the energy management objectives are met.

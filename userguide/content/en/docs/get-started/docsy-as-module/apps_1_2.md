@@ -1,7 +1,13 @@
 ---
 title: Apps
 description: Operations workflow page for Zendesk apps
-canonical_path: "/handbook/security/customer-support-operations/workflows/zendesk/apps"
+canonical_path: /handbook/security/customer-support-operations/workflows/zendesk/apps
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/apps_1_2/
+linkTitle: Apps
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

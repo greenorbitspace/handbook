@@ -2,6 +2,13 @@
 layout: page
 title: Developers
 permalink: developers/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/developers_1_1/
+description: ''
+linkTitle: Developers
+type: docs
 ---
 
 ## Repository

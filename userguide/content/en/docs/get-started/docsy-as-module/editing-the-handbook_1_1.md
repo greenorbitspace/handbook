@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Editing The Handbook 1 1
+aliases:
+- /docs/editing-the-handbook_1_1/
+description: ''
+linkTitle: Editing The Handbook 1 1
+type: docs
+---
+
 Information on how to edit the handbook including tips and troubleshooting.
 
 This page focuses on how to edit the handbook. Please see the handbook usage page for how and why we use the handbook, and other docs pages for further reference.

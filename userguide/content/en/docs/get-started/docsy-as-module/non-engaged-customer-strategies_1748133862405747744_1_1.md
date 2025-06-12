@@ -1,5 +1,12 @@
 ---
-title: "Strategies for Non-Engaged Customers"
+title: Strategies for Non-Engaged Customers
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/non-engaged-customer-strategies_1748133862405747744_1_1/
+description: ''
+linkTitle: Strategies for Non-Engaged Customers
+type: docs
 ---
 
 Gainsight contains a playbook for non-engaged customers that *will* trigger if:

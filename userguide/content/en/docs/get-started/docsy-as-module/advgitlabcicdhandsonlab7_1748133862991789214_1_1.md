@@ -1,6 +1,13 @@
 ---
-title: "GitLab Advanced CI/CD - Hands-On Lab: Deployment Strategies"
-description: "This Hands-On Guide walks you through the process of creating feature flags"
+title: 'GitLab Advanced CI/CD - Hands-On Lab: Deployment Strategies'
+description: This Hands-On Guide walks you through the process of creating feature
+  flags
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/advgitlabcicdhandsonlab7_1748133862991789214_1_1/
+linkTitle: 'GitLab Advanced CI/CD - Hands-On Lab: Deployment Strategies'
+type: docs
 ---
 
 The next step in your development process is to determine an appropriate deployment strategy for your application. Rolling out changes to all users at once is a risky strategy, since any errors will impact all of your users and potentially cause outages. To mitigate this, you can take advantage of GitLab’s deployment features. In this section, you will learn how to implement a feature flag in your application to allow for a gradual rollout of features.

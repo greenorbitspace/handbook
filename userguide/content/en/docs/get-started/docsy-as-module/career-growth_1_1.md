@@ -1,5 +1,12 @@
 ---
 title: Finance Learning and Development
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/career-growth_1_1/
+description: ''
+linkTitle: Finance Learning and Development
+type: docs
 ---
 
 Welcome to Learning and Development for the Finance Department at GitLab! The resources in this page are meant to support team members by providing consistent frameworks through which to evaluate their career and role growth. This page compiles content that is both GitLab-generic and finance-specific as listed below.

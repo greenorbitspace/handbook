@@ -1,9 +1,13 @@
 ---
-title: "Detaljert om kryptografi: Detaljert spesifikasjon"
+title: 'Detaljert om kryptografi: Detaljert spesifikasjon'
 linkTitle: Detaljert om kryptografi
-date: 2017-01-05
-description: >
- En kort oppsummering av denne siden. Tekst kan **utheves** sller skrives i _kursiv_ og kan ha flere avsnitt.
+date: '2025-06-12T01:05:59+01:00'
+description: |
+  En kort oppsummering av denne siden. Tekst kan **utheves** sller skrives i _kursiv_ og kan ha flere avsnitt.
+weight: 2
+aliases:
+- /docs/in-depth-cryptography-detailed-spec_1/
+type: docs
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).

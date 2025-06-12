@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Vacation Policy 1 1
+aliases:
+- /docs/vacation-policy_1_1/
+description: ''
+linkTitle: Vacation Policy 1 1
+type: docs
+---
+
 ### Introduction
 
 At Green Orbit Digital, we recognize the importance of work-life balance and the value of taking time off to rest, recharge, and spend quality time with loved ones. Our vacation policy is designed to support the well-being and productivity of our employees by providing them with ample opportunities to take time off for vacation.

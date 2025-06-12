@@ -1,10 +1,16 @@
 ---
-title: "Social Media Manager"
-description: "Requirements for Social Media roles at GitLab"
-twitter_image: ""
-twitter_image_alt: ""
-twitter_site: "gitlab"
-twitter_creator: "gitlab"
+title: Social Media Manager
+description: Requirements for Social Media roles at GitLab
+twitter_image: ''
+twitter_image_alt: ''
+twitter_site: gitlab
+twitter_creator: gitlab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/social-media-manager_1_1/
+linkTitle: Social Media Manager
+type: docs
 ---
 
 ## Social Media Jobs at GitLab

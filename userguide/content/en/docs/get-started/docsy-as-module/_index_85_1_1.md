@@ -1,6 +1,12 @@
 ---
 title: Geo Support Pod
-description:
+description: ''
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_85_1_1/
+linkTitle: Geo Support Pod
+type: docs
 ---
 
 ## Purpose

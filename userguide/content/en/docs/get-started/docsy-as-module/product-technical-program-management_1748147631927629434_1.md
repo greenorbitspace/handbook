@@ -1,6 +1,14 @@
 ---
-title: "Product Technical Program Manager"
-description: "The Product Technical Program Manager (TPM) role supports cross-division initiatives across Product, UX, Engineering and other functions within R&D along with functions across GTM"
+title: Product Technical Program Manager
+description: The Product Technical Program Manager (TPM) role supports cross-division
+  initiatives across Product, UX, Engineering and other functions within R&D along
+  with functions across GTM
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-technical-program-management_1748147631927629434_1/
+linkTitle: Product Technical Program Manager
+type: docs
 ---
 
 ### Mission

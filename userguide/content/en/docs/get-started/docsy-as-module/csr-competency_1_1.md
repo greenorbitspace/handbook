@@ -1,3 +1,13 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Csr Competency 1 1
+aliases:
+- /docs/csr-competency_1_1/
+description: ''
+linkTitle: Csr Competency 1 1
+type: docs
+---
 
 ##### Engineering
 

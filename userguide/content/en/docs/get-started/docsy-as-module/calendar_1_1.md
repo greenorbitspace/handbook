@@ -1,16 +1,13 @@
 ---
-
-title: "Developer Advocacy Team Calendar"
+title: Developer Advocacy Team Calendar
 aliases:
 - /handbook/marketing/developer-relations/developer-evangelism/calendar/index.html
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Developer Advocacy Team Calendar
+type: docs
 ---
-
-
-
-
-
-
-
 
 ## <i class="fa fa-calendar" aria-hidden="true"></i> Team Calendar
 

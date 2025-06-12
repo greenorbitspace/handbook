@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: H Playback 1 1
+aliases:
+- /docs/h-playback_1_1/
+description: ''
+linkTitle: H Playback 1 1
+type: docs
+---
+
 # Playback
 
 Follow these steps to create a playback video of an event:

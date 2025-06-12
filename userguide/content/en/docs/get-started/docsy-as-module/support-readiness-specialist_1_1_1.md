@@ -1,6 +1,13 @@
 ---
-title: "Support Readiness Specialist"
-description: Support Readiness Specialists at GitLab support the daily operations of the global support engineering team
+title: Support Readiness Specialist
+description: Support Readiness Specialists at GitLab support the daily operations
+  of the global support engineering team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-readiness-specialist_1_1_1/
+linkTitle: Support Readiness Specialist
+type: docs
 ---
 
 ## Support Readiness Specialist

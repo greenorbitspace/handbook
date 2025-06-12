@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Date Time 1 1
+aliases:
+- /docs/date-time_1_1/
+description: ''
+linkTitle: Date Time 1 1
+type: docs
+---
+
 ```js
 let date = new Date()
 let customDate = new Date('2018', '6', '5')

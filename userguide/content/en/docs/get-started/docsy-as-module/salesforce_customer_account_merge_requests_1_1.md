@@ -1,7 +1,14 @@
 ---
 title: Salesforce Customer Account Merge Requests
-description: Support Operations policies page for Salesforce customer account merge requests
-canonical_path: "/handbook/support/readiness/operations/docs/policies/salesforce_customer_account_merge_requests"
+description: Support Operations policies page for Salesforce customer account merge
+  requests
+canonical_path: /handbook/support/readiness/operations/docs/policies/salesforce_customer_account_merge_requests
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/salesforce_customer_account_merge_requests_1_1/
+linkTitle: Salesforce Customer Account Merge Requests
+type: docs
 ---
 
 <sup>*Introduced via [support-ops-project#1694](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/1694)*</sup>

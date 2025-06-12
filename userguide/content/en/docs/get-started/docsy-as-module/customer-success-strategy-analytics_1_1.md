@@ -1,6 +1,13 @@
 ---
-title: "Customer Success Strategy & Analytics"
-description: "GitLab Handbook page for the Customer Success Strategy & Analytics (CSSA) team"
+title: Customer Success Strategy & Analytics
+description: GitLab Handbook page for the Customer Success Strategy & Analytics (CSSA)
+  team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-success-strategy-analytics_1_1/
+linkTitle: Customer Success Strategy & Analytics
+type: docs
 ---
 
 ### Customer Success Strategy & Analytics

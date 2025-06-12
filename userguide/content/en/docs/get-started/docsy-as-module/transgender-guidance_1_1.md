@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Transgender Guidance 1 1
+aliases:
+- /docs/transgender-guidance_1_1/
+description: ''
+linkTitle: Transgender Guidance 1 1
+type: docs
+---
+
 Green Orbit Digital Transgender Guidance Policy
 
 1. Purpose

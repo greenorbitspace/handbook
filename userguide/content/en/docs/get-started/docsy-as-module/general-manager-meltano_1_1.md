@@ -1,5 +1,12 @@
 ---
-title: "General Manager, Meltano"
+title: General Manager, Meltano
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/general-manager-meltano_1_1/
+description: ''
+linkTitle: General Manager, Meltano
+type: docs
 ---
 
 The general manager of [Meltano](https://meltano.com/) is responsible for building a great product, a great user base and community, and a great team for the first open source platform for data integration and transformation (ELT).

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Take Gitlab For A Spin 1 1
+aliases:
+- /docs/take-gitlab-for-a-spin_1_1/
+description: ''
+linkTitle: Take Gitlab For A Spin 1 1
+type: docs
+---
+
 <p>&nbsp</p>
 
 <hr>

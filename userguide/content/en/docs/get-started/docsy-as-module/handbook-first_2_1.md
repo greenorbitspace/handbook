@@ -1,10 +1,16 @@
 ---
-title: "The importance of a handbook-first approach to communication"
+title: The importance of a handbook-first approach to communication
 description: How to be a great remote manager
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/handbook-first_2_1/
+linkTitle: The importance of a handbook-first approach to communication
+type: docs
 ---
 
 ![GitLab navigation and journey](/images/all-remote/gitlab-journey-and-navigation.jpg)

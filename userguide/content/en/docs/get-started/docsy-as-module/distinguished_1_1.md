@@ -1,5 +1,12 @@
 ---
-title: "Distinguished Engineer"
+title: Distinguished Engineer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/distinguished_1_1/
+description: ''
+linkTitle: Distinguished Engineer
+type: docs
 ---
 
 ## Distinguished Engineer Roles at GitLab

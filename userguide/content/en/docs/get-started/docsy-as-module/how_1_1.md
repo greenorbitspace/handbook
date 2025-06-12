@@ -1,5 +1,12 @@
 ---
 title: Renewals Managers - How we do it
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/how_1_1/
+description: ''
+linkTitle: Renewals Managers - How we do it
+type: docs
 ---
 
 View the Renewals Manager handbook pages:

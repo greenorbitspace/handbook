@@ -1,6 +1,13 @@
 ---
-title: "How to recognize organizations within the contributor ecosystem for GitLab"
-description: Learn how to add and maintain usernames to organizations for recognition and award purposes within GitLab
+title: How to recognize organizations within the contributor ecosystem for GitLab
+description: Learn how to add and maintain usernames to organizations for recognition
+  and award purposes within GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/contributing-org-tracker_1/
+linkTitle: How to recognize organizations within the contributor ecosystem for GitLab
+type: docs
 ---
 
 Learn how to add and maintain usernames to organizations for recognition and award purposes within GitLab

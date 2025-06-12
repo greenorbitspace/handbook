@@ -1,6 +1,12 @@
 ---
-title: "Virtual Card Guide for Accounts Payable"
-description: "Virtual Card Guide for Accounts Payable"
+title: Virtual Card Guide for Accounts Payable
+description: Virtual Card Guide for Accounts Payable
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/coupa-virtual-card-guide-for-accounts-payable_1_1/
+linkTitle: Virtual Card Guide for Accounts Payable
+type: docs
 ---
 
 This page contains guidelines regarding Accounts Payable (AP) related tasks for Coupa Virtual Cards. Please review the [Coupa Virtual Card Guide](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/) to understand the end user process.

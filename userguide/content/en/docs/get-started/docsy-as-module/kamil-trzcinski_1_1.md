@@ -1,6 +1,13 @@
 ---
-title: "Kamil Trzciński's README"
-job: "Senior Distinguished Engineer, Ops and Enablement"
+title: Kamil Trzciński's README
+job: Senior Distinguished Engineer, Ops and Enablement
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/kamil-trzcinski_1_1/
+description: ''
+linkTitle: Kamil Trzciński's README
+type: docs
 ---
 
 ## Introduction

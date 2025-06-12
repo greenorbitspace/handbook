@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Privacy Policy 1 1
+aliases:
+- /docs/privacy-policy_1_1/
+description: ''
+linkTitle: Privacy Policy 1 1
+type: docs
+---
+
 # PRIVACY POLICY
 
 <!-- Unsupported block type: table -->

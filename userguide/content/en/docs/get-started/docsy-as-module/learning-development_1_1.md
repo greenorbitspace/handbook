@@ -1,6 +1,13 @@
 ---
-title: "Learning & Development Roles"
-description: "The Learning and Development (L&D) job family is responsible for building and maintaining a learning culture at GitLab."
+title: Learning & Development Roles
+description: The Learning and Development (L&D) job family is responsible for building
+  and maintaining a learning culture at GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/learning-development_1_1/
+linkTitle: Learning & Development Roles
+type: docs
 ---
 
 The Learning and Development (L&D) job family is responsible for building and maintaining a learning culture at GitLab. Specifically, L&D plays a strategic role in the organization to ensure team members acquire and build skills, knowledge, and competencies that will enable them to perform at a high level. The goal of the job family is to develop and change the behavior of team members and groups to reach organizational objectives and results.

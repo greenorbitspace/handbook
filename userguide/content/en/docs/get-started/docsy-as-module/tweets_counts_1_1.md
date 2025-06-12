@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Tweets Counts 1 1
+aliases:
+- /docs/tweets_counts_1_1/
+description: ''
+linkTitle: Tweets Counts 1 1
+type: docs
+---
+
 The tweet counts endpoints allow developers to understand and retrieve the volume of data for a given query
 
 There have two endpoints: `Recent Tweet counts`, `Full-archive Tweet counts`.

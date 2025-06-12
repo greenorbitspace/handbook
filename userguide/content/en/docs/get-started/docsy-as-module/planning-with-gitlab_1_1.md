@@ -1,5 +1,12 @@
 ---
 title: Using GitLab to plan work
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/planning-with-gitlab_1_1/
+description: ''
+linkTitle: Using GitLab to plan work
+type: docs
 ---
 
 We use GitLab to document product strategy and manage our backlog. A couple of concepts that are key to this process are:

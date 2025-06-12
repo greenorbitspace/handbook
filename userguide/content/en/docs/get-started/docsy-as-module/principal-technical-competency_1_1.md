@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Principal Technical Competency 1 1
+aliases:
+- /docs/principal-technical-competency_1_1/
+description: ''
+linkTitle: Principal Technical Competency 1 1
+type: docs
+---
+
 ##### Engineering
 
 * Has a broad skill-set with in-depth expertise in several areas.

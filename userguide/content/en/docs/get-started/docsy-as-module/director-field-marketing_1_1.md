@@ -1,6 +1,14 @@
 ---
-title: "Field Marketing Leadership"
-summary: Support our Sales Teams, globally, build and lead a global team of field marketers aligned to our regional sales directors.
+title: Field Marketing Leadership
+summary: Support our Sales Teams, globally, build and lead a global team of field
+  marketers aligned to our regional sales directors.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/director-field-marketing_1_1/
+description: ''
+linkTitle: Field Marketing Leadership
+type: docs
 ---
 
 ## Director, Field Marketing

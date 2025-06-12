@@ -1,7 +1,13 @@
 ---
 title: User Association
 description: Support Operations documentation page for Zendesk user association
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/user_association"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/user_association
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/user_association_1_1/
+linkTitle: User Association
+type: docs
 ---
 
 User association is a very specific and particular process. This is for both

@@ -1,10 +1,13 @@
 ---
-title: "Known issues"
-linkTitle: "Known issues"
-date: 2021-12-08T09:22:27+01:00
+title: Known issues
+linkTitle: Known issues
+date: '2025-06-12T01:05:53+01:00'
 weight: 4
-description: >
+description: |
   Known issues when installing Docsy theme.
+type: docs
+aliases:
+- /docs/known_issues/
 ---
 
 The following issues are know on [MacOS](#macos) and on [Windows Subsystem for Linux](#windows-subsystem-for-linux-wsl):

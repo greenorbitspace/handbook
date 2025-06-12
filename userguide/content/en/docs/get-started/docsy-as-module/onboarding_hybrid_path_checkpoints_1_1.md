@@ -1,12 +1,14 @@
 ---
-
 title: Support Hybrid Learning Path Checkpoint
-description: "Checkpoints for new starters who are working through their support hybrid learning path. This is a guide only, progress is not linear."
+description: Checkpoints for new starters who are working through their support hybrid
+  learning path. This is a guide only, progress is not linear.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/onboarding_hybrid_path_checkpoints_1_1/
+linkTitle: Support Hybrid Learning Path Checkpoint
+type: docs
 ---
-
-
-
-
 
 ## Support Hybrid Model Learning Path Checkpoints
 

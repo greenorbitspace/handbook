@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: I Faq 1 1
+aliases:
+- /docs/i-FAQ_1_1/
+description: ''
+linkTitle: I Faq 1 1
+type: docs
+---
+
 # FAQ
 
 ## Can I export my map to a video file?

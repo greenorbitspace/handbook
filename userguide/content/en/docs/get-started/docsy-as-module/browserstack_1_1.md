@@ -1,11 +1,14 @@
 ---
-
 title: BrowserStack
 category: Infrastructure for troubleshooting
 description: How to reproduce potential browser issues in other Operating Systems
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/browserstack_1_1/
+linkTitle: BrowserStack
+type: docs
 ---
-
-
 
 ## BrowserStack
 

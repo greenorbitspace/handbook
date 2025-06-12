@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Contributors 1
+aliases:
+- /docs/CONTRIBUTORS_1/
+description: ''
+linkTitle: Contributors 1
+type: docs
+---
+
 Alexander Rose [@arose](https://github.com/arose)
 Alexandru Mărășteanu [@alexei](https://github.com/alexei)
 Andras [@andrasq](https://github.com/andrasq)

@@ -1,5 +1,13 @@
 ---
 sidebar_position: 1
+weight: 2
+date: '2025-06-12'
+title: Intro 1
+aliases:
+- /docs/intro_1/
+description: ''
+linkTitle: Intro 1
+type: docs
 ---
 
 # Tutorial Intro

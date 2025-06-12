@@ -1,5 +1,12 @@
 ---
-title: "Guide to Working the Booth at Events"
+title: Guide to Working the Booth at Events
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/event-booth-questions_1/
+description: ''
+linkTitle: Guide to Working the Booth at Events
+type: docs
 ---
 
 ## Guide to Working the Booth at Events

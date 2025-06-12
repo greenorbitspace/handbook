@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: No Greenwashing Commitment 1 1
+aliases:
+- /docs/no-greenwashing-commitment_1_1/
+description: ''
+linkTitle: No Greenwashing Commitment 1 1
+type: docs
+---
+
 At Green Orbit Digital, we commit to maintaining complete authenticity and transparency in our sustainability communications. We pledge to:
 
 - Ensure all environmental claims are accurate, verifiable, and supported by evidence

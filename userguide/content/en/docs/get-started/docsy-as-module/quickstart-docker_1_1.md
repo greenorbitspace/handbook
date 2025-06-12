@@ -1,3 +1,13 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Quickstart Docker 1 1
+aliases:
+- /docs/quickstart-docker_1_1/
+description: ''
+linkTitle: Quickstart Docker 1 1
+type: docs
+---
 
 ---
 title: "Deploy Docsy inside a Docker container"

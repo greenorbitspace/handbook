@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Legal And Other Compliance Registers 1 1
+aliases:
+- /docs/legal-and-other-compliance-registers_1_1/
+description: ''
+linkTitle: Legal And Other Compliance Registers 1 1
+type: docs
+---
+
 ### Legal and Other Compliance Registers for ISO 50001
 
 A Compliance Register helps organizations ensure that they comply with all relevant legal, regulatory, and other requirements related to energy management as outlined in ISO 50001. This register acts as a tool for tracking compliance status and identifying any gaps or required actions.

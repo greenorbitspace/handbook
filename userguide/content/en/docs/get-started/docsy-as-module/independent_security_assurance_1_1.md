@@ -1,5 +1,12 @@
 ---
 title: Independent Security Assurance
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/independent_security_assurance_1_1/
+description: ''
+linkTitle: Independent Security Assurance
+type: docs
 ---
 
 ## Overview

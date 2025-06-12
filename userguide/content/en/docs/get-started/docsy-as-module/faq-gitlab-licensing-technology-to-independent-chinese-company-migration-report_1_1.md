@@ -1,6 +1,14 @@
 ---
 title: JiHu FAQ
-Description: Migration report for moving the handbooks faq-gitlab-licensing-technology-to-independent-chinese-company section
+Description: Migration report for moving the handbooks faq-gitlab-licensing-technology-to-independent-chinese-company
+  section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/faq-gitlab-licensing-technology-to-independent-chinese-company-migration-report_1_1/
+description: ''
+linkTitle: JiHu FAQ
+type: docs
 ---
 
 **Section:** faq-gitlab-licensing-technology-to-independent-chinese-company

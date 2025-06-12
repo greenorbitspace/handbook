@@ -1,5 +1,12 @@
 ---
-title: "ZenGRC FAQ for Team Members"
+title: ZenGRC FAQ for Team Members
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/zg-faq_1_1/
+description: ''
+linkTitle: ZenGRC FAQ for Team Members
+type: docs
 ---
 
 ## GENERAL FAQ

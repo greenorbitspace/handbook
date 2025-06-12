@@ -1,6 +1,13 @@
 ---
 title: Mission
 Description: Migration report for moving the handbooks mission section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mission-migration-report_1_1/
+description: ''
+linkTitle: Mission
+type: docs
 ---
 
 **Section:** mission

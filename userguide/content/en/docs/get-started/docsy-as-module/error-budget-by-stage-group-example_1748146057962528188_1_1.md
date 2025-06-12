@@ -1,6 +1,12 @@
 ---
-title: "Engineering Error Budgets for Stage Groups"
-description: "Engineering Error Budget by stage groups example."
+title: Engineering Error Budgets for Stage Groups
+description: Engineering Error Budget by stage groups example.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/error-budget-by-stage-group-example_1748146057962528188_1_1/
+linkTitle: Engineering Error Budgets for Stage Groups
+type: docs
 ---
 
 ## Error Budgets for Stage Groups (worked example)

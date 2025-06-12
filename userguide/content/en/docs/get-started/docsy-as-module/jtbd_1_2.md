@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Jtbd 1 2
+aliases:
+- /docs/jtbd_1_2/
+description: ''
+linkTitle: Jtbd 1 2
+type: docs
+---
+
 {{- /*Initialize.*/}}
 {{- $stageKey := "" }}
 {{- /* Get params. */}}

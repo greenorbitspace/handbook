@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 20250606070645 Customer Onboarding 1 1
+aliases:
+- /docs/20250606070645_customer-onboarding_1_1/
+description: ''
+linkTitle: 20250606070645 Customer Onboarding 1 1
+type: docs
+---
+
 <!-- Unsupported block type: image -->
 
 View the CSM Handbook homepage for additional CSM-related handbook pages.

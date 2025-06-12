@@ -1,6 +1,12 @@
 ---
-title: "CSE Direct Responsible Individuals (DRI)"
-description: "This page is intended to list all DRIs and the CSE leadership sponsors"
+title: CSE Direct Responsible Individuals (DRI)
+description: This page is intended to list all DRIs and the CSE leadership sponsors
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cse-dris_1/
+linkTitle: CSE Direct Responsible Individuals (DRI)
+type: docs
 ---
 
 ---

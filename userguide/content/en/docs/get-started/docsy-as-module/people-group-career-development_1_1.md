@@ -1,6 +1,13 @@
 ---
 title: People Group Career Development
-description: "Learn about learning and development opportunities for members of the People Group to develop skills advance their careers."
+description: Learn about learning and development opportunities for members of the
+  People Group to develop skills advance their careers.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/people-group-career-development_1_1/
+linkTitle: People Group Career Development
+type: docs
 ---
 
 ## People Group Learning Hub

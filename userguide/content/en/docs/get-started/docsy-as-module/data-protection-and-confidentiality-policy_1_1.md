@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Data Protection And Confidentiality Policy 1 1
+aliases:
+- /docs/data-protection-and-confidentiality-policy_1_1/
+description: ''
+linkTitle: Data Protection And Confidentiality Policy 1 1
+type: docs
+---
+
 At Green Orbit Digital, we are committed to ensuring the privacy, confidentiality, and security of all personal data we collect and process in accordance with the General Data Protection Regulation (GDPR) and other applicable data protection laws. This Data Protection and Confidentiality Policy outlines our commitment to protecting personal data and maintaining confidentiality.
 
 ### 1. Data Protection Principles

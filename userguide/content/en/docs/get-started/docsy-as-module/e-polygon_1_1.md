@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: E Polygon 1 1
+aliases:
+- /docs/e-polygon_1_1/
+description: ''
+linkTitle: E Polygon 1 1
+type: docs
+---
+
 # Polygon
 
 Polygon layer can display all geometry types defined by [RFC 7946 (GeoJSON)](https://tools.ietf.org/html/rfc7946): `Point`, `LineString`, `Polygon`, `MultiPoint`, `MultiLineString`, `MultiPolygon`. 

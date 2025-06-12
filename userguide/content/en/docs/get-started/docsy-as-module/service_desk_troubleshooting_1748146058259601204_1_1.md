@@ -3,6 +3,12 @@ title: Service Desk Troubleshooting
 category: GitLab.com
 subcategory: Troubleshooting
 description: Basic process on troubleshooting Service Desk within GitLab.com.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/service_desk_troubleshooting_1748146058259601204_1_1/
+linkTitle: Service Desk Troubleshooting
+type: docs
 ---
 
 ## Overview

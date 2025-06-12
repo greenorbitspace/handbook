@@ -1,7 +1,12 @@
 ---
-
 title: What is Cognitive Bias
 description: Learn about Cognitive Bias and how to facilitate Cognitive Bias exercise.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/recognizing-cognitive-bias_1_1/
+linkTitle: What is Cognitive Bias
+type: docs
 ---
 
 What is Cognitive Bias:

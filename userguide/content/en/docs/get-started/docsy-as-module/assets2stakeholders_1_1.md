@@ -1,6 +1,13 @@
 ---
-title: "Technical Marketing Asset to Stakeholder Matrix"
-description: "This page contains a matrix of which assets might be usefull for which stakeholders."
+title: Technical Marketing Asset to Stakeholder Matrix
+description: This page contains a matrix of which assets might be usefull for which
+  stakeholders.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/assets2stakeholders_1_1/
+linkTitle: Technical Marketing Asset to Stakeholder Matrix
+type: docs
 ---
 
 ## Asset to stakeholder matrix

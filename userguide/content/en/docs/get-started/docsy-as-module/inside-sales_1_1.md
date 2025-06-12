@@ -1,6 +1,12 @@
 ---
-title: "Inside Sales Job Family"
-description: "Learn more about Inside Sales job family levels, roles and responsibilities."
+title: Inside Sales Job Family
+description: Learn more about Inside Sales job family levels, roles and responsibilities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/inside-sales_1_1/
+linkTitle: Inside Sales Job Family
+type: docs
 ---
 
 ## Levels

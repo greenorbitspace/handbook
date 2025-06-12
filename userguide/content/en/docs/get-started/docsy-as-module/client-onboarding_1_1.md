@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Client Onboarding 1 1
+aliases:
+- /docs/client-onboarding_1_1/
+description: ''
+linkTitle: Client Onboarding 1 1
+type: docs
+---
+
 A thorough and well-structured onboarding process is critical to setting up Green Orbit Digital’s clients for success. A positive onboarding experience not only solidifies clients’ confidence in their decision to work with Green Orbit but also establishes the foundation for a long-term, fruitful partnership. Here’s a comprehensive client onboarding process for Green Orbit Digital, tailored to foster trust, clarity, and effective collaboration.
 
 <!-- Unsupported block type: divider -->

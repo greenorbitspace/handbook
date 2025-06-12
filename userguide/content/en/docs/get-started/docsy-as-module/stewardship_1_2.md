@@ -1,7 +1,14 @@
 ---
 title: Our stewardship of GitLab
-description: "GitLab have an open core business model and generate almost all our revenue with subscriptions to paid tiers. Learn more!"
-canonical_path: "/company/stewardship/"
+description: GitLab have an open core business model and generate almost all our revenue
+  with subscriptions to paid tiers. Learn more!
+canonical_path: /company/stewardship/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/stewardship_1_2/
+linkTitle: Our stewardship of GitLab
+type: docs
 ---
 
 ## Business Model

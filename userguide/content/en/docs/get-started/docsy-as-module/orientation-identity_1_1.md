@@ -1,6 +1,13 @@
 ---
-title: "Gender and Sexual Orientation Identity Definitions and FAQ"
-description: "Gender and sexual identity definitions, frequently asked questions, and resources"
+title: Gender and Sexual Orientation Identity Definitions and FAQ
+description: Gender and sexual identity definitions, frequently asked questions, and
+  resources
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/orientation-identity_1_1/
+linkTitle: Gender and Sexual Orientation Identity Definitions and FAQ
+type: docs
 ---
 
 The content on this page is inspired by [other sites](#additional-resources) with glossaries and FAQs. It should be noted that many LGBTQ+ terms don't have complete alignment and can have different meanings and nuance in different communities. This is a glossary of terms with some broadly accepted definitions.

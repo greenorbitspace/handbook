@@ -2,6 +2,12 @@
 title: Working on tickets
 category: Handling tickets
 description: How to find, select, and begin work on support tickets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/working-on-tickets_1_1/
+linkTitle: Working on tickets
+type: docs
 ---
 
 ## Introduction

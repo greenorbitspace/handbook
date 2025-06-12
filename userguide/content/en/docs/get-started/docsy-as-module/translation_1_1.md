@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Translation 1 1
+aliases:
+- /docs/translation_1_1/
+description: ''
+linkTitle: Translation 1 1
+type: docs
+---
+
 <h1>Translation</h1>
 
 This platform is designed to be multilingual and can be fully translated into any number of languages. Here are the key parts of the platform that should be translated:

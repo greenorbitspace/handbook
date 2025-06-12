@@ -1,10 +1,16 @@
 ---
-title: "Considerations for working while traveling"
+title: Considerations for working while traveling
 description: Considerations for working while traveling
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/working-while-traveling_1_1_1/
+linkTitle: Considerations for working while traveling
+type: docs
 ---
 
 ![GitLab transport illustration](/images/all-remote/gitlab-transport.jpg)

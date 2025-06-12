@@ -1,5 +1,12 @@
 ---
 title: Legacy Level Up - Thought Industries
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/legacy_1_1/
+description: ''
+linkTitle: Legacy Level Up - Thought Industries
+type: docs
 ---
 
 ## (LEGACY) Level Up

@@ -1,6 +1,13 @@
 ---
-title: "Customer Success Management"
-description: "The Customer Success Management (CSM) team focuses on the themes of align, enable, and expand."
+title: Customer Success Management
+description: The Customer Success Management (CSM) team focuses on the themes of align,
+  enable, and expand.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-success-management_1_1/
+linkTitle: Customer Success Management
+type: docs
 ---
 
 The Customer Success Management (CSM) team is accountable for customer adoption, measurable outcomes, customer satisfaction, and creating true customer advocacy.

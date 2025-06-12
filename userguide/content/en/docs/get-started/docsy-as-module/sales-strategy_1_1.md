@@ -1,6 +1,13 @@
 ---
-title: "Sales Strategy Roles"
-description: "The Sales Strategy Job Family helps develop and execute GitLab's Global Sales Strategy."
+title: Sales Strategy Roles
+description: The Sales Strategy Job Family helps develop and execute GitLab's Global
+  Sales Strategy.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sales-strategy_1_1/
+linkTitle: Sales Strategy Roles
+type: docs
 ---
 
 The Sales Strategy Job Family helps develop and execute GitLab's Global Sales Strategy. The Sales Strategy Job Family partners close with Sales Leadership to identify opportunities and improve efficiencies.

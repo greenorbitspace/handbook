@@ -1,5 +1,12 @@
 ---
-title: "GitLab Secret Detection ADR 006: Unified SD Support for all GitLab Environments"
+title: 'GitLab Secret Detection ADR 006: Unified SD Support for all GitLab Environments'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/006_support_for_all_environments_1748146057920340547_1/
+description: ''
+linkTitle: 'GitLab Secret Detection ADR 006: Unified SD Support for all GitLab Environments'
+type: docs
 ---
 
 ## Context

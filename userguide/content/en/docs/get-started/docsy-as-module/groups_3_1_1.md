@@ -1,7 +1,13 @@
 ---
 title: Groups
 description: Support Operations documentation page for Zendesk groups
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/groups"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/groups
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/groups_3_1_1/
+linkTitle: Groups
+type: docs
 ---
 
 ## What are Zendesk groups?

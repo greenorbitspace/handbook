@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 8 Middleware 1 1
+aliases:
+- /docs/8-middleware_1_1/
+description: ''
+linkTitle: 8 Middleware 1 1
+type: docs
+---
+
 ### writing middleware
 - Express is a routing and middleware web framework
 - An Express application is essentially a series of middleware function calls.

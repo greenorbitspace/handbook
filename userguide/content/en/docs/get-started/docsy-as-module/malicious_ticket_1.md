@@ -2,7 +2,14 @@
 title: Suspecting a ticket to be malicious
 category: Handling tickets
 subcategory: General
-description: Documenting how and when to contact security if a ticket is looking suspicious/malicious in nature.
+description: Documenting how and when to contact security if a ticket is looking suspicious/malicious
+  in nature.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/malicious_ticket_1/
+linkTitle: Suspecting a ticket to be malicious
+type: docs
 ---
 
 ## Overview

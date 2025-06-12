@@ -1,5 +1,12 @@
 ---
-title: "Security Department Learning & Development"
+title: Security Department Learning & Development
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/learning-and-development_1748146058213047796_1_1/
+description: ''
+linkTitle: Security Department Learning & Development
+type: docs
 ---
 
 ## Overview

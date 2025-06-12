@@ -1,6 +1,13 @@
 ---
-title: "Influencer Group Guidelines"
-description: "This document provides team members with the information they need to understand and sustain a Diversity, Inclusion & Belonging Influencer Group."
+title: Influencer Group Guidelines
+description: This document provides team members with the information they need to
+  understand and sustain a Diversity, Inclusion & Belonging Influencer Group.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/influencer-group-guide_1_1/
+linkTitle: Influencer Group Guidelines
+type: docs
 ---
 
 ### Purpose and Benefits of a DIB Influencer Group

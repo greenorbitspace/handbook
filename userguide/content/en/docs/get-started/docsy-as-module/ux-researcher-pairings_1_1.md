@@ -1,6 +1,13 @@
 ---
-title: "UX Researcher pairings"
-description: "An opt-in offering for UX Researchers to pair up with another UX Researcher where they can provide and receive feedback from each other."
+title: UX Researcher pairings
+description: An opt-in offering for UX Researchers to pair up with another UX Researcher
+  where they can provide and receive feedback from each other.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ux-researcher-pairings_1_1/
+linkTitle: UX Researcher pairings
+type: docs
 ---
 
 Inspired by the [Product Designer pairing program](/handbook/product/ux/how-we-work/design-pair-rotation), UX Researchers can take part in their own pairing offering: **UX Research pairings**.

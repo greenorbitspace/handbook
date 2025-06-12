@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Mobile And Remote Access Policy 1 1
+aliases:
+- /docs/mobile-and-remote-access-policy_1_1/
+description: ''
+linkTitle: Mobile And Remote Access Policy 1 1
+type: docs
+---
+
 # 1. Purpose and Scope
 
 This policy establishes guidelines and requirements for mobile and remote access to Green Orbit Digital's information systems and resources. It applies to all employees, contractors, consultants, and third parties who require remote access to company systems.

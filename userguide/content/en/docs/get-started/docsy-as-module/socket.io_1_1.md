@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Socket.Io 1 1
+aliases:
+- /docs/socket.io_1_1/
+description: ''
+linkTitle: Socket.Io 1 1
+type: docs
+---
+
 Certainly! Let me walk you through the **Socket.IO** example in detail, explaining every part of the code, the flow, and how callbacks and parameters interact.
 
 ---

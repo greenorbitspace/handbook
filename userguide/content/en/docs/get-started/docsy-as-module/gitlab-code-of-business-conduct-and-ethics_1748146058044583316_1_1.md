@@ -1,7 +1,13 @@
 ---
-title: "Code of Business Conduct & Ethics"
-description: "Overview of the Code of Conduct and Ethics at GitLab."
+title: Code of Business Conduct & Ethics
+description: Overview of the Code of Conduct and Ethics at GitLab.
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-code-of-business-conduct-and-ethics_1748146058044583316_1_1/
+linkTitle: Code of Business Conduct & Ethics
+type: docs
 ---
 
 Please refer to our [Code of Business Conduct and Ethics for Directors, Officers, Employees and Contractors](https://s204.q4cdn.com/984476563/files/doc_downloads/govdoc/GitLab-Code-of-Business-Conduct-Ethics-2024-06-25.pdf)

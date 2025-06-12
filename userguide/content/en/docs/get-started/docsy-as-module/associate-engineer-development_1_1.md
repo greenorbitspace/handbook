@@ -1,5 +1,12 @@
 ---
-title: "MERGE: Ongoing Development for Associate Engineers"
+title: 'MERGE: Ongoing Development for Associate Engineers'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/associate-engineer-development_1_1/
+description: ''
+linkTitle: 'MERGE: Ongoing Development for Associate Engineers'
+type: docs
 ---
 
 Congratulations and welcome to the GitLab team! We're excited to have you on board as you start this exciting new chapter in your engineering career. Our comprehensive ongoing development program is designed to support you every step of the way - from your first day, to your first merge request, and beyond. You'll have support from your manager, onboarding buddy, and the Talent Development team; don't ever hesitate to reach out.

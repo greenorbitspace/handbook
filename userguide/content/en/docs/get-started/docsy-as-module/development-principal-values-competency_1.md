@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Development Principal Values Competency 1
+aliases:
+- /docs/development-principal-values-competency_1/
+description: ''
+linkTitle: Development Principal Values Competency 1
+type: docs
+---
+
 ##### Development
 
 * Regularly engages with teams other than their own.

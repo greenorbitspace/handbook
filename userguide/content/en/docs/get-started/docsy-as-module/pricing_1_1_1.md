@@ -1,6 +1,13 @@
 ---
-title: "Pricing"
-description: "The Pricing team owns the definition and execution of pricing strategy at GitLab."
+title: Pricing
+description: The Pricing team owns the definition and execution of pricing strategy
+  at GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/pricing_1_1_1/
+linkTitle: Pricing
+type: docs
 ---
 
 The Pricing team owns the definition and execution of pricing strategy at GitLab.  This team is incredibly strategic to GitLab's success, and has the opportunity to make a large positive financial impact through improving Average Selling Price and Average Revenue per User.

@@ -5,6 +5,13 @@ doc_id: doc-602
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070711_mini-sustainable-marketing-audit_1_1/
+description: ''
+linkTitle: Mini Sustainable Marketing Audit
+type: docs
 ---
 
 Certainly, here's a modified mini sustainable marketing audit in the form of an online survey designed to gather basic insights into the client's existing practices. This teaser survey will encourage clients to consider a complete audit with Green Orbit:

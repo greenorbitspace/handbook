@@ -1,7 +1,14 @@
 ---
-
 title: Support Team Member Time Off
-description: Guidelines for how time off applies to Support team members and what actions need to be taken. Page should not be moved without a Support Global Change Management issue.
+description: Guidelines for how time off applies to Support team members and what
+  actions need to be taken. Page should not be moved without a Support Global Change
+  Management issue.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-time-off_1_1/
+linkTitle: Support Team Member Time Off
+type: docs
 ---
 
 ## Support Team Member Time Off

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Agent 1 1
+aliases:
+- /docs/Agent_1_1/
+description: ''
+linkTitle: Agent 1 1
+type: docs
+---
+
 # Agent
 
 Extends: `undici.Dispatcher`

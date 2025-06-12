@@ -1,5 +1,12 @@
 ---
-title: "Plan:Project Management"
+title: Plan:Project Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/project-management_1_1_1/
+description: ''
+linkTitle: Plan:Project Management
+type: docs
 ---
 
 ### Plan: Project Management {#welcome}

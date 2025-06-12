@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Hostname Force Config As Canonical 1 1
+aliases:
+- /docs/hostname_force_config_as_canonical_1_1/
+description: ''
+linkTitle: Hostname Force Config As Canonical 1 1
+type: docs
+---
+
 # Config-provided hostname starting with `ip-` or `domu`
 
 ## Description of the issue

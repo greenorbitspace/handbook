@@ -1,5 +1,12 @@
 ---
 title: Leadership Chats
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/leadership-chats_1_1/
+description: ''
+linkTitle: Leadership Chats
+type: docs
 ---
 
 ## Introduction

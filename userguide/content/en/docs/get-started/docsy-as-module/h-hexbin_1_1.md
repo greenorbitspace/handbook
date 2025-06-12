@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: H Hexbin 1 1
+aliases:
+- /docs/h-hexbin_1_1/
+description: ''
+linkTitle: H Hexbin 1 1
+type: docs
+---
+
 # Hexbin
 
 ![Hexbin layer](https://d1a3f4spazzrp4.cloudfront.net/kepler.gl/documentation/layers-hexbin.png "Hexbin layer")

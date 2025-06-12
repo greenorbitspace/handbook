@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Images 1 1
+aliases:
+- /docs/images_1_1/
+description: ''
+linkTitle: Images 1 1
+type: docs
+---
+
 ### iamges best practice
 - in the google image results, google show the image, attribution and a headline from the page
 - users can expand the image to find out more about the image and the page content

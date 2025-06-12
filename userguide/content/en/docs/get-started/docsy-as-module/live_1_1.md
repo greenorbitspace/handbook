@@ -1,14 +1,13 @@
 ---
-
 title: How we live our values
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/live_1_1/
+description: ''
+linkTitle: How we live our values
+type: docs
 ---
-
-
-
-
-
-
-
 
 The Create Engineering Managers lead by example.  This page shares how the EMs live GitLab [values](/handbook/values/).
 

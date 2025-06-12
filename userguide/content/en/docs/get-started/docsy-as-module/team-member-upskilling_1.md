@@ -1,5 +1,12 @@
 ---
-title: "Team Member Upskilling"
+title: Team Member Upskilling
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/team-member-upskilling_1/
+description: ''
+linkTitle: Team Member Upskilling
+type: docs
 ---
 
 ## Team Member Upskilling Runbook

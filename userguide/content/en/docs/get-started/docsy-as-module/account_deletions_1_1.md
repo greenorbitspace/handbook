@@ -1,7 +1,14 @@
 ---
 title: Account deletions
-description: Support Operations documentation page for the account deletion form and processor
-canonical_path: "/handbook/support/readiness/operations/docs/gitlab/account_deletions"
+description: Support Operations documentation page for the account deletion form and
+  processor
+canonical_path: /handbook/support/readiness/operations/docs/gitlab/account_deletions
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/account_deletions_1_1/
+linkTitle: Account deletions
+type: docs
 ---
 
 <sup>*Introduced via [support-team-meta#1329](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/1329)*</sup>

@@ -1,9 +1,13 @@
 ---
-
-title: "CI Data Partitioning - Weekly Project Plan"
-description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution Group."
+title: CI Data Partitioning - Weekly Project Plan
+description: The CI Data Partitioning Weekly Project Plan - Pipeline Execution Group.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ci-data-partitioning_1_1/
+linkTitle: CI Data Partitioning - Weekly Project Plan
+type: docs
 ---
-
 
 ## CI Data Partitioning - Weekly Project Plan
 

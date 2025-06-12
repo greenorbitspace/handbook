@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Whatsapp Business Strategy 1 1
+aliases:
+- /docs/whatsapp-business-strategy_1_1/
+description: ''
+linkTitle: Whatsapp Business Strategy 1 1
+type: docs
+---
+
 Setting up your WhatsApp Business account for Green Orbit Digital can help streamline communication and showcase your services effectively. Here's a comprehensive set-up plan:
 
 <!-- Unsupported block type: divider -->

@@ -1,6 +1,13 @@
 ---
-title: "TMRG - GitLab Disability & Neurodivergence"
-description: "Helpful resources, support, and activities for differently abled team members or who are caring for a differently abled loved one."
+title: TMRG - GitLab Disability & Neurodivergence
+description: Helpful resources, support, and activities for differently abled team
+  members or who are caring for a differently abled loved one.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/erg-gitlab-diversability_1_1/
+linkTitle: TMRG - GitLab Disability & Neurodivergence
+type: docs
 ---
 
 ## Mission

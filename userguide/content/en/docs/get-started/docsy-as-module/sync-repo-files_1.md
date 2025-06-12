@@ -1,7 +1,13 @@
 ---
 title: Sync repo files
 description: Operations documentation page for working with sync repo files
-canonical_path: "/handbook/security/customer-support-operations/docs/sync-repo-files"
+canonical_path: /handbook/security/customer-support-operations/docs/sync-repo-files
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sync-repo-files_1/
+linkTitle: Sync repo files
+type: docs
 ---
 
 To manage the many components of Zendesk we work with, we utilize sync repos. These enable use to have version controlled projects containing all the data and information that makes out our Zendesk configuration.

@@ -1,6 +1,13 @@
 ---
 title: ASE - Where to Document and Manage Work for Accounts
-description: Guide for ASEs about tracking and managing work with their accounts in tickets, issues, and other places
+description: Guide for ASEs about tracking and managing work with their accounts in
+  tickets, issues, and other places
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ase-tickets-or-issues_1_1/
+linkTitle: ASE - Where to Document and Manage Work for Accounts
+type: docs
 ---
 
 ## Introduction

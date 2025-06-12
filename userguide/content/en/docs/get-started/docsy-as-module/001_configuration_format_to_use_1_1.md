@@ -1,5 +1,12 @@
 ---
-title: "Workspaces ADR 001: Configuration format to use"
+title: 'Workspaces ADR 001: Configuration format to use'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/001_configuration_format_to_use_1_1/
+description: ''
+linkTitle: 'Workspaces ADR 001: Configuration format to use'
+type: docs
 ---
 
 ## Context

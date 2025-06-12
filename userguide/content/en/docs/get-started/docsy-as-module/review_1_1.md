@@ -1,5 +1,12 @@
 ---
-title: "Security Architecture review process"
+title: Security Architecture review process
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/review_1_1/
+description: ''
+linkTitle: Security Architecture review process
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

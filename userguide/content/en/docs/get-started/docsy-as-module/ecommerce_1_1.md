@@ -1,6 +1,12 @@
 ---
-title: "Ecommerce Motion"
-description: "Accelerate improvements in our self service ecommerce purchasing experience"
+title: Ecommerce Motion
+description: Accelerate improvements in our self service ecommerce purchasing experience
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ecommerce_1_1/
+linkTitle: Ecommerce Motion
+type: docs
 ---
 
 ## Attributes

@@ -1,5 +1,12 @@
 ---
 title: Responding to Ransomware
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/responding-to-ransomware_1_1/
+description: ''
+linkTitle: Responding to Ransomware
+type: docs
 ---
 
 Ransomware is a persistent threat to many organizations, including GitLab.  In the event of a ransomware attack involving GitLab assets, it's important to know the existing response procedures in place.  Given the variability of targets in such attacks, it's critical to adapt to existing circumstances and understand that disaster recovery processes are in place to avoid paying any ransom.  GitLab's red team has done [extensive research](https://gitlab.com/gitlab-com/gl-security/security-operations/gl-redteam/red-team-operations/-/issues/118) to determine the most likely targets to be affected.  As a result, the following guidelines are intended to help bootstrap an efficient response to protect the organization.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: People 1
+aliases:
+- /docs/people_1/
+description: ''
+linkTitle: People 1
+type: docs
+---
+
 +++
 # People widget.
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Style Guide 1 1
+aliases:
+- /docs/STYLE_GUIDE_1_1/
+description: ''
+linkTitle: Style Guide 1 1
+type: docs
+---
+
 # Style Guide
 
 Welcome to the Astro style guide. This document is meant to guide you on the coding & writing styles of all content within the Astro repo, including:

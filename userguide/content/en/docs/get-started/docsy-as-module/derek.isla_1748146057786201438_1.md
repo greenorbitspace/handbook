@@ -1,7 +1,13 @@
 ---
-title: "Derek Isla's README"
-description: "README page for Derek Isla"
-job: "Manager, IT Compliance - Enterprise Application's Team"
+title: Derek Isla's README
+description: README page for Derek Isla
+job: Manager, IT Compliance - Enterprise Application's Team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/derek.isla_1748146057786201438_1/
+linkTitle: Derek Isla's README
+type: docs
 ---
 
 ### About Me

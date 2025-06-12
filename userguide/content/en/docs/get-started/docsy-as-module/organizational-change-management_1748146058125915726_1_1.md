@@ -1,5 +1,12 @@
 ---
 title: Organizational Change Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/organizational-change-management_1748146058125915726_1_1/
+description: ''
+linkTitle: Organizational Change Management
+type: docs
 ---
 
 ## Introduction

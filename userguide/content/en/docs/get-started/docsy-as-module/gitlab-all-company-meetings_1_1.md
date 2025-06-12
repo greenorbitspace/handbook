@@ -1,6 +1,12 @@
 ---
-title: "GitLab All-Company Meetings"
-description: "An overview of GitLab Assembly and Quarterly Kickoff Meetings"
+title: GitLab All-Company Meetings
+description: An overview of GitLab Assembly and Quarterly Kickoff Meetings
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-all-company-meetings_1_1/
+linkTitle: GitLab All-Company Meetings
+type: docs
 ---
 
 ## Overview

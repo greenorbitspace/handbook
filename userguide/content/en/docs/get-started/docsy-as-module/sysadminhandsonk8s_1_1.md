@@ -1,6 +1,13 @@
 ---
-title: "GitLab System Administration with Kubernetes - Hands-On Lab Overview"
-description: "This Hands-On Guide walks you through the lab exercises in the GitLab System Administration course using Kubernetes."
+title: GitLab System Administration with Kubernetes - Hands-On Lab Overview
+description: This Hands-On Guide walks you through the lab exercises in the GitLab
+  System Administration course using Kubernetes.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sysadminhandsonk8s_1_1/
+linkTitle: GitLab System Administration with Kubernetes - Hands-On Lab Overview
+type: docs
 ---
 
 ## GitLab System Administration Lab Guides

@@ -1,6 +1,13 @@
 ---
 title: 'GitLab CI Events ADR 001: Use hierarchical events'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/001_hierarchical_events_1/
+description: ''
+linkTitle: 'GitLab CI Events ADR 001: Use hierarchical events'
+type: docs
 ---
 
 ## Context

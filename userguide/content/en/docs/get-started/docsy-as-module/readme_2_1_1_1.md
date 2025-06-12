@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 2 1 1 1
+aliases:
+- /docs/readme_2_1_1_1/
+description: ''
+linkTitle: Readme 2 1 1 1
+type: docs
+---
+
 # slash
 
 > Convert Windows backslash paths to slash paths: `foo\\bar` ➔ `foo/bar`

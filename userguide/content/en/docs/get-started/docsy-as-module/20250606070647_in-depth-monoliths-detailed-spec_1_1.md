@@ -1,10 +1,15 @@
 ---
 title: Another Great Release
-date: 2018-01-04
-description: >
-  A short lead description about this content page. Text here can also be
-  **bold** or _italic_ and can even be split over multiple paragraphs.
+date: '2025-06-12T01:06:01+01:00'
+description: |
+  A short lead description about this content page. Text here can also be **bold** or _italic_ and can even be split over multiple paragraphs.
+weight: 2
+aliases:
+- /docs/20250606070647_in-depth-monoliths-detailed-spec_1_1/
+linkTitle: Another Great Release
+type: docs
 ---
+
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.

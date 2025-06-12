@@ -1,12 +1,13 @@
 ---
-
-title: "AMER CSMs"
+title: AMER CSMs
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/amer_1_1/
+description: ''
+linkTitle: AMER CSMs
+type: docs
 ---
-
-
-
-
-
 
 View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 

@@ -1,5 +1,12 @@
 ---
-title: "Talent Acquisition Enablement & Operations"
+title: Talent Acquisition Enablement & Operations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/talent-acquisition-enablement-ops_1_1/
+description: ''
+linkTitle: Talent Acquisition Enablement & Operations
+type: docs
 ---
 
 The Talent Acquisition Enablement & Operations job family supports and optimizes the Talent Acquisition Team, supports the Hiring Teams and coordinates reporting efforts. They search for ways to streamline and automate processes and are data focused.

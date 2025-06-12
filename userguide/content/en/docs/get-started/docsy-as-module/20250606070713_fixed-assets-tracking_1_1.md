@@ -5,6 +5,13 @@ doc_id: doc-861
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070713_fixed-assets-tracking_1_1/
+description: ''
+linkTitle: Fixed Assets Tracking
+type: docs
 ---
 
 # Fixed Assets Tracking Policy

@@ -1,7 +1,13 @@
 ---
-
 title: Collaboration on work items framework
-description: "Collaboration process and documentation for using and contributing to the work items framework"
+description: Collaboration process and documentation for using and contributing to
+  the work items framework
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/work-items_1_1/
+linkTitle: Collaboration on work items framework
+type: docs
 ---
 
 ## Background

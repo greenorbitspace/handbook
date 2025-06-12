@@ -1,6 +1,12 @@
 ---
 title: Evaluation Methods
-description: 
+description: ''
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/JTBD-Evaluation-Methods_1_1/
+linkTitle: Evaluation Methods
+type: docs
 ---
 
 If Jobs-to-be-Done is the theory, then Outcome-Driven Innovation is the practice.

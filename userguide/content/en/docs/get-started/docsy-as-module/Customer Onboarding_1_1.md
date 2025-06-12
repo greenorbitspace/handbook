@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Customer Onboarding 1 1
+aliases:
+- /docs/Customer Onboarding_1_1/
+description: ''
+linkTitle: Customer Onboarding 1 1
+type: docs
+---
+
 # Customer Onboarding
 
 [Unsupported block type: image]

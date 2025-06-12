@@ -1,6 +1,17 @@
 ---
-title: "Identity Platform"
-description: "The Identity Platform is a collection of microservices and tools that allow us to fetch IAM/RBAC data using each vendor's API, and use GitOps practices to handle state management for provisioning and deprovisioning users and roles across our tech stack applications that have complex hierarchy and permissions that are not supported by Identity Governance vendors. Each of the concepts were invented to help us standardize our IAM/RBAC architecture as we build homegrown automation."
+title: Identity Platform
+description: The Identity Platform is a collection of microservices and tools that
+  allow us to fetch IAM/RBAC data using each vendor's API, and use GitOps practices
+  to handle state management for provisioning and deprovisioning users and roles across
+  our tech stack applications that have complex hierarchy and permissions that are
+  not supported by Identity Governance vendors. Each of the concepts were invented
+  to help us standardize our IAM/RBAC architecture as we build homegrown automation.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_31_1_1/
+linkTitle: Identity Platform
+type: docs
 ---
 
 {{% alert title="Not Live Yet" color="warning" %}}

@@ -1,6 +1,13 @@
 ---
-title: "Infrastructure Department Projects"
-description: “GitLab’s approach to the types, data classifications, canonical locations, ownership, workflow and organization of infrastructure department projects”
+title: Infrastructure Department Projects
+description: “GitLab’s approach to the types, data classifications, canonical locations,
+  ownership, workflow and organization of infrastructure department projects”
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/projects_1_1/
+linkTitle: Infrastructure Department Projects
+type: docs
 ---
 
 The Infrastructure department uses GitLab projects to operate GitLab.com, and supporting services for GitLab Inc., in addition to [GitLab Engineering projects](/handbook/engineering/projects/).

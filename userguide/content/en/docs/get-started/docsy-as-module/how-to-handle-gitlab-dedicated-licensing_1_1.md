@@ -1,10 +1,14 @@
 ---
-
 title: Handling GitLab Dedicated License Requests
-description: "How to handle GitLab Dedicated License Requests"
+description: How to handle GitLab Dedicated License Requests
 category: GitLab Self-Managed licenses
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/how-to-handle-gitlab-dedicated-licensing_1_1/
+linkTitle: Handling GitLab Dedicated License Requests
+type: docs
 ---
-
 
 ## Workflow for handling GitLab Dedicated Licensing
 

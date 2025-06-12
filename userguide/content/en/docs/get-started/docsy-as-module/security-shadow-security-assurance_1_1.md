@@ -1,5 +1,12 @@
 ---
-title: "Security Shadow: Security Assurance"
+title: 'Security Shadow: Security Assurance'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-shadow-security-assurance_1_1/
+description: ''
+linkTitle: 'Security Shadow: Security Assurance'
+type: docs
 ---
 
 Completion of each course you will receive a certificate.  At the completion of all 3 courses your name will be recognized on this page.

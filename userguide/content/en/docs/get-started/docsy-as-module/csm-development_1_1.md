@@ -1,15 +1,14 @@
 ---
-
-title: "CSM Development"
-description: "Available development paths and resources for Customer Success Managers at GitLab."
+title: CSM Development
+description: Available development paths and resources for Customer Success Managers
+  at GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/csm-development_1_1/
+linkTitle: CSM Development
+type: docs
 ---
-
-
-
-
-
-
-
 
 As a Customer Success Manager at GitLab, you should feel empowered to take the time to invest in yourself and your career, leaning into the [70-20-10 rule for development](/handbook/people-group/learning-and-development/career-development/#70-20-10-rule-for-development).
 

@@ -1,6 +1,13 @@
 ---
-title: "Talent Acquisition Process - Hiring Manager Tasks"
-description: "This page is an overview of the processes the hiring manager is responsible for as a part of the requisition lifecycle."
+title: Talent Acquisition Process - Hiring Manager Tasks
+description: This page is an overview of the processes the hiring manager is responsible
+  for as a part of the requisition lifecycle.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/hiring-manager_1_1/
+linkTitle: Talent Acquisition Process - Hiring Manager Tasks
+type: docs
 ---
 
 ## Step 1/HM: Identifying hiring need

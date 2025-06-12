@@ -1,14 +1,15 @@
 ---
-
-title: "Using Timeline"
-description: "The Timeline view in Gainsight gives us a chronological overview of our activities with the customer. It's a valuable tool to see our interactions and progression on success efforts over time."
+title: Using Timeline
+description: The Timeline view in Gainsight gives us a chronological overview of our
+  activities with the customer. It's a valuable tool to see our interactions and progression
+  on success efforts over time.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/timeline_1_1/
+linkTitle: Using Timeline
+type: docs
 ---
-
-
-
-
-
-
 
 The Timeline view in Gainsight gives us a chronological overview of our activities with the customer. It's a valuable tool to see our interactions and progression on success efforts over time.
 

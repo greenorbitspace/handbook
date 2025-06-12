@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Company Handbook 1 1
+aliases:
+- /docs/company-handbook_1_1/
+description: ''
+linkTitle: Company Handbook 1 1
+type: docs
+---
+
 <!-- Unsupported block type: callout -->
 
 <!-- Unsupported block type: toggle -->

@@ -1,7 +1,12 @@
 ---
-
-title: "Runner Group - User Stories"
-description: "The GitLab Runner Group's user stories."
+title: Runner Group - User Stories
+description: The GitLab Runner Group's user stories.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/user-stories_1_1/
+linkTitle: Runner Group - User Stories
+type: docs
 ---
 
 ## User stories

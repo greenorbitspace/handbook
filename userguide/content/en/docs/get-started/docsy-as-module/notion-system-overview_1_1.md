@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Notion System Overview 1 1
+aliases:
+- /docs/notion-system-overview_1_1/
+description: ''
+linkTitle: Notion System Overview 1 1
+type: docs
+---
+
 <!-- Unsupported block type: table_of_contents -->
 
 Green Orbit Digital leverages Notion as its central operations hub, designed for scalability, clarity, and agility. This playbook details how our workspace is structured and how we use PARA, Zettelkasten, Eisenhower Matrix, Kanban, and custom dashboards to manage workflows, tasks, and knowledge.

@@ -1,6 +1,13 @@
 ---
 layout: handbook-page-toc
-title: "SAST analyzer rollback to last version in production"
+title: SAST analyzer rollback to last version in production
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/analyzer-rollback-production_1748146057959326729_1_1/
+description: ''
+linkTitle: SAST analyzer rollback to last version in production
+type: docs
 ---
 
 ## Rolling back analyzer to previous minor or patch version

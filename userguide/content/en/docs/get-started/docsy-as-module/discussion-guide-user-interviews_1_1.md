@@ -1,6 +1,13 @@
 ---
-title: "Writing a discussion guide for user interviews"
-description: "A discussion guide is a set of questions and topics that you would like to discuss with a participant during a user interview"
+title: Writing a discussion guide for user interviews
+description: A discussion guide is a set of questions and topics that you would like
+  to discuss with a participant during a user interview
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/discussion-guide-user-interviews_1_1/
+linkTitle: Writing a discussion guide for user interviews
+type: docs
 ---
 
 ## How to write a discussion guide

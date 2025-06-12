@@ -1,5 +1,12 @@
 ---
-title: "Agile Planning Terms V1"
+title: Agile Planning Terms V1
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/agile-planning-terms-v1_1_1/
+description: ''
+linkTitle: Agile Planning Terms V1
+type: docs
 ---
 
 *Deprecated 2024-08-29*

@@ -1,13 +1,14 @@
 ---
-
 title: Create a Jenkins Pipeline
-description: “Discover how to create a Jenkins Pipeline page with GitLab’s Jenkins integration”
+description: “Discover how to create a Jenkins Pipeline page with GitLab’s Jenkins
+  integration”
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/create-jenkins-pipeline_1_1/
+linkTitle: Create a Jenkins Pipeline
+type: docs
 ---
-
-
-
-
-
 
 ## Overview
 

@@ -1,14 +1,13 @@
 ---
-aliases: /handbook/marketing/readmes/nikki-roth-silverberg.html
-title: "Nikki Roth Silverberg README (Staff Marketing Operations Manager)"
-description: "Learn more about working with Nikki Roth Silverberg"
+aliases:
+- /docs/nikki-roth-silverberg_1_1/
+title: Nikki Roth Silverberg README (Staff Marketing Operations Manager)
+description: Learn more about working with Nikki Roth Silverberg
+weight: 2
+date: '2025-06-12'
+linkTitle: Nikki Roth Silverberg README (Staff Marketing Operations Manager)
+type: docs
 ---
-
-
-
-
-
-
 
 ## README: Nikki Roth Silverberg
 

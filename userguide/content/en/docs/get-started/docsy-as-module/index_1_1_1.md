@@ -1,5 +1,13 @@
 ---
 layout: page
+weight: 2
+date: '2025-06-12'
+title: Index 1 1 1
+aliases:
+- /docs/index_1_1_1/
+description: ''
+linkTitle: Index 1 1 1
+type: docs
 ---
 
 ## Project overview

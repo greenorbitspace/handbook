@@ -1,5 +1,12 @@
 ---
-title: "Security Requirements for Development and Deployment"
+title: Security Requirements for Development and Deployment
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-development-deployment-requirements_1_1/
+description: ''
+linkTitle: Security Requirements for Development and Deployment
+type: docs
 ---
 
 ## Summary

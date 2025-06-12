@@ -1,17 +1,24 @@
 ---
-# This is the title of your design document. Keep it short, simple, and descriptive. A
-# good title can help communicate what the design document is and should be considered
-# as part of any review.
 title: Design doc title
 status: proposed
-creation-date: "yyyy-mm-dd"
-authors: [ "@username" ]
-coaches: [ "@username" ]
-dris: [ "@product-manager", "@engineering-manager" ]
-owning-stage: "~devops::<stage>"
+creation-date: yyyy-mm-dd
+authors:
+- '@username'
+coaches:
+- '@username'
+dris:
+- '@product-manager'
+- '@engineering-manager'
+owning-stage: ~devops::<stage>
 participating-stages: []
-# Hides this page in the left sidebar. Recommended so we don't pollute it.
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_template_1_1/
+description: ''
+linkTitle: Design doc title
+type: docs
 ---
 
 <!--

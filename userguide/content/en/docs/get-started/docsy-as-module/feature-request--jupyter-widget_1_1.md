@@ -1,10 +1,16 @@
 ---
 name: 'Feature request: Jupyter widget'
 about: Suggest an idea for kepler.gl Jupyter Widget
-title: ''
+title: Feature Request  Jupyter Widget 1 1
 labels: jupyter
 assignees: heshan0131
-
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/feature-request--jupyter-widget_1_1/
+description: ''
+linkTitle: Feature Request  Jupyter Widget 1 1
+type: docs
 ---
 
 **Is your feature request related to a problem? Please describe.**

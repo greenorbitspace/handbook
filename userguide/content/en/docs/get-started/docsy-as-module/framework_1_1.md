@@ -1,14 +1,14 @@
 ---
-
-title: "Professional Services Offerings Framework"
-description: “Discover the various GitLab Professional Service Offerings and how they're organized into Categories and Types."
+title: Professional Services Offerings Framework
+description: “Discover the various GitLab Professional Service Offerings and how they're
+  organized into Categories and Types."
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/framework_1_1/
+linkTitle: Professional Services Offerings Framework
+type: docs
 ---
-
-
-
-
-
-
 
 ### What is a Services Offering Framework?
 

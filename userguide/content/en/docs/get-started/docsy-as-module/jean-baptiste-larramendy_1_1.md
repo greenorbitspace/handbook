@@ -1,13 +1,13 @@
 ---
-title: "Jean-Baptiste Larramendy README (AVP, Sales Dev)"
-description: "Learn more about working with Jean-Baptiste Larramendy"
+title: Jean-Baptiste Larramendy README (AVP, Sales Dev)
+description: Learn more about working with Jean-Baptiste Larramendy
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/jean-baptiste-larramendy_1_1/
+linkTitle: Jean-Baptiste Larramendy README (AVP, Sales Dev)
+type: docs
 ---
-
-
-
-
-
-
 
 ## Jean-Baptiste Larramendy's README
 

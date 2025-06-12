@@ -5,6 +5,13 @@ doc_id: guide-001
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070709_guide-to-all-remote-working_1_1/
+description: ''
+linkTitle: Guide To All Remote Working
+type: docs
 ---
 
 How to work remotely - the GitLab guide

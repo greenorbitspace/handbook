@@ -1,7 +1,13 @@
 ---
-description: >-
-  In this page you will find how to retrieve, create, update or delete multiple
-  raindrops at once.
+description: In this page you will find how to retrieve, create, update or delete
+  multiple raindrops at once.
+weight: 2
+date: '2025-06-12'
+title: Multiple 1 1
+aliases:
+- /docs/multiple_1_1/
+linkTitle: Multiple 1 1
+type: docs
 ---
 
 # Multiple raindrops

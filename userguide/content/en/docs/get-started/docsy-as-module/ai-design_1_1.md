@@ -1,6 +1,12 @@
 ---
-title: A Guide for Designing with AI 
-description: "Here are some guidelines to help Product Designers navigate AI projects"
+title: A Guide for Designing with AI
+description: Here are some guidelines to help Product Designers navigate AI projects
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ai-design_1_1/
+linkTitle: A Guide for Designing with AI
+type: docs
 ---
 
 ## Understanding AI Design Challenges

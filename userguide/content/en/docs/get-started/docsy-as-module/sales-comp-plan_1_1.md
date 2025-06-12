@@ -1,5 +1,12 @@
 ---
-title: "Sales Compensation Plan"
+title: Sales Compensation Plan
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sales-comp-plan_1_1/
+description: ''
+linkTitle: Sales Compensation Plan
+type: docs
 ---
 
 FY23 Compensation T&Cs can be found in the Internal Handbook:

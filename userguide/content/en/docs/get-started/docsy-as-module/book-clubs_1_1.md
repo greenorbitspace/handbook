@@ -1,5 +1,12 @@
 ---
-title: "Book clubs"
+title: Book clubs
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/book-clubs_1_1/
+description: ''
+linkTitle: Book clubs
+type: docs
 ---
 
 From time to time, we run internal book clubs on a book from one of our resource lists. All are welcome! However,

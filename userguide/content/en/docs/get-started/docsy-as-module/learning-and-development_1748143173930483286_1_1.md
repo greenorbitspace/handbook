@@ -1,10 +1,16 @@
 ---
-title: "All-Remote Learning and Development (L&D)"
+title: All-Remote Learning and Development (L&D)
 description: How to build a L&D department in a remote company
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/learning-and-development_1748143173930483286_1_1/
+linkTitle: All-Remote Learning and Development (L&D)
+type: docs
 ---
 
 On this page, we're detailing how [learning and development (L&D)](/handbook/people-group/learning-and-development) works in a global all-remote company.

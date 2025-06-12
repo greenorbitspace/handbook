@@ -1,16 +1,16 @@
 ---
-
 title: Emails Processes
 description: An overview of email processes at GitLab.
-twitter_image: '/images/tweets/handbook-marketing.png'
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/tweets/handbook-marketing.png
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/email-processes-requests_1_1/
+linkTitle: Emails Processes
+type: docs
 ---
-
-
-
-
-
 
 ## Overview
 <!-- DO NOT CHANGE THIS ANCHOR -->

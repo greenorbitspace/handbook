@@ -1,13 +1,13 @@
 ---
-
-title: "Developer Relations workflow: UTM Tracking Strategy"
+title: 'Developer Relations workflow: UTM Tracking Strategy'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/utm-strategy_1_1/
+description: ''
+linkTitle: 'Developer Relations workflow: UTM Tracking Strategy'
+type: docs
 ---
-
-
-
-
-
-
 
 ## <i class="" id="overview"></i> Overview
 

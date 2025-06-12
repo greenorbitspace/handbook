@@ -1,6 +1,13 @@
 ---
-title: "TMRG - Generational Understanding"
-description: "We are the Generational Understanding Resource Group (TMRG) founded in the summer of 2020. Learn more!"
+title: TMRG - Generational Understanding
+description: We are the Generational Understanding Resource Group (TMRG) founded in
+  the summer of 2020. Learn more!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tmrg-gitlab-generational-understanding_1_1/
+linkTitle: TMRG - Generational Understanding
+type: docs
 ---
 
 ## Mission

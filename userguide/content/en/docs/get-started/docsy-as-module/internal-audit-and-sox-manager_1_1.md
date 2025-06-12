@@ -1,6 +1,14 @@
 ---
 title: The Internal Audit and SOX Manager
-description: Responsible for preparing and implementing a risk-based SOX audit plan to assess, report on, and make suggestions for improving the company’s key operational and finance activities and internal controls.
+description: Responsible for preparing and implementing a risk-based SOX audit plan
+  to assess, report on, and make suggestions for improving the company’s key operational
+  and finance activities and internal controls.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/internal-audit-and-sox-manager_1_1/
+linkTitle: The Internal Audit and SOX Manager
+type: docs
 ---
 
 The position will have a key role in assessing the company’s compliance with the requirements of the Sarbanes-Oxley Act of 2002. This position reports to the Vice President of Internal Audit.

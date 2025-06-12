@@ -1,6 +1,13 @@
 ---
-title: "GitLab CI/CD - Hands-On Lab: Create A Basic CI Configuration"
-description: "This Hands-On Guide walks you through creating and running a .gitlab-ci.yml file."
+title: 'GitLab CI/CD - Hands-On Lab: Create A Basic CI Configuration'
+description: This Hands-On Guide walks you through creating and running a .gitlab-ci.yml
+  file.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabcicdhandsonlab3_1/
+linkTitle: 'GitLab CI/CD - Hands-On Lab: Create A Basic CI Configuration'
+type: docs
 ---
 
 > Estimate time to complete: 15 - 20 minutes

@@ -1,6 +1,12 @@
 ---
-title: "Sample sizes for surveys"
-description: "A guide to help determine your survey sample size."
+title: Sample sizes for surveys
+description: A guide to help determine your survey sample size.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sample-sizes-for-surveys_1_1/
+linkTitle: Sample sizes for surveys
+type: docs
 ---
 
 In a perfect world, we’d sample every single user within the [population](https://statsandr.com/blog/what-is-the-difference-between-population-and-sample/).  However, we can’t do that. Why? It’s inefficient, expensive, time-consuming, and probably impossible to pull off.  Instead, we try to attain a *representative sample of the population* from the population we want to focus on. To do this, we take a slice of that population, referred to as our ‘sample’.

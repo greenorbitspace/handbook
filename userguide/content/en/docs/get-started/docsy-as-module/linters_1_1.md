@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Linters 1 1
+aliases:
+- /docs/linters_1_1/
+description: ''
+linkTitle: Linters 1 1
+type: docs
+---
+
 # Linting the datadog-agent repository
 
 Welcome to the Datadog Agent linters documentation! Linters are tools that check our source code for errors, bugs, and stylistic inconsistencies. They're essential for maintaining code quality and consistency.

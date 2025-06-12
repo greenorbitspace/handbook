@@ -1,17 +1,13 @@
 ---
-
-title: "Sales Play: GitOps for First Order"
-description: "This page has all the information for the FO GitOps sales play."
-
+title: 'Sales Play: GitOps for First Order'
+description: This page has all the information for the FO GitOps sales play.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/first-order_1_1/
+linkTitle: 'Sales Play: GitOps for First Order'
+type: docs
 ---
-
-
-
-
-
-
-
-
 
 ### **GitOps Sales Play for FO AEs**
 

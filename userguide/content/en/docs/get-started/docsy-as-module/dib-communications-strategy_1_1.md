@@ -1,6 +1,13 @@
 ---
 title: Diversity Inclusion & Belonging Communications Strategy
-description: PRoviding details on how the DIB Team communicates with GitLab to achieve engagement, contributions and collaborations from team members
+description: PRoviding details on how the DIB Team communicates with GitLab to achieve
+  engagement, contributions and collaborations from team members
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dib-communications-strategy_1_1/
+linkTitle: Diversity Inclusion & Belonging Communications Strategy
+type: docs
 ---
 
 ### Purpose

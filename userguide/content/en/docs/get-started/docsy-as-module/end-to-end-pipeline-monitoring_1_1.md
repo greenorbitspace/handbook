@@ -1,6 +1,12 @@
 ---
 title: End-to-end Pipeline Monitoring
 description: Overview of our E2E monitoring tools and practices
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/end-to-end-pipeline-monitoring_1_1/
+linkTitle: End-to-end Pipeline Monitoring
+type: docs
 ---
 
 ## End-to-end (E2E) test pipelines

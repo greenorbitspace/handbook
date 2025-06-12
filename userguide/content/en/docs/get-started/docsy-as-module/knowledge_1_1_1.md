@@ -1,5 +1,12 @@
 ---
 title: Plan:Knowledge Engineering Team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/knowledge_1_1_1/
+description: ''
+linkTitle: Plan:Knowledge Engineering Team
+type: docs
 ---
 
 ## Plan:Knowledge team

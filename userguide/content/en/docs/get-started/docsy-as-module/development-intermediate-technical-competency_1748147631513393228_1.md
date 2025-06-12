@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Development Intermediate Technical Competency 1748147631513393228 1
+aliases:
+- /docs/development-intermediate-technical-competency_1748147631513393228_1/
+description: ''
+linkTitle: Development Intermediate Technical Competency 1748147631513393228 1
+type: docs
+---
+
 ##### Development
 
 * Writes [tests](https://docs.gitlab.com/ee/development/testing_guide/best_practices.html) with every MR and works to uplift the quality of the code.

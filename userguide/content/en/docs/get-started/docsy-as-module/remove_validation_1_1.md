@@ -1,8 +1,14 @@
 ---
 title: Remove Validation
-description: "Workflow to remove validation on a GitLab.com user account"
+description: Workflow to remove validation on a GitLab.com user account
 category: GitLab.com
 subcategory: Accounts
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/remove_validation_1_1/
+linkTitle: Remove Validation
+type: docs
 ---
 
 ## Overview

@@ -1,5 +1,12 @@
 ---
-title: "Business Technology Service Desk"
+title: Business Technology Service Desk
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bt-servicedesk-analyst_1_1_1/
+description: ''
+linkTitle: Business Technology Service Desk
+type: docs
 ---
 
 ## Business Technology Service Desk Analyst

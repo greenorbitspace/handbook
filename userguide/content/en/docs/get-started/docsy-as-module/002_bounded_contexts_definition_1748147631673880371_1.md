@@ -1,8 +1,16 @@
 ---
-title: "Modular Monolith ADR 002: Define bounded contexts"
-creation-date: "2024-05-07"
-authors: [ "@fabiopitino" ]
+title: 'Modular Monolith ADR 002: Define bounded contexts'
+creation-date: '2024-05-07'
+authors:
+- '@fabiopitino'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/002_bounded_contexts_definition_1748147631673880371_1/
+description: ''
+linkTitle: 'Modular Monolith ADR 002: Define bounded contexts'
+type: docs
 ---
 
 ## Context

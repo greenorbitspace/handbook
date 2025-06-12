@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Internals 1 1
+aliases:
+- /docs/internals_1_1/
+description: ''
+linkTitle: Internals 1 1
+type: docs
+---
+
 # DogStatsD internals
 
 <figure markdown>

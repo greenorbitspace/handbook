@@ -2,6 +2,14 @@
 name: Discussion
 about: Ask a question or bring up points of consideration
 labels: discussion
+weight: 2
+date: '2025-06-12'
+title: Discussion 1 1
+aliases:
+- /docs/discussion_1_1/
+description: ''
+linkTitle: Discussion 1 1
+type: docs
 ---
 
 <!--

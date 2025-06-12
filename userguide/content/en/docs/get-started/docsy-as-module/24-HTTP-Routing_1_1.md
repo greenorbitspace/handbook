@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 24 Http Routing 1 1
+aliases:
+- /docs/24-HTTP-Routing_1_1/
+description: ''
+linkTitle: 24 Http Routing 1 1
+type: docs
+---
+
 ### Routing 
 - <mark>req.url</mark> gives us the query string
 - we can use it with if statment to respond differently

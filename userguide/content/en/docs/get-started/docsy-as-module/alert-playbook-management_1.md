@@ -1,5 +1,12 @@
 ---
-title: "Alert Playbook Management"
+title: Alert Playbook Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/alert-playbook-management_1/
+description: ''
+linkTitle: Alert Playbook Management
+type: docs
 ---
 
 ## Purpose

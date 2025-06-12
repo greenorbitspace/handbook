@@ -1,16 +1,16 @@
 ---
-
-title: "GitLab.tv Events Channel Playbook"
+title: GitLab.tv Events Channel Playbook
 description: GitLab.tv Events Channel Playbook
-twitter_image: '/images/tweets/handbook-marketing.png'
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/tweets/handbook-marketing.png
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/events-channel-playbook_1_1/
+linkTitle: GitLab.tv Events Channel Playbook
+type: docs
 ---
-
-
-
-
-
 
 ## Introduction
 

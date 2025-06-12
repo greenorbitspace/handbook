@@ -1,8 +1,14 @@
 ---
 title: Looking up customer account details
-description: "How to look up customer account details within Zendesk and customers.gitlab.com"
+description: How to look up customer account details within Zendesk and customers.gitlab.com
 category: Handling tickets
 subcategory: Customer Info
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/looking_up_customer_account_details_1_1/
+linkTitle: Looking up customer account details
+type: docs
 ---
 
 ## Looking up customer account details

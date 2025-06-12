@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Charts 1 1
+aliases:
+- /docs/charts_1_1/
+description: ''
+linkTitle: Charts 1 1
+type: docs
+---
+
 <h1>Chart types</h1>
 
 Open SDG supports a few different types of charts. Each indicator will display a type of chart according to the `graph_type` metadata field. See below for more details on each type.

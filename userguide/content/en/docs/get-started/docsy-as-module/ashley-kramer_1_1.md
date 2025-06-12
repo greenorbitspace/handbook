@@ -1,13 +1,13 @@
 ---
-title: "Ashley Kramer README (Chief Marketing and Strategy Officer)"
-description: "Learn more about working with Ashley Kramer"
+title: Ashley Kramer README (Chief Marketing and Strategy Officer)
+description: Learn more about working with Ashley Kramer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ashley-kramer_1_1/
+linkTitle: Ashley Kramer README (Chief Marketing and Strategy Officer)
+type: docs
 ---
-
-
-
-
-
-
 
 ## Ashley Kramer's README
 

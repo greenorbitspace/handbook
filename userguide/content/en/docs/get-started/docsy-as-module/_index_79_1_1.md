@@ -1,6 +1,13 @@
 ---
 title: Licensing and Renewals Support Pod
-description: A Support Pod for everything Licensing and Renewals related (from the technical side). 
+description: A Support Pod for everything Licensing and Renewals related (from the
+  technical side).
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_79_1_1/
+linkTitle: Licensing and Renewals Support Pod
+type: docs
 ---
 
 ## Purpose

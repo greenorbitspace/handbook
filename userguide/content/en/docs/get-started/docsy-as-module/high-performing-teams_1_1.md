@@ -1,6 +1,13 @@
 ---
 title: Building high performing teams
-description: A collection of external resources on Teamwork & Elevating Others, with a focus on Building High Performing Teams
+description: A collection of external resources on Teamwork & Elevating Others, with
+  a focus on Building High Performing Teams
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/high-performing-teams_1_1/
+linkTitle: Building high performing teams
+type: docs
 ---
 
 Part of a people leader's responsibilities is to build a high performing team. There are many things which go into enabling this to occur, including

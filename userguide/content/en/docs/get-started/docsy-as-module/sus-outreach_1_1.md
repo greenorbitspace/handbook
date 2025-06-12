@@ -1,6 +1,15 @@
 ---
-title: "System Usability Scale responder outreach"
-description: "The System Usability Scale (SUS) is a performance indicator we use to measure the long term usability of our product. This page outlines the process for reaching out to survey respondents who have opted-in to having a follow-up discussion with our UX team."
+title: System Usability Scale responder outreach
+description: The System Usability Scale (SUS) is a performance indicator we use to
+  measure the long term usability of our product. This page outlines the process for
+  reaching out to survey respondents who have opted-in to having a follow-up discussion
+  with our UX team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sus-outreach_1_1/
+linkTitle: System Usability Scale responder outreach
+type: docs
 ---
 
 Every quarter, we include a question in the SUS survey that asks whether respondents would be interested in discussing their responses with a GitLab team member. This is a great opportunity for Product Designers and Product Managers to learn more about the usability challenges for their specific product area.

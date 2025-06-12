@@ -1,6 +1,13 @@
 ---
-title: "Talent Acquisition, Sourcer"
-description: "Sourcers at GitLab are experts at finding the best candidates for a high-tech, distributed company."
+title: Talent Acquisition, Sourcer
+description: Sourcers at GitLab are experts at finding the best candidates for a high-tech,
+  distributed company.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/talent-acquisition-sourcing_1_1/
+linkTitle: Talent Acquisition, Sourcer
+type: docs
 ---
 
 ## Levels

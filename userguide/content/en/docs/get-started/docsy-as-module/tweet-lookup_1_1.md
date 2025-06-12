@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Tweet Lookup 1 1
+aliases:
+- /docs/tweet-lookup_1_1/
+description: ''
+linkTitle: Tweet Lookup 1 1
+type: docs
+---
+
 Follow API could return information about a Tweet or group of Tweets, specified by a Tweet ID.
 
 Get single tweet

@@ -1,14 +1,13 @@
 ---
-
-title: "Sidney Persona snippets"
-
+title: Sidney Persona snippets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sidney_1_1/
+description: ''
+linkTitle: Sidney Persona snippets
+type: docs
 ---
-
-
-
-
-
-
 
 ## SDR persona snippets by use case
 

@@ -1,5 +1,12 @@
 ---
-title: "Workspaces ADR 003: Authorizing user to create and access a workspace"
+title: 'Workspaces ADR 003: Authorizing user to create and access a workspace'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/003_authorizing_user_to_create_and_access_workspace_1748146057925987871_1/
+description: ''
+linkTitle: 'Workspaces ADR 003: Authorizing user to create and access a workspace'
+type: docs
 ---
 
 > [!WARNING]  

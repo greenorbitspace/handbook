@@ -1,5 +1,12 @@
 ---
 title: PostgreSQL Upgrade Cadence
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/postgresql-upgrade-cadence_1748147631734142041_1_1/
+description: ''
+linkTitle: PostgreSQL Upgrade Cadence
+type: docs
 ---
 
 ## PostgreSQL yearly upgrade cadence

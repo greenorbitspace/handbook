@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Custom Initial State 1 1
+aliases:
+- /docs/custom-initial-state_1_1/
+description: ''
+linkTitle: Custom Initial State 1 1
+type: docs
+---
+
 # Custom reducer initial state
 
 For advanced users who wish to modify the initial state of kepler.gl reducer, kepler.gl provides a reducer `initialState` function. `Reducer.initialState` will take the custom state and return a new reducer function. `initialState` is only meant to be called where the store is initialized. The custom state passed in will be shallow merged with the default `initialState`.

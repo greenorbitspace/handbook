@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Terms 1 1
+aliases:
+- /docs/terms_1_1/
+description: ''
+linkTitle: Terms 1 1
+type: docs
+---
+
 # Terms & Guidelines
 
 ### How may I use the API? <a href="#how-may-i-use-the-api" id="how-may-i-use-the-api"></a>

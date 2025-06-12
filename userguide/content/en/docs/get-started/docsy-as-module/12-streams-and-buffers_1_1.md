@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 12 Streams And Buffers 1 1
+aliases:
+- /docs/12-streams-and-buffers_1_1/
+description: ''
+linkTitle: 12 Streams And Buffers 1 1
+type: docs
+---
+
 ### streams
 - it is a sequence of data that is being moved from one point to another over time
 

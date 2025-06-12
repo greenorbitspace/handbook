@@ -1,7 +1,15 @@
 ---
-owning-stage: "~devops::data stores"
+owning-stage: ~devops::data stores
 title: 'Database Size Limit ADR 003: Limit new indexes for tables larger than 50 GB'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/003_limit_new_indexes_1_1/
+description: ''
+linkTitle: 'Database Size Limit ADR 003: Limit new indexes for tables larger than
+  50 GB'
+type: docs
 ---
 
 ## Context

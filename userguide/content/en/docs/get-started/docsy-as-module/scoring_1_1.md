@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Scoring 1 1
+aliases:
+- /docs/scoring_1_1/
+description: ''
+linkTitle: Scoring 1 1
+type: docs
+---
+
 # Lighthouse Scores
 
 ## How is the Performance score calculated?

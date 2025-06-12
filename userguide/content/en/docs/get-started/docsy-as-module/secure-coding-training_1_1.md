@@ -1,5 +1,12 @@
 ---
-title: "GitLab Security Secure Coding Training"
+title: GitLab Security Secure Coding Training
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/secure-coding-training_1_1/
+description: ''
+linkTitle: GitLab Security Secure Coding Training
+type: docs
 ---
 
 This page contains information on secure training initiatives sponsored by the GitLab Security team.

@@ -1,6 +1,12 @@
 ---
-title: "Interviewing at GitLab - Infrastructure"
-description: "Tips on how to prepare for your interview - Infrastructure"
+title: Interviewing at GitLab - Infrastructure
+description: Tips on how to prepare for your interview - Infrastructure
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/infrastructure-interview_1_1/
+linkTitle: Interviewing at GitLab - Infrastructure
+type: docs
 ---
 
 ## Most common open roles in Infrastructure

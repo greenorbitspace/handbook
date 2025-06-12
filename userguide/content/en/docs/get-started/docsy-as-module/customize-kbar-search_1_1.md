@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Customize Kbar Search 1 1
+aliases:
+- /docs/customize-kbar-search_1_1/
+description: ''
+linkTitle: Customize Kbar Search 1 1
+type: docs
+---
+
 # How can I customize the `kbar` search?
 
 Add a `SearchProvider` component such as the one shown below and use it in place of the default `SearchProvider` component in `app/layout.tsx`.

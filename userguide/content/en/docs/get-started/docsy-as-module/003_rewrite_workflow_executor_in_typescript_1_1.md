@@ -1,7 +1,14 @@
 ---
-title: "Duo Workflow ADR 003: Use TypeScript for Duo Workflow Executor"
-owning-stage: "~devops::ai_powered"
+title: 'Duo Workflow ADR 003: Use TypeScript for Duo Workflow Executor'
+owning-stage: ~devops::ai_powered
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/003_rewrite_workflow_executor_in_typescript_1_1/
+description: ''
+linkTitle: 'Duo Workflow ADR 003: Use TypeScript for Duo Workflow Executor'
+type: docs
 ---
 
 ## Context

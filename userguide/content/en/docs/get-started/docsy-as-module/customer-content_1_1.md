@@ -1,8 +1,14 @@
 ---
-
-title: "Resources to get started with GitLab"
-description: "A 5-day plan to get started with GitLab"
+title: Resources to get started with GitLab
+description: A 5-day plan to get started with GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-content_1_1/
+linkTitle: Resources to get started with GitLab
+type: docs
 ---
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## Get familiar with GitLab

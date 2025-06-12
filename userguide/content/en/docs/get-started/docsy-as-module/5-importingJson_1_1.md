@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 5 Importingjson 1 1
+aliases:
+- /docs/5-importingJson_1_1/
+description: ''
+linkTitle: 5 Importingjson 1 1
+type: docs
+---
+
 ### Json (js object Notation)
 a data interchange format commonly used with web servers
 ```json

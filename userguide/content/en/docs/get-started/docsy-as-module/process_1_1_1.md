@@ -1,6 +1,12 @@
 ---
-title: "Geo and Disaster Recovery - Planning"
-description: "How the Geo Team Operates"
+title: Geo and Disaster Recovery - Planning
+description: How the Geo Team Operates
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/process_1_1_1/
+linkTitle: Geo and Disaster Recovery - Planning
+type: docs
 ---
 
 ## Discussions

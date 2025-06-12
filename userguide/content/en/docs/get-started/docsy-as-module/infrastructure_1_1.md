@@ -1,8 +1,12 @@
 ---
-aliases: /handbook/engineering/development/analytics/analytics-instrumentation/infrastructure.html
-
+aliases:
+- /docs/infrastructure_1_1/
 title: Internal Analytics Infrastructure
-description: "Architecture of our internal analytics systems"
+description: Architecture of our internal analytics systems
+weight: 2
+date: '2025-06-12'
+linkTitle: Internal Analytics Infrastructure
+type: docs
 ---
 
 ## Snowplow

@@ -1,13 +1,13 @@
 ---
-
-title: "Infrastructure Product Management"
+title: Infrastructure Product Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-management_1_1/
+description: ''
+linkTitle: Infrastructure Product Management
+type: docs
 ---
-
-
-
-
-
-
 
 ## Responsibilities
 

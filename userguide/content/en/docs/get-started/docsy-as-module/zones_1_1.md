@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Zones 1 1
+aliases:
+- /docs/zones_1_1/
+description: ''
+linkTitle: Zones 1 1
+type: docs
+---
+
 # Time zones and offsets
 
 Luxon has support for time zones. This page explains how to use them.

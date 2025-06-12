@@ -1,7 +1,13 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/workflows/project_execution/sign-off.html
+aliases:
+- /docs/sign-off_1_1/
 title: Sign-off
 category: Project Execution
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Sign-off
+type: docs
 ---
 
 After the SOW, or a specific Milestone has been successfully delivered and completed, the customer will need to sign a Project sign off document. This should be sent by the Project Manager.  To send a Project Sign off document:

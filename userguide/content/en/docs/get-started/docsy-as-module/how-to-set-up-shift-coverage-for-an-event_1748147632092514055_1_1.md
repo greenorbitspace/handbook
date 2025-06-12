@@ -1,7 +1,14 @@
 ---
 title: Scheduling Support Coverage for a Company-wide Event
 category: References
-description: Use this workflow when you want to get a coverage schedule, including PD, going for an event like Contribute
+description: Use this workflow when you want to get a coverage schedule, including
+  PD, going for an event like Contribute
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/how-to-set-up-shift-coverage-for-an-event_1748147632092514055_1_1/
+linkTitle: Scheduling Support Coverage for a Company-wide Event
+type: docs
 ---
 
 ##### Overview

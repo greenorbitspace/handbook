@@ -1,5 +1,12 @@
 ---
 title: GitLab Fiscal Year 2023 (FY23) ESG Report
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/fy23-esg-report_1_1/
+description: ''
+linkTitle: GitLab Fiscal Year 2023 (FY23) ESG Report
+type: docs
 ---
 
 ## Message From Our Chief Executive Officer

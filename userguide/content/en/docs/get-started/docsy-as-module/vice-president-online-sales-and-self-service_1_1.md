@@ -1,5 +1,12 @@
 ---
-title: "Vice President, Online Sales and Self Service"
+title: Vice President, Online Sales and Self Service
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vice-president-online-sales-and-self-service_1_1/
+description: ''
+linkTitle: Vice President, Online Sales and Self Service
+type: docs
 ---
 
 The Vice President, Online Sales & Self Service job family is responsible for bringing a strategic vision and innovative approach in creating, managing and executing strategic programs that drive key revenue, margin, and growth opportunities globally for GitLab.

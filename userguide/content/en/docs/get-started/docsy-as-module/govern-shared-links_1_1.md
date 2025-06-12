@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Govern Shared Links 1 1
+aliases:
+- /docs/govern-shared-links_1_1/
+description: ''
+linkTitle: Govern Shared Links 1 1
+type: docs
+---
+
 - Stage links
   - Discussions and issues are located at [`gitlab-org/govern`](https://gitlab.com/gitlab-org/govern)
   - General Slack [#s_govern](https://app.slack.com/client/T02592416/CFHGVJ06R)

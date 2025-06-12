@@ -1,6 +1,12 @@
 ---
 title: Promoting a Support Engineer
-description: "How to handle Support Engineer promotions"
+description: How to handle Support Engineer promotions
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/promoting-a-support-team-member_1_1/
+linkTitle: Promoting a Support Engineer
+type: docs
 ---
 
 ### Support Engineer Promotion Process for Support Managers - Quick Guide

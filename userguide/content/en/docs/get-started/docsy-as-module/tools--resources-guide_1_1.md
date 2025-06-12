@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Tools  Resources Guide 1 1
+aliases:
+- /docs/tools--resources-guide_1_1/
+description: ''
+linkTitle: Tools  Resources Guide 1 1
+type: docs
+---
+
 <!-- Unsupported block type: table_of_contents -->
 
 Welcome to Green Orbit Digital. This guide outlines the key tools and resources that support the core functions of our business. Each tool is selected to enhance productivity, streamline operations, and reinforce our commitment to sustainable practices. The tools have been grouped by function to reflect their primary role in the company's daily operations.

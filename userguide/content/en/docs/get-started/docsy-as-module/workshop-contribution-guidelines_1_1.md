@@ -1,6 +1,13 @@
 ---
-title: "Workshop Contribution Guidelines"
-description: "Guidance on how you can contribute your own content to be supported by Demo Architecture"
+title: Workshop Contribution Guidelines
+description: Guidance on how you can contribute your own content to be supported by
+  Demo Architecture
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/workshop-contribution-guidelines_1_1/
+linkTitle: Workshop Contribution Guidelines
+type: docs
 ---
 
 ## Workshop Contribution Guidelines

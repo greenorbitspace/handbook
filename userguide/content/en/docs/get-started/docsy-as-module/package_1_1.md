@@ -1,5 +1,12 @@
 ---
-title: "Usecase: Artifact Management"
+title: 'Usecase: Artifact Management'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/package_1_1/
+description: ''
+linkTitle: 'Usecase: Artifact Management'
+type: docs
 ---
 
 #### Who to contact

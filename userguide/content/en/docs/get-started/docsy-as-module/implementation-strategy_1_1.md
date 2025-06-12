@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Implementation Strategy 1 1
+aliases:
+- /docs/implementation-strategy_1_1/
+description: ''
+linkTitle: Implementation Strategy 1 1
+type: docs
+---
+
 1. Structure the Notion Space – Set up databases, pages, and navigation.
 
 1. Integrate with Key Tools – HubSpot, Slack, Zoom, Google Drive.

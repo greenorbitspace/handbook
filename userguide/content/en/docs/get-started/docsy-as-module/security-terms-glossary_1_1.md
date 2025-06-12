@@ -1,5 +1,12 @@
 ---
-title: "Security Terms Glossary"
+title: Security Terms Glossary
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-terms-glossary_1_1/
+description: ''
+linkTitle: Security Terms Glossary
+type: docs
 ---
 
 ## Overview

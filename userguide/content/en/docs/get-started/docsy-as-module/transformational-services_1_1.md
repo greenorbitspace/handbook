@@ -1,6 +1,13 @@
 ---
-title: "Professional Services EM Scoping - Transformational Services"
-description: "Describes the discovery questions to ask to uncover transformational services opportunities."
+title: Professional Services EM Scoping - Transformational Services
+description: Describes the discovery questions to ask to uncover transformational
+  services opportunities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/transformational-services_1_1/
+linkTitle: Professional Services EM Scoping - Transformational Services
+type: docs
 ---
 
 ## General discovery questions

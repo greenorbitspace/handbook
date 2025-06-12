@@ -1,7 +1,14 @@
 ---
-title: "Cross-Functional Prioritization"
-description: "Transition R&D teams into a steady priorization state driven by backlog data, SLO guidelines & healthy prioritization ratios"
+title: Cross-Functional Prioritization
+description: Transition R&D teams into a steady priorization state driven by backlog
+  data, SLO guidelines & healthy prioritization ratios
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cross-functional-prioritization_1748146057824054647_1_1/
+linkTitle: Cross-Functional Prioritization
+type: docs
 ---
 
 ## Purpose

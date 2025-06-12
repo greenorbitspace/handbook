@@ -1,7 +1,13 @@
 ---
 title: Zendesk maintenance
 description: Support Operations policies page for Zendesk maintenance
-canonical_path: "/handbook/support/readiness/operations/docs/policies/zendesk_maintenance"
+canonical_path: /handbook/support/readiness/operations/docs/policies/zendesk_maintenance
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/zendesk_maintenance_1_1/
+linkTitle: Zendesk maintenance
+type: docs
 ---
 
 ## SGG issues

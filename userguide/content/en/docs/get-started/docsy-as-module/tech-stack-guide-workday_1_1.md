@@ -1,6 +1,12 @@
 ---
-title: "People Group Tech Stack Guide"
-description: "Reference for how Workday is implemented."
+title: People Group Tech Stack Guide
+description: Reference for how Workday is implemented.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tech-stack-guide-workday_1_1/
+linkTitle: People Group Tech Stack Guide
+type: docs
 ---
 
 ## People Group Tech Stack Guide

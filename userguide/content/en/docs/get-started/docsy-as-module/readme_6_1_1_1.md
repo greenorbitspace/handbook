@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 6 1 1 1
+aliases:
+- /docs/readme_6_1_1_1/
+description: ''
+linkTitle: Readme 6 1 1 1
+type: docs
+---
+
 # supports-hyperlinks [![Build Status](https://travis-ci.org/jamestalmage/supports-hyperlinks.svg?branch=master)](https://travis-ci.org/jamestalmage/supports-hyperlinks) [![codecov](https://codecov.io/gh/jamestalmage/supports-hyperlinks/badge.svg?branch=master)](https://codecov.io/gh/jamestalmage/supports-hyperlinks?branch=master)
 
 > Detect whether a terminal emulator supports hyperlinks

@@ -1,9 +1,15 @@
 ---
-title: "Digital Production Equipment List: Video Lights"
+title: 'Digital Production Equipment List: Video Lights'
 description: A guide for use of Video lights.
-twitter_image: '/images/tweets/handbook-marketing.png'
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/tweets/handbook-marketing.png
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/lighting_1_1/
+linkTitle: 'Digital Production Equipment List: Video Lights'
+type: docs
 ---
 
 ## Elgato Lights

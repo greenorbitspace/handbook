@@ -1,6 +1,13 @@
 ---
-title: "GitLab Mental Health Team Member Advocacy Group (TMAG)"
-description: "We are the Mental Health Team Member Advocacy Group (TMAG) founded in the Summer of 2024. Learn more!"
+title: GitLab Mental Health Team Member Advocacy Group (TMAG)
+description: We are the Mental Health Team Member Advocacy Group (TMAG) founded in
+  the Summer of 2024. Learn more!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tmag-mental-health_1/
+linkTitle: GitLab Mental Health Team Member Advocacy Group (TMAG)
+type: docs
 ---
 
 Welcome to the Mental Health TMAG!

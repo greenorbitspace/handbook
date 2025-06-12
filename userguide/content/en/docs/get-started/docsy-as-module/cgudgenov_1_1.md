@@ -1,6 +1,13 @@
 ---
-title: "Cassiana Gudgenov's README"
-description: "This page is Cassiana Gudgenov's README and is intended to be helpful when interacting with her."
+title: Cassiana Gudgenov's README
+description: This page is Cassiana Gudgenov's README and is intended to be helpful
+  when interacting with her.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cgudgenov_1_1/
+linkTitle: Cassiana Gudgenov's README
+type: docs
 ---
 
 <!-- This template will help you build out your very own GitLab README, a great tool for transparently letting others know what it's like to work with you, and how you prefer to be communicated with. Each section is optional. You can remove those you aren't comfortable filling out, and add sections that are germane to you. -->

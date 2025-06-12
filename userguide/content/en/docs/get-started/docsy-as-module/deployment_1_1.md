@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Deployment 1 1
+aliases:
+- /docs/deployment_1_1/
+description: ''
+linkTitle: Deployment 1 1
+type: docs
+---
+
 <h1>Deployment</h1>
 
 ## Run-time vs. Build-time

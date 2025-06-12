@@ -1,11 +1,14 @@
 ---
-
 title: Working on a promotion
 category: Support Team
 description: Process for submitting a promotions request
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/promotions_1_1/
+linkTitle: Working on a promotion
+type: docs
 ---
-
-
 
 ## Overview
 

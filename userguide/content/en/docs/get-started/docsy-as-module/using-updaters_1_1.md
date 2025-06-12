@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Using Updaters 1 1
+aliases:
+- /docs/using-updaters_1_1/
+description: ''
+linkTitle: Using Updaters 1 1
+type: docs
+---
+
 # Using Updaters
 Updaters are state transition functions that mapped to actions. One action can map to multiple state updaters, each belongs to a subreducer.
 

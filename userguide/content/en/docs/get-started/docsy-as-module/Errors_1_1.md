@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Errors 1 1
+aliases:
+- /docs/Errors_1_1/
+description: ''
+linkTitle: Errors 1 1
+type: docs
+---
+
 # Errors
 
 Undici exposes a variety of error objects that you can use to enhance your error handling.

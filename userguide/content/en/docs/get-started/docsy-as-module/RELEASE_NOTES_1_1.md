@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Release Notes 1 1
+aliases:
+- /docs/RELEASE_NOTES_1_1/
+description: ''
+linkTitle: Release Notes 1 1
+type: docs
+---
+
 # Data Lab 2.20.0 release notes [20211201]
 
 Tagging this as a release, with most changes made such that clients

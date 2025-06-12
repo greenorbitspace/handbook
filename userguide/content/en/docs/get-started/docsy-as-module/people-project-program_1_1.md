@@ -1,6 +1,13 @@
 ---
-title: "People Group Project Program"
-description: "Any GitLab People Success or Talent Acquisition team members may participate in projects listed in the People Group Project Program issue board."
+title: People Group Project Program
+description: Any GitLab People Success or Talent Acquisition team members may participate
+  in projects listed in the People Group Project Program issue board.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/people-project-program_1_1/
+linkTitle: People Group Project Program
+type: docs
 ---
 
 ## Who can participate

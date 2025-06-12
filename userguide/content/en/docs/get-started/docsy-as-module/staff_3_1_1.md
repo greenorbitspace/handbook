@@ -1,5 +1,12 @@
 ---
-title: "Dev Career Framework: Staff Frontend Engineer"
+title: 'Dev Career Framework: Staff Frontend Engineer'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/staff_3_1_1/
+description: ''
+linkTitle: 'Dev Career Framework: Staff Frontend Engineer'
+type: docs
 ---
 
 ## Dev Staff Frontend Engineer

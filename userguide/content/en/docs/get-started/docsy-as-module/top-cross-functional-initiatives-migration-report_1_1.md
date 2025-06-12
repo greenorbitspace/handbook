@@ -1,6 +1,14 @@
 ---
 title: Top Cross Function Inititives
-Description: Migration report for moving the handbooks top-cross-functional-initiatives section
+Description: Migration report for moving the handbooks top-cross-functional-initiatives
+  section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/top-cross-functional-initiatives-migration-report_1_1/
+description: ''
+linkTitle: Top Cross Function Inititives
+type: docs
 ---
 
 **Section:** top-cross-functional-initiatives

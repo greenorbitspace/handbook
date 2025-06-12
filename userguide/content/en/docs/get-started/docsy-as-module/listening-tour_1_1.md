@@ -1,6 +1,12 @@
 ---
-
 title: Learning & Development Listening Tour
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/listening-tour_1_1/
+description: ''
+linkTitle: Learning & Development Listening Tour
+type: docs
 ---
 
 **The L&D Listening Tour will identify opportunities at GitLab where training solutions can build and develop great teams to deliver on key business results.**

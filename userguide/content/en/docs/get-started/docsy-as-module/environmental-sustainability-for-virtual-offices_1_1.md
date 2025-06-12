@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Environmental Sustainability For Virtual Offices 1 1
+aliases:
+- /docs/environmental-sustainability-for-virtual-offices_1_1/
+description: ''
+linkTitle: Environmental Sustainability For Virtual Offices 1 1
+type: docs
+---
+
 # 1. Introduction
 
 At Green Orbit Digital, we are committed to environmental sustainability and recognize the importance of reducing our ecological footprint. As part of our efforts to promote sustainability, this policy outlines guidelines and practices for employees working in virtual offices to prioritize environmentally preferred products and practices, including recycling and waste reduction.

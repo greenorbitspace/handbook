@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Bindexample 1
+aliases:
+- /docs/bindExample_1/
+description: ''
+linkTitle: Bindexample 1
+type: docs
+---
+
 # socks examples
 
 ## Example for SOCKS 'bind' command

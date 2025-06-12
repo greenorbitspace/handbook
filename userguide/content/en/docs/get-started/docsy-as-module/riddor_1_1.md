@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Riddor 1 1
+aliases:
+- /docs/riddor_1_1/
+description: ''
+linkTitle: Riddor 1 1
+type: docs
+---
+
 ## Introduction to RIDDOR
 
 RIDDOR (Reporting of Injuries, Diseases and Dangerous Occurrences Regulations) is a UK health and safety legislation that requires employers, self-employed people and those in control of premises to report specified workplace incidents.

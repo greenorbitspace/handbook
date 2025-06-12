@@ -1,5 +1,14 @@
 ---
-title: "Workspaces ADR 009: Allow mapping of GitLab Agent for Kubernetes(agentk) to groups"
+title: 'Workspaces ADR 009: Allow mapping of GitLab Agent for Kubernetes(agentk) to
+  groups'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/009_allow_mapping_of_agentk_to_groups_1/
+description: ''
+linkTitle: 'Workspaces ADR 009: Allow mapping of GitLab Agent for Kubernetes(agentk)
+  to groups'
+type: docs
 ---
 
 ### Context

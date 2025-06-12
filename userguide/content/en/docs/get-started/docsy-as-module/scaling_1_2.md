@@ -1,10 +1,16 @@
 ---
-title: "Scaling an all-remote team"
+title: Scaling an all-remote team
 description: Scaling an all-remote team
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/scaling_1_2/
+linkTitle: Scaling an all-remote team
+type: docs
 ---
 
 On this page, we're detailing how scaling an organization works better with all-remote.

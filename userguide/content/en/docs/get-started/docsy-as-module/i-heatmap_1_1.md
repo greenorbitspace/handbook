@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: I Heatmap 1 1
+aliases:
+- /docs/i-heatmap_1_1/
+description: ''
+linkTitle: I Heatmap 1 1
+type: docs
+---
+
 # Heatmap
 
 ![Heatmap layer](https://d1a3f4spazzrp4.cloudfront.net/kepler.gl/documentation/layers-heat-map.png "Heatmap layer")

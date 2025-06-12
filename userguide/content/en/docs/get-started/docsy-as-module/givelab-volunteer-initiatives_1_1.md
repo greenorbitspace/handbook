@@ -1,6 +1,12 @@
 ---
-title: "GiveLab Volunteer Initiatives"
-description: "Discover GitLab's volunteering opportunities with GiveLab"
+title: GiveLab Volunteer Initiatives
+description: Discover GitLab's volunteering opportunities with GiveLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/givelab-volunteer-initiatives_1_1/
+linkTitle: GiveLab Volunteer Initiatives
+type: docs
 ---
 
 ### About GiveLab

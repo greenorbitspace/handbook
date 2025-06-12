@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Slack Communication Guidelines 1 1
+aliases:
+- /docs/slack-communication-guidelines_1_1/
+description: ''
+linkTitle: Slack Communication Guidelines 1 1
+type: docs
+---
+
 # Slack Communication Guidelines
 
 <!-- Unsupported block type: callout -->

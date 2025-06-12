@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: General Purchasing Guidelines 1 1
+aliases:
+- /docs/general-purchasing-guidelines_1_1/
+description: ''
+linkTitle: General Purchasing Guidelines 1 1
+type: docs
+---
+
 # General Purchasing Guidelines
 
 ## Core Principles

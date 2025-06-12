@@ -1,5 +1,12 @@
 ---
-title: "Application Security - Dogfooding and Product Feature Requests"
+title: Application Security - Dogfooding and Product Feature Requests
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/appsec-dogfooding-feature-requests_1748146058214079060_1/
+description: ''
+linkTitle: Application Security - Dogfooding and Product Feature Requests
+type: docs
 ---
 
 ## Overview

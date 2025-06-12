@@ -1,6 +1,14 @@
 ---
-title: "Vice President of Revenue Marketing"
-description: "Our Vice President of Revenue Marketing is an innovative and energetic leader, with a knack for empowering high performing teams and an ability to get things done."
+title: Vice President of Revenue Marketing
+description: Our Vice President of Revenue Marketing is an innovative and energetic
+  leader, with a knack for empowering high performing teams and an ability to get
+  things done.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vp-of-revenue-marketing_1_1/
+linkTitle: Vice President of Revenue Marketing
+type: docs
 ---
 
 Our Vice President of Revenue Marketing is an innovative and energetic leader, with a knack for empowering high performing teams and an ability to get things done. Reporting to the CMO, the Vice President of Revenue Marketing is accountable for creating and executing a scalable marketing strategy to achieve new business pipeline and revenue targets. The Vice President of Revenue Marketing plays an integral role in driving revenue growth for the company across all channels and geos. This is a highly visible global role in the organization, responsible for the development and implementation of effective demand generation programs with an emphasis on lead generation, pipeline creation and nurturing prospects/customers along the buyer’s journey.

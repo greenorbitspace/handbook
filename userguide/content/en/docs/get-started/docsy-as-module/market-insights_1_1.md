@@ -1,6 +1,12 @@
 ---
-
 title: Market Insights
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/market-insights_1_1/
+description: ''
+linkTitle: Market Insights
+type: docs
 ---
 
 ## Market Insights

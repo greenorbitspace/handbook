@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Esg Criteria For Green Orbit Digitals Investments 1 1
+aliases:
+- /docs/esg-criteria-for-green-orbit-digitals-investments_1_1/
+description: ''
+linkTitle: Esg Criteria For Green Orbit Digitals Investments 1 1
+type: docs
+---
+
 # ESG Criteria for Green Orbit Digital's Investments
 
 GUI/FIN/2024/1342-V1.1

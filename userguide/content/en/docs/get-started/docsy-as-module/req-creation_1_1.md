@@ -1,6 +1,13 @@
 ---
-title: "Talent Acquisition Process Framework for Creating REQs"
-description: "The Talent Acquisition Process Framework for Creating REQs provides guidance on how to open a new requisition for the talent acquisition team."
+title: Talent Acquisition Process Framework for Creating REQs
+description: The Talent Acquisition Process Framework for Creating REQs provides guidance
+  on how to open a new requisition for the talent acquisition team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/req-creation_1_1/
+linkTitle: Talent Acquisition Process Framework for Creating REQs
+type: docs
 ---
 
 Prior to starting the req creation process, a Hiring Manager should follow the steps outlined to create a Job Family or create a MR to edit any relevant Job Family information as needed. For questions specific to Hiring Plans or how to go about making such changes, please refer to the [Finance section of the handbook](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth).

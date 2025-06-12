@@ -1,10 +1,16 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: Bug Report 1
 labels: ''
 assignees: ''
-
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bug_report_1/
+description: ''
+linkTitle: Bug Report 1
+type: docs
 ---
 
 **Describe the bug**

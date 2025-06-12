@@ -1,5 +1,12 @@
 ---
 title: Google Cloud Security Best Practices
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/google-cloud-security-best-practices_1748146058178688133_1_1/
+description: ''
+linkTitle: Google Cloud Security Best Practices
+type: docs
 ---
 
 ## Google Cloud Resources

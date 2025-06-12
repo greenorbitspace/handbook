@@ -1,6 +1,12 @@
 ---
-title: "Engineering Analytics Team"
-description: "Engineering Analytics Team"
+title: Engineering Analytics Team
+description: Engineering Analytics Team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engineering-analytics_1_1_1/
+linkTitle: Engineering Analytics Team
+type: docs
 ---
 
 ## DEPRECATED

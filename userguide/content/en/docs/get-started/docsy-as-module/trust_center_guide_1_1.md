@@ -1,5 +1,12 @@
 ---
 title: Trust Center Guide
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/trust_center_guide_1_1/
+description: ''
+linkTitle: Trust Center Guide
+type: docs
 ---
 
 Are you looking for GitLab's Trust Center?

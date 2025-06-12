@@ -1,6 +1,13 @@
 ---
-title: "Customer Success Architect"
-description: "The Customer Success Architect (CSA) team focuses on the themes of align, enable, and expand."
+title: Customer Success Architect
+description: The Customer Success Architect (CSA) team focuses on the themes of align,
+  enable, and expand.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-success-architect_1_1/
+linkTitle: Customer Success Architect
+type: docs
 ---
 
 The Customer Success Architect (CSA) is a highly strategic position designed to provide unparalleled value to our customers by aligning our platform with their unique business objectives and driving long-term success.

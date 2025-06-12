@@ -1,5 +1,12 @@
 ---
-title: "Employment Law at GitLab"
+title: Employment Law at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/employment-law_1_1/
+description: ''
+linkTitle: Employment Law at GitLab
+type: docs
 ---
 
 Employment law refers to the law that governs the relationship between employer and employee, so the Employment section of GitLab Legal interacts with the People Group on a regular basis to provide information and legal advice related to the entire arc of our team members’ relationship with GitLab.  **So what does that mean?**

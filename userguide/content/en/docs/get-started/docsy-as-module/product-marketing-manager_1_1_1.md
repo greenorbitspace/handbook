@@ -1,7 +1,16 @@
 ---
-title: "Product Marketing Manager"
-summary: Help tell the story about the value of how GitLab helps to unlock the potential of sharing and contribution.
+title: Product Marketing Manager
+summary: Help tell the story about the value of how GitLab helps to unlock the potential
+  of sharing and contribution.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-marketing-manager_1_1_1/
+description: ''
+linkTitle: Product Marketing Manager
+type: docs
 ---
+
 Product Marketing Managers at GitLab have a unique opportunity to contribute to our [mission](/handbook/company/mission/#mission):
 
 To change all creative work from read-only to read-write so that everyone can contribute.

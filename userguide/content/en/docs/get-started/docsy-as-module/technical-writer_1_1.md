@@ -1,6 +1,14 @@
 ---
-title: "Technical Writer"
-description: "At GitLab, our team of technical writers is responsible for ensuring that the documentation for all of our products is clear, correct, comprehensive, and easy to use."
+title: Technical Writer
+description: At GitLab, our team of technical writers is responsible for ensuring
+  that the documentation for all of our products is clear, correct, comprehensive,
+  and easy to use.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/technical-writer_1_1/
+linkTitle: Technical Writer
+type: docs
 ---
 
 At GitLab, our [team of technical writers](/handbook/product/ux/technical-writing/) is responsible for ensuring that the [documentation](https://docs.gitlab.com/) for all of our products is clear, correct, comprehensive, and easy to use. We are looking for great writers with strong technical proficiencies to help our users succeed with our [rapidly evolving suite of DevOps tools](https://about.gitlab.com/releases/).

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Add Module 1 1
+aliases:
+- /docs/add-module_1_1/
+description: ''
+linkTitle: Add Module 1 1
+type: docs
+---
+
 # Add a Go Module
 
 The repository contains a few submodules. To add a new one and ensure it is tested, follow the following steps:

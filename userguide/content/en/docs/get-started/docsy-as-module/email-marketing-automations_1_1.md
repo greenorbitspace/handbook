@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Email Marketing Automations 1 1
+aliases:
+- /docs/email-marketing-automations_1_1/
+description: ''
+linkTitle: Email Marketing Automations 1 1
+type: docs
+---
+
 Here are several email marketing automation ideas for Green Orbit Digital, including those for registrations, downloads, newsletters, and more. These workflows can help streamline your marketing efforts and engage your audience at key touchpoints.
 
 ### 1. Event/Webinar/Masterclass Registration Automation

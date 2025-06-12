@@ -1,5 +1,12 @@
 ---
 title: Customer Success Operations Internship
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-success-operations-internship_1_1/
+description: ''
+linkTitle: Customer Success Operations Internship
+type: docs
 ---
 
 The Customer Success Operations Interns job family may work within GitLab Customer Success and Field Operations, on areas such as the customer's journey, experience, outcomes, and the processes and tooling that supports them. This internship is open to those individuals seeking to explore Customer Success and operations and to further their career. We desire to create an inclusive program that will provide a fair and equal opportunity for all qualifying candidates.

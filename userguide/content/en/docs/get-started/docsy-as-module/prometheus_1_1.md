@@ -1,5 +1,12 @@
 ---
-title: "Prometheus Specialist"
+title: Prometheus Specialist
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/prometheus_1_1/
+description: ''
+linkTitle: Prometheus Specialist
+type: docs
 ---
 
 ## Responsibilities

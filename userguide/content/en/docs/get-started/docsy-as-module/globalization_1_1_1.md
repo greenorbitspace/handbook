@@ -1,7 +1,14 @@
 ---
-title: "Revenue Globalization Working Group"
-description: "Expand GitLab's global revenue footprint by building frameworks and systems to expand and focus on 5 priority countries for FY24"
+title: Revenue Globalization Working Group
+description: Expand GitLab's global revenue footprint by building frameworks and systems
+  to expand and focus on 5 priority countries for FY24
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/globalization_1_1_1/
+linkTitle: Revenue Globalization Working Group
+type: docs
 ---
 
 ## Attributes

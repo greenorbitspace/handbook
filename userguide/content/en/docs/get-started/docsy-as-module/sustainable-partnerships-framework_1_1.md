@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Sustainable Partnerships Framework 1 1
+aliases:
+- /docs/sustainable-partnerships-framework_1_1/
+description: ''
+linkTitle: Sustainable Partnerships Framework 1 1
+type: docs
+---
+
 # Sustainable Partnerships Framework
 
 ## 1. Mission Alignment

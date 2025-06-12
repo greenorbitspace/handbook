@@ -1,5 +1,12 @@
 ---
-title: "Software-Bill-of-Materials (SBOM) Maturity Model and Implementation Plan"
+title: Software-Bill-of-Materials (SBOM) Maturity Model and Implementation Plan
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sbom-plan_1_1/
+description: ''
+linkTitle: Software-Bill-of-Materials (SBOM) Maturity Model and Implementation Plan
+type: docs
 ---
 
 ## Purpose

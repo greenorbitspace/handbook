@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Procurement Guide Collaborating With Legal 1 1
+aliases:
+- /docs/procurement-guide-collaborating-with-legal_1_1/
+description: ''
+linkTitle: Procurement Guide Collaborating With Legal 1 1
+type: docs
+---
+
 <!-- Unsupported block type: image -->
 
 Thank you for visiting! The purpose of this resource is to provide GitLab team members with information on how legal assists and supports with the procurement of products and services at GitLab.

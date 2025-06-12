@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: How To Add A Database Migration 1 1
+aliases:
+- /docs/how-to-add-a-database-migration_1_1/
+description: ''
+linkTitle: How To Add A Database Migration 1 1
+type: docs
+---
+
 # How to Add a Database Migration
 
 ## 1. Use Rails generator

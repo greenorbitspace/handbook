@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Document Control Policy And Procedures 1 1
+aliases:
+- /docs/document-control-policy-and-procedures_1_1/
+description: ''
+linkTitle: Document Control Policy And Procedures 1 1
+type: docs
+---
+
 # 1. Purpose and Scope
 
 This policy establishes guidelines for creating, reviewing, approving, storing, and managing company documents to ensure consistency, accessibility, and compliance across Green Orbit Digital.

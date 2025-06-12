@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Contribute Translations 1 1
+aliases:
+- /docs/contribute-translations_1_1/
+description: ''
+linkTitle: Contribute Translations 1 1
+type: docs
+---
+
 <h1>Tutorial: Contributing to SDG Translations</h1>
 
 This tutorial will describe how to contribute translations to the [SDG Translations project](https://github.com/open-sdg/sdg-translations), which is the source of translations for Open SDG's multilingual features. The intended audience for this tutorial is anyone setting up an Open SDG platform in a language that is not yet part of SDG Translations.

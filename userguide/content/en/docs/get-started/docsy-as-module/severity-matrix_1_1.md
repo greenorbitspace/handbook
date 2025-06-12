@@ -1,7 +1,12 @@
 ---
-title: "Security Incident Severity and Priority Matrix"
-description: " "
+title: Security Incident Severity and Priority Matrix
+description: ' '
 weight: 30
+date: '2025-06-12'
+aliases:
+- /docs/severity-matrix_1_1/
+linkTitle: Security Incident Severity and Priority Matrix
+type: docs
 ---
 
 Incidents will be classified using `Priority` and `Severity` labels.  SIRT will use the criteria defined below when assigning labels and the [SIRT Escalation Guide]({{< ref "sirt#-engaging-sirt" >}}) for escalations.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Accomplishments 1
+aliases:
+- /docs/accomplishments_1/
+description: ''
+linkTitle: Accomplishments 1
+type: docs
+---
+
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/

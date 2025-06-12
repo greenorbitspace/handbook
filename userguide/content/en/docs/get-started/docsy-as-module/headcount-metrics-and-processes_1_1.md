@@ -1,6 +1,12 @@
 ---
-title: "Headcount Metrics and Processes"
-description: "Public Company Headcount Metrics and Processes"
+title: Headcount Metrics and Processes
+description: Public Company Headcount Metrics and Processes
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/headcount-metrics-and-processes_1_1/
+linkTitle: Headcount Metrics and Processes
+type: docs
 ---
 
 ## Public Company Headcount Metrics and Processes

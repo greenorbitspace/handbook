@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Modules 1 1
+aliases:
+- /docs/modules_1_1/
+description: ''
+linkTitle: Modules 1 1
+type: docs
+---
+
 # Creating a Go nested module
 
 The Datadog Agent is not meant to be imported as a Go library. However, certain parts of it can be exposed as a library by making use of [nested Go modules](https://github.com/go-modules-by-example/index/blob/master/009_submodules/README.md). This exposes parts of the codebase without extracting the code to a different repository, and it avoids `replace` directive clashes.

@@ -1,8 +1,14 @@
 ---
-
-title: "Cross-Culture Collaboration Guide"
-description: "This guide will help GitLab team members in effective and inclusive communication and cross-cultural collaboration globally"
-canonical_path: "/company/culture/cross-culture-collaboration-guide/"
+title: Cross-Culture Collaboration Guide
+description: This guide will help GitLab team members in effective and inclusive communication
+  and cross-cultural collaboration globally
+canonical_path: /company/culture/cross-culture-collaboration-guide/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cross-culture-collaboration-guide_1_1/
+linkTitle: Cross-Culture Collaboration Guide
+type: docs
 ---
 
 ## Goal

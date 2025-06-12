@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Remoteexecutable 1 1
+aliases:
+- /docs/remoteexecutable_1_1/
+description: ''
+linkTitle: Remoteexecutable 1 1
+type: docs
+---
+
 # the RemoteExecutable library
 
 The RemoteExecutable library attempts to capture and duplicate the functionality for running locally compiled go test programs on remote test machines.

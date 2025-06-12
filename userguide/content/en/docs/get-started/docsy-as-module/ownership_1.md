@@ -1,6 +1,13 @@
 ---
-title: "Ownership and boundaries - Editor Extensions"
-description: This page provides clarity and a clear expectation between all parties who author/maintain features in editor extensions systems.
+title: Ownership and boundaries - Editor Extensions
+description: This page provides clarity and a clear expectation between all parties
+  who author/maintain features in editor extensions systems.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ownership_1/
+linkTitle: Ownership and boundaries - Editor Extensions
+type: docs
 ---
 
 ## Context

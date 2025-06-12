@@ -1,7 +1,14 @@
 ---
-owning-stage: "devops::software supply chain security"
+owning-stage: devops::software supply chain security
 title: 'Standardized machine identity: alternative solutions'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/alternative_solutions_1_1/
+description: ''
+linkTitle: 'Standardized machine identity: alternative solutions'
+type: docs
 ---
 
 ## Alternative Solutions

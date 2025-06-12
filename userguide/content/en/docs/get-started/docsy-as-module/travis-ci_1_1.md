@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Travis Ci 1 1
+aliases:
+- /docs/travis-ci_1_1/
+description: ''
+linkTitle: Travis Ci 1 1
+type: docs
+---
+
 <h1>TravisCI</h1>
 
 TravisCI is a "continuous integration" (CI) cloud service. It is useful for Open SDG in a way that is typical of open-source projects: it "listens" for certain events in your Github repository, and then provides temporary virtual machines to perform various server-side tasks. Open SDG needs a CI tool to accomplish these things:

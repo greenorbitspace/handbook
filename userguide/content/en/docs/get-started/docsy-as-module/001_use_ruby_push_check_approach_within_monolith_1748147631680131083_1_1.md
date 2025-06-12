@@ -1,5 +1,12 @@
 ---
-title: "GitLab Secret Detection ADR 001: Use Ruby Push Check approach within monolith"
+title: 'GitLab Secret Detection ADR 001: Use Ruby Push Check approach within monolith'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/001_use_ruby_push_check_approach_within_monolith_1748147631680131083_1_1/
+description: ''
+linkTitle: 'GitLab Secret Detection ADR 001: Use Ruby Push Check approach within monolith'
+type: docs
 ---
 
 ## Context

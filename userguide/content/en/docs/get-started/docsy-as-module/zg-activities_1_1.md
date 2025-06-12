@@ -1,5 +1,12 @@
 ---
-title: "Security Assurance - ZenGRC Activities"
+title: Security Assurance - ZenGRC Activities
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/zg-activities_1_1/
+description: ''
+linkTitle: Security Assurance - ZenGRC Activities
+type: docs
 ---
 
 ## Purpose

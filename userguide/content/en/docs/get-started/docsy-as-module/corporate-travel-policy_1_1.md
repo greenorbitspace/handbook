@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Corporate Travel Policy 1 1
+aliases:
+- /docs/corporate-travel-policy_1_1/
+description: ''
+linkTitle: Corporate Travel Policy 1 1
+type: docs
+---
+
 ### Introduction
 
 This Corporate Travel Policy outlines the guidelines and procedures for managing travel arrangements and expenses incurred by employees of Green Orbit Digital ("the Company"). The purpose of this policy is to ensure cost-effective and efficient travel planning while prioritizing employee safety, comfort, and compliance with company regulations.

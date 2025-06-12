@@ -1,8 +1,14 @@
 ---
-title: "The Passing of the Grey Company"
-excerpt: "Aragorn, Legolas, and Gimli are accompanied by the Grey Company as
-they pass through the Paths of the Dead between Rohan and Gondor."
-date: "2021-01-22"
+title: The Passing of the Grey Company
+excerpt: Aragorn, Legolas, and Gimli are accompanied by the Grey Company as they pass
+  through the Paths of the Dead between Rohan and Gondor.
+date: '2021-01-22'
+weight: 2
+aliases:
+- /docs/passing-of-grey-company_1_1/
+description: ''
+linkTitle: The Passing of the Grey Company
+type: docs
 ---
 
 Placeat consequuntur ullam aut sapiente illo velit. Eius facere ut molestias

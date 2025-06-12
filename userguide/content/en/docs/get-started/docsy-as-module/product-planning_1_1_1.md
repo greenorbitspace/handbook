@@ -1,5 +1,12 @@
 ---
 title: Plan:Product Planning Engineering Team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-planning_1_1_1/
+description: ''
+linkTitle: Plan:Product Planning Engineering Team
+type: docs
 ---
 
 ## Plan:Product Planning team

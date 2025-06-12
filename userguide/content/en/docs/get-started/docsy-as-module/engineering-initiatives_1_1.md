@@ -1,6 +1,13 @@
 ---
-title: "Engineering Initiatives"
-description: "Learn more about GitLab Diversity, Inclusion & Belonging Engineering Initiatives."
+title: Engineering Initiatives
+description: Learn more about GitLab Diversity, Inclusion & Belonging Engineering
+  Initiatives.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engineering-initiatives_1_1/
+linkTitle: Engineering Initiatives
+type: docs
 ---
 
 This page is in [draft]({{< ref "values#everything-is-in-draft" >}}). We are working to build out this page and gather all the running initiatives/partnerships in Engineering.

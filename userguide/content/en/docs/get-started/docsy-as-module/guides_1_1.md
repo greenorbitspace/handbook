@@ -1,5 +1,12 @@
 ---
 title: Mobile DevOps Guides
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/guides_1_1/
+description: ''
+linkTitle: Mobile DevOps Guides
+type: docs
 ---
 
 A collection of simple guides to help getting started with Mobile DevOps.

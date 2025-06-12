@@ -1,14 +1,14 @@
 ---
-
-title: "Customer case studies"
-description: "The goal of the customer case studies program is to share and market the success of our customers."
+title: Customer case studies
+description: The goal of the customer case studies program is to share and market
+  the success of our customers.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/case-studies_1_1/
+linkTitle: Customer case studies
+type: docs
 ---
-
-
-
-
-
-
 
 ## Customer case studies program
 

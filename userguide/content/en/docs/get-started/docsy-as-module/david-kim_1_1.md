@@ -1,7 +1,13 @@
 ---
-title: "David Kim README"
-description: "Personal README for David Kim"
-job: "Program Mananger"
+title: David Kim README
+description: Personal README for David Kim
+job: Program Mananger
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/david-kim_1_1/
+linkTitle: David Kim README
+type: docs
 ---
 
 ## Summary

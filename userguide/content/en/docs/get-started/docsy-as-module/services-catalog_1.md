@@ -1,5 +1,12 @@
 ---
-title: "Channel Services Catalog"
+title: Channel Services Catalog
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/services-catalog_1/
+description: ''
+linkTitle: Channel Services Catalog
+type: docs
 ---
 
 ## The GitLab Partner Services Offering Review

@@ -1,5 +1,12 @@
 ---
-title: "Phishing Program"
+title: Phishing Program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/phishing_1_1/
+description: ''
+linkTitle: Phishing Program
+type: docs
 ---
 
 {{% alert color="danger" title="Alert" %}}

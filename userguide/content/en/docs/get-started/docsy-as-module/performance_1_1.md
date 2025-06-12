@@ -1,5 +1,12 @@
 ---
-title: "Performance"
+title: Performance
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/performance_1_1/
+description: ''
+linkTitle: Performance
+type: docs
 ---
 
 ## Performance Facets

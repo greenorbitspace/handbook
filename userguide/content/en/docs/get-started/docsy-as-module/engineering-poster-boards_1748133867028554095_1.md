@@ -1,5 +1,12 @@
 ---
 title: Engineering Poster Boards
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engineering-poster-boards_1748133867028554095_1/
+description: ''
+linkTitle: Engineering Poster Boards
+type: docs
 ---
 
 ## Background

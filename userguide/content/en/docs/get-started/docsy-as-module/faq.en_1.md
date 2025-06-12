@@ -1,7 +1,14 @@
 ---
-title: "Frequently Asked Questions"
-layout: "faq"
+title: Frequently Asked Questions
+layout: faq
 draft: false
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/faq.en_1/
+description: ''
+linkTitle: Frequently Asked Questions
+type: docs
 ---
 
 {{< collapse "Will updates also be free?" >}}

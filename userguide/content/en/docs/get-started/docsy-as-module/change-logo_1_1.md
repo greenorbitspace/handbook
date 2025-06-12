@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Change Logo 1 1
+aliases:
+- /docs/change-logo_1_1/
+description: ''
+linkTitle: Change Logo 1 1
+type: docs
+---
+
 <h1>Tutorial: Changing the logo and favicon</h1>
 
 This tutorial will describe how to change the logo and favicon for your implementation of Open SDG. This is intended to be a continuation of the [quick start](../quick-start.md) tutorial. We will replace the [default logo](https://github.com/open-sdg/open-sdg/blob/master/assets/img/SDG_logo.png) and the [default favicon](https://github.com/open-sdg/open-sdg/tree/master/assets/img/favicons/favicon.ico).

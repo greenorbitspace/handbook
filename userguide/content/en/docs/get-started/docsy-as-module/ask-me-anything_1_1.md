@@ -1,6 +1,12 @@
 ---
 title: Ask Me Anything
-description: "Learn and ask questions at GitLab's Ask Me Anything (AMA) meetings"
+description: Learn and ask questions at GitLab's Ask Me Anything (AMA) meetings
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ask-me-anything_1_1/
+linkTitle: Ask Me Anything
+type: docs
 ---
 
 ## Purpose

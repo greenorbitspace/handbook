@@ -1,5 +1,12 @@
 ---
-title: "Engineering Career Framework: Intern"
+title: 'Engineering Career Framework: Intern'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/intern_2_1/
+description: ''
+linkTitle: 'Engineering Career Framework: Intern'
+type: docs
 ---
 
 ## Engineering Function Competencies: Intern

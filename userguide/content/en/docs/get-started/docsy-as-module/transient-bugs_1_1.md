@@ -1,6 +1,13 @@
 ---
-title: "Transient bugs"
-description: "Build tooling for transient issues and outline process for sustainable early mitigations"
+title: Transient bugs
+description: Build tooling for transient issues and outline process for sustainable
+  early mitigations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/transient-bugs_1_1/
+linkTitle: Transient bugs
+type: docs
 ---
 
 ## Attributes

@@ -1,7 +1,12 @@
 ---
-
 title: JiHu Partnership
-description: "Support specific information for the JiHu partnership"
+description: Support specific information for the JiHu partnership
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/jihu_1_1/
+linkTitle: JiHu Partnership
+type: docs
 ---
 
 ## Contacting Support

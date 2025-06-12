@@ -1,7 +1,14 @@
 ---
 title: Validated GitLab JTBD Canvases and Opportunity Scores
-description: >-
-  This page contains links to the JTBD canvases that have gone the GitLab JTBD Playbook process and the top outcome statements and opportunity scores from those canvases.
+description: This page contains links to the JTBD canvases that have gone the GitLab
+  JTBD Playbook process and the top outcome statements and opportunity scores from
+  those canvases.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/validated-canvases-and-opportunity-scores_1_1/
+linkTitle: Validated GitLab JTBD Canvases and Opportunity Scores
+type: docs
 ---
 
 This page acts as the single source of truth for the record of Jobs to be Done canvases that have completed the GitLab Playbook process.

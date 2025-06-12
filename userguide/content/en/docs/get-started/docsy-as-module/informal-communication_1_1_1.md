@@ -1,10 +1,16 @@
 ---
-title: "Informal Communication in an all-remote environment"
+title: Informal Communication in an all-remote environment
 description: How to foster informal communication in a remote company
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/informal-communication_1_1_1/
+linkTitle: Informal Communication in an all-remote environment
+type: docs
 ---
 
 On this page, we're detailing how informal communication occurs at GitLab, how it complements [in-person interactions](in-person/), and why it matters in an all-remote [culture](/handbook/company/culture/#culture-at-gitlab). There are over 20 different ways to foster informal communication below, and we are constantly discovering and adding new methods.

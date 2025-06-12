@@ -1,6 +1,12 @@
 ---
-
-title: "Conference Booth Setup"
+title: Conference Booth Setup
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/conference-booth-setup_1_1/
+description: ''
+linkTitle: Conference Booth Setup
+type: docs
 ---
 
 ## Summary

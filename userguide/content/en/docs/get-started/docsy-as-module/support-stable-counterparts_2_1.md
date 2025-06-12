@@ -1,6 +1,13 @@
 ---
 title: Support Stable Counterparts
-description: The purpose of this page is to give an overview and outline the expectations of the Support Stable Counterparts initiative.
+description: The purpose of this page is to give an overview and outline the expectations
+  of the Support Stable Counterparts initiative.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-stable-counterparts_2_1/
+linkTitle: Support Stable Counterparts
+type: docs
 ---
 
 ## Overview

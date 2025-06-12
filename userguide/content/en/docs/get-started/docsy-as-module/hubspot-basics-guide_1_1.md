@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Hubspot Basics Guide 1 1
+aliases:
+- /docs/hubspot-basics-guide_1_1/
+description: ''
+linkTitle: Hubspot Basics Guide 1 1
+type: docs
+---
+
 # Getting Started with HubSpot
 
 <!-- Unsupported block type: callout -->

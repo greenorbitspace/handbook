@@ -1,14 +1,14 @@
 ---
-
-title: "List Imports"
-description: "The MktgOps team is responsible for importing records into Marketo for both field events and prospecting."
+title: List Imports
+description: The MktgOps team is responsible for importing records into Marketo for
+  both field events and prospecting.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/list-import_1_1/
+linkTitle: List Imports
+type: docs
 ---
-
-
-
-
-
-
 
 ### FYI - Future State
 

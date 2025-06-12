@@ -1,6 +1,13 @@
 ---
-title: "GitLab for Education - Roles & Responsibilities"
-description: "The GitLab for Education team’s mission is to facilitate and drive the adoption of GitLab at educational institutions around the globe."
+title: GitLab for Education - Roles & Responsibilities
+description: The GitLab for Education team’s mission is to facilitate and drive the
+  adoption of GitLab at educational institutions around the globe.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-for-education_1_1/
+linkTitle: GitLab for Education - Roles & Responsibilities
+type: docs
 ---
 
 ## GitLab for Education

@@ -1,6 +1,12 @@
 ---
-title: "COVID-19"
-description: "Information on the support GitLab is offering in relation to COVID-19."
+title: COVID-19
+description: Information on the support GitLab is offering in relation to COVID-19.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/covid-19_1_1/
+linkTitle: COVID-19
+type: docs
 ---
 
 ## Team Member and Manager Support During COVID

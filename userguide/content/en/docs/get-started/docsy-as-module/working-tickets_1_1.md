@@ -1,7 +1,13 @@
 ---
 title: Working tickets
 description: Operations workflow page for working tickets
-canonical_path: "/handbook/security/customer-support-operations/workflows/zendesk/working-tickets"
+canonical_path: /handbook/security/customer-support-operations/workflows/zendesk/working-tickets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/working-tickets_1_1/
+linkTitle: Working tickets
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

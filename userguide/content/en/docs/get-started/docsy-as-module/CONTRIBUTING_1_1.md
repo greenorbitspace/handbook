@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Contributing 1 1
+aliases:
+- /docs/CONTRIBUTING_1_1/
+description: ''
+linkTitle: Contributing 1 1
+type: docs
+---
+
 ## Developer Certificate of Origin + License
 
 By contributing to GitLab B.V., You accept and agree to the following terms and

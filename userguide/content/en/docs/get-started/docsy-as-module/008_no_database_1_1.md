@@ -1,7 +1,16 @@
 ---
-owning-stage: "~sec::govern"
-title: 'GitLab Secrets Manager ADR 008: Redesigning secrets manager without a Rails database table'
+owning-stage: ~sec::govern
+title: 'GitLab Secrets Manager ADR 008: Redesigning secrets manager without a Rails
+  database table'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/008_no_database_1_1/
+description: ''
+linkTitle: 'GitLab Secrets Manager ADR 008: Redesigning secrets manager without a
+  Rails database table'
+type: docs
 ---
 
 One major issue with the database design for Tanukey is that it requires data

@@ -1,5 +1,12 @@
 ---
-title: "GoLand"
+title: GoLand
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/goland_1_1/
+description: ''
+linkTitle: GoLand
+type: docs
 ---
 
 ## Overview

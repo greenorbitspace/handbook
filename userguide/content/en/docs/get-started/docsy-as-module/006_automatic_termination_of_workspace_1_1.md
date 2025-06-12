@@ -1,5 +1,12 @@
 ---
-title: "Workspaces ADR 006: Automatic termination of a workspace"
+title: 'Workspaces ADR 006: Automatic termination of a workspace'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/006_automatic_termination_of_workspace_1_1/
+description: ''
+linkTitle: 'Workspaces ADR 006: Automatic termination of a workspace'
+type: docs
 ---
 
 > [!WARNING]  

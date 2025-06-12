@@ -1,6 +1,12 @@
 ---
 title: Pipeline Security Group - JTBD
-description: "The jobs-to-be-done that the Pipeline Security Group is solving for."
+description: The jobs-to-be-done that the Pipeline Security Group is solving for.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/jtbd_6_1_1/
+linkTitle: Pipeline Security Group - JTBD
+type: docs
 ---
 
 ## Overview

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Cookies 2 1
+aliases:
+- /docs/Cookies_2_1/
+description: ''
+linkTitle: Cookies 2 1
+type: docs
+---
+
 <h1>Cookies and privacy</h1>
 
 ## Cookies and privacy in Open SDG

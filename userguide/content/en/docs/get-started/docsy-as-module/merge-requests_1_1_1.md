@@ -1,6 +1,13 @@
 ---
 title: Collaboration on merge requests experience
-description: "Collaboration process and documentation for contributing to the merge requests experience"
+description: Collaboration process and documentation for contributing to the merge
+  requests experience
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/merge-requests_1_1_1/
+linkTitle: Collaboration on merge requests experience
+type: docs
 ---
 
 ## Background

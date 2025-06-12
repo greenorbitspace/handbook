@@ -1,10 +1,17 @@
 ---
-title: "How to embrace asynchronous communication for remote work"
-description: "Here is a complete guide to everything you need to know about how to work and communicate asynchronously in a remote work environment. Learn more!"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+title: How to embrace asynchronous communication for remote work
+description: Here is a complete guide to everything you need to know about how to
+  work and communicate asynchronously in a remote work environment. Learn more!
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/asynchronous_1_1_1/
+linkTitle: How to embrace asynchronous communication for remote work
+type: docs
 ---
 
 ## How to get started with async

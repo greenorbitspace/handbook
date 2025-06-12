@@ -1,14 +1,14 @@
 ---
-
-title: "GitLab Integration Instructions"
-description: Learn about integrating with GitLab, as well as partnership, marketing, and licensing opportunities.
+title: GitLab Integration Instructions
+description: Learn about integrating with GitLab, as well as partnership, marketing,
+  and licensing opportunities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/integration-instructions_1_1/
+linkTitle: GitLab Integration Instructions
+type: docs
 ---
-
-
-
-
-
-
 
 ## Instructions for getting listed as a GitLab Technology Partner
 

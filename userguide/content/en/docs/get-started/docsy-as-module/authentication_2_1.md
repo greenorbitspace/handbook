@@ -1,5 +1,12 @@
 ---
-title: "Authentication Group"
+title: Authentication Group
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/authentication_2_1/
+description: ''
+linkTitle: Authentication Group
+type: docs
 ---
 
 ### Govern:Authentication{#welcome}

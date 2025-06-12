@@ -1,6 +1,12 @@
 ---
-title: "High Velocity Sales and First Orders (formerly Global Digital SMB)"
-description: "Overview of the High Velocity Sales and First Orders Sales Model"
+title: High Velocity Sales and First Orders (formerly Global Digital SMB)
+description: Overview of the High Velocity Sales and First Orders Sales Model
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/high_velocity_sales_first_orders_1748146058160777729_1/
+linkTitle: High Velocity Sales and First Orders (formerly Global Digital SMB)
+type: docs
 ---
 
 ## HVS-FO Sales Team Structure

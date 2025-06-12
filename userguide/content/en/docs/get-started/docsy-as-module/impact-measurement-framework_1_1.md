@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Impact Measurement Framework 1 1
+aliases:
+- /docs/impact-measurement-framework_1_1/
+description: ''
+linkTitle: Impact Measurement Framework 1 1
+type: docs
+---
+
 # Impact Measurement Framework
 
 Creating a comprehensive Impact Measurement Framework for sustainable marketing efforts involves systematically assessing the effectiveness and value of strategies in terms of environmental, social, and business outcomes. Here's a detailed framework designed to help quantify the success of sustainable marketing campaigns:

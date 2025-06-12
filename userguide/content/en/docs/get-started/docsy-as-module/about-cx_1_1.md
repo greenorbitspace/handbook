@@ -1,6 +1,12 @@
 ---
-title: "About Customer Experience (CX)"
-description: "Deep dive into Customer Experience (CX)"
+title: About Customer Experience (CX)
+description: Deep dive into Customer Experience (CX)
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/about-cx_1_1/
+linkTitle: About Customer Experience (CX)
+type: docs
 ---
 
 ## **Deep dive into Customer Experience (CX)**

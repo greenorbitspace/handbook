@@ -1,6 +1,13 @@
 ---
-title: "Demand Generation Manager"
-summary: " "
+title: Demand Generation Manager
+summary: ' '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/demand-generation-manager_1_1/
+description: ''
+linkTitle: Demand Generation Manager
+type: docs
 ---
 
 ## Responsibilities

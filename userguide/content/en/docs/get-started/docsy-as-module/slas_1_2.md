@@ -1,13 +1,13 @@
 ---
-
-title: "GitLab Dedicated SLAs"
+title: GitLab Dedicated SLAs
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/slas_1_2/
+description: ''
+linkTitle: GitLab Dedicated SLAs
+type: docs
 ---
-
-
-
-
-
-
 
 ## GitLab Dedicated: Service Level Availability and Disaster Recovery Plan
 

@@ -1,6 +1,13 @@
 ---
-title: "System Risk Scoring Procedure"
+title: System Risk Scoring Procedure
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/system-risk-score_1_1/
+description: ''
+linkTitle: System Risk Scoring Procedure
+type: docs
 ---
 
 ## Purpose

@@ -1,7 +1,13 @@
 ---
-title: "GitLab Ireland Ltd Right to Disconnect Policy"
+title: GitLab Ireland Ltd Right to Disconnect Policy
 description: GitLab Ireland Ltd Right to Disconnect Policy
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/right-to-disconnect-policy_1_1/
+linkTitle: GitLab Ireland Ltd Right to Disconnect Policy
+type: docs
 ---
 
 ## 1. Purpose

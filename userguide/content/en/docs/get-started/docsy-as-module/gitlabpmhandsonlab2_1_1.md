@@ -1,6 +1,15 @@
 ---
-title: "GitLab Agile Portfolio Management - Hands-On Lab: Create an Organizational Structure in GitLab"
-description: "This Hands-On Guide walks you through creating groups, projects, and project members in GitLab."
+title: 'GitLab Agile Portfolio Management - Hands-On Lab: Create an Organizational
+  Structure in GitLab'
+description: This Hands-On Guide walks you through creating groups, projects, and
+  project members in GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabpmhandsonlab2_1_1/
+linkTitle: 'GitLab Agile Portfolio Management - Hands-On Lab: Create an Organizational
+  Structure in GitLab'
+type: docs
 ---
 
 > Estimated time to complete: 30 minutes

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Asset 1
+aliases:
+- /docs/asset_1/
+description: ''
+linkTitle: Asset 1
+type: docs
+---
+
 [asset](https://example.com/asset.pdf)
 
 [](./asset.pdf)

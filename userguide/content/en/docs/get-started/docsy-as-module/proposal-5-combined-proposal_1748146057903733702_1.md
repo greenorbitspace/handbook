@@ -1,6 +1,13 @@
 ---
 title: 'GitLab CI Events Proposal 5: Combined proposal'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/proposal-5-combined-proposal_1748146057903733702_1/
+description: ''
+linkTitle: 'GitLab CI Events Proposal 5: Combined proposal'
+type: docs
 ---
 
 In this proposal we have separate files for cohesive groups of events. The

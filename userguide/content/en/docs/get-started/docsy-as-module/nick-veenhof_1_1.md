@@ -1,8 +1,13 @@
 ---
-
-title: "Nick Veenhof's README"
-description: "README for Nick Veenhof"
-job: "Director of Contributor Success"
+title: Nick Veenhof's README
+description: README for Nick Veenhof
+job: Director of Contributor Success
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/nick-veenhof_1_1/
+linkTitle: Nick Veenhof's README
+type: docs
 ---
 
 ## Related links

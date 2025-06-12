@@ -1,6 +1,12 @@
 ---
-title: "Privilege for Sale - Activity"
-description: "Information for the Privilege for Sale Activity "
+title: Privilege for Sale - Activity
+description: 'Information for the Privilege for Sale Activity '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/privilege-for-sale_1_1/
+linkTitle: Privilege for Sale - Activity
+type: docs
 ---
 
 {{< youtube "RDHpmvN3Ivs" >}}

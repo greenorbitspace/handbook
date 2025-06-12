@@ -1,7 +1,14 @@
 ---
-title: "GitLab Events Code of Conduct"
-description: "GitLab is dedicated to providing a harassment-free and inclusive event experience for everyone!"
-canonical_path: "/company/culture/ecoc/"
+title: GitLab Events Code of Conduct
+description: GitLab is dedicated to providing a harassment-free and inclusive event
+  experience for everyone!
+canonical_path: /company/culture/ecoc/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ecoc_1_1/
+linkTitle: GitLab Events Code of Conduct
+type: docs
 ---
 
 GitLab is dedicated to providing a harassment-free and inclusive event experience for everyone regardless of gender identity or expression, sexual orientation, disability, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion (or lack thereof), or any other categories protected by local, state, provincial, or federal law. We do not tolerate harassment against any individual at our events in any form. GitLab takes violations of this policy seriously and event organizers will enforce our policies throughout the event.

@@ -1,6 +1,13 @@
 ---
 title: Kubernetes Support Pod
-description: A Support Pod for all things Kubernetes related - k8s, openshift, kas, agent, runner agent, k8s executor, CN Hybrid ref arch, helm, etc.
+description: A Support Pod for all things Kubernetes related - k8s, openshift, kas,
+  agent, runner agent, k8s executor, CN Hybrid ref arch, helm, etc.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_93_1_1/
+linkTitle: Kubernetes Support Pod
+type: docs
 ---
 
 ## Purpose

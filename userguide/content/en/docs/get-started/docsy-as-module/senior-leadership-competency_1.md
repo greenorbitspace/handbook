@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Senior Leadership Competency 1
+aliases:
+- /docs/senior-leadership-competency_1/
+description: ''
+linkTitle: Senior Leadership Competency 1
+type: docs
+---
+
 ##### Engineering
 
 * Communicates clearly and effectively, both written and verbally, when advising, setting expectations, or suggesting improvements. This applies whether interacting with team members, customers, or the wider community.

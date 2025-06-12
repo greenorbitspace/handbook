@@ -1,13 +1,13 @@
 ---
-aliases: handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/getting-started/communication
-title: "Keeping Yourself Informed"
+aliases:
+- /docs/keeping-yourself-informed_1_1/
+title: Keeping Yourself Informed
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Keeping Yourself Informed
+type: docs
 ---
-
-
-
-
-
-
 
 ## Communications within Product and Solution  Marketing
 

@@ -1,5 +1,12 @@
 ---
 title: CFO Shadow Program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cfo-shadow-program_1_1/
+description: ''
+linkTitle: CFO Shadow Program
+type: docs
 ---
 
 ## Overview

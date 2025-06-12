@@ -1,8 +1,15 @@
 ---
 title: Looking up customer technical details
-description: "How to look up customer technical details within Zendesk and the Architecture integration, or the Account Management Group"
+description: How to look up customer technical details within Zendesk and the Architecture
+  integration, or the Account Management Group
 category: Handling tickets
 subcategory: Customer Info
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/looking_up_customer_technical_details_1_1/
+linkTitle: Looking up customer technical details
+type: docs
 ---
 
 While troubleshooting customer issues in tickets, you may find yourself needing

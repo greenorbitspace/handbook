@@ -1,5 +1,12 @@
 ---
-title: "Technical Writing Management"
+title: Technical Writing Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/technical-writing-manager_1_1/
+description: ''
+linkTitle: Technical Writing Management
+type: docs
 ---
 
 Technical Writing Managers, part of the UX department at GitLab, support their teams by helping to create an environment in which everyone can succeed. While they are credible as Technical Writers and know the details of technical writing processes, their time is spent hiring and supporting a world-class team. They own the delivery of technical writing commitments and are always looking to improve productivity and process. They must also coordinate across departments to accomplish collaborative goals.

@@ -1,6 +1,12 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/data_stores/database/postgresql-upgrade-cadence.html
+aliases:
+- /docs/postgresql-upgrade-cadence_1_1/
 title: PostgreSQL Upgrade Cadence
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: PostgreSQL Upgrade Cadence
+type: docs
 ---
 
 ## PostgreSQL yearly upgrade cadence

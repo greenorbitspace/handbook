@@ -1,6 +1,12 @@
 ---
-title: "GitLab Singapore Pte Ltd"
-description: "Discover GitLab's benefits for team members in Singapore"
+title: GitLab Singapore Pte Ltd
+description: Discover GitLab's benefits for team members in Singapore
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/singapore-pte-ltd_1_1/
+linkTitle: GitLab Singapore Pte Ltd
+type: docs
 ---
 
 ## Medical

@@ -1,7 +1,13 @@
 ---
 title: Project setup
 description: Operations workflows page for setting up projects on gitlab.com
-canonical_path: "/handbook/security/customer-support-operations/workflows/gitlab/project-setup"
+canonical_path: /handbook/security/customer-support-operations/workflows/gitlab/project-setup
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/project-setup_1_1/
+linkTitle: Project setup
+type: docs
 ---
 
 {{% alert title="Note" color="danger" %}}

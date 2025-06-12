@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Books Pl 1
+aliases:
+- /docs/free-programming-books-pl_1/
+description: ''
+linkTitle: Free Programming Books Pl 1
+type: docs
+---
+
 ### Index
 
 * [0 - Niezależne od języka programowania](#0---niezale%C5%BCne-od-j%C4%99zyka-programowania)

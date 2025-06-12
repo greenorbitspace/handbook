@@ -1,6 +1,13 @@
 ---
-title: "Candidate Experience"
-description: "The GitLab Candidate Experience Specialists work to create positive experiences for GitLab candidates and hiring teams."
+title: Candidate Experience
+description: The GitLab Candidate Experience Specialists work to create positive experiences
+  for GitLab candidates and hiring teams.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/candidate-experience_1_1/
+linkTitle: Candidate Experience
+type: docs
 ---
 
 ## Candidate Experience Specialist

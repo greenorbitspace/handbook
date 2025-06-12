@@ -1,6 +1,14 @@
 ---
-title: "New to Leadership and Management"
-description: "In this section we will review various topics that impact new managers. For first time managers sometimes the transition from a high performing individual to leading a team can be challenging."
+title: New to Leadership and Management
+description: In this section we will review various topics that impact new managers.
+  For first time managers sometimes the transition from a high performing individual
+  to leading a team can be challenging.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/new-to-leadership_1_1/
+linkTitle: New to Leadership and Management
+type: docs
 ---
 
 In this section we will review various topics that impact new managers. For first time managers sometimes the transition from a high performing individual to leading a team can be challenging. One of the biggest challenges is that many new managers are taking over teams that they were once a member of and have already formed friendships. Although it can be hard to separate your new role from your past role it is important that you make the change. You will need to accept that you are in a different role and your mindset will have to shift from an individual contributor to manager.

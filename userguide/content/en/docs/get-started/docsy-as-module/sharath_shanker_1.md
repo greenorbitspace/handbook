@@ -1,7 +1,13 @@
 ---
-title: "Sharath Shanker's README"
-description: "README page for Sharath Shanker"
-job: "Business Systems Analyst"
+title: Sharath Shanker's README
+description: README page for Sharath Shanker
+job: Business Systems Analyst
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sharath_shanker_1/
+linkTitle: Sharath Shanker's README
+type: docs
 ---
 
 ### About me

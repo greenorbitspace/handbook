@@ -1,6 +1,12 @@
 ---
-title: "Expansion Journey: Premium to Ultimate Up-tier"
-description: "Epic for understanding how our largest customers expand into Ultimate"
+title: 'Expansion Journey: Premium to Ultimate Up-tier'
+description: Epic for understanding how our largest customers expand into Ultimate
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/prem-ult-epic_1_1/
+linkTitle: 'Expansion Journey: Premium to Ultimate Up-tier'
+type: docs
 ---
 
 ## **Expansion Journey: Premium to Ultimate Up-tier**

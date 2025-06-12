@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Tech Stack 1
+aliases:
+- /docs/tech-stack_1/
+description: ''
+linkTitle: Tech Stack 1
+type: docs
+---
+
 {{- /*Initialize.*/}}
 {{- $title := "" }}
 

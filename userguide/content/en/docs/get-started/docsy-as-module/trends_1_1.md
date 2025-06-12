@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Trends 1 1
+aliases:
+- /docs/trends_1_1/
+description: ''
+linkTitle: Trends 1 1
+type: docs
+---
+
 The Trends lookup endpoint allow developers to get the Trends for a location, specified using the where-on-earth id (WOEID).
 
 **Note:** WOEID is a legacy identifier created by Yahoo and has been deprecated. X API uses the numeric value to identify town and country trend locations. 

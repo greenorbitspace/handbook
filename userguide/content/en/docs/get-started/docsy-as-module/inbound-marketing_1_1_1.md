@@ -1,6 +1,15 @@
 ---
-title: "Inbound Marketing"
-summary: Create tools and processes to continually improve the results of a prospective customers journey, and sharing results and insights with stakeholders throughout the company.
+title: Inbound Marketing
+summary: Create tools and processes to continually improve the results of a prospective
+  customers journey, and sharing results and insights with stakeholders throughout
+  the company.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/inbound-marketing_1_1_1/
+description: ''
+linkTitle: Inbound Marketing
+type: docs
 ---
 
 ## Intro

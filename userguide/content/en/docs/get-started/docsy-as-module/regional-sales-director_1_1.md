@@ -1,6 +1,13 @@
 ---
-title: "Regional Sales Director"
-RoleName: "Regional Sales Director"
+title: Regional Sales Director
+RoleName: Regional Sales Director
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/regional-sales-director_1_1/
+description: ''
+linkTitle: Regional Sales Director
+type: docs
 ---
 
 As the Regional Sales Director, you will lead a dynamic sales team and help GitLab surpass our growth goals. The right candidate is responsible for building and leading a world class sales team, implementing technology and processes, and partnering with the account management, customer success, marketing, product, engineering and operations teams to deliver the best possible customer experience. The right candidate is truly passionate about open source software and has a proven track record to talk about! This is an exciting opportunity to unequivocally influence GitLab’s overall success and growth.

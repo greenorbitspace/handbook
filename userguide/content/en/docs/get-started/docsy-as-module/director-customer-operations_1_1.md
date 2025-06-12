@@ -1,5 +1,12 @@
 ---
 title: Director of Customer Success Operations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/director-customer-operations_1_1/
+description: ''
+linkTitle: Director of Customer Success Operations
+type: docs
 ---
 
 The Director of Customer Success Operations Job Family is responsible for defining, leading, and tracking strategic and operational programs and initiatives to improve GitLab’s ability to effectively and efficiently deliver to customer and GitLab objectives. The Customer Operations Team works cross-functionally orchestrating results with Customer Success, Sales, Marketing, Product and Engineering, Support, People Operations, and Finance.  

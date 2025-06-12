@@ -1,6 +1,13 @@
 ---
 title: On-prem Intake
 category: Technical Intake
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/on-prem_1/
+description: ''
+linkTitle: On-prem Intake
+type: docs
 ---
 
 For technical intake of a customer using AWS, use [this form template](https://docs.google.com/spreadsheets/d/1rnpvwsmW78TNnYJA4bueyPaX1TIAagzSGGZOvpcQK74/edit#gid=0).

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Web Sustainability Statement 1 1
+aliases:
+- /docs/web-sustainability-statement_1_1/
+description: ''
+linkTitle: Web Sustainability Statement 1 1
+type: docs
+---
+
 Green Orbit Digital is committed to building a more sustainable internet. As a purpose-driven creative agency focused on space-enabled solutions for climate and sustainability, we believe digital design must be environmentally responsible, inclusive, and future-focused. This statement outlines our approach to sustainable web design and our ongoing alignment with the W3C Sustainable Web Design Guidelines.
 
 # Our Commitment to Web Sustainability

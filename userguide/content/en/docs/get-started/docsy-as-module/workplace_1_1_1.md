@@ -1,6 +1,12 @@
 ---
-title: "GitLab Strategy and Operations (Workplace) Team Handbook"
+title: GitLab Strategy and Operations (Workplace) Team Handbook
 description: GitLab Strategy and Operations (Workplace) Team Handbook
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/workplace_1_1_1/
+linkTitle: GitLab Strategy and Operations (Workplace) Team Handbook
+type: docs
 ---
 
 ## About the GitLab Strategy and Operations (Workplace) Team

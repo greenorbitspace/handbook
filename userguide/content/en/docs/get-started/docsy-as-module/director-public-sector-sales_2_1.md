@@ -1,6 +1,13 @@
 ---
-title: "Director Public Sector Sales"
-RoleName: "Director of Public Sector Sales"
+title: Director Public Sector Sales
+RoleName: Director of Public Sector Sales
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/director-public-sector-sales_2_1/
+description: ''
+linkTitle: Director Public Sector Sales
+type: docs
 ---
 
 The Director of Public Sector Sales is responsible for building, managing and leading the Public Sector sales teams by overseeing sales, operations and strategies for new and existing customers of GitLab.

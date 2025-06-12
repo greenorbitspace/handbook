@@ -1,8 +1,13 @@
 ---
-
 title: Troubleshooting cloud licensing
-description: "How to troubleshoot issues with a cloud license"
+description: How to troubleshoot issues with a cloud license
 category: GitLab Self-Managed licenses
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/troubleshoot_cloud_licensing_1_1/
+linkTitle: Troubleshooting cloud licensing
+type: docs
 ---
 
 ## Scenario

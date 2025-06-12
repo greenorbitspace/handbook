@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Sustainable Procurement Plan 1 1
+aliases:
+- /docs/sustainable-procurement-plan_1_1/
+description: ''
+linkTitle: Sustainable Procurement Plan 1 1
+type: docs
+---
+
 # 1. Executive Summary
 
 This sustainable procurement plan outlines our commitment to incorporating environmental, social, and economic considerations into our purchasing decisions. The plan aims to reduce our environmental impact, support ethical business practices, and create long-term value for our organization.

@@ -2,6 +2,12 @@
 title: Handling data as a Support Engineer
 description: This is a guide to data handling best practices in Support
 category: References
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/data_handling_1_1/
+linkTitle: Handling data as a Support Engineer
+type: docs
 ---
 
 ### Overview

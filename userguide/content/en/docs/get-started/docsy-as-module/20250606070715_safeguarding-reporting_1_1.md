@@ -5,6 +5,13 @@ doc_id: doc-1230
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070715_safeguarding-reporting_1_1/
+description: ''
+linkTitle: Safeguarding Reporting
+type: docs
 ---
 
 11. Green Orbit Digital’s procedure for responding to safeguarding concernsSafeguarding concerns may arise from recognition of potential signs of abuse, suspicion of harmfulbehaviours, and direct disclosure by a survivor. Guidelines stated in Annex 4 - Handling Disclosureshould be followed when responding to disclosures.511.1. Information sharing and data protectionGreen Orbit Digital will always seek and facilitate consent of alleged adult victims and children’s care givers beforesharing safeguarding concerns with the relevant authorities. However, in cases where informationsuggests an immediate risk of harm, data protection legislation is not a barrier to sharing safeguardingconcerns. Those representing Green Orbit Digital as staff cannot keep confidences when they involve concernsabout a vulnerable adult or a child who is at risk or likely risk of harm. It is important that everyoneproviding services on behalf of Green Orbit Digital is prepared to explain the limits of confidentiality.11.2. Reporting concerns relating to Green Orbit Digital personnel

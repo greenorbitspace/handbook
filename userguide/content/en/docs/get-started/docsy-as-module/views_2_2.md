@@ -1,7 +1,13 @@
 ---
 title: Views
 description: Support Operations documentation page for Zendesk views
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/views"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/views
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/views_2_2/
+linkTitle: Views
+type: docs
 ---
 
 ## What are Zendesk views?

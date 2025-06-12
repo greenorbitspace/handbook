@@ -1,5 +1,14 @@
 ---
-title: Referencing Vite Env Vars like import.meta.env.SITE, import.meta.env.TITLE and import.meta.env
+title: Referencing Vite Env Vars like import.meta.env.SITE, import.meta.env.TITLE
+  and import.meta.env
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vite-env-vars_1_1/
+description: ''
+linkTitle: Referencing Vite Env Vars like import.meta.env.SITE, import.meta.env.TITLE
+  and import.meta.env
+type: docs
 ---
 
 ## Referencing the full name of Vite env vars

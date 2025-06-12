@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 14 1 1 1
+aliases:
+- /docs/README_14_1_1_1/
+description: ''
+linkTitle: Readme 14 1 1 1
+type: docs
+---
+
 # markdownlint-cli2-formatter-codequality
 
 > An output formatter for [`markdownlint-cli2`][markdownlint-cli2] that writes

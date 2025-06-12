@@ -1,7 +1,13 @@
 ---
 title: Ruby gems
 description: Operations workflows page for ruby gems
-canonical_path: "/handbook/security/customer-support-operations/workflows/ruby-gems/"
+canonical_path: /handbook/security/customer-support-operations/workflows/ruby-gems/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_41_1_1/
+linkTitle: Ruby gems
+type: docs
 ---
 
 {{% pageinfo color="info" %}}

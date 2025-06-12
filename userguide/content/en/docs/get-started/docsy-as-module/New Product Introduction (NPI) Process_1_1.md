@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: New Product Introduction (Npi) Process 1 1
+aliases:
+- /docs/New Product Introduction (NPI) Process_1_1/
+description: ''
+linkTitle: New Product Introduction (Npi) Process 1 1
+type: docs
+---
+
 # New Product Introduction (NPI) Process
 
 How to launch a product or service at GitLab.

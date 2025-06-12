@@ -1,12 +1,25 @@
 ---
 title: 'Cells: Runner'
-owning-stage: "~devops::verify"
+owning-stage: ~devops::verify
 group: Runner
-creation-date: "2024-07-10"
-authors: [ "@rehab", "" ]
-coach:
-approvers: ["@josephburnett", "@tmaczukin", "@amknight", "@skarbek"]
+creation-date: '2024-07-10'
+authors:
+- '@rehab'
+- ''
+coach: null
+approvers:
+- '@josephburnett'
+- '@tmaczukin'
+- '@amknight'
+- '@skarbek'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/runner_1_1/
+description: ''
+linkTitle: 'Cells: Runner'
+type: docs
 ---
 
 {{< design-document-header >}}

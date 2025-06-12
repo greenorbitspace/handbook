@@ -5,6 +5,13 @@ doc_id: doc-408
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070710_employee-onboarding-checklist_1_1/
+description: ''
+linkTitle: Employee Onboarding Checklist
+type: docs
 ---
 
 Here’s a clean and structured Employee Onboarding Checklist tailored for use in Notion, with toggle sections for ease of use and a professional flow that aligns with your Green Orbit Digital tone. You can copy this directly into a Notion template:

@@ -1,5 +1,12 @@
 ---
-title: "Development Department Career Framework: Staff"
+title: 'Development Department Career Framework: Staff'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/staff_6_1_1/
+description: ''
+linkTitle: 'Development Department Career Framework: Staff'
+type: docs
 ---
 
 ## Development Department Competencies: Staff

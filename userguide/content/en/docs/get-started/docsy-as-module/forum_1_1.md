@@ -1,13 +1,13 @@
 ---
-
-title: "Forum workflow"
+title: Forum workflow
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/forum_1_1/
+description: ''
+linkTitle: Forum workflow
+type: docs
 ---
-
-
-
-
-
-
 
 ## Users
 

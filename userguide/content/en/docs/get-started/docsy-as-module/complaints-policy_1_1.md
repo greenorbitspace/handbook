@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Complaints Policy 1 1
+aliases:
+- /docs/complaints-policy_1_1/
+description: ''
+linkTitle: Complaints Policy 1 1
+type: docs
+---
+
 # Complaints Policy
 
 Green Orbit Digital is committed to providing excellent service to all our stakeholders. This policy outlines how we handle complaints to ensure fair, efficient, and transparent resolution.

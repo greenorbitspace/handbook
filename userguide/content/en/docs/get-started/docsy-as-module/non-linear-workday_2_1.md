@@ -1,11 +1,18 @@
 ---
-title: "The complete guide to asynchronous and non-linear working"
-canonical_path: "./non-linear-workday/"
-description: How to reinvent your routine and create a non-linear workday in an all-remote environment
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+title: The complete guide to asynchronous and non-linear working
+canonical_path: ./non-linear-workday/
+description: How to reinvent your routine and create a non-linear workday in an all-remote
+  environment
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/non-linear-workday_2_1/
+linkTitle: The complete guide to asynchronous and non-linear working
+type: docs
 ---
 
 ![GitLab customer path](/images/all-remote/gitlab-customer-path.jpg){: .medium.center}

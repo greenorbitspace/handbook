@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 1 Helloworld 1 1
+aliases:
+- /docs/1-helloWorld_1_1/
+description: ''
+linkTitle: 1 Helloworld 1 1
+type: docs
+---
+
 ```bash
 node -v # to verify installation
 node

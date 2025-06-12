@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 3 1 1 1
+aliases:
+- /docs/readme_3_1_1_1/
+description: ''
+linkTitle: Readme 3 1 1 1
+type: docs
+---
+
 # globby
 
 > User-friendly glob matching

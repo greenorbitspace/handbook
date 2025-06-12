@@ -1,9 +1,19 @@
 ---
-title: "Equal Contributions"
-summary: "Everyone must be able to equally contribute. Organizations must **create a system** where everyone can consume information and contribute equally, regardless of level, function, or location. When people don't have the opportunity to contribute because of their background, or where they live, or their life stage, we miss out on valuable perspectives."
+title: Equal Contributions
+summary: Everyone must be able to equally contribute. Organizations must **create
+  a system** where everyone can consume information and contribute equally, regardless
+  of level, function, or location. When people don't have the opportunity to contribute
+  because of their background, or where they live, or their life stage, we miss out
+  on valuable perspectives.
 weight: 2
 images:
-    - /images/opengraph/all-remote.jpg
+- /images/opengraph/all-remote.jpg
+date: '2025-06-12'
+aliases:
+- /docs/equal-contributions_1_1_1/
+description: ''
+linkTitle: Equal Contributions
+type: docs
 ---
 
 ![GitLab TeamOps contribution illustration](/teamops/images/teamops-illustration_contribution_purple.png)

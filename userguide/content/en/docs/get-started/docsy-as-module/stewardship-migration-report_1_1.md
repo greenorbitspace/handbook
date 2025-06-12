@@ -1,6 +1,13 @@
 ---
 title: Stewardship
 Description: Migration report for moving the handbooks stewardship section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/stewardship-migration-report_1_1/
+description: ''
+linkTitle: Stewardship
+type: docs
 ---
 
 **Section:** stewardship

@@ -1,6 +1,12 @@
 ---
-title: "Dex Bot"
-description: "Digital Experience team Slack application"
+title: Dex Bot
+description: Digital Experience team Slack application
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dexbot_1_1/
+linkTitle: Dex Bot
+type: docs
 ---
 
 The Digital Experience team has created a Slack application to automate important messages and alerts to the team, the app configuration can be found [here](https://api.slack.com/apps/A06K6EK7VHP/general)

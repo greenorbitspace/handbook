@@ -1,6 +1,12 @@
 ---
 title: Facilitate The Opportunity
 description: GitLab sales process for facilitating the opportunity
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/facilitate-the-opportunity_1748146058175356714_1_1/
+linkTitle: Facilitate The Opportunity
+type: docs
 ---
 
 You have qualified a lead and now you need to turn it into a sale. This phase is called **Facilitate the Opportunity.** The goal of this phase is to achieve a **technical commit** followed by an **economic commit** from the customer. A Commit is a verbal acknowledgement from the buyer that they want to proceed with the deal. In this phase there are 4 high level tasks you need to complete to get a technical and economic commit:

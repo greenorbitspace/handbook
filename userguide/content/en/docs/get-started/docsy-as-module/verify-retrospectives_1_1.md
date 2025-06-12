@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Verify Retrospectives 1 1
+aliases:
+- /docs/verify-retrospectives_1_1/
+description: ''
+linkTitle: Verify Retrospectives 1 1
+type: docs
+---
+
 The team uses a monthly async retrospective process as a way to celebrate success and look for ways to improve. The process for these retrospectives aligns with the [automated retrospective process](https://gitlab.com/gitlab-org/async-retrospectives#how-it-works) used by many teams at GitLab.
 
 A new retrospective issue is created on the 27th of each month, and remains open until the 26th of the following month. Team members are encouraged to add comments to that issue throughout the month as things arise as a way to capture topics as they happen.

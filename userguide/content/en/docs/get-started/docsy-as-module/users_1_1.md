@@ -1,7 +1,13 @@
 ---
 title: Users
 description: Support Operations documentation page for Pagerduty users
-canonical_path: "/handbook/support/readiness/operations/docs/pagerduty/users"
+canonical_path: /handbook/support/readiness/operations/docs/pagerduty/users
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/users_1_1/
+linkTitle: Users
+type: docs
 ---
 
 ## Creating a user in Pagerduty

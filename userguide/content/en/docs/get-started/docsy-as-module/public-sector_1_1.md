@@ -1,14 +1,13 @@
 ---
-
-title: "Public Sector"
-description: "Public Sector at GitLab"
+title: Public Sector
+description: Public Sector at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/public-sector_1_1/
+linkTitle: Public Sector
+type: docs
 ---
-
-
-
-
-
-
 
 ## Government Customers/Contracting
 

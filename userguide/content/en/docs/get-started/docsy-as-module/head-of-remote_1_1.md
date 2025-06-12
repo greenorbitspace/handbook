@@ -1,10 +1,17 @@
 ---
-title: "Head of Remote: how to hire, job postings, job description, courses, and certifications"
+title: 'Head of Remote: how to hire, job postings, job description, courses, and certifications'
 description: Head of Remote
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/head-of-remote_1_1/
+linkTitle: 'Head of Remote: how to hire, job postings, job description, courses, and
+  certifications'
+type: docs
 ---
 
 ![GitLab collaboration illustration](/images/all-remote/gitlab-collaboration.jpg)

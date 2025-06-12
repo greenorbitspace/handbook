@@ -1,10 +1,14 @@
 ---
-
-title: "Entity-Specific Employment Policies"
-description: "A link to the location of employment-related policies categorized by entity"
+title: Entity-Specific Employment Policies
+description: A link to the location of employment-related policies categorized by
+  entity
 draft: true
 aliases:
 - /handbook/entity-specific-employment-policies/
+weight: 2
+date: '2025-06-12'
+linkTitle: Entity-Specific Employment Policies
+type: docs
 ---
 
 ## Introduction

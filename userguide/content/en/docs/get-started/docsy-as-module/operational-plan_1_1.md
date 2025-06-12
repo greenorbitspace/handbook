@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Operational Plan 1 1
+aliases:
+- /docs/operational-plan_1_1/
+description: ''
+linkTitle: Operational Plan 1 1
+type: docs
+---
+
 # Operational Plan
 
 ## 1. Executive Summary

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Books Fi 1
+aliases:
+- /docs/free-programming-books-fi_1/
+description: ''
+linkTitle: Free Programming Books Fi 1
+type: docs
+---
+
 ### Index
 
 * [C](#c)

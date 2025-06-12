@@ -1,6 +1,12 @@
 ---
 title: Support Global Groups - FAQ
 description: Support Global Groups FAQ
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sgg-faq_1_1/
+linkTitle: Support Global Groups - FAQ
+type: docs
 ---
 
 ## Collaboration

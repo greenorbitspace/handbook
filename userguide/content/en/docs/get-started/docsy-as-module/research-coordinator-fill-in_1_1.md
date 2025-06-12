@@ -1,6 +1,13 @@
 ---
-title: "How to fill in for a UX Research Operations Coordinator"
-description: "This page details the steps required to execute a successful recruit from start to finish"
+title: How to fill in for a UX Research Operations Coordinator
+description: This page details the steps required to execute a successful recruit
+  from start to finish
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/research-coordinator-fill-in_1_1/
+linkTitle: How to fill in for a UX Research Operations Coordinator
+type: docs
 ---
 
 There are times when you will play the role of UX Research Operations Coordinator. This page details all of the ‘behind the scenes’ steps needed to execute a successful recruit from start to finish. Are you interested in how to work with our UX Research Operations Coordinator? If so, you can find that information [here](/handbook/product/ux/ux-research/recruiting-participants/).

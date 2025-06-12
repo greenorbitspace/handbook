@@ -1,6 +1,12 @@
 ---
-
-title: "Aligning Work Items To Themes"
+title: Aligning Work Items To Themes
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/aligning-work-items-to-themes_1_1/
+description: ''
+linkTitle: Aligning Work Items To Themes
+type: docs
 ---
 
 ## Pilot Context

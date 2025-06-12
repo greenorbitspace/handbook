@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Scope Document 1 1
+aliases:
+- /docs/scope-document_1_1/
+description: ''
+linkTitle: Scope Document 1 1
+type: docs
+---
+
 ## 1. Introduction
 
 This document defines the scope of Green Orbit Digital's Information Security Management System (ISMS), establishing the boundaries and applicability of information security controls within our organization.

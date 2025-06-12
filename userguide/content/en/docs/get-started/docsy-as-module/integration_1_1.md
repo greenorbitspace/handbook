@@ -1,13 +1,13 @@
 ---
-
-title: "Acquisition Integration"
+title: Acquisition Integration
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/integration_1_1/
+description: ''
+linkTitle: Acquisition Integration
+type: docs
 ---
-
-
-
-
-
-
 
 This is a detailed view of our acquisition integration process. For more information about
 our acquisitions approach visit our [acquisitions process](/handbook/acquisitions/acquisition-process/).

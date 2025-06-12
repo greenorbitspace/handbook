@@ -1,11 +1,17 @@
 ---
-
-title: "The complete guide to remote onboarding for new-hires"
-description: "A complete guide to onboarding new remote work employees and establishing processes that ensure success from day one. Learn more here!"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+title: The complete guide to remote onboarding for new-hires
+description: A complete guide to onboarding new remote work employees and establishing
+  processes that ensure success from day one. Learn more here!
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/onboarding_2_2/
+linkTitle: The complete guide to remote onboarding for new-hires
+type: docs
 ---
 
 ![GitLab customer path](/images/all-remote/gitlab-customer-path.jpg)

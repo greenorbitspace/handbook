@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Midmilestone 1
+aliases:
+- /docs/midmilestone_1/
+description: ''
+linkTitle: Midmilestone 1
+type: docs
+---
+
 Expanding on the concept of Middle of milestone check-in:
 
 The way we try to grasp how well we are doing according to the scheduled and committed set of Deliverables is simply trying to calculate the level of completeness of all of them.

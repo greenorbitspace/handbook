@@ -1,14 +1,17 @@
 ---
-
-title: "Self-Service Data Team at GitLab"
-description: "The Self-Service Data Team is responsible for leveraging data to optimize for the self-service customer experience and drive nARR growth via sales efficiency. Data insights from this team feed: sales visibility, self-service fulfillment features, and growth/marketing experiments. The Self-Service Data Team also aims to create data tools to help with efficiency, prioritization, and decision making."
+title: Self-Service Data Team at GitLab
+description: 'The Self-Service Data Team is responsible for leveraging data to optimize
+  for the self-service customer experience and drive nARR growth via sales efficiency.
+  Data insights from this team feed: sales visibility, self-service fulfillment features,
+  and growth/marketing experiments. The Self-Service Data Team also aims to create
+  data tools to help with efficiency, prioritization, and decision making.'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/self-service-data_1_1/
+linkTitle: Self-Service Data Team at GitLab
+type: docs
 ---
-
-
-
-
-
-
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 

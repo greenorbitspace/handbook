@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Use Policy 1
+aliases:
+- /docs/USE_POLICY_1/
+description: ''
+linkTitle: Use Policy 1
+type: docs
+---
+
 # Meta Llama 3 Acceptable Use Policy
 
 Meta is committed to promoting safe and fair use of its tools and features, including Llama 3. If you access or use Llama 3, you agree to this Acceptable Use Policy (“Policy”). The most recent copy of this policy can be found at [ai.meta.com/llama/use-policy](http://ai.meta.com/llama/use-policy).

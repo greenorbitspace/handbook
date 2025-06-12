@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Development Principal Technical Competency 1 1
+aliases:
+- /docs/development-principal-technical-competency_1_1/
+description: ''
+linkTitle: Development Principal Technical Competency 1 1
+type: docs
+---
+
 ##### Development
 
 * The Principal Engineer role acts as the individual equivalent of a Senior Engineering Manager, Development.

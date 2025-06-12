@@ -1,7 +1,13 @@
 ---
 title: GitLab Dedicated Overview
 category: GitLab Dedicated
-description: "GitLab Dedicated Support overview."
+description: GitLab Dedicated Support overview.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dedicated_1_1/
+linkTitle: GitLab Dedicated Overview
+type: docs
 ---
 
 ### Overview

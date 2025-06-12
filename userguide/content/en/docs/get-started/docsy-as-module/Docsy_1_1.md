@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Docsy 1 1
+aliases:
+- /docs/Docsy_1_1/
+description: ''
+linkTitle: Docsy 1 1
+type: docs
+---
+
 <!-- Unsupported block type: image -->
 
 A Hugo theme for creating great technical documentation sites

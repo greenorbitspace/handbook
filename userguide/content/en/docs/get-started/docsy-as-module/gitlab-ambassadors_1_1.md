@@ -1,6 +1,14 @@
 ---
-title: "GitLab talent ambassador"
-description: "Keeping with our mission that everyone can contribute, we want all GitLab team members to feel encouraged and equipped to take part in helping us find great talent and act as ambassadors for the company and our talent brand."
+title: GitLab talent ambassador
+description: Keeping with our mission that everyone can contribute, we want all GitLab
+  team members to feel encouraged and equipped to take part in helping us find great
+  talent and act as ambassadors for the company and our talent brand.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-ambassadors_1_1/
+linkTitle: GitLab talent ambassador
+type: docs
 ---
 
 ## Become a GitLab talent ambassador

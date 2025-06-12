@@ -1,14 +1,13 @@
 ---
-
-title: "Professional Services Practice Management"
-description: "Discover how the GitLab Practice Management team works together."
+title: Professional Services Practice Management
+description: Discover how the GitLab Practice Management team works together.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/practice-mgmt_1_1/
+linkTitle: Professional Services Practice Management
+type: docs
 ---
-
-
-
-
-
-
 
 ## Practice Management Overview
 

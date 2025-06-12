@@ -1,6 +1,13 @@
 ---
-title: "Compliance Frameworks ADR 001: Triggering Checks"
+title: 'Compliance Frameworks ADR 001: Triggering Checks'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/001_triggering_checks_1_1/
+description: ''
+linkTitle: 'Compliance Frameworks ADR 001: Triggering Checks'
+type: docs
 ---
 
 ## Context

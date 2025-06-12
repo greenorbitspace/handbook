@@ -1,8 +1,13 @@
 ---
-description: >-
-  Collection can be shared with other users, which are then called
-  collaborators, and this section describes the different commands that are
-  related to sharing.
+description: Collection can be shared with other users, which are then called collaborators,
+  and this section describes the different commands that are related to sharing.
+weight: 2
+date: '2025-06-12'
+title: Sharing 1 1
+aliases:
+- /docs/sharing_1_1/
+linkTitle: Sharing 1 1
+type: docs
 ---
 
 # Sharing

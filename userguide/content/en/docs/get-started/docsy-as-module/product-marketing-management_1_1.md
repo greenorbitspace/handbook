@@ -1,6 +1,13 @@
 ---
-title: "Product Marketing Management"
-summary: " "
+title: Product Marketing Management
+summary: ' '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-marketing-management_1_1/
+description: ''
+linkTitle: Product Marketing Management
+type: docs
 ---
 
 ### Senior Manager, Product Marketing

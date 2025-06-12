@@ -1,6 +1,15 @@
 ---
-title: "Identity Access Requests"
-description: "The access request process has been automated with Identity Roles and Identity Groups. This page explains the processes that are used to update the role and group policies in accessctl, or adding additional roles and groups to applications with Terraform."
+title: Identity Access Requests
+description: The access request process has been automated with Identity Roles and
+  Identity Groups. This page explains the processes that are used to update the role
+  and group policies in accessctl, or adding additional roles and groups to applications
+  with Terraform.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_23_1_1/
+linkTitle: Identity Access Requests
+type: docs
 ---
 
 {{% alert title="Not Live Yet" color="warning" %}}

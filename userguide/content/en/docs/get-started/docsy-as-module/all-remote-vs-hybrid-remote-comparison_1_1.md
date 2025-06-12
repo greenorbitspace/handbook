@@ -1,10 +1,16 @@
 ---
-title: "All-Remote Benefits vs. Hybrid-Remote Benefits Checklist"
+title: All-Remote Benefits vs. Hybrid-Remote Benefits Checklist
 description: All-Remote Benefits vs. Hybrid-Remote Benefits Checklist
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/all-remote-vs-hybrid-remote-comparison_1_1/
+linkTitle: All-Remote Benefits vs. Hybrid-Remote Benefits Checklist
+type: docs
 ---
 
 ![GitLab all-remote at scale illustration](/images/all-remote/gitlab_all_remote_work_environment_scale.jpg)

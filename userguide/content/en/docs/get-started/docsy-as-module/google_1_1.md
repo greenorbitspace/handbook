@@ -1,13 +1,13 @@
 ---
-
-title: "Use case: GitLab + Google Cloud"
+title: 'Use case: GitLab + Google Cloud'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/google_1_1/
+description: ''
+linkTitle: 'Use case: GitLab + Google Cloud'
+type: docs
 ---
-
-
-
-
-
-
 
 #### Who to contact
 

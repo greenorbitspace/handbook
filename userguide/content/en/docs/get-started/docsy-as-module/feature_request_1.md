@@ -1,9 +1,16 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: Feature Request 1
 labels: enhancement
 assignees: ''
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/feature_request_1/
+description: ''
+linkTitle: Feature Request 1
+type: docs
 ---
 
 <!--

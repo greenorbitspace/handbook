@@ -1,11 +1,14 @@
 ---
-
 title: Solutions Architecture Activity Description
-description: >-
-  Solutions Architects record all customer and prospect activity. This is activity description to guide the accurate capture.
-
+description: Solutions Architects record all customer and prospect activity. This
+  is activity description to guide the accurate capture.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/activity-desc_1_1/
+linkTitle: Solutions Architecture Activity Description
+type: docs
 ---
-
 
 Solutions Architects record all customer and prospect activity with accurate activity type to promote **result** and **efficiency**. By consistently and accurately capturing our prospect or customer-facing activity, we can perform analysis for further reporting to establish **efficient** decision making for GitLab's business.
 

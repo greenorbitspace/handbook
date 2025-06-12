@@ -1,7 +1,14 @@
 ---
-owning-stage: "~devops::verify"
-title: "The Step Definition for GitLab Steps"
+owning-stage: ~devops::verify
+title: The Step Definition for GitLab Steps
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/step-definition_1_1/
+description: ''
+linkTitle: The Step Definition for GitLab Steps
+type: docs
 ---
 
 A step is the minimum executable unit that user can provide and is defined in a `step.yml` file.

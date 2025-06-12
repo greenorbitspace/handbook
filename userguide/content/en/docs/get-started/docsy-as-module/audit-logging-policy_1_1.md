@@ -1,6 +1,13 @@
 ---
-title: "GitLab Audit Logging Policy"
+title: GitLab Audit Logging Policy
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/audit-logging-policy_1_1/
+description: ''
+linkTitle: GitLab Audit Logging Policy
+type: docs
 ---
 
 ## Purpose

@@ -1,6 +1,13 @@
 ---
-title: "Encryption Policy"
+title: Encryption Policy
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/encryption-policy_1_1/
+description: ''
+linkTitle: Encryption Policy
+type: docs
 ---
 
 Encryption is a process in which data is encoded so that it remains hidden from or inaccessible to unauthorized users. It helps securely protect data that you don't want anyone to have access to. By encrypting our data at rest and in transit, we can better protect private, proprietary and sensitive data and can enhance the security of communication between client applications and servers.

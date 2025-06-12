@@ -1,4 +1,13 @@
-
+---
+weight: 2
+date: '2025-06-12'
+title: Related Business 1 1
+aliases:
+- /docs/related-business_1_1/
+description: ''
+linkTitle: Related Business 1 1
+type: docs
+---
 
 Related Business Templates
 

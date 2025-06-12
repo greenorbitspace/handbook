@@ -1,5 +1,12 @@
 ---
-title: "People Analytics Tableau Dashboard Overview"
+title: People Analytics Tableau Dashboard Overview
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/people-tableau_1_1/
+description: ''
+linkTitle: People Analytics Tableau Dashboard Overview
+type: docs
 ---
 
 ## Helpful places to start

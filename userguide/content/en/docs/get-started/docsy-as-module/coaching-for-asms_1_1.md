@@ -1,13 +1,13 @@
 ---
-aliases: /handbook/sales/account-planning/coaching
-title: "Coaching Account Planning for ASMs"
+aliases:
+- /docs/coaching-for-asms_1_1/
+title: Coaching Account Planning for ASMs
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Coaching Account Planning for ASMs
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

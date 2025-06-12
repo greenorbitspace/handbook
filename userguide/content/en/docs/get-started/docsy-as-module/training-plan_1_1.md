@@ -1,7 +1,12 @@
 ---
-
 title: Support Global Groups Training Plan
 description: Support Global Groups Training Plan
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/training-plan_1_1/
+linkTitle: Support Global Groups Training Plan
+type: docs
 ---
 
 ## Support Global Groups Training Plan

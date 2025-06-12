@@ -1,7 +1,13 @@
 ---
 title: Sync Repos
 description: Information about Support Readiness sync repos
-canonical_path: "/handbook/support/readiness/operations/docs/sync_repos"
+canonical_path: /handbook/support/readiness/operations/docs/sync_repos
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sync_repos_1_1/
+linkTitle: Sync Repos
+type: docs
 ---
 
 ## v1

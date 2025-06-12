@@ -1,16 +1,16 @@
 ---
-
 title: FY23 Marketing Plan
 description: FY23 Marketing Plan
 twitter_image: /images/tweets/handbook-marketing.png
 twitter_site: '@gitlab'
 twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/plan-fy23_1_1/
+linkTitle: FY23 Marketing Plan
+type: docs
 ---
-
-
-
-
-
 
 ## FY23 Marketing GTM Overview
 

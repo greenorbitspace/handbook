@@ -1,10 +1,17 @@
 ---
-title: "Building and reinforcing a sustainable remote work culture"
-description: "In this complete guide, learn how to build a strong remote work culture, and values, for both your employees and company. Learn more here!"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+title: Building and reinforcing a sustainable remote work culture
+description: In this complete guide, learn how to build a strong remote work culture,
+  and values, for both your employees and company. Learn more here!
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/building-culture_1_1_1/
+linkTitle: Building and reinforcing a sustainable remote work culture
+type: docs
 ---
 
 On this page, we're detailing how to build, communicate, and reinforce a sustainable culture in a remote environment.

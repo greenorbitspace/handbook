@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Privacy 1 1
+aliases:
+- /docs/PRIVACY_1_1/
+description: ''
+linkTitle: Privacy 1 1
+type: docs
+---
+
 # Privacy Policy
 
 Last updated: January 10, 2025

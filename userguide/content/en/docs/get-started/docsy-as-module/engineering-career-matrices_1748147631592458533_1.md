@@ -1,6 +1,14 @@
 ---
-title: "Engineering Career Matrices Working Group"
-description: "The GitLab Engineering Career Matrices Working Group aims to deliver 4 career matrices in Engineering as part of PlatoHQ program in response to CultureAmp feedback"
+title: Engineering Career Matrices Working Group
+description: The GitLab Engineering Career Matrices Working Group aims to deliver
+  4 career matrices in Engineering as part of PlatoHQ program in response to CultureAmp
+  feedback
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engineering-career-matrices_1748147631592458533_1/
+linkTitle: Engineering Career Matrices Working Group
+type: docs
 ---
 
 ## Attributes

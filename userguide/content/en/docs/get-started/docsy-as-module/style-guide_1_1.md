@@ -1,7 +1,12 @@
 ---
-title: "Handbook Style Guide"
+title: Handbook Style Guide
 aliases:
 - /handbook/style-guide/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Handbook Style Guide
+type: docs
 ---
 
 ## Introduction

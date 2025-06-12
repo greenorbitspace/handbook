@@ -1,7 +1,14 @@
 ---
 title: CustomerDot Account Related Problems
 category: CustomersDot
-description: Using the customer console for internal requests is only for special cases where the existing tools won't allow us to complete the task at hand.
+description: Using the customer console for internal requests is only for special
+  cases where the existing tools won't allow us to complete the task at hand.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customerdot_account_1_1/
+linkTitle: CustomerDot Account Related Problems
+type: docs
 ---
 
 ## Overview

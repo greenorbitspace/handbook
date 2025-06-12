@@ -1,14 +1,14 @@
 ---
-
-title: "Outreach"
-description: "Outreach is a sales engagement platform helps efficiently and effectively engage prospects to drive more pipeline and close more deals."
+title: Outreach
+description: Outreach is a sales engagement platform helps efficiently and effectively
+  engage prospects to drive more pipeline and close more deals.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/outreach_1_1/
+linkTitle: Outreach
+type: docs
 ---
-
-
-
-
-
-
 
 ### About Outreach
 

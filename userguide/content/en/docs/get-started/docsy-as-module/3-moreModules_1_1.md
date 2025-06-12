@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 3 Moremodules 1 1
+aliases:
+- /docs/3-moreModules_1_1/
+description: ''
+linkTitle: 3 Moremodules 1 1
+type: docs
+---
+
 ### import export patterns
 
 1. **single function**

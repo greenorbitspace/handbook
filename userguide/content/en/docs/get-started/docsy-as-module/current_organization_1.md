@@ -1,8 +1,15 @@
 ---
-title: "Current Organization"
-owning-stage: "~devops::tenant scale"
+title: Current Organization
+owning-stage: ~devops::tenant scale
 group: Organizations
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/current_organization_1/
+description: ''
+linkTitle: Current Organization
+type: docs
 ---
 
 We will ensure that the current organization id is defined on every entry point. These entry points include web requests, background jobs, and scheduled tasks.

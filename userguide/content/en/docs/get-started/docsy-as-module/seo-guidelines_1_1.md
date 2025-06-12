@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Seo Guidelines 1 1
+aliases:
+- /docs/seo-guidelines_1_1/
+description: ''
+linkTitle: Seo Guidelines 1 1
+type: docs
+---
+
 As a development consultancy, we get the chance to work on very different products and projects. From all of them, we learn something new, but in all of them, we apply our previous knowledge.
 
 With dozens of different projects in well over five years, we've compiled our SEO 101 that we apply to all our projects.

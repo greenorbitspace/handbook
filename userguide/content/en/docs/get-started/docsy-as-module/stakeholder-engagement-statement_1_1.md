@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Stakeholder Engagement Statement 1 1
+aliases:
+- /docs/stakeholder-engagement-statement_1_1/
+description: ''
+linkTitle: Stakeholder Engagement Statement 1 1
+type: docs
+---
+
 # Statement of Stakeholder Engagement
 
 At Green Orbit Digital, we recognize that achieving our mission of driving sustainable change in the space industry requires active collaboration with all stakeholders. We are committed to transparent, inclusive, and meaningful engagement that fosters trust and drives positive impact.

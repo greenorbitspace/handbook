@@ -1,7 +1,13 @@
 ---
 title: US Government Support exceptions
 description: Operations workflow for enabling/disabling US Government Support exceptions
-canonical_path: "/handbook/security/customer-support-operations/workflows/zendesk/us-government-exceptions"
+canonical_path: /handbook/security/customer-support-operations/workflows/zendesk/us-government-exceptions
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/us-government-exceptions_1748142274196393278_1_1/
+linkTitle: US Government Support exceptions
+type: docs
 ---
 
 ## Which organizations sync to the US Government instance by default?

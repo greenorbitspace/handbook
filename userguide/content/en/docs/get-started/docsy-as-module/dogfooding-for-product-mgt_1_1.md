@@ -1,13 +1,13 @@
 ---
-
 title: Dogfooding for Product Managers
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dogfooding-for-product-mgt_1_1/
+description: ''
+linkTitle: Dogfooding for Product Managers
+type: docs
 ---
-
-
-
-
-
-
 
 ### Dogfood everything
 

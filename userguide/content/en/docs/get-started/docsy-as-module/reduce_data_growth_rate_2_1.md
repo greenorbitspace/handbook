@@ -1,12 +1,25 @@
 ---
-title: "Reduce the growth rate of pipeline data"
+title: Reduce the growth rate of pipeline data
 status: ongoing
-creation-date: "2024-05-27"
-authors: [ "@fabiopitino", "@mbobin" ]
-coach: [ "@fabiopitino", "@grzesiek" ]
-approvers: [ "@jreporter", "@cheryl.li" ]
-owning-stage: "~devops::verify"
+creation-date: '2024-05-27'
+authors:
+- '@fabiopitino'
+- '@mbobin'
+coach:
+- '@fabiopitino'
+- '@grzesiek'
+approvers:
+- '@jreporter'
+- '@cheryl.li'
+owning-stage: ~devops::verify
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/reduce_data_growth_rate_2_1/
+description: ''
+linkTitle: Reduce the growth rate of pipeline data
+type: docs
 ---
 
 {{< design-document-header >}}

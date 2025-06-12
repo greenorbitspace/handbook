@@ -1,6 +1,12 @@
 ---
-title: "Managing Limits"
-description: "Guidance for when, where, and how to configure limits for GitLab"
+title: Managing Limits
+description: Guidance for when, where, and how to configure limits for GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/managing-limits_1_1/
+linkTitle: Managing Limits
+type: docs
 ---
 
 ## Overview

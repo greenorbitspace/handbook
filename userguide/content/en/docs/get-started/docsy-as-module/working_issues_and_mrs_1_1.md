@@ -1,7 +1,13 @@
 ---
 title: Working issues and MRs
 description: Support Operations policies page for working issues and MRs
-canonical_path: "/handbook/support/readiness/operations/docs/policies/working_issues_and_mrs"
+canonical_path: /handbook/support/readiness/operations/docs/policies/working_issues_and_mrs
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/working_issues_and_mrs_1_1/
+linkTitle: Working issues and MRs
+type: docs
 ---
 
 ## Time tracking

@@ -1,7 +1,13 @@
 ---
-title: "Software Supply Chain Security Working Group"
-description: "Implement key SSCS features across GitLab"
+title: Software Supply Chain Security Working Group
+description: Implement key SSCS features across GitLab
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/software-supply-chain-security_2_1/
+linkTitle: Software Supply Chain Security Working Group
+type: docs
 ---
 
 ## Attributes

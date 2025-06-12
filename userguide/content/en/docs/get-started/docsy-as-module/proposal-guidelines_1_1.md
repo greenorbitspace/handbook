@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Proposal Guidelines 1 1
+aliases:
+- /docs/proposal-guidelines_1_1/
+description: ''
+linkTitle: Proposal Guidelines 1 1
+type: docs
+---
+
 At the proposal stage, providing clients with a well-prepared, comprehensive proposal will showcase Green Orbit Digital’s value, align expectations, and demonstrate the unique benefits of sustainable space marketing. Here’s a breakdown of the essential components to include in a proposal at this stage:
 
 <!-- Unsupported block type: divider -->

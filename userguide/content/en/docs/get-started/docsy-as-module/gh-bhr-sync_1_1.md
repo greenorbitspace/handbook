@@ -1,6 +1,13 @@
 ---
 title: Greenhouse <> BambooHR sync
-description: "Information on the Greenhouse and BambooHR sync for GitLab team members and their profiles."
+description: Information on the Greenhouse and BambooHR sync for GitLab team members
+  and their profiles.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gh-bhr-sync_1_1/
+linkTitle: Greenhouse <> BambooHR sync
+type: docs
 ---
 
 ## Overview

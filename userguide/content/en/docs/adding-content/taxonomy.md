@@ -1,11 +1,20 @@
 ---
 title: Taxonomy Support
 weight: 10
-tags: [Tagging, Structuring Content, Labelling]
-categories: [Taxonomies]
-description: >
+tags:
+- Tagging
+- Structuring Content
+- Labelling
+categories:
+- Taxonomies
+description: |
   Structure the content using taxonomies like tags, categories, labels.
 cSpell:ignore: taxo
+type: docs
+date: '2025-06-12T01:05:53+01:00'
+linkTitle: Taxonomy Support
+aliases:
+- /docs/taxonomy/
 ---
 
 Docsy supports Hugo [taxonomies] in its docs and blog section. You can see the

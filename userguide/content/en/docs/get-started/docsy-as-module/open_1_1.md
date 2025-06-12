@@ -1,7 +1,12 @@
 ---
-
 title: Open Partners
-description: "Support specific information for open partners"
+description: Support specific information for open partners
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/open_1_1/
+linkTitle: Open Partners
+type: docs
 ---
 
 ## Open Partner Track Description

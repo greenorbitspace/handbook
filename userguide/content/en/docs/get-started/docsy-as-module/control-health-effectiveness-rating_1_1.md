@@ -1,6 +1,13 @@
 ---
-title: "Control Health and Effectiveness Rating (CHER) Procedure"
+title: Control Health and Effectiveness Rating (CHER) Procedure
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/control-health-effectiveness-rating_1_1/
+description: ''
+linkTitle: Control Health and Effectiveness Rating (CHER) Procedure
+type: docs
 ---
 
 ## Purpose

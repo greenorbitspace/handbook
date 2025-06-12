@@ -1,7 +1,13 @@
 ---
 title: Triggers
 description: Support Operations documentation page for Zendesk triggers
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/triggers"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/triggers
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/triggers_2_2/
+linkTitle: Triggers
+type: docs
 ---
 
 ## What are Zendesk triggers?

@@ -1,6 +1,13 @@
 ---
-title: "Materials Legal Review Process"
-description: "Follow this process to obtain legal review of materials for internal and external use"
+title: Materials Legal Review Process
+description: Follow this process to obtain legal review of materials for internal
+  and external use
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/materials-legal-review-process_1748146058046615718_1_1/
+linkTitle: Materials Legal Review Process
+type: docs
 ---
 
 ## Self-serve materials compliance resources

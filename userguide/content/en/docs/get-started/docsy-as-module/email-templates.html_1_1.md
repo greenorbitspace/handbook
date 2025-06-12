@@ -1,5 +1,12 @@
 ---
-title: "Code Contributor Program Email templates"
+title: Code Contributor Program Email templates
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/email-templates.html_1_1/
+description: ''
+linkTitle: Code Contributor Program Email templates
+type: docs
 ---
 
 ### Direct email messaging

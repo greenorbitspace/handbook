@@ -1,6 +1,15 @@
 ---
-title: "Digital Marketing Manager"
-summary: Developing and managing the digital demand strategy and plans to support GitLab marketing campaigns across paid search, paid social, programmatic display, and sponsored publisher channels
+title: Digital Marketing Manager
+summary: Developing and managing the digital demand strategy and plans to support
+  GitLab marketing campaigns across paid search, paid social, programmatic display,
+  and sponsored publisher channels
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/digital-marketing-programs-manager_1_1/
+description: ''
+linkTitle: Digital Marketing Manager
+type: docs
 ---
 
 ## Overview

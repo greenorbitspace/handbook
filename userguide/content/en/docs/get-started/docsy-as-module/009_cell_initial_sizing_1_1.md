@@ -1,7 +1,14 @@
 ---
-owning-stage: "~devops::data stores"
+owning-stage: ~devops::data stores
 title: 'Cells ADR 009: Initial Cell Sizes'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/009_cell_initial_sizing_1_1/
+description: ''
+linkTitle: 'Cells ADR 009: Initial Cell Sizes'
+type: docs
 ---
 
 ## Context

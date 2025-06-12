@@ -1,7 +1,13 @@
 ---
-title: "Eduardo Bonet's README"
-job: "Staff Fullstack Engineer, AI Powered::Custom Models"
-description: "Read Me for Eduardo Bonet"
+title: Eduardo Bonet's README
+job: Staff Fullstack Engineer, AI Powered::Custom Models
+description: Read Me for Eduardo Bonet
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/eduardo-bonet_1_1/
+linkTitle: Eduardo Bonet's README
+type: docs
 ---
 
 ## How I work

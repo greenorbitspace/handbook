@@ -1,5 +1,12 @@
 ---
 title: Promotion Document Style Guide
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/promotion-document-style-guide_1_1/
+description: ''
+linkTitle: Promotion Document Style Guide
+type: docs
 ---
 
 Assembling a case for promotion can be a time-consuming process. The tips and style principles in this guide will help you prepare a document that presents the evidence clearly, requiring fewer review cycles.

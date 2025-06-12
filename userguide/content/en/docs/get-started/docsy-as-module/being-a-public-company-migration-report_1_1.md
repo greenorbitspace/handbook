@@ -1,6 +1,13 @@
 ---
 title: Being a Public Company
 Description: Migration report for moving the handbooks being-a-public-company section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/being-a-public-company-migration-report_1_1/
+description: ''
+linkTitle: Being a Public Company
+type: docs
 ---
 
 **Section:** being-a-public-company

@@ -1,7 +1,16 @@
 ---
-title: 'AI Context Management ADR 001: Keeping AI Context Policy Management close to AI Context Retriever'
-owning-stage: "~devops::ai-powered"
+title: 'AI Context Management ADR 001: Keeping AI Context Policy Management close
+  to AI Context Retriever'
+owning-stage: ~devops::ai-powered
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/001_policy_on_the_client_1/
+description: ''
+linkTitle: 'AI Context Management ADR 001: Keeping AI Context Policy Management close
+  to AI Context Retriever'
+type: docs
 ---
 
 ## Summary

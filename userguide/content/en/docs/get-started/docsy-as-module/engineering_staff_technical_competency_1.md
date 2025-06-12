@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Engineering Staff Technical Competency 1
+aliases:
+- /docs/engineering_staff_technical_competency_1/
+description: ''
+linkTitle: Engineering Staff Technical Competency 1
+type: docs
+---
+
 ##### Engineering
 
 * Has a broad skill-set with in-depth expertise in their team's technical domain.

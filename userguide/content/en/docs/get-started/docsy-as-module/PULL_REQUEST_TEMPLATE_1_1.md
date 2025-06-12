@@ -1,8 +1,17 @@
 ---
 name: Pull request
 about: Create a pull request
-label: 'triage me'
+label: triage me
+weight: 2
+date: '2025-06-12'
+title: Pull Request Template 1 1
+aliases:
+- /docs/PULL_REQUEST_TEMPLATE_1_1/
+description: ''
+linkTitle: Pull Request Template 1 1
+type: docs
 ---
+
 Thank you for opening a Pull Request! Before submitting your PR, there are a few things you can do to make sure it goes smoothly:
 - [ ] Make sure to open a GitHub issue as a bug/feature request before writing your code!  That way we can discuss the change, evaluate designs, and agree on the general idea
 - [ ] Ensure the tests and linter pass

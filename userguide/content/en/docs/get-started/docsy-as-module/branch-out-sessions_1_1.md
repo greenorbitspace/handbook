@@ -1,11 +1,15 @@
 ---
-
 title: Branch Out Sessions
 category: Handling tickets
-description: Guidelines for Support Engineers on how to initiate a Branch Out crush session in Support Global Groups 
+description: Guidelines for Support Engineers on how to initiate a Branch Out crush
+  session in Support Global Groups
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/branch-out-sessions_1_1/
+linkTitle: Branch Out Sessions
+type: docs
 ---
-
-
 
 ## Branch Out session guidelines for FRT help between Support Global Groups
 

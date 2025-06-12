@@ -1,6 +1,13 @@
 ---
-title: "GitLab System Administration - Hands-on Lab: Troubleshoot GitLab"
-description: "TThis Hands-On Guide walks you through troubleshooting GitLab services NGINX, Puma, and Gitaly."
+title: 'GitLab System Administration - Hands-on Lab: Troubleshoot GitLab'
+description: TThis Hands-On Guide walks you through troubleshooting GitLab services
+  NGINX, Puma, and Gitaly.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sysadminhandsonlab8_1_1/
+linkTitle: 'GitLab System Administration - Hands-on Lab: Troubleshoot GitLab'
+type: docs
 ---
 
 > Estimated time to complete: 30 minutes

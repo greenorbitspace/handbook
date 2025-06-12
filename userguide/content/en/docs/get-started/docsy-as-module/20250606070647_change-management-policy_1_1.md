@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 20250606070647 Change Management Policy 1 1
+aliases:
+- /docs/20250606070647_change-management-policy_1_1/
+description: ''
+linkTitle: 20250606070647 Change Management Policy 1 1
+type: docs
+---
+
 ## Purpose
 
 Change is a constant in the dynamic landscape of Green Orbit Digital Ltd, and our Change Management Policy embraces an agile approach to efficiently navigate through transformations. This policy aims to provide a structured framework for managing changes seamlessly, ensuring alignment with our strategic goals, fostering innovation, and minimising disruptions.

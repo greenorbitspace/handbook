@@ -1,7 +1,13 @@
 ---
 title: Notify Oncall
 description: Support Operations documentation page for the Notify Oncall mechanism
-canonical_path: "/handbook/support/readiness/operations/docs/slack/notify_oncall"
+canonical_path: /handbook/support/readiness/operations/docs/slack/notify_oncall
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/notify_oncall_1_1/
+linkTitle: Notify Oncall
+type: docs
 ---
 
 ## Where does it live

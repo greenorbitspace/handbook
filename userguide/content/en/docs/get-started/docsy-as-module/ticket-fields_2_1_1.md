@@ -1,7 +1,13 @@
 ---
 title: Ticket Fields
 description: Support Operations documentation page for the Zendesk ticket fields
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/ticket-fields"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/ticket-fields
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ticket-fields_2_1_1/
+linkTitle: Ticket Fields
+type: docs
 ---
 
 ## What are ticket fields

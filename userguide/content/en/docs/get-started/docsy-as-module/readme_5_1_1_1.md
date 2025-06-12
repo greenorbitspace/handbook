@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 5 1 1 1
+aliases:
+- /docs/readme_5_1_1_1/
+description: ''
+linkTitle: Readme 5 1 1 1
+type: docs
+---
+
 # get-stdin
 
 > Get [stdin](https://nodejs.org/api/process.html#process_process_stdin) as a string or buffer

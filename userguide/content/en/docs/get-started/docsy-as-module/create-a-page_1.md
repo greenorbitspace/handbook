@@ -1,5 +1,13 @@
 ---
 sidebar_position: 1
+weight: 2
+date: '2025-06-12'
+title: Create A Page 1
+aliases:
+- /docs/create-a-page_1/
+description: ''
+linkTitle: Create A Page 1
+type: docs
 ---
 
 # Create a Page

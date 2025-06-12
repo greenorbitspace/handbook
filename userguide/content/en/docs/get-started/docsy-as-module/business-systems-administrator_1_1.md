@@ -1,7 +1,15 @@
 ---
-title: "Business Systems Administrator"
-RoleName:  "Business Systems Administrator"
-description: "Business Systems Administrators work on the configuration of GitLab's Salesforce.com instance and all packages, tools and integrations associated with it."
+title: Business Systems Administrator
+RoleName: Business Systems Administrator
+description: Business Systems Administrators work on the configuration of GitLab's
+  Salesforce.com instance and all packages, tools and integrations associated with
+  it.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/business-systems-administrator_1_1/
+linkTitle: Business Systems Administrator
+type: docs
 ---
 
 Business Systems Administrators work on the configuration of GitLab's Salesforce.com instance and all packages, tools and integrations associated with it.

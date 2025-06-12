@@ -1,7 +1,13 @@
 ---
-title: "Louis Dwans README"
-description: "Personal README for Louis Dwan"
-job: "Business Systems Analyst - Enterprise Applications PMO"
+title: Louis Dwans README
+description: Personal README for Louis Dwan
+job: Business Systems Analyst - Enterprise Applications PMO
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/louis-dwan_1_1/
+linkTitle: Louis Dwans README
+type: docs
 ---
 
 ### 👋 Introduction

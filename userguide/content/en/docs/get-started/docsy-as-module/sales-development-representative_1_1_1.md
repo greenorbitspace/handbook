@@ -1,6 +1,13 @@
 ---
-title: "Sales Development Organization Roles"
-summary: " "
+title: Sales Development Organization Roles
+summary: ' '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sales-development-representative_1_1_1/
+description: ''
+linkTitle: Sales Development Organization Roles
+type: docs
 ---
 
 <br>

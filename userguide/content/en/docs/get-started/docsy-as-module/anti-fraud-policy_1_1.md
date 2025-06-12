@@ -1,6 +1,12 @@
 ---
-title: "Anti-Fraud Policy"
-description: "GitLab's Anti-Fraud Policy"
+title: Anti-Fraud Policy
+description: GitLab's Anti-Fraud Policy
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/anti-fraud-policy_1_1/
+linkTitle: Anti-Fraud Policy
+type: docs
 ---
 
 - **Effective Date:** October 3, 2022

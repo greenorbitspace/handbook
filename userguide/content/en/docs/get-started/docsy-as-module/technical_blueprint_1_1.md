@@ -1,6 +1,12 @@
 ---
-aliases: /handbook/engineering/infrastructure/team/scalability/observability/technical_blueprint.html
-title: "Technical Blueprint"
+aliases:
+- /docs/technical_blueprint_1_1/
+title: Technical Blueprint
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Technical Blueprint
+type: docs
 ---
 
 The purpose of this document is to detail the goals and guidelines for the Scalability:Observability team. The focus is on our principles and our goals for the next five years.

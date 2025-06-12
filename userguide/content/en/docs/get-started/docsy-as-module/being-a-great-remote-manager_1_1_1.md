@@ -1,10 +1,18 @@
 ---
-title: "How to be a great remote manager - the complete guide"
-description: "In this complete guide on remote leadership you will learn everything you need to know about how GitLab manages highly efficient and productive remote teams!"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+title: How to be a great remote manager - the complete guide
+description: In this complete guide on remote leadership you will learn everything
+  you need to know about how GitLab manages highly efficient and productive remote
+  teams!
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/being-a-great-remote-manager_1_1_1/
+linkTitle: How to be a great remote manager - the complete guide
+type: docs
 ---
 
 ## What is remote management?

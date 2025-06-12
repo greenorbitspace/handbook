@@ -1,6 +1,12 @@
 ---
-
-title: "Continuous Delivery Message House"
+title: Continuous Delivery Message House
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/message-house_1_1/
+description: ''
+linkTitle: Continuous Delivery Message House
+type: docs
 ---
 
 ### Messaging and Positioning

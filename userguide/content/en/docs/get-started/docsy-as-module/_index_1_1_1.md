@@ -1,6 +1,13 @@
 ---
 title: Tools and tips
 simple_list: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_1_1_1/
+description: ''
+linkTitle: Tools and tips
+type: docs
 ---
 
 ## Overview

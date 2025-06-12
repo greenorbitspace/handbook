@@ -1,7 +1,14 @@
 ---
-title: "SMB Advocate"
-RoleName: "SMB Advocate"
-description: "Learn more about SMB Advocate roles at GitLab including requirements, responsibilities and more."
+title: SMB Advocate
+RoleName: SMB Advocate
+description: Learn more about SMB Advocate roles at GitLab including requirements,
+  responsibilities and more.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/smb-account-executive_1_2/
+linkTitle: SMB Advocate
+type: docs
 ---
 
 ## SMB Advocate

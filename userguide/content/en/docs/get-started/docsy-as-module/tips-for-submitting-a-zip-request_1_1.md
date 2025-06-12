@@ -1,5 +1,12 @@
 ---
 title: Tips for Submitting a Zip Request
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tips-for-submitting-a-zip-request_1_1/
+description: ''
+linkTitle: Tips for Submitting a Zip Request
+type: docs
 ---
 
 If purchasing Home Office Equipment and/or Software for your individual work use that is <$5K USD, see [Other Services](/handbook/finance/procurement/#other-services) since a Zip Purchase Request is not required in these instances.

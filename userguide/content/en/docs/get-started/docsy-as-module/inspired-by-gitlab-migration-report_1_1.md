@@ -1,6 +1,13 @@
 ---
 title: Inspired by GitLab
 Description: Migration report for moving the handbooks inspired-by-gitlab section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/inspired-by-gitlab-migration-report_1_1/
+description: ''
+linkTitle: Inspired by GitLab
+type: docs
 ---
 
 **Section:** inspired-by-gitlab

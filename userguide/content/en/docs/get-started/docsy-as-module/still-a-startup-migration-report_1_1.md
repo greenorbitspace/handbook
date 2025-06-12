@@ -1,6 +1,13 @@
 ---
 title: Still a Startup
 Description: Migration report for moving the handbooks still-a-startup section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/still-a-startup-migration-report_1_1/
+description: ''
+linkTitle: Still a Startup
+type: docs
 ---
 
 **Section:** still-a-startup

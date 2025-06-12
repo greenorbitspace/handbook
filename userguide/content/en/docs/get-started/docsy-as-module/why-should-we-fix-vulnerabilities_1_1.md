@@ -1,5 +1,12 @@
 ---
-title: "Why should we fix vulnerabilities?"
+title: Why should we fix vulnerabilities?
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/why-should-we-fix-vulnerabilities_1_1/
+description: ''
+linkTitle: Why should we fix vulnerabilities?
+type: docs
 ---
 
 ## Overview

@@ -1,6 +1,12 @@
 ---
-title: "Distribution Team Training"
-description: "Distribution Team training overview and videos"
+title: Distribution Team Training
+description: Distribution Team training overview and videos
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/training_1_1_1/
+linkTitle: Distribution Team Training
+type: docs
 ---
 
 ## Common links

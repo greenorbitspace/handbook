@@ -1,5 +1,12 @@
 ---
-title: "Workspaces Architecture for Kubernetes setup"
+title: Workspaces Architecture for Kubernetes setup
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/architecture_kubernetes_setup_1_1/
+description: ''
+linkTitle: Workspaces Architecture for Kubernetes setup
+type: docs
 ---
 
 ## Overview

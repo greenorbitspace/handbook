@@ -5,6 +5,13 @@ doc_id: doc-295
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070710_acceptable-use-policy_1_1/
+description: ''
+linkTitle: Acceptable Use Policy
+type: docs
 ---
 
 Welcome to the Green Orbit Digital website. This acceptable use policy, along with our Terms of Website Use and other applicable policies, outlines the terms under which Green Orbit Digital Ltd (Company number: 15207389 registered in England and Wales, VAT number: GB462243312) permits you to use our site, greenorbit.space (“site”). By using our site, you indicate that you agree to comply with and be bound by these terms. If you do not agree to these terms, you must not use our site. All enquiries should be directed to hello@greenorbit.space.

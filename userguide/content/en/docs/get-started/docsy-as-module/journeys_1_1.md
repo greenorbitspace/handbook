@@ -1,7 +1,12 @@
 ---
-title: "Journeys"
+title: Journeys
 aliases:
 - /handbook/journeys/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Journeys
+type: docs
 ---
 
 ## Introduction

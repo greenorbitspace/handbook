@@ -1,6 +1,13 @@
 ---
-title: "Talent Acquisition Initiatives"
-description: "Learn more about GitLab Diversity, Inclusion & Belonging Talent Acquisition Initiatives."
+title: Talent Acquisition Initiatives
+description: Learn more about GitLab Diversity, Inclusion & Belonging Talent Acquisition
+  Initiatives.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/talent-acquisition-initiatives_1748146057810116129_1_1/
+linkTitle: Talent Acquisition Initiatives
+type: docs
 ---
 
 At GitLab, Diversity, Inclusion & Belonging is infused into our company culture, from our [values](/handbook/values/) to our [all-remote way of working](/handbook/company/culture/all-remote/).

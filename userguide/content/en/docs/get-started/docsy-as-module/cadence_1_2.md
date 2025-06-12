@@ -1,7 +1,13 @@
 ---
-
-title: "Cadence"
-description: "Everything in a company happens in a certain cadence. The period of each cadence differs. Learn about the cadences we have at GitLab."
+title: Cadence
+description: Everything in a company happens in a certain cadence. The period of each
+  cadence differs. Learn about the cadences we have at GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cadence_1_2/
+linkTitle: Cadence
+type: docs
 ---
 
 ## Overview

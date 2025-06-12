@@ -1,7 +1,14 @@
 ---
 title: Zendesk Explore Important Dashboards
-description: Support Operations documentation page for Zendesk Explore's Important Dashboards
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/zendesk-explore/important_dashboards"
+description: Support Operations documentation page for Zendesk Explore's Important
+  Dashboards
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/zendesk-explore/important_dashboards
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/important_dashboards_1_1/
+linkTitle: Zendesk Explore Important Dashboards
+type: docs
 ---
 
 ## Important Dashboards

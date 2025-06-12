@@ -1,5 +1,12 @@
 ---
-title: "On-Call"
+title: On-Call
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/on-call_2_1_1/
+description: ''
+linkTitle: On-Call
+type: docs
 ---
 
 {{% alert color="warning" %}}

@@ -1,6 +1,14 @@
 ---
 title: Content Websites Responsibility
-Description: Migration report for moving the handbooks content-websites-responsibility section
+Description: Migration report for moving the handbooks content-websites-responsibility
+  section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/content-websites-responsibility-migration-report_1_1/
+description: ''
+linkTitle: Content Websites Responsibility
+type: docs
 ---
 
 **Section:** content-websites-responsibility

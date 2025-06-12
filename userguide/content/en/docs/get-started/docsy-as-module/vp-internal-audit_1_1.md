@@ -1,6 +1,14 @@
 ---
 title: Vice President, Internal Audit
-description: Responsible for overall preparation and execution of a risk-based audit plan to assess, report on, and recommend improvements to the company’s key operational and finance activities and testing of internal controls.
+description: Responsible for overall preparation and execution of a risk-based audit
+  plan to assess, report on, and recommend improvements to the company’s key operational
+  and finance activities and testing of internal controls.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vp-internal-audit_1_1/
+linkTitle: Vice President, Internal Audit
+type: docs
 ---
 
 The position is additionally responsible for the Enterprise Risk Management (ERM) control environment and the initial identifying and assisting in documenting existing internal finance and disclosure controls, implementing and documenting new internal controls, and establishing an internal monitoring function to audit the company’s compliance with such internal controls.  Once documented, ownership for and changing internal control procedures will reside in the owner of the control.

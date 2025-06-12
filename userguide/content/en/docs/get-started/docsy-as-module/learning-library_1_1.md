@@ -1,16 +1,13 @@
 ---
-
-title: "Data Team Learning and Resources"
-description: "GitLab Data Team Library"
+title: Data Team Learning and Resources
+description: GitLab Data Team Library
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/learning-library_1_1/
+linkTitle: Data Team Learning and Resources
+type: docs
 ---
-
-
-
-
-
-
-
-
 
 ---
 

@@ -1,6 +1,12 @@
 ---
-title: "Permifrost"
-description: "Manage Snowflake Permissions"
+title: Permifrost
+description: Manage Snowflake Permissions
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/permifrost_1_1/
+linkTitle: Permifrost
+type: docs
 ---
 
 ## Quick Links

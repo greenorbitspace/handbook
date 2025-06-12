@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Hero 1
+aliases:
+- /docs/hero_1/
+description: ''
+linkTitle: Hero 1
+type: docs
+---
+
 +++
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/

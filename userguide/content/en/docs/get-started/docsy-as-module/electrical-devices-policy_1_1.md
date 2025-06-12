@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Electrical Devices Policy 1 1
+aliases:
+- /docs/electrical-devices-policy_1_1/
+description: ''
+linkTitle: Electrical Devices Policy 1 1
+type: docs
+---
+
 # Purpose and Scope
 
 This policy establishes guidelines for the safe and efficient use of electrical devices within Green Orbit Digital, applying to all employees, contractors, and visitors using electrical equipment on company premises or for company work.

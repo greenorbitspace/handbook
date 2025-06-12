@@ -1,15 +1,14 @@
 ---
-
-title: "[NAME] Campaign"
-description: "Everything you need to know about the [NAME] campaign."
-twitter_image: '/images/tweets/handbook-marketing.png'
+title: '[NAME] Campaign'
+description: Everything you need to know about the [NAME] campaign.
+twitter_image: /images/tweets/handbook-marketing.png
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/template_1_1/
+linkTitle: '[NAME] Campaign'
+type: docs
 ---
-
-
-
-
-
-
 
 ## Campaign Overview
 

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Basic Information 1 1
+aliases:
+- /docs/basic-information_1_1/
+description: ''
+linkTitle: Basic Information 1 1
+type: docs
+---
+
 # Basic Information
 
 Here you'll find some basic information about the Zammad repository.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 0 Searchessentials 1 1
+aliases:
+- /docs/0-searchEssentials_1_1/
+description: ''
+linkTitle: 0 Searchessentials 1 1
+type: docs
+---
+
 # search essentials
 
 1. **Technical requirements**: What Google needs from a web page to show it in Google Search.

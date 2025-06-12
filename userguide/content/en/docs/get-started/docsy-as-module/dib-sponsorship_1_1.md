@@ -1,7 +1,12 @@
 ---
-title: "Sponsorship Program Guide"
-description: "The process for Sponsorship Programs at GitLab"
-aliases: /handbook/company/culture/inclusion/DIB-Sponsorship/
+title: Sponsorship Program Guide
+description: The process for Sponsorship Programs at GitLab
+aliases:
+- /docs/dib-sponsorship_1_1/
+weight: 2
+date: '2025-06-12'
+linkTitle: Sponsorship Program Guide
+type: docs
 ---
 
 ## Sponsorship vs Mentorship

@@ -1,5 +1,12 @@
 ---
-title: "Professional Services Operations"
+title: Professional Services Operations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/professional-services-operations_2_1/
+description: ''
+linkTitle: Professional Services Operations
+type: docs
 ---
 
 ## Professional Services Project Coordinator

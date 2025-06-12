@@ -2,7 +2,14 @@
 title: Lost Email Account
 category: GitLab.com
 subcategory: Accounts
-description: "Workflow for cases when users are no longer able to receive security emails for account verification"
+description: Workflow for cases when users are no longer able to receive security
+  emails for account verification
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/lost_emails_1_1/
+linkTitle: Lost Email Account
+type: docs
 ---
 
 ## Overview

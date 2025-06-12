@@ -1,7 +1,14 @@
 ---
-title: "Duo Workflow ADR 001: Move Duo Workflow Service into the AI Gateway"
-owning-stage: "~devops::ai_powered"
+title: 'Duo Workflow ADR 001: Move Duo Workflow Service into the AI Gateway'
+owning-stage: ~devops::ai_powered
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/001_migrate_to_ai_gateway_1_1/
+description: ''
+linkTitle: 'Duo Workflow ADR 001: Move Duo Workflow Service into the AI Gateway'
+type: docs
 ---
 
 ## Context

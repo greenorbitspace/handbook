@@ -1,5 +1,12 @@
 ---
 title: Our L&D Team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/our-team_1_1/
+description: ''
+linkTitle: Our L&D Team
+type: docs
 ---
 
 While our team loves making learning and development content for the rest of the organization, we also love learning and growing ourselves. This page is meant to serve as a resource for the L&D team to explore, learn, and grow. We encourage all L&D Team Members to add to this page as you find additional resources.

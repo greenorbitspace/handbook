@@ -1,5 +1,12 @@
 ---
-title: "EOC Shadow and EOC Buddy Expectations"
+title: EOC Shadow and EOC Buddy Expectations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/on-call-shadowing_1/
+description: ''
+linkTitle: EOC Shadow and EOC Buddy Expectations
+type: docs
 ---
 
 The engineer on-call (EOC) shadowing process is designed to provide new engineers with practical, hands-on experience in managing live incidents, responding to alerts, and ensuring system stability. Shadowing allows new team members (Shadows) to observe and gradually take on the responsibilities of an EOC under the guidance of an experienced engineer (**EOC Buddy**).

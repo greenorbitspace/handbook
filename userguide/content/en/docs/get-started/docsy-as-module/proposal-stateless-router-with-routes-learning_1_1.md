@@ -4,6 +4,13 @@ group: Tenant Scale
 title: 'Proposal: Stateless Router using Routes Learning'
 status: rejected
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/proposal-stateless-router-with-routes-learning_1_1/
+description: ''
+linkTitle: 'Proposal: Stateless Router using Routes Learning'
+type: docs
 ---
 
 {{< design-document-header >}}

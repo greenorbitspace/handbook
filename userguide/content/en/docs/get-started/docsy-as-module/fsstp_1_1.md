@@ -1,5 +1,12 @@
 ---
-title: "Field Security Sales Training Program"
+title: Field Security Sales Training Program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/fsstp_1_1/
+description: ''
+linkTitle: Field Security Sales Training Program
+type: docs
 ---
 
 ## Why a security sales training program?

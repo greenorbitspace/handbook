@@ -1,7 +1,15 @@
 ---
-
-title: "Gainsight: Using Gainsight Statistics in SFDC"
-description: "This page is intended for the broader GitLab team to know what Gainsight metrics, fields, entries, and other attributes are available to them in Salesforce. Example: With syncing customer health to Salesforce, it is important to know what those fields are and how to use them."
+title: 'Gainsight: Using Gainsight Statistics in SFDC'
+description: 'This page is intended for the broader GitLab team to know what Gainsight
+  metrics, fields, entries, and other attributes are available to them in Salesforce.
+  Example: With syncing customer health to Salesforce, it is important to know what
+  those fields are and how to use them.'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/using-gainsight-data-in-sfdc_1_1/
+linkTitle: 'Gainsight: Using Gainsight Statistics in SFDC'
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

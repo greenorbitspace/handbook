@@ -1,5 +1,12 @@
 ---
 title: FY25 Engineering get-together subsidy
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/fy25-engineering-get-together-subsidy_1_1/
+description: ''
+linkTitle: FY25 Engineering get-together subsidy
+type: docs
 ---
 
 ## Background

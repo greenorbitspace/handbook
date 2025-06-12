@@ -1,6 +1,12 @@
 ---
-title: "Writing a website usability testing script"
-description: "How to create a usability testing script at GitLab"
+title: Writing a website usability testing script
+description: How to create a usability testing script at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/writing-usability-testing-script_1748142274249238914_1_1/
+linkTitle: Writing a website usability testing script
+type: docs
 ---
 
 ## What is a usability study?

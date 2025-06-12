@@ -1,14 +1,13 @@
 ---
-
-title: "Delivery Checklists"
-description: "Instructor Pre-Training and Post-Training Checklists"
+title: Delivery Checklists
+description: Instructor Pre-Training and Post-Training Checklists
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/delivery-checklists_1_1/
+linkTitle: Delivery Checklists
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

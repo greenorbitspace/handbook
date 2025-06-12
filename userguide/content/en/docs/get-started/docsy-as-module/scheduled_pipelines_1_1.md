@@ -1,7 +1,12 @@
 ---
 title: Geo scheduled pipelines
-description: "Document the scheduled Geo pipelines"
-aliases: /handbook/engineering/infrastructure/core-platform/systems/geo/scheduled_pipelines.html
+description: Document the scheduled Geo pipelines
+aliases:
+- /docs/scheduled_pipelines_1_1/
+weight: 2
+date: '2025-06-12'
+linkTitle: Geo scheduled pipelines
+type: docs
 ---
 
 ## Summary

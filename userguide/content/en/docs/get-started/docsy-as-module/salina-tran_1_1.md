@@ -1,7 +1,12 @@
 ---
-aliases: /handbook/marketing/readmes/salina-tran
-title: "Salina Tran | Senior Marketing Operations Manager"
-description: "Welcome to my ReadMe - Get to know me and how I work"
+aliases:
+- /docs/salina-tran_1_1/
+title: Salina Tran | Senior Marketing Operations Manager
+description: Welcome to my ReadMe - Get to know me and how I work
+weight: 2
+date: '2025-06-12'
+linkTitle: Salina Tran | Senior Marketing Operations Manager
+type: docs
 ---
 
 ## 🙋🏻‍♀️ About Me

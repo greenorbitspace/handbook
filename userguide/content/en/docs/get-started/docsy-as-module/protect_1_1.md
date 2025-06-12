@@ -1,7 +1,14 @@
 ---
-
-title: "Protect IT Group"
-description: "People who are part of the Protect IT Group are typically information security and compliance professionals who are responsible to minimize business risk in IT systems."
+title: Protect IT Group
+description: People who are part of the Protect IT Group are typically information
+  security and compliance professionals who are responsible to minimize business risk
+  in IT systems.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/protect_1_1/
+linkTitle: Protect IT Group
+type: docs
 ---
 
 ### **Overview**

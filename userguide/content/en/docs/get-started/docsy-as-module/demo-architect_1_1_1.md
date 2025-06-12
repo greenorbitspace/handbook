@@ -1,6 +1,15 @@
 ---
-title: "Demo Architect"
-description: "Demo architect or Demonstration architects are the trusted advisors to Pre & Post sales teams. Demo architects own creation, maintenance and enablement of delivery of customized customer facing demos, workshops and other customer facing collateral."
+title: Demo Architect
+description: Demo architect or Demonstration architects are the trusted advisors to
+  Pre & Post sales teams. Demo architects own creation, maintenance and enablement
+  of delivery of customized customer facing demos, workshops and other customer facing
+  collateral.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/demo-architect_1_1_1/
+linkTitle: Demo Architect
+type: docs
 ---
 
 Demo Architects are critical in scaling sales function across the organization and delivering customer revenue.

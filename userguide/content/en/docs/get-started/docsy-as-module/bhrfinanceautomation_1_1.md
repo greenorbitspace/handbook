@@ -1,7 +1,13 @@
 ---
 title: How BamboHR Integration Works
 draft: true
-aliases: "/handbook/business-technology/enterprise-applications/guides/finance-guides/bhrfinanceautomation.html"
+aliases:
+- /docs/bhrfinanceautomation_1_1/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: How BamboHR Integration Works
+type: docs
 ---
 
 - The integration is powered around the Policy Matrix, which determines how the employee’s user record in Navan and NetSuite should be set up.

@@ -1,6 +1,14 @@
 ---
-title: "Partner Facilitator Guide for GitLab with Git Essentials"
-description: "This Facilitator Guide is intended to walk you through all important links, preparation items, and after class items for our GitLab with Git Essentials course."
+title: Partner Facilitator Guide for GitLab with Git Essentials
+description: This Facilitator Guide is intended to walk you through all important
+  links, preparation items, and after class items for our GitLab with Git Essentials
+  course.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/partner-gitlab-basics-fg_1_1/
+linkTitle: Partner Facilitator Guide for GitLab with Git Essentials
+type: docs
 ---
 
 ## GitLab with Git Essentials Facilitator Guide for Partners

@@ -2,6 +2,11 @@
 title: Organizational Change Management
 aliases:
 - /handbook/organizational-change-management/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Organizational Change Management
+type: docs
 ---
 
 ## Introduction

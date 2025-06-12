@@ -1,5 +1,12 @@
 ---
 title: Engineering Demo Process
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/demos_1_1/
+description: ''
+linkTitle: Engineering Demo Process
+type: docs
 ---
 
 Occasionally, it is useful to set up a demo on a regular cadence to ensure cross-functional iterative alignment.

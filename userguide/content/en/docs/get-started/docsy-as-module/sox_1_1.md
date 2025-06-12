@@ -1,6 +1,13 @@
 ---
-title: "SOX PMO"
-description: "Here you can find information relating to GitLab's SOX PMO. Learn more here!"
+title: SOX PMO
+description: Here you can find information relating to GitLab's SOX PMO. Learn more
+  here!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sox_1_1/
+linkTitle: SOX PMO
+type: docs
 ---
 
 ## Attributes

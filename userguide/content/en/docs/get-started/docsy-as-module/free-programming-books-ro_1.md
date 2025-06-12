@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Books Ro 1
+aliases:
+- /docs/free-programming-books-ro_1/
+description: ''
+linkTitle: Free Programming Books Ro 1
+type: docs
+---
+
 ### Index
 
 * [Ajax](#ajax)

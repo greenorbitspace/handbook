@@ -1,7 +1,13 @@
 ---
 title: Provisioning
 description: Operations workflow page for Zendesk provisioning
-canonical_path: "/handbook/security/customer-support-operations/workflows/zendesk/provisioning"
+canonical_path: /handbook/security/customer-support-operations/workflows/zendesk/provisioning
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/provisioning_1_1/
+linkTitle: Provisioning
+type: docs
 ---
 
 The method uses largely depends on the type of provisioning being done.

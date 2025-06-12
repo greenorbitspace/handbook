@@ -1,5 +1,12 @@
 ---
-title: "Security Dashboard Review"
+title: Security Dashboard Review
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-dashboard-review_1748146058215966168_1_1/
+description: ''
+linkTitle: Security Dashboard Review
+type: docs
 ---
 
 **Frequency:** Daily

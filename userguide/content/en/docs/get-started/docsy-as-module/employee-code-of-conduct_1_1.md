@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Employee Code Of Conduct 1 1
+aliases:
+- /docs/employee-code-of-conduct_1_1/
+description: ''
+linkTitle: Employee Code Of Conduct 1 1
+type: docs
+---
+
 Green Orbit Digital is dedicated to fostering well-being and resilience among our participants. We are committed to creating a vibrant and inclusive learning environment, welcoming individuals from all diverse backgrounds. We aim to ensure that all our events are conducted in a respectful and harassment-free manner for people of all races, genders, gender identities, sexual orientations, abilities, nationalities, ethnicities, socioeconomic statuses, and beliefs.
 
 In alignment with our values, all organizers, participants, and attendees of Green Orbit Digital activities (whether live, online, or self-paced through our Academy) are expected to adhere to the following guidelines:

@@ -1,5 +1,13 @@
 ---
 sidebar_position: 1
+weight: 2
+date: '2025-06-12'
+title: Manage Docs Versions 1
+aliases:
+- /docs/manage-docs-versions_1/
+description: ''
+linkTitle: Manage Docs Versions 1
+type: docs
 ---
 
 # Manage Docs Versions

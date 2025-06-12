@@ -1,5 +1,12 @@
 ---
 title: Analytics Engineering
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/analytics-engineer_1_1_1/
+description: ''
+linkTitle: Analytics Engineering
+type: docs
 ---
 
 **Analytics Engineers** sit at the [intersection](/handbook/enterprise-data/#data-job-families) of business teams, [Data Analytics](/job-families/marketing/enterprise-data/data-analyst) and [Data Engineering](/job-families/marketing/enterprise-data/data-engineer) and are responsible for bringing robust, efficient, and integrated data models and products to life. Analytics Engineers speak the language of business teams and technical teams, they are able to translate data insights and analysis needs into models powered by the [Enterprise Data Platform](/handbook/enterprise-data/platform). The successful Analytics Engineer is able to blend business acumen with technical expertise and transition between business strategy and data development.

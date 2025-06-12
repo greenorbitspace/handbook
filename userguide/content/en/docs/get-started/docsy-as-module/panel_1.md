@@ -1,7 +1,13 @@
 ---
-title: "Panel Interviews"
-description: "When a candidate gets the opportunity to interview with more than one member of
-the hiring team at once, this is called a panel interview."
+title: Panel Interviews
+description: When a candidate gets the opportunity to interview with more than one
+  member of the hiring team at once, this is called a panel interview.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/panel_1/
+linkTitle: Panel Interviews
+type: docs
 ---
 
 ## Panel Interviews {#panel-interviews}

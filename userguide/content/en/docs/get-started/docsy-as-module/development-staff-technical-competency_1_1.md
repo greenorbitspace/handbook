@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Development Staff Technical Competency 1 1
+aliases:
+- /docs/development-staff-technical-competency_1_1/
+description: ''
+linkTitle: Development Staff Technical Competency 1 1
+type: docs
+---
+
 ##### Development
 
 * Advocates for quality and makes sure it is everyone's responsibility.

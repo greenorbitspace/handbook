@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme Ru 1 1
+aliases:
+- /docs/readme_ru_1_1/
+description: ''
+linkTitle: Readme Ru 1 1
+type: docs
+---
+
 <h1 align="center">
   <img src="images/nerd-fonts-logo.svg" alt="Nerd Fonts Logo" />
 </h1>

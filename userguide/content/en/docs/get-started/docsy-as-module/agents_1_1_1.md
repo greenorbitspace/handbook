@@ -1,7 +1,13 @@
 ---
 title: Agents
 description: Support Operations documentation page for Zendesk agents
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/agents"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/agents
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/agents_1_1_1/
+linkTitle: Agents
+type: docs
 ---
 
 ## User fields

@@ -1,5 +1,12 @@
 ---
 title: Setup Guide for Vulnerability Explanation and Resolution
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ve_vr_setup_1_1/
+description: ''
+linkTitle: Setup Guide for Vulnerability Explanation and Resolution
+type: docs
 ---
 
 ## Setup Guide for Vulnerability Explanation and Resolution

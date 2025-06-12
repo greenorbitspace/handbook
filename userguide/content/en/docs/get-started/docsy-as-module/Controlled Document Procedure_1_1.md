@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Controlled Document Procedure 1 1
+aliases:
+- /docs/Controlled Document Procedure_1_1/
+description: ''
+linkTitle: Controlled Document Procedure 1 1
+type: docs
+---
+
 # Controlled Document Procedure
 
 GitLab deploys control activities through policies and standards that establish what is expected and procedures that put policies and standards into action.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Custom Mdx Component 1 1
+aliases:
+- /docs/custom-mdx-component_1_1/
+description: ''
+linkTitle: Custom Mdx Component 1 1
+type: docs
+---
+
 # How can I add a custom MDX component?
 
 Here's an example on how to create a donut chart from Chart.js (assuming you already have the dependencies installed) and use it in MDX posts. First, create a new `DonutChart.tsx` component in `components`:

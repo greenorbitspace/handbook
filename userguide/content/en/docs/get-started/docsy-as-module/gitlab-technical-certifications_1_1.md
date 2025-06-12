@@ -1,14 +1,14 @@
 ---
-
-title: "GitLab Technical Certifications"
-description: "Explore how GitLab Professional Services certifies engineers to validate their readiness to deliver Consulting Services offerings."
+title: GitLab Technical Certifications
+description: Explore how GitLab Professional Services certifies engineers to validate
+  their readiness to deliver Consulting Services offerings.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-technical-certifications_1_1/
+linkTitle: GitLab Technical Certifications
+type: docs
 ---
-
-
-
-
-
-
 
 ## GitLab Technical Certifications
 

@@ -1,12 +1,13 @@
 ---
-aliases: /handbook/engineering/development/ops/general-planning.html
-
+aliases:
+- /docs/general-planning_1_1/
 title: General Planning Process - Ops Sub-department
-description: "The general planning process followed by the groups within the Ops Sub-department."
+description: The general planning process followed by the groups within the Ops Sub-department.
+weight: 2
+date: '2025-06-12'
+linkTitle: General Planning Process - Ops Sub-department
+type: docs
 ---
-
-
-
 
 Groups within the Ops Sub-department follow an async planning process to coordinate planning and discussion between members of the group. This process is related to the general [GitLab Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) process and adds additional practices we've found useful.
 

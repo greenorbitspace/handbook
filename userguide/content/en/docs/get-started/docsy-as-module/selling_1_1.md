@@ -1,5 +1,12 @@
 ---
-title: "Selling GitLab Professional Services"
+title: Selling GitLab Professional Services
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/selling_1_1/
+description: ''
+linkTitle: Selling GitLab Professional Services
+type: docs
 ---
 
 You can also [watch the sales enablement session](/handbook/customer-success/professional-services-engineering/sales-enablement) about how to sell services.

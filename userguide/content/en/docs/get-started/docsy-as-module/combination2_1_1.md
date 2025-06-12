@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Combination2 1 1
+aliases:
+- /docs/combination2_1_1/
+description: ''
+linkTitle: Combination2 1 1
+type: docs
+---
+
 # Example Output from Combination 2
 
 OpenTelemetry (with **binary propagator**) used on server, OpenCensus used

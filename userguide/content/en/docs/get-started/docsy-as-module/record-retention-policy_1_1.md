@@ -1,6 +1,14 @@
 ---
-title: "Record Retention Policy"
-description: "This Records Retention Policy promotes and assists with the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records"
+title: Record Retention Policy
+description: This Records Retention Policy promotes and assists with the implementation
+  of procedures, best practices, and tools to promote consistent life cycle management
+  of GitLab records
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/record-retention-policy_1_1/
+linkTitle: Record Retention Policy
+type: docs
 ---
 
 This Records Retention Policy promotes and assists with the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records. Because records contain important information, it is essential to take a systematic approach to the management of records.

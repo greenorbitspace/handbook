@@ -1,9 +1,14 @@
 ---
 title: Next.js Pages
-date: 2021/3/18
+date: '2025-06-12T01:06:02+01:00'
 description: Learn more about Next.js pages.
 tag: web development
 author: You
+weight: 2
+aliases:
+- /docs/pages_1_1/
+linkTitle: Next.js Pages
+type: docs
 ---
 
 # Next.js Pages

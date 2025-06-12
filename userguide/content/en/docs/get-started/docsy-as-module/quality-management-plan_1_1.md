@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Quality Management Plan 1 1
+aliases:
+- /docs/quality-management-plan_1_1/
+description: ''
+linkTitle: Quality Management Plan 1 1
+type: docs
+---
+
 # Introduction
 
 This Quality Management Plan (QMP) establishes the framework for Green Orbit Digital's commitment to delivering high-quality, sustainable marketing solutions in the space industry. The plan aligns with ISO 9001:2015 requirements and supports our mission of excellence in eco-conscious marketing services.

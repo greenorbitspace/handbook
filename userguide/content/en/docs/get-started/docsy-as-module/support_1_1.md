@@ -1,13 +1,13 @@
 ---
-
-title: "CSM and Support Interaction"
+title: CSM and Support Interaction
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support_1_1/
+description: ''
+linkTitle: CSM and Support Interaction
+type: docs
 ---
-
-
-
-
-
-
 
 View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 

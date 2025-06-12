@@ -1,12 +1,13 @@
 ---
-aliases: /handbook/engineering/development/ops/quarterly-okrs.html
-
+aliases:
+- /docs/quarterly-okrs_1_1/
 title: Quarterly OKRs - Ops Sub-department
-description: "OKR issue tracking for the Ops Sub-Dept"
+description: OKR issue tracking for the Ops Sub-Dept
+weight: 2
+date: '2025-06-12'
+linkTitle: Quarterly OKRs - Ops Sub-department
+type: docs
 ---
-
-
-
 
 ### FY24 Q1 OKRs
 

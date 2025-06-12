@@ -1,8 +1,15 @@
 ---
-title: "Security Research Engineer Roles"
-description: "Learn more about Security Research Engineering roles, responsibilities, requirements and levels."
+title: Security Research Engineer Roles
+description: Learn more about Security Research Engineering roles, responsibilities,
+  requirements and levels.
 extra_js:
 - libs/mermaid.min.js
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-research_1_1/
+linkTitle: Security Research Engineer Roles
+type: docs
 ---
 
 Security research engineers are subject matter experts (SME) that conduct research in their personal area of expertise to protect GitLab the product and GitLab company assets. They are also expected to participate in the larger security community through blog posts and participation in industry conferences.

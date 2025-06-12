@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Uiux 1 1
+aliases:
+- /docs/UIUX_1_1/
+description: ''
+linkTitle: Uiux 1 1
+type: docs
+---
+
 # user interface and user expreience
 
 ### product life cycle

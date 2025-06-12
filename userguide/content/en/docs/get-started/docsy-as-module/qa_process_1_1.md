@@ -1,14 +1,13 @@
 ---
-aliases: /handbook/engineering/development/sec/secure/qa_process.html
-
+aliases:
+- /docs/qa_process_1_1/
 title: Secure QA Process
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Secure QA Process
+type: docs
 ---
-
-
-
-
-
-
 
 ## Everything starts with a Merge Request
 

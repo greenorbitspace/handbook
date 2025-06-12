@@ -1,9 +1,14 @@
 ---
-
 title: SA Offsites
-description: "This page provides an overview of the process SA Managers undertake when organising a team offsite."
+description: This page provides an overview of the process SA Managers undertake when
+  organising a team offsite.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sa-offsites_1_1/
+linkTitle: SA Offsites
+type: docs
 ---
-
 
 ## SA Offsites (in-person)
 

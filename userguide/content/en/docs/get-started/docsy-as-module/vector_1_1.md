@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Vector 1 1
+aliases:
+- /docs/vector_1_1/
+description: ''
+linkTitle: Vector 1 1
+type: docs
+---
+
 # Vector Layer
 
 Vector layers use the three basic GIS features – lines, points, and polygons – to represent real-world features in digital format.

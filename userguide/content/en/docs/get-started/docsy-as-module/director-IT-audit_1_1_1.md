@@ -1,7 +1,14 @@
 ---
 title: Director, IT Audit
-description: Responsible for the development and execution of a global risk-based technology-focused internal audit strategy,  IT audit, and SOX ITGC plans in support of Internal Audit Department requirements.
-
+description: Responsible for the development and execution of a global risk-based
+  technology-focused internal audit strategy,  IT audit, and SOX ITGC plans in support
+  of Internal Audit Department requirements.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/director-IT-audit_1_1_1/
+linkTitle: Director, IT Audit
+type: docs
 ---
 
 The position additionally will support in developing and executing the Internal Audit strategic plan and roadmap to build the next generation Audit function.

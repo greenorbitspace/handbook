@@ -3,6 +3,12 @@ title: Diagnose Errors on GitLab.com
 description: This guide provides resources for diagnosing HTTP 5XX errors on GitLab.com.
 category: GitLab.com
 subcategory: Troubleshooting
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/500_errors_1_1/
+linkTitle: Diagnose Errors on GitLab.com
+type: docs
 ---
 
 ### Overview

@@ -1,6 +1,13 @@
 ---
 title: PDI Dashboards, Analysis, & Insights
-description: This page aggregates dashboards, analysis, and insights generated or owned by the Product Data Insights team.
+description: This page aggregates dashboards, analysis, and insights generated or
+  owned by the Product Data Insights team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dashboards-analysis-insights_1_1/
+linkTitle: PDI Dashboards, Analysis, & Insights
+type: docs
 ---
 
 ### Dashboards

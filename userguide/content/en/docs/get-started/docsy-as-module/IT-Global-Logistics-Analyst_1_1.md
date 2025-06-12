@@ -1,5 +1,12 @@
 ---
-title: "IT Global Logistics Analyst"
+title: IT Global Logistics Analyst
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/IT-Global-Logistics-Analyst_1_1/
+description: ''
+linkTitle: IT Global Logistics Analyst
+type: docs
 ---
 
 ## IT Global Logistics Analyst

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Intl 1 1
+aliases:
+- /docs/intl_1_1/
+description: ''
+linkTitle: Intl 1 1
+type: docs
+---
+
 # Intl
 
 Luxon uses the native Intl API to provide easy-to-use internationalization. A quick example:

@@ -1,5 +1,12 @@
 ---
-title: "From Dedicated to Cells: A Technical Analysis"
+title: 'From Dedicated to Cells: A Technical Analysis'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/from-dedicated-to-cells-technical-analysis_1748147631764507337_1_1/
+description: ''
+linkTitle: 'From Dedicated to Cells: A Technical Analysis'
+type: docs
 ---
 
 ## Introduction

@@ -1,6 +1,12 @@
 ---
-title: "GitLab Notable Contributor Selection Process"
+title: GitLab Notable Contributor Selection Process
 description: Process for Contributor Success to select GitLab Notable Contributors
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/notable-contributor-process_1748133864379004005_1_1/
+linkTitle: GitLab Notable Contributor Selection Process
+type: docs
 ---
 
 ## GitLab Notable Contributor

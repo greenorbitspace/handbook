@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Customer Satisfaction Data 1 1
+aliases:
+- /docs/customer-satisfaction-data_1_1/
+description: ''
+linkTitle: Customer Satisfaction Data 1 1
+type: docs
+---
+
 ### Framework for Customer Satisfaction Data according to ISO 9001
 
 Customer satisfaction is a critical element in ISO 9001:2015 as it directly impacts an organization’s ability to improve quality, meet customer needs, and drive continual improvement. A structured framework for collecting, monitoring, and analyzing customer satisfaction data is essential for compliance with ISO 9001, ensuring that the organization remains responsive to customer feedback and effectively improves its processes and products.

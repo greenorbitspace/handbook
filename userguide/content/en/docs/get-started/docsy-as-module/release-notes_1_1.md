@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Release Notes 1 1
+aliases:
+- /docs/release-notes_1_1/
+description: ''
+linkTitle: Release Notes 1 1
+type: docs
+---
+
 # Release Notes
 
 ## v5.2.0

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Ethical Principles 1 1
+aliases:
+- /docs/ethical-principles_1_1/
+description: ''
+linkTitle: Ethical Principles 1 1
+type: docs
+---
+
 # Core Ethical Principles
 
 ## 1. Integrity and Honesty

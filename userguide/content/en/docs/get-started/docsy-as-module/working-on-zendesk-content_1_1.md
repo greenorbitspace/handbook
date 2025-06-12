@@ -1,8 +1,13 @@
 ---
-
 title: Working on Zendesk automations, triggers, macros and views
-description: "How to collaborate on Zendesk automations, triggers, macros and views"
+description: How to collaborate on Zendesk automations, triggers, macros and views
 category: Zendesk
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/working-on-zendesk-content_1_1/
+linkTitle: Working on Zendesk automations, triggers, macros and views
+type: docs
 ---
 
 ## General process

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Reporting Status 1 1
+aliases:
+- /docs/reporting-status_1_1/
+description: ''
+linkTitle: Reporting Status 1 1
+type: docs
+---
+
 <h1>Reporting status</h1>
 
 Out of the box, Open SDG provides a page showing the "reporting status" of all the indicators, grouped by which goal they are in. This can be helpful in measuring the completeness of the platform, by clearly showing how many indicators have data and how many do not.

@@ -1,7 +1,13 @@
 ---
 title: SLA policies
 description: Support Operations documentation page for Zendesk SLAs
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/service-level-agreements"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/service-level-agreements
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/service-level-agreements_1_1/
+linkTitle: SLA policies
+type: docs
 ---
 
 ## Zendesk calls them service level agreements, we do not

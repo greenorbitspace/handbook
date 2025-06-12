@@ -1,6 +1,12 @@
 ---
-title: "Product Management - Leadership"
-description: "This job family represents all Managers in the Product Management department."
+title: Product Management - Leadership
+description: This job family represents all Managers in the Product Management department.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-management-leadership_1_2/
+linkTitle: Product Management - Leadership
+type: docs
 ---
 
 This job family represents all Managers in the Product Management department. They are responsible for managing,

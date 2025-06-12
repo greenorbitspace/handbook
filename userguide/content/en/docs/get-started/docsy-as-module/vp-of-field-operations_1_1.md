@@ -1,5 +1,12 @@
 ---
-title: "VP, Field Operations"
+title: VP, Field Operations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vp-of-field-operations_1_1/
+description: ''
+linkTitle: VP, Field Operations
+type: docs
 ---
 
 ## Vice President, Field Operations

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Ie Policy 1 1
+aliases:
+- /docs/ie-policy_1_1/
+description: ''
+linkTitle: Ie Policy 1 1
+type: docs
+---
+
 # Invited Expert Policy for the Sustainable Web Interest Group
 
 Status: This has been reviewed by the IG Chairs.

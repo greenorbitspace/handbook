@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Rules 1 1
+aliases:
+- /docs/Rules_1_1/
+description: ''
+linkTitle: Rules 1 1
+type: docs
+---
+
 # Rules
 
 This document contains a description of all rules, what they are checking for,

@@ -1,13 +1,13 @@
 ---
-
 title: AI Assist Single-Engineer Group
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ai-assist_1_1/
+description: ''
+linkTitle: AI Assist Single-Engineer Group
+type: docs
 ---
-
-
-
-
-
-
 
 ## About the AI Assist SEG
 

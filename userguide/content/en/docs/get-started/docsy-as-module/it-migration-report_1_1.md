@@ -1,6 +1,13 @@
 ---
 title: IT Self Service
 Description: Migration report for moving the handbooks it section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/it-migration-report_1_1/
+description: ''
+linkTitle: IT Self Service
+type: docs
 ---
 
 **Section:** it

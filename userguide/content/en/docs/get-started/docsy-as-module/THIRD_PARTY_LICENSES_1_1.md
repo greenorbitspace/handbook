@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Third Party Licenses 1 1
+aliases:
+- /docs/THIRD_PARTY_LICENSES_1_1/
+description: ''
+linkTitle: Third Party Licenses 1 1
+type: docs
+---
+
 ## gopsutil [LICENSE](https://github.com/shirou/gopsutil/blob/master/LICENSE)
 
 gopsutil is distributed under BSD license reproduced below.

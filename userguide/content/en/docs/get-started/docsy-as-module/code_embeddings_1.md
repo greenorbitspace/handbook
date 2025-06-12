@@ -1,12 +1,20 @@
 ---
-title: "Code Embeddings"
+title: Code Embeddings
 status: proposed
-creation-date: "2025-04-02"
-authors: [ "@maddievn" ]
+creation-date: '2025-04-02'
+authors:
+- '@maddievn'
 coach: []
 approvers: []
-owning-stage: "~devops::foundations"
+owning-stage: ~devops::foundations
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/code_embeddings_1/
+description: ''
+linkTitle: Code Embeddings
+type: docs
 ---
 
 ## Code Embeddings

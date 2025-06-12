@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Shared Risk And Opportunity Registers 1 1
+aliases:
+- /docs/shared-risk-and-opportunity-registers_1_1/
+description: ''
+linkTitle: Shared Risk And Opportunity Registers 1 1
+type: docs
+---
+
 ### Shared Risk and Opportunity Register in Compliance with ISO 44001
 
 ISO 44001 requires organizations to manage risks and opportunities collaboratively in partnerships or joint ventures. This register is a key tool for identifying, evaluating, and mitigating risks, as well as seizing opportunities to ensure the success and sustainability of the collaboration.

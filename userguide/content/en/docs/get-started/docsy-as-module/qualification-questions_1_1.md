@@ -1,14 +1,15 @@
 ---
-
-title: "Sales Discovery and Qualification Questions"
-description: "An effective questioning strategy is critical to engaging customers in dialogue to truly understand their needs, build credibility and trust, and qualify the opportunity"
+title: Sales Discovery and Qualification Questions
+description: An effective questioning strategy is critical to engaging customers in
+  dialogue to truly understand their needs, build credibility and trust, and qualify
+  the opportunity
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/qualification-questions_1_1/
+linkTitle: Sales Discovery and Qualification Questions
+type: docs
 ---
-
-
-
-
-
-
 
 An [effective questioning strategy](https://docs.google.com/presentation/d/1caRLqSGNhFAQ9KuRVBaxI9cExOvBQBC4hd36uVfWFvs/edit?usp=sharing) is critical to engaging customers in dialogue that will help you truly understand their needs, build credibility and trust, and qualify the opportunity. Furthermore, effective discovery and needs analysis will be instrumental to your developing a tailored, compelling, customer-centric solution that will increase your chances to win the business and advance the buying decision.
 

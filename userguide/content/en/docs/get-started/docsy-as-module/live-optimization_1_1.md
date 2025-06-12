@@ -1,15 +1,14 @@
 ---
-
 title: SMB - Live Optimization Session
-description: >-
-  Live Optimization is post-sales motion to improve SMB customers' adoption of GitLab.
+description: Live Optimization is post-sales motion to improve SMB customers' adoption
+  of GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/live-optimization_1_1/
+linkTitle: SMB - Live Optimization Session
+type: docs
 ---
-
-
-
-
-
-
 
 ## Live Optimization
 

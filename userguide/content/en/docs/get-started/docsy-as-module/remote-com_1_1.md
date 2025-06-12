@@ -1,6 +1,12 @@
 ---
-title: "Remote.com"
-description: "Discover the benefits for Remote team members"
+title: Remote.com
+description: Discover the benefits for Remote team members
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/remote-com_1_1/
+linkTitle: Remote.com
+type: docs
 ---
 
 The following benefits are provided by [Remote](https://www.remote.com/) and apply to team members who are contracted through Remote. If there are any questions, these should be directed to help@remote.com.

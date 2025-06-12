@@ -1,5 +1,12 @@
 ---
-title: "Merge Request Coach"
+title: Merge Request Coach
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/merge-request-coach_1_1_1/
+description: ''
+linkTitle: Merge Request Coach
+type: docs
 ---
 
 The main goal of a Merge Request Coach is to help

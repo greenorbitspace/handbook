@@ -1,6 +1,12 @@
 ---
-title: "GitLab Modern Slavery Act Transparency Statement"
-description: "This is the current Modern Slavery Act Transparency Statement"
+title: GitLab Modern Slavery Act Transparency Statement
+description: This is the current Modern Slavery Act Transparency Statement
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/modern-slavery-act-transparency-statement_1_1/
+linkTitle: GitLab Modern Slavery Act Transparency Statement
+type: docs
 ---
 
 <!-- Update permissions to allow this file to be embedded and then reach out to @ktesh

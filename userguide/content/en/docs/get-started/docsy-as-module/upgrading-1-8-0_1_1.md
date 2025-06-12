@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Upgrading 1 8 0 1 1
+aliases:
+- /docs/upgrading-1-8-0_1_1/
+description: ''
+linkTitle: Upgrading 1 8 0 1 1
+type: docs
+---
+
 <h1>Upgrading to 1.8.0</h1>
 
 This document is intended for developers, to help with the process of upgrading to version 1.8.0 of Open SDG, from 1.7.0 or higher.

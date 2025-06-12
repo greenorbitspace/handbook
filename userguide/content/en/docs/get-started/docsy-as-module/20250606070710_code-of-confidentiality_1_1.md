@@ -5,6 +5,13 @@ doc_id: doc-434
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070710_code-of-confidentiality_1_1/
+description: ''
+linkTitle: Code Of Confidentiality
+type: docs
 ---
 
 Here's an improved version of the Employee Confidentiality Policy, with clearer language and more formal tone:

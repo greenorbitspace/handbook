@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Social Marketing Handbook 1 1
+aliases:
+- /docs/social-marketing-handbook_1_1/
+description: ''
+linkTitle: Social Marketing Handbook 1 1
+type: docs
+---
+
 <!-- Unsupported block type: image -->
 
 ## Long term Social Media Strategy (Over the next 3-5 years)

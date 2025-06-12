@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Emergency Preparedness And Response 1 1
+aliases:
+- /docs/emergency-preparedness-and-response_1_1/
+description: ''
+linkTitle: Emergency Preparedness And Response 1 1
+type: docs
+---
+
 <!-- Unsupported block type: table_of_contents -->
 
 # 1. Purpose and Scope

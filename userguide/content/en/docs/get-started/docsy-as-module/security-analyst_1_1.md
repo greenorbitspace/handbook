@@ -1,6 +1,14 @@
 ---
-title: "Security Analyst"
+title: Security Analyst
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-analyst_1_1/
+description: ''
+linkTitle: Security Analyst
+type: docs
 ---
+
 ## Job Grade
 
 The roles described below are grades: [6, 7, 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)

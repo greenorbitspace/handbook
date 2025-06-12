@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Team Dashboard 1 1
+aliases:
+- /docs/team-dashboard_1_1/
+description: ''
+linkTitle: Team Dashboard 1 1
+type: docs
+---
+
 {{- $filterValue := "" }}
 {{- $filters := slice }}
 {{- $section := false }}

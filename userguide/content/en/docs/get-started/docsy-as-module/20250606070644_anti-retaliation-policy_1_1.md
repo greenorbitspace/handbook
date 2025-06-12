@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 20250606070644 Anti Retaliation Policy 1 1
+aliases:
+- /docs/20250606070644_anti-retaliation-policy_1_1/
+description: ''
+linkTitle: 20250606070644 Anti Retaliation Policy 1 1
+type: docs
+---
+
 <!-- Unsupported block type: image -->
 
 GitLab’s Anti-Retaliation Policy to establish guidance for reporting ethics or compliance concerns or other inappropriate behavior while providing protection against retaliation for reporting in good faith.

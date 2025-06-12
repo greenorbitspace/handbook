@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Right Of Erasure Right To Be Forgotten Policy 1 1
+aliases:
+- /docs/right-of-erasure-right-to-be-forgotten-policy_1_1/
+description: ''
+linkTitle: Right Of Erasure Right To Be Forgotten Policy 1 1
+type: docs
+---
+
 # 1. Purpose and Scope
 
 This policy outlines Green Orbit Digital's procedures for handling requests from individuals who wish to exercise their right to erasure (right to be forgotten) under data protection regulations.

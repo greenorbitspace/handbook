@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Books It 1
+aliases:
+- /docs/free-programming-books-it_1/
+description: ''
+linkTitle: Free Programming Books It 1
+type: docs
+---
+
 ### Index
 
 * [0 - Agnostico](#0---agnostico)

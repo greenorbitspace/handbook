@@ -1,6 +1,12 @@
 ---
-
 title: Charitable Contribution Requests
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/charitable-contributions_1_1/
+description: ''
+linkTitle: Charitable Contribution Requests
+type: docs
 ---
 
 If you have a request to donate GitLab funds to a charitable cause, please refer to the [Philanthropy Policy](/handbook/legal/philanthropy-policy/#gitlab-inc-philanthropy-policy) for more information about who we support, how we support, exclusions, and delegations/approvals.

@@ -1,14 +1,30 @@
 ---
 title: 'Cells: Organization migration'
 status: proposed
-creation-date: "2024-05-01"
-authors: [ "@dbalexandre", "@mkozono" ]
-coach: [ "@ayufan" ]
-dris: [ "@sranasinghe", "@luciezhao" ]
-approvers: [ "@sranasinghe", "@luciezhao" ]
-owning-stage: "~devops::systems"
-participating-stages: ["~devops::data stores", "~devops::systems"]
+creation-date: '2024-05-01'
+authors:
+- '@dbalexandre'
+- '@mkozono'
+coach:
+- '@ayufan'
+dris:
+- '@sranasinghe'
+- '@luciezhao'
+approvers:
+- '@sranasinghe'
+- '@luciezhao'
+owning-stage: ~devops::systems
+participating-stages:
+- ~devops::data stores
+- ~devops::systems
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/migration_1_1/
+description: ''
+linkTitle: 'Cells: Organization migration'
+type: docs
 ---
 
 ## Summary

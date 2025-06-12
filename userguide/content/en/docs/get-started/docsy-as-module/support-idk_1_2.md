@@ -1,6 +1,13 @@
 ---
 title: Support Glossary
-description: The Support Glossary contains definitions and explanations for support-related acronyms and terms.
+description: The Support Glossary contains definitions and explanations for support-related
+  acronyms and terms.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-idk_1_2/
+linkTitle: Support Glossary
+type: docs
 ---
 
 ## Support Glossary

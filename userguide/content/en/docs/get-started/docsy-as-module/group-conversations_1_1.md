@@ -1,8 +1,12 @@
 ---
 title: Group Conversations
-description: "Everything you need to know about GitLab's daily, recurring Group Conversations"
+description: Everything you need to know about GitLab's daily, recurring Group Conversations
 aliases:
 - /handbook/group-conversations/
+weight: 2
+date: '2025-06-12'
+linkTitle: Group Conversations
+type: docs
 ---
 
 ## Introduction

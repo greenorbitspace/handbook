@@ -1,5 +1,12 @@
 ---
 title: Switchboard team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/switchboard_1_1_1/
+description: ''
+linkTitle: Switchboard team
+type: docs
 ---
 
 ## Summary

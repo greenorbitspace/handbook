@@ -1,10 +1,16 @@
 ---
-title: "People: adopting a remote lifestyle"
+title: 'People: adopting a remote lifestyle'
 description: People - adopting a remote lifestyle
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/people_1_1_1/
+linkTitle: 'People: adopting a remote lifestyle'
+type: docs
 ---
 
 <!-- markdownlint-disable MD013 -->

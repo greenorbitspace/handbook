@@ -1,6 +1,13 @@
 ---
-title: "Product Career Development Framework Working Group"
-description: "Learn more about the Product Career Development Framework Working Group goals, processes, and teammates!"
+title: Product Career Development Framework Working Group
+description: Learn more about the Product Career Development Framework Working Group
+  goals, processes, and teammates!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-career-development-framework_1748133871196933886_1_1/
+linkTitle: Product Career Development Framework Working Group
+type: docs
 ---
 
 ## Attributes

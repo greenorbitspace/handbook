@@ -5,6 +5,13 @@ doc_id: doc-321
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070710_display-screen-equipment-dse-policy_1_1/
+description: ''
+linkTitle: Display Screen Equipment Dse Policy
+type: docs
 ---
 
 Green Orbit Digital Display Screen Equipment (DSE) Policy

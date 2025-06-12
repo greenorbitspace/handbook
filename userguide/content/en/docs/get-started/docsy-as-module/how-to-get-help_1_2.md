@@ -2,6 +2,12 @@
 title: How to Get Help
 category: Handling tickets
 description: Workflow for Support Engineers on how to get help when working on a ticket.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/how-to-get-help_1_2/
+linkTitle: How to Get Help
+type: docs
 ---
 
 ## Getting Help on a Ticket

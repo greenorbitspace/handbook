@@ -1,8 +1,12 @@
 ---
 title: Examples
 description: See your project in action!
-date: 2017-01-05
+date: '2025-06-12T01:05:56+01:00'
 weight: 3
+aliases:
+- /docs/examples_1_1/
+linkTitle: Examples
+type: docs
 ---
 
 {{% pageinfo %}}

@@ -1,7 +1,14 @@
 ---
-owning-stage: "~devops::data stores" # because Tenant Scale is under this
+owning-stage: ~devops::data stores
 title: 'Cells ADR 003: One GKE Cluster per Cell'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/003_num_gke_clusters_per_cell_1/
+description: ''
+linkTitle: 'Cells ADR 003: One GKE Cluster per Cell'
+type: docs
 ---
 
 ## Context

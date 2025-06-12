@@ -5,6 +5,13 @@ doc_id: doc-734
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070712_candidate-privacy-notice_1_1/
+description: ''
+linkTitle: Candidate Privacy Notice
+type: docs
 ---
 
 At Green Orbit Digital, we are committed to protecting the privacy and confidentiality of your personal data. This Candidate Privacy Notice explains how we collect, use, and protect your personal information during the recruitment process.

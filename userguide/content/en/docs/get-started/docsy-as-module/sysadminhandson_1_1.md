@@ -1,8 +1,14 @@
 ---
-title: "GitLab System Administration Hands-on Lab Overview"
-description: "This hands-on guide is designed to walk you through the lab exercises used in the GitLab System Administration course."
+title: GitLab System Administration Hands-on Lab Overview
+description: This hands-on guide is designed to walk you through the lab exercises
+  used in the GitLab System Administration course.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sysadminhandson_1_1/
+linkTitle: GitLab System Administration Hands-on Lab Overview
+type: docs
 ---
-
 
 ## GitLab System Administration Labs
 

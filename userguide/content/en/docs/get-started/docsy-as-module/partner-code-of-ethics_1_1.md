@@ -1,6 +1,12 @@
 ---
-title: "Partner Code of Ethics"
-description: "GitLab Partner Code of Ethics and Due Diligence"
+title: Partner Code of Ethics
+description: GitLab Partner Code of Ethics and Due Diligence
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/partner-code-of-ethics_1_1/
+linkTitle: Partner Code of Ethics
+type: docs
 ---
 
 GitLab, Inc. and its respective affiliates, subsidiaries and divisions (“GitLab”) operate business in a responsible manner. At GitLab, the way we conduct business is as important as the relationships we have and the products and services we provide. Accordingly, GitLab will only do business with suppliers, contractors, resellers, agents and consultants (collectively herein referenced as “Partners”) that comply with applicable and controlling laws, rules, and regulations (collectively herein referenced as “applicable laws”) and at a minimum, with standards of business conduct consistent with those set forth in this Partner Code of Ethics (“Code”).

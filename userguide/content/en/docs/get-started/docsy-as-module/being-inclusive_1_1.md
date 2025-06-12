@@ -1,6 +1,13 @@
 ---
-title: "Being Inclusive"
-description: "We are all responsible for creating and maintaining an inclusive environment at GitLab."
+title: Being Inclusive
+description: We are all responsible for creating and maintaining an inclusive environment
+  at GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/being-inclusive_1_1/
+linkTitle: Being Inclusive
+type: docs
 ---
 
 ## What is fundamental for a successful inclusive environment

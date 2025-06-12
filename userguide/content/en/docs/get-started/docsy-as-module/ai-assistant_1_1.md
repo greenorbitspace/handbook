@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Ai Assistant 1 1
+aliases:
+- /docs/ai-assistant_1_1/
+description: ''
+linkTitle: Ai Assistant 1 1
+type: docs
+---
+
 # AI Assistant
 
 > Note: This feature is currently undergoing development. Stay tuned for updates!

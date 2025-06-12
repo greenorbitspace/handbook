@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 25 2
+aliases:
+- /docs/README_25_2/
+description: ''
+linkTitle: Readme 25 2
+type: docs
+---
+
 ## data folder
 
 Data files are uploaded and updated in this folder.

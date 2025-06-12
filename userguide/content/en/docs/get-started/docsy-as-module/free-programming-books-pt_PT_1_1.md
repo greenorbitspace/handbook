@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Books Pt Pt 1 1
+aliases:
+- /docs/free-programming-books-pt_PT_1_1/
+description: ''
+linkTitle: Free Programming Books Pt Pt 1 1
+type: docs
+---
+
 ### Indice
 
 * [C/C++](#cc)

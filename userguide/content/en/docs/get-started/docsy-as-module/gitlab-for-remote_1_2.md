@@ -1,11 +1,18 @@
 ---
 title: GitLab for Remote Teams
-description: "See how GitLab can help you continuously deliver software remotely, together"
-twitter_image: "/images/opengraph/GitLab-For-Remote-Teams.png"
-twitter_creator: "@gitlab"
-twitter_site: "@gitlab"
-twitter_image_alt: "GitLab For Remote Teams graphical image using icons representing remote work"
-destination_url: "https://youtu.be/qCDAioq3eis"
+description: See how GitLab can help you continuously deliver software remotely, together
+twitter_image: /images/opengraph/GitLab-For-Remote-Teams.png
+twitter_creator: '@gitlab'
+twitter_site: '@gitlab'
+twitter_image_alt: GitLab For Remote Teams graphical image using icons representing
+  remote work
+destination_url: https://youtu.be/qCDAioq3eis
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-for-remote_1_2/
+linkTitle: GitLab for Remote Teams
+type: docs
 ---
 
 <div class="container">

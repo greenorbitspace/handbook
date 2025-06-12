@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 23 1 2
+aliases:
+- /docs/README_23_1_2/
+description: ''
+linkTitle: Readme 23 1 2
+type: docs
+---
+
 ## indicator-config folder
 
 Indicator configuration files are uploaded and updated in this folder. These files contain settings for configuring specific indicator pages.

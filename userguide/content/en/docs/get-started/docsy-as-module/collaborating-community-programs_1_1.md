@@ -1,5 +1,12 @@
 ---
 title: Collaborating with Community Programs
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/collaborating-community-programs_1_1/
+description: ''
+linkTitle: Collaborating with Community Programs
+type: docs
 ---
 
 ## 🌎 Overview

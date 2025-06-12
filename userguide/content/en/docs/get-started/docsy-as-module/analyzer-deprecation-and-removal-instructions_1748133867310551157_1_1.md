@@ -1,6 +1,13 @@
 ---
 layout: handbook-page-toc
-title: "SAST analyzer deprecation and removal instructions"
+title: SAST analyzer deprecation and removal instructions
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/analyzer-deprecation-and-removal-instructions_1748133867310551157_1_1/
+description: ''
+linkTitle: SAST analyzer deprecation and removal instructions
+type: docs
 ---
 
 ### Analyzer Conversion Lifecycle

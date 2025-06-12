@@ -1,5 +1,12 @@
 ---
-title: "Field Security Research Program"
+title: Field Security Research Program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/field-security-research-program_1748146058222798925_1/
+description: ''
+linkTitle: Field Security Research Program
+type: docs
 ---
 
 ## Why a Research program?

@@ -1,5 +1,12 @@
 ---
-title: "CI/CD Deep Dive Demo"
+title: CI/CD Deep Dive Demo
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cicd-deep_1_1/
+description: ''
+linkTitle: CI/CD Deep Dive Demo
+type: docs
 ---
 
 ## CI/CD Deep Dive

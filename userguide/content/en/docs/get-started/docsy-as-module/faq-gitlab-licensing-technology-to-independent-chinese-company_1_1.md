@@ -1,8 +1,13 @@
 ---
 title: GitLab licensing technology to independent Chinese company FAQ
-description: "On this page you can view frequently asked questions about GitLab licensing its technology to a new, independent Chinese company."
+description: On this page you can view frequently asked questions about GitLab licensing
+  its technology to a new, independent Chinese company.
 aliases:
 - /handbook/faq-gitlab-licensing-technology-to-independent-chinese-company/
+weight: 2
+date: '2025-06-12'
+linkTitle: GitLab licensing technology to independent Chinese company FAQ
+type: docs
 ---
 
 ## Overview

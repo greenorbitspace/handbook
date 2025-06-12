@@ -1,8 +1,15 @@
 ---
-title: "Organizations and Cells"
-owning-stage: "~devops::tenant scale"
+title: Organizations and Cells
+owning-stage: ~devops::tenant scale
 group: Organizations
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cells_1_1/
+description: ''
+linkTitle: Organizations and Cells
+type: docs
 ---
 
 ## Organizations and Cells Integration

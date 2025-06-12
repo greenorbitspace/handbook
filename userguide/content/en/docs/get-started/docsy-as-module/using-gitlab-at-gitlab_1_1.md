@@ -1,7 +1,12 @@
 ---
-title: "Using GitLab at GitLab"
+title: Using GitLab at GitLab
 aliases:
 - /handbook/using-gitlab-at-gitlab/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Using GitLab at GitLab
+type: docs
 ---
 
 ## Intro

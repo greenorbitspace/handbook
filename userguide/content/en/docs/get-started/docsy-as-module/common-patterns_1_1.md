@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Common Patterns 1 1
+aliases:
+- /docs/common-patterns_1_1/
+description: ''
+linkTitle: Common Patterns 1 1
+type: docs
+---
+
 <!-- # Common patterns
 
 TODO: A page documenting common pattern:

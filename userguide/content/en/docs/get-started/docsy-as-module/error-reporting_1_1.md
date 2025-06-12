@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Error Reporting 1 1
+aliases:
+- /docs/error-reporting_1_1/
+description: ''
+linkTitle: Error Reporting 1 1
+type: docs
+---
+
 # Error Reporting Explained
 
 ## What's going on?

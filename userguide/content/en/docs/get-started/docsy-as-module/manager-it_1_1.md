@@ -1,5 +1,12 @@
 ---
-title: "IT Management"
+title: IT Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/manager-it_1_1/
+description: ''
+linkTitle: IT Management
+type: docs
 ---
 
 ## Levels

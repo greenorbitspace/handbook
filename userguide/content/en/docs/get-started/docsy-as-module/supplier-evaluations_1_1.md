@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Supplier Evaluations 1 1
+aliases:
+- /docs/supplier-evaluations_1_1/
+description: ''
+linkTitle: Supplier Evaluations 1 1
+type: docs
+---
+
 ### Supplier Evaluation Framework for ISO 9001
 
 Supplier evaluation is an essential component of the ISO 9001:2015 Quality Management System (QMS), ensuring that suppliers contribute to meeting product or service quality, compliance, and customer satisfaction. ISO 9001 requires organizations to assess and monitor suppliers to ensure that the products and services provided meet specific requirements, and that the supplier’s performance aligns with the organization’s quality objectives.

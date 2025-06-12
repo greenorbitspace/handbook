@@ -1,5 +1,12 @@
 ---
-title: "Development Department Career Framework: Senior"
+title: 'Development Department Career Framework: Senior'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior_6_1_1/
+description: ''
+linkTitle: 'Development Department Career Framework: Senior'
+type: docs
 ---
 
 ## Development Department Competencies: Senior

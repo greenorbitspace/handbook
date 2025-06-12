@@ -1,5 +1,12 @@
 ---
-title: "Penetration Testing Policy"
+title: Penetration Testing Policy
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/penetration-testing-policy_1748147632037306914_1_1/
+description: ''
+linkTitle: Penetration Testing Policy
+type: docs
 ---
 
 A penetration test is a process to identify security vulnerabilities in an application or infrastructure in order to evaluate the security of the system.

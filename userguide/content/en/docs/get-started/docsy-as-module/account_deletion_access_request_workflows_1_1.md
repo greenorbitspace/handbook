@@ -2,7 +2,13 @@
 title: Account Deletion & Data Access Requests - Workflows
 category: GitLab.com
 subcategory: Legal
-description: "How to perform the processing of Account Deletion and Data Access requests"
+description: How to perform the processing of Account Deletion and Data Access requests
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/account_deletion_access_request_workflows_1_1/
+linkTitle: Account Deletion & Data Access Requests - Workflows
+type: docs
 ---
 
 ## Overview

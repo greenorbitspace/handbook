@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Atomics 1 1
+aliases:
+- /docs/atomics_1_1/
+description: ''
+linkTitle: Atomics 1 1
+type: docs
+---
+
 # Atomic Access
 
 tl;dr: use `go.uber.org/atomic` for all atomic access.  Use pointers (`*atomic.Uint64`, etc.) in structs to ensure proper alignment.

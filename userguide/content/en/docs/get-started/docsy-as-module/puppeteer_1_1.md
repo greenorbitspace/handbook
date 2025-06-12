@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Puppeteer 1 1
+aliases:
+- /docs/puppeteer_1_1/
+description: ''
+linkTitle: Puppeteer 1 1
+type: docs
+---
+
 # Using Puppeteer with Lighthouse
 
 ## Recipes

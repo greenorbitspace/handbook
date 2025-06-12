@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Security Awareness 1 1
+aliases:
+- /docs/security-awareness_1_1/
+description: ''
+linkTitle: Security Awareness 1 1
+type: docs
+---
+
 Security Awareness Policy
 
 1. Introduction

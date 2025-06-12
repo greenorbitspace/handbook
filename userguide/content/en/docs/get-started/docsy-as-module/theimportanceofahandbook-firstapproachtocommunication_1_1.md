@@ -5,6 +5,13 @@ doc_id: doc-393
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/theimportanceofahandbook-firstapproachtocommunication_1_1/
+description: ''
+linkTitle: Theimportanceofahandbook Firstapproachtocommunication
+type: docs
 ---
 
 # The importance of a handbook-first approach to communication

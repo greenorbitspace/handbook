@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Market Research Proposal 1 1
+aliases:
+- /docs/market-research-proposal_1_1/
+description: ''
+linkTitle: Market Research Proposal 1 1
+type: docs
+---
+
 ## 1.	Summary 
 
 Explain briefly the purpose of the market research and why it is required. Also, give an overview of what the desired outcome of the market research is. 

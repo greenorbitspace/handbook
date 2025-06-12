@@ -1,14 +1,14 @@
 ---
-
-title: "Interview with an IT Agility Director"
-description: "Clips from an April 2020 interview with an IT Agility Director at a Fortune 500 energy company"
+title: Interview with an IT Agility Director
+description: Clips from an April 2020 interview with an IT Agility Director at a Fortune
+  500 energy company
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/it-agility-director-interview_1_1/
+linkTitle: Interview with an IT Agility Director
+type: docs
 ---
-
-
-
-
-
-
 
 ## Introduction
 

@@ -1,6 +1,12 @@
 ---
-title: "Julie Malloy's README"
-description: "Learn more about working with Julie Malloy, VP Accounting Operations"
+title: Julie Malloy's README
+description: Learn more about working with Julie Malloy, VP Accounting Operations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/julie-malloy_1/
+linkTitle: Julie Malloy's README
+type: docs
 ---
 
 ## Why I'm at GitLab

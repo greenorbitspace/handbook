@@ -1,6 +1,13 @@
 ---
-title: "Using the Customer Collaboration Project as a CSM"
-description: "Best practices and setup guide for Customer Success Managers using Customer Collaboration Projects to manage customer data, requests, and collaborations."
+title: Using the Customer Collaboration Project as a CSM
+description: Best practices and setup guide for Customer Success Managers using Customer
+  Collaboration Projects to manage customer data, requests, and collaborations.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-collaboration-project_1748146057840464698_1_1/
+linkTitle: Using the Customer Collaboration Project as a CSM
+type: docs
 ---
 
 View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.

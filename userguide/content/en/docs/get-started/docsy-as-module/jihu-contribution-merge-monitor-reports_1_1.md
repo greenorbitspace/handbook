@@ -1,6 +1,12 @@
 ---
-
-title: "JiHu Contribution Merge Monitor Reports"
+title: JiHu Contribution Merge Monitor Reports
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/jihu-contribution-merge-monitor-reports_1_1/
+description: ''
+linkTitle: JiHu Contribution Merge Monitor Reports
+type: docs
 ---
 
 The [Merge Monitor tool](https://gitlab.com/gitlab-com/gl-security/product-security/appsec/tooling/release-certification-tools#merge-request-monitor) looks in public GitLab repositories that JiHu contributes to for merge requests that:

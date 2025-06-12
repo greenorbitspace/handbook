@@ -1,6 +1,12 @@
 ---
-
-title: "GitLab Co-Creation Initiative"
+title: GitLab Co-Creation Initiative
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cocreation_1_1/
+description: ''
+linkTitle: GitLab Co-Creation Initiative
+type: docs
 ---
 
 ## Goal

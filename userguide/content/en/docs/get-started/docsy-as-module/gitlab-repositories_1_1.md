@@ -1,13 +1,13 @@
 ---
-
 title: GitLab Repositories
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-repositories_1_1/
+description: ''
+linkTitle: GitLab Repositories
+type: docs
 ---
-
-
-
-
-
-
 
 GitLab consists of many subprojects. A curated list of GitLab projects can be found at the [GitLab Engineering projects](/handbook/engineering/projects/) page.
 

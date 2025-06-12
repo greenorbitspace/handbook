@@ -1,6 +1,13 @@
 ---
-title: "Prelude"
-description: "Prelude (formerly Interview Schedule) is a program GitLab uses to increase efficiency in scheduling interviews."
+title: Prelude
+description: Prelude (formerly Interview Schedule) is a program GitLab uses to increase
+  efficiency in scheduling interviews.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/prelude_1_1/
+linkTitle: Prelude
+type: docs
 ---
 
 Prelude is the scheduling tool that the Candidate Experience Team uses to book

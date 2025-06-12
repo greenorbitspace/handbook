@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 8 1 1 1
+aliases:
+- /docs/readme_8_1_1_1/
+description: ''
+linkTitle: Readme 8 1 1 1
+type: docs
+---
+
 <h1 align="center">
 	<br>
 	<br>

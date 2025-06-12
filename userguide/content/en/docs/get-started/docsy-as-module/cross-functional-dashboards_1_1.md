@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Cross Functional Dashboards 1 1
+aliases:
+- /docs/cross-functional-dashboards_1_1/
+description: ''
+linkTitle: Cross Functional Dashboards 1 1
+type: docs
+---
+
 {{ $filterValue := "" }}
 {{ $filters := slice }}
 {{ $section := false }}

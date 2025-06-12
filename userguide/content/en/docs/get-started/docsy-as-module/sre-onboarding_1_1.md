@@ -1,5 +1,12 @@
 ---
-title: "SRE Onboarding"
+title: SRE Onboarding
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sre-onboarding_1_1/
+description: ''
+linkTitle: SRE Onboarding
+type: docs
 ---
 
 ## Onboarding Template

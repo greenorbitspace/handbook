@@ -1,7 +1,12 @@
 ---
-
 title: Support 1:1s
-description: "Support team 1:1s guidelines"
+description: Support team 1:1s guidelines
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-1-1s_1_1/
+linkTitle: Support 1:1s
+type: docs
 ---
 
 ## Aims and context

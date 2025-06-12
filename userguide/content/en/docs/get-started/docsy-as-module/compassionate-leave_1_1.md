@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Compassionate Leave 1 1
+aliases:
+- /docs/compassionate-leave_1_1/
+description: ''
+linkTitle: Compassionate Leave 1 1
+type: docs
+---
+
 In the tragic event that you experience the death of somebody close to you, whether family or friend, we’ll be there to support you through this period and we understand that you’re likely to need some time off work.
 
 When you’re able to, please let us know about the bereavement. You may take one full day off initially, along with a half or full day to attend the funeral. This time will be fully paid and will not affect your holiday entitlement. It should be noted in Bamboo under ‘compassionate leave’.

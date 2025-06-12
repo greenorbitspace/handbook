@@ -1,5 +1,12 @@
 ---
 title: Cloud Connector - Technical vision
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/technical_vision_1_1/
+description: ''
+linkTitle: Cloud Connector - Technical vision
+type: docs
 ---
 
 ## Objective

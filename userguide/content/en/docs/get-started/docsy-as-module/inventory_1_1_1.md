@@ -1,6 +1,13 @@
 ---
-title: "GitLab Application Security Inventory"
-description: "The AppSec Inventory is a private GitLab project to identify and track all projects, components, and dependencies that matter for AppSec"
+title: GitLab Application Security Inventory
+description: The AppSec Inventory is a private GitLab project to identify and track
+  all projects, components, and dependencies that matter for AppSec
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/inventory_1_1_1/
+linkTitle: GitLab Application Security Inventory
+type: docs
 ---
 
 ## GitLab Application Security Inventory

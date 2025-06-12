@@ -1,7 +1,15 @@
 ---
-title: GitLab-sponsored Tufts University Human Factors/Engineering Psychology Capstone Course
-description: >-
-  On this page, you'll find information about how GitLab participates in the Tufts University Capstone Project in the field of Human Factors Engineering.
+title: GitLab-sponsored Tufts University Human Factors/Engineering Psychology Capstone
+  Course
+description: On this page, you'll find information about how GitLab participates in
+  the Tufts University Capstone Project in the field of Human Factors Engineering.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tufts-university-capstone-course_2_1/
+linkTitle: GitLab-sponsored Tufts University Human Factors/Engineering Psychology
+  Capstone Course
+type: docs
 ---
 
 At GitLab, we believe everyone can contribute. In that spirit, members of the UX Department can volunteer to sponsor a project for the [Tufts University Human Factors Engineering/Engineering Psychology (BS)](https://engineering.tufts.edu/me/current-students/undergraduate-program/bachelor-science-human-factors-engineering-bs) senior-level students to take on during the spring semester.

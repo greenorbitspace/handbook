@@ -1,6 +1,13 @@
 ---
-title: "GitLab Security Essentials - Hands-On Lab: Dependency and IaC Scanning"
-description: "This Hands-On Guide walks you through the process of using dependency scans and IaC scans on your code"
+title: 'GitLab Security Essentials - Hands-On Lab: Dependency and IaC Scanning'
+description: This Hands-On Guide walks you through the process of using dependency
+  scans and IaC scans on your code
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabsecurityessentialslab3_1_1/
+linkTitle: 'GitLab Security Essentials - Hands-On Lab: Dependency and IaC Scanning'
+type: docs
 ---
 
 > Estimated time to complete: 15 minutes

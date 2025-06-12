@@ -1,7 +1,13 @@
 ---
 title: SLAs
 description: Operations documentation page for Zendesk SLAs
-canonical_path: "/handbook/security/customer-support-operations/docs/zendesk/slas"
+canonical_path: /handbook/security/customer-support-operations/docs/zendesk/slas
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/slas_1_1_1/
+linkTitle: SLAs
+type: docs
 ---
 
 {{% alert title="Zendesk calls them service level agreements, we do not" color="danger" %}}

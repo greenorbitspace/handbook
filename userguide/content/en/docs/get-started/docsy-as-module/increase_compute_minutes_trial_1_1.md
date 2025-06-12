@@ -1,11 +1,15 @@
 ---
-
 title: Handling Requests for More Premium Trial compute minutes
-description: "How to handle requests for more minutes when customer is running Trial Subscription"
+description: How to handle requests for more minutes when customer is running Trial
+  Subscription
 category: License and subscription
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/increase_compute_minutes_trial_1_1/
+linkTitle: Handling Requests for More Premium Trial compute minutes
+type: docs
 ---
-
-
 
 ##### Overview
 

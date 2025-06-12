@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Research Topics 1 1
+aliases:
+- /docs/research-topics_1_1/
+description: ''
+linkTitle: Research Topics 1 1
+type: docs
+---
+
 Research topics specifically focused on sustainable marketing within the space industry, with an emphasis on space debris and related issues:
 
 1. Public Perception of Space Debris Mitigation Efforts: Investigate how marketing and communication strategies can shape public understanding and support for space debris mitigation initiatives.

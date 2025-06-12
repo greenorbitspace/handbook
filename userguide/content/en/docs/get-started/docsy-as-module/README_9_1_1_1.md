@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 9 1 1 1
+aliases:
+- /docs/README_9_1_1_1/
+description: ''
+linkTitle: Readme 9 1 1 1
+type: docs
+---
+
 # markdownlint-cli2-formatter-pretty
 
 > An output formatter for [`markdownlint-cli2`][markdownlint-cli2] that looks

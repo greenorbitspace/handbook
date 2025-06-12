@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Safe Framework 1 1
+aliases:
+- /docs/SAFE Framework_1_1/
+description: ''
+linkTitle: Safe Framework 1 1
+type: docs
+---
+
 # SAFE Framework
 
 [Unsupported block type: table_of_contents]

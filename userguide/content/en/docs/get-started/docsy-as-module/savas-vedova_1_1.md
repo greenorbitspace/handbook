@@ -1,7 +1,13 @@
 ---
-
-title: "Savas Vedova's README"
-job: "Senior Frontend Engineer, Govern"
+title: Savas Vedova's README
+job: Senior Frontend Engineer, Govern
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/savas-vedova_1_1/
+description: ''
+linkTitle: Savas Vedova's README
+type: docs
 ---
 
 ## Savas Vedova' README

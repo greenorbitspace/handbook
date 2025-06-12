@@ -1,24 +1,23 @@
 ---
-title: "My Awesome Blog Post"
-date: 2019-11-23T15:28:43+06:00
+title: My Awesome Blog Post
+date: '2025-06-12T01:05:59+01:00'
 draft: false
-
-# post author
-author : "themefisher"
-
-# post thumb
-image: "images/blog/blog-1.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories: ["New Book"]
-tags: ["Photos", "HTML", "Book", "New"]
-# post type
-type: "post"
+author: themefisher
+image: images/blog/blog-1.jpg
+description: this is meta description
+categories:
+- New Book
+tags:
+- Photos
+- HTML
+- Book
+- New
+type: docs
+weight: 2
+aliases:
+- /docs/blog-post-2_1/
+linkTitle: My Awesome Blog Post
 ---
-
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel
 nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem,

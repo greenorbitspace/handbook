@@ -1,5 +1,12 @@
 ---
 description: Export all raindrops in specific format
+weight: 2
+date: '2025-06-12'
+title: Export 1 1
+aliases:
+- /docs/export_1_1/
+linkTitle: Export 1 1
+type: docs
 ---
 
 # Export

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Ideam 1 1
+aliases:
+- /docs/ideam_1_1/
+description: ''
+linkTitle: Ideam 1 1
+type: docs
+---
+
 ### IDEAM's Forest Definition
 
 - An area with tree coverage greater than or equal to 30% of the ground and trees with a minimum height of 5 meters.

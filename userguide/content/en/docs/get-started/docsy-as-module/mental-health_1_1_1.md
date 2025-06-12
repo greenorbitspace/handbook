@@ -1,10 +1,16 @@
 ---
-title: "Combating burnout, isolation, and anxiety in the remote workplace"
+title: Combating burnout, isolation, and anxiety in the remote workplace
 description: Combating burnout, isolation, and anxiety in the remote workplace
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mental-health_1_1_1/
+linkTitle: Combating burnout, isolation, and anxiety in the remote workplace
+type: docs
 ---
 
 <!-- markdownlint-disable MD013 -->

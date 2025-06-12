@@ -1,6 +1,13 @@
 ---
 title: Database Support Pod
-description: A Support pod for PostgreSQL, database migrations, database performance, Patroni / replication etc.
+description: A Support pod for PostgreSQL, database migrations, database performance,
+  Patroni / replication etc.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_77_1_1/
+linkTitle: Database Support Pod
+type: docs
 ---
 
 ## Purpose

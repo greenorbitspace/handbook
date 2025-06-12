@@ -1,14 +1,15 @@
 ---
-
-title: "GitLab Monthly Release Email to Sales"
-description: "Following each GitLab release every month, Field Communications sends out an email template that members of the Field organization can repurpose to send to their customers and prospects"
+title: GitLab Monthly Release Email to Sales
+description: Following each GitLab release every month, Field Communications sends
+  out an email template that members of the Field organization can repurpose to send
+  to their customers and prospects
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/monthly-release-sales-email_1_1/
+linkTitle: GitLab Monthly Release Email to Sales
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

@@ -1,13 +1,23 @@
 ---
 title: Covered Experience SLIs (next step)
 status: proposed
-creation-date: "2025-03-24"
-authors: [ "@hmerscher" ]
-coaches: [ "@reprazent", "@andrewn" ]
+creation-date: '2025-03-24'
+authors:
+- '@hmerscher'
+coaches:
+- '@reprazent'
+- '@andrewn'
 dris: []
-owning-stage: "~team::Observability"
+owning-stage: ~team::Observability
 participating-stages: []
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/next_step_1_1/
+description: ''
+linkTitle: Covered Experience SLIs (next step)
+type: docs
 ---
 
 <!-- vale gitlab.FutureTense = NO -->

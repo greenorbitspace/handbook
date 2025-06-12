@@ -1,9 +1,18 @@
 ---
-title: 'The Remote Work Report 2021'
-description: 3,900 global remote workers share the good, bad, and unexpected of the new status quo
-summary: The Global Remote Work Report dissects the state of distributed work and surfaces key motivators for both employees and employers.
-twitter_image: '/images/opengraph/remote-report-2021.png'
+title: The Remote Work Report 2021
+description: 3,900 global remote workers share the good, bad, and unexpected of the
+  new status quo
+summary: The Global Remote Work Report dissects the state of distributed work and
+  surfaces key motivators for both employees and employers.
+twitter_image: /images/opengraph/remote-report-2021.png
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/remote-work-report_1_2/
+linkTitle: The Remote Work Report 2021
+type: docs
 ---
+
 <div class="container">
 <div class="row mb-5 align-items-center">
     <div class="col">

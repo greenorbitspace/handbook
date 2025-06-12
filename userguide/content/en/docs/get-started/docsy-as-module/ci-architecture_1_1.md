@@ -1,7 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/production/architecture/ci-architecture.html
-title: "CI Service Architecture"
+aliases:
+- /docs/ci-architecture_1_1/
+title: CI Service Architecture
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: CI Service Architecture
+type: docs
 ---
 
 This document only covers our shared and GitLab shared runners, which are

@@ -1,9 +1,13 @@
 ---
-
-title: "UX support for AI-assisted features"
-description: "UX support for AI-assisted features"
+title: UX support for AI-assisted features
+description: UX support for AI-assisted features
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ux-support_1_1/
+linkTitle: UX support for AI-assisted features
+type: docs
 ---
-
 
 ## Getting UX Support for AI Related Issues
 

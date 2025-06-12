@@ -3,6 +3,11 @@ title: GitLab Security Logging Standards
 aliases:
 - /handbook/security/security-logging-standard
 note: Do not remove alias due to extensive external use where it cannot be updated.
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: GitLab Security Logging Standards
+type: docs
 ---
 
 ## Purpose and Scope

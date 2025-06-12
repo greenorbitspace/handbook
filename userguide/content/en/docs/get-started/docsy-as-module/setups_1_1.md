@@ -1,10 +1,16 @@
 ---
-title: "Collaborative Whiteboard Configurations"
-description: "How to collaborate and whiteboard remotely"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+title: Collaborative Whiteboard Configurations
+description: How to collaborate and whiteboard remotely
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/setups_1_1/
+linkTitle: Collaborative Whiteboard Configurations
+type: docs
 ---
 
 #### Importance of Flow When Whiteboarding Technical Explanations or Collaborations

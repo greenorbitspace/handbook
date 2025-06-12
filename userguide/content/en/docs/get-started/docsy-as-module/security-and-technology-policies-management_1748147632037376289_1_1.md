@@ -1,5 +1,12 @@
 ---
-title: "Security and Technology Policies Management"
+title: Security and Technology Policies Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-and-technology-policies-management_1748147632037376289_1_1/
+description: ''
+linkTitle: Security and Technology Policies Management
+type: docs
 ---
 
 ## Purpose

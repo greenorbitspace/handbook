@@ -1,6 +1,13 @@
 ---
-title: "Guidelines for Law Enforcement Requests"
-description: "This page details GitLab Guidelines for receiving and processing of law enforcement requests for user data"
+title: Guidelines for Law Enforcement Requests
+description: This page details GitLab Guidelines for receiving and processing of law
+  enforcement requests for user data
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/law-enforcement-guidelines_1_1/
+linkTitle: Guidelines for Law Enforcement Requests
+type: docs
 ---
 
 These Guidelines are for law enforcement officials conducting investigations concerning GitLab and for our privacy-forward users who want to know what information we may share with law enforcement.

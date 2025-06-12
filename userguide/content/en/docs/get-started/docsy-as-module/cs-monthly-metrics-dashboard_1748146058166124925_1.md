@@ -1,5 +1,12 @@
 ---
-title: "Customer Success Monthly Metrics Dashboard"
+title: Customer Success Monthly Metrics Dashboard
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cs-monthly-metrics-dashboard_1748146058166124925_1/
+description: ''
+linkTitle: Customer Success Monthly Metrics Dashboard
+type: docs
 ---
 
 ## Table of Contents

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Resource Management Plan 1 1
+aliases:
+- /docs/resource-management-plan_1_1/
+description: ''
+linkTitle: Resource Management Plan 1 1
+type: docs
+---
+
 # 1. Introduction
 
 This resource management plan outlines the strategy for effectively managing human, technological, and physical resources to achieve organizational objectives.

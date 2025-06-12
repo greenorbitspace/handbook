@@ -1,7 +1,12 @@
 ---
-title: "Key Reviews"
+title: Key Reviews
 aliases:
 - /handbook/key-review/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Key Reviews
+type: docs
 ---
 
 ## Purpose

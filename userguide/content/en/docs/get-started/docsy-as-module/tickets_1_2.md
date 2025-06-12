@@ -1,7 +1,13 @@
 ---
 title: Tickets
 description: Support Operations documentation page for Zendesk tickets
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/tickets"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/tickets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tickets_1_2/
+linkTitle: Tickets
+type: docs
 ---
 
 ## How do we maintain them?

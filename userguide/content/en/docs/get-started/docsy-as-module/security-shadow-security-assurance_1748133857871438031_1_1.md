@@ -1,5 +1,12 @@
 ---
-title: "Security Shadow: Security Assurance"
+title: 'Security Shadow: Security Assurance'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-shadow-security-assurance_1748133857871438031_1_1/
+description: ''
+linkTitle: 'Security Shadow: Security Assurance'
+type: docs
 ---
 
 ## Security Compliance

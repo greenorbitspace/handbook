@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: How To Debug Zammad Processes 1 1
+aliases:
+- /docs/how-to-debug-zammad-processes_1_1/
+description: ''
+linkTitle: How To Debug Zammad Processes 1 1
+type: docs
+---
+
 # How to Debug Zammad Processes
 
 Sometimes it can be helpful to understand the internal state of threads running in a Zammad process. This can be

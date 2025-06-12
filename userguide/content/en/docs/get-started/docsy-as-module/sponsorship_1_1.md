@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Sponsorship 1 1
+aliases:
+- /docs/sponsorship_1_1/
+description: ''
+linkTitle: Sponsorship 1 1
+type: docs
+---
+
 # Sponsorship Policy
 
 ## 1. Purpose and Scope

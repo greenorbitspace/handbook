@@ -1,7 +1,13 @@
 ---
-title: "Security Change Management Procedure"
-description: "Change management procedure for the Security Division."
+title: Security Change Management Procedure
+description: Change management procedure for the Security Division.
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-change-management-procedure_1_1/
+linkTitle: Security Change Management Procedure
+type: docs
 ---
 
 ## Purpose

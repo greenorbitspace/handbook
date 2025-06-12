@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Business Continuity Policy 1 1
+aliases:
+- /docs/business-continuity-policy_1_1/
+description: ''
+linkTitle: Business Continuity Policy 1 1
+type: docs
+---
+
 # 1. Purpose and Scope
 
 This policy establishes Green Orbit Digital's framework for maintaining business operations during disruptions and ensuring rapid recovery from incidents that could impact critical business functions.

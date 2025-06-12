@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Associateexample 1
+aliases:
+- /docs/associateExample_1/
+description: ''
+linkTitle: Associateexample 1
+type: docs
+---
+
 # socks examples
 
 ## Example for SOCKS 'associate' command

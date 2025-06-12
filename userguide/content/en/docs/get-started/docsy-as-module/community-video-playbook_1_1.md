@@ -1,16 +1,16 @@
 ---
-
-title: "GitLab.tv Community Video Playbook"
+title: GitLab.tv Community Video Playbook
 description: GitLab.tv Community Video Playbook
-twitter_image: '/images/tweets/handbook-marketing.png'
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/tweets/handbook-marketing.png
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/community-video-playbook_1_1/
+linkTitle: GitLab.tv Community Video Playbook
+type: docs
 ---
-
-
-
-
-
 
 ## Introduction
 

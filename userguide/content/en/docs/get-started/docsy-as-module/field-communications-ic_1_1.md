@@ -1,8 +1,15 @@
 ---
-title: "Field Communications Manager"
-description: "Learn more about Field Communications IC roles, responsibilities and requirements."
+title: Field Communications Manager
+description: Learn more about Field Communications IC roles, responsibilities and
+  requirements.
 extra_js:
 - libs/mermaid.min.js
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/field-communications-ic_1_1/
+linkTitle: Field Communications Manager
+type: docs
 ---
 
 The Field Communications function is part of the Field Enablement team and is responsible for creating effective, timely, and easily consumable communications for the GitLab Field Team. The team's charter is to help GitLab's Field organization sell better, faster and smarter with communication programs that keep them better informed of organizational/business updates that impact their roles, as well as useful resources that will enable day-to-day work.

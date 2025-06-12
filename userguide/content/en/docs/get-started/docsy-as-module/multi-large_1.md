@@ -1,6 +1,13 @@
 ---
-title: "Kubernetes Migration Working Group"
-description: "The charter of this working group is to, except for postgres, migrate all of GitLab.com to Kubernetes."
+title: Kubernetes Migration Working Group
+description: The charter of this working group is to, except for postgres, migrate
+  all of GitLab.com to Kubernetes.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/multi-large_1/
+linkTitle: Kubernetes Migration Working Group
+type: docs
 ---
 
 ## Attributes

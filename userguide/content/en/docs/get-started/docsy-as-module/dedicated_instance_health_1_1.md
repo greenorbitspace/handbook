@@ -1,8 +1,13 @@
 ---
-
 title: GitLab Dedicated Observability and Monitoring (Grafana)
 category: GitLab Dedicated
-description: "GitLab Dedicated Support - Observability and Monitoring"
+description: GitLab Dedicated Support - Observability and Monitoring
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dedicated_instance_health_1_1/
+linkTitle: GitLab Dedicated Observability and Monitoring (Grafana)
+type: docs
 ---
 
 ## Grafana data is primarily for internal use

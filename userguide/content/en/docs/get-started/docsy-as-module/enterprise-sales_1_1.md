@@ -1,14 +1,14 @@
 ---
-
-title: "Enterprise Area Sales Manager Handbook"
-description: "Successful management includes onboarding, reviewing Command Plans, opportunity coaching, strategic coaching, career development and performance management"
+title: Enterprise Area Sales Manager Handbook
+description: Successful management includes onboarding, reviewing Command Plans, opportunity
+  coaching, strategic coaching, career development and performance management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/enterprise-sales_1_1/
+linkTitle: Enterprise Area Sales Manager Handbook
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

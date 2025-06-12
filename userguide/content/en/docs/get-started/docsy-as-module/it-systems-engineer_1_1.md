@@ -1,5 +1,12 @@
 ---
 title: IT Systems Engineer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/it-systems-engineer_1_1/
+description: ''
+linkTitle: IT Systems Engineer
+type: docs
 ---
 
 The IT Systems Engineer is responsible for performing functions such as evaluation, testing, debugging and implementation of applications programs supporting the company infrastructure business processes and operations. Other functions include analyze, install, modify and support operating systems, databases, and utilities software. The IT Systems Engineer also plans, conducts and directs the analysis of business problems with automated systems solutions. This job family reports to the [IT Manager](/job-families/finance/manager-it/).

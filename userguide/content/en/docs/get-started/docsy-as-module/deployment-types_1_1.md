@@ -1,8 +1,15 @@
 ---
-
-title: "Customer Deployment Types"
-description: "Definition guide for customer deployment types, conversion sources, hosting, deployer method, and provider."
+title: Customer Deployment Types
+description: Definition guide for customer deployment types, conversion sources, hosting,
+  deployer method, and provider.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/deployment-types_1_1/
+linkTitle: Customer Deployment Types
+type: docs
 ---
+
 ## Customer Deployment Types
 
 During customer onboarding, these fields should be filled out in Gainsight. Deployment types definitions for customer attributes on the Gainsight C360:

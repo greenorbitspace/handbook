@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme World Map 1 1
+aliases:
+- /docs/README_world_map_1_1/
+description: ''
+linkTitle: Readme World Map 1 1
+type: docs
+---
+
 # README World Map GeoPackage
 The `world_map.gpkg` contains the following layers:
 

@@ -1,10 +1,14 @@
 ---
-
 title: GCP Marketplace license
-description: "GCP Marketplace ticket request"
+description: GCP Marketplace ticket request
 category: GitLab Self-Managed licenses
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gcp_marketplace_license_1_1/
+linkTitle: GCP Marketplace license
+type: docs
 ---
-
 
 ## GCP Marketplace License Overview
 

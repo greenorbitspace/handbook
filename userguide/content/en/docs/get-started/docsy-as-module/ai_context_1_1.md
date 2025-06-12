@@ -1,5 +1,12 @@
 ---
-title: "AI Context Taskforce"
+title: AI Context Taskforce
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ai_context_1_1/
+description: ''
+linkTitle: AI Context Taskforce
+type: docs
 ---
 
 ## Vision

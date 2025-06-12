@@ -1,8 +1,13 @@
 ---
-title: "Leaders at Summit"
-description: "Company leaders who attend GitLab Summit should take the opportunity to engage with GitLab team-members across the organization."
+title: Leaders at Summit
+description: Company leaders who attend GitLab Summit should take the opportunity
+  to engage with GitLab team-members across the organization.
 aliases:
 - /handbook/company/culture/summit/contribute-leadership/
+weight: 2
+date: '2025-06-12'
+linkTitle: Leaders at Summit
+type: docs
 ---
 
 {{< youtube "39chczWRKws?start=1756" >}}

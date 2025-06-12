@@ -1,5 +1,12 @@
 ---
-title: "GTM Analytics Hub"
+title: GTM Analytics Hub
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gtm-analytics-hub_1_1/
+description: ''
+linkTitle: GTM Analytics Hub
+type: docs
 ---
 
 ## Common Links

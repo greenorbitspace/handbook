@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Protocols 1 1
+aliases:
+- /docs/protocols_1_1/
+description: ''
+linkTitle: Protocols 1 1
+type: docs
+---
+
 The key difference between `passport-google-oauth2` and `passport-google-oidc` lies in the authentication protocols they use:
 
 **passport-google-oauth2:**

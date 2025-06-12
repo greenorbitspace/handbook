@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 7 1 1 1
+aliases:
+- /docs/readme_7_1_1_1/
+description: ''
+linkTitle: Readme 7 1 1 1
+type: docs
+---
+
 # path-type
 
 > Check if a path is a file, directory, or symlink

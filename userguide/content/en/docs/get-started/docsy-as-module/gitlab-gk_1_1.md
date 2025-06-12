@@ -1,6 +1,12 @@
 ---
-title: "GitLab GK (Japan) Benefits"
-description: "Discover GitLab's benefits for team members in Japan"
+title: GitLab GK (Japan) Benefits
+description: Discover GitLab's benefits for team members in Japan
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-gk_1_1/
+linkTitle: GitLab GK (Japan) Benefits
+type: docs
 ---
 
 ## Specific to Japan Based Team Members

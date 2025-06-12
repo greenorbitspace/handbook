@@ -1,13 +1,13 @@
 ---
-
-title: "Developer Relations: Program Resources"
+title: 'Developer Relations: Program Resources'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/program-resources_1_1/
+description: ''
+linkTitle: 'Developer Relations: Program Resources'
+type: docs
 ---
-
-
-
-
-
-
 
 ## Contact e-mails
 

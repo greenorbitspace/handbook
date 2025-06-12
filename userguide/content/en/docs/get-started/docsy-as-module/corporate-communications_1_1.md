@@ -1,9 +1,15 @@
 ---
-title: "Corporate Communications Policy"
-description: "Overview of the Corporate Communication Policy at GitLab."
+title: Corporate Communications Policy
+description: Overview of the Corporate Communication Policy at GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/corporate-communications_1_1/
+linkTitle: Corporate Communications Policy
+type: docs
 ---
 
- ***THIS POLICY WAS APPROVED BY THE BOARD ON SEPTEMBER 14, 2021***
+***THIS POLICY WAS APPROVED BY THE BOARD ON SEPTEMBER 14, 2021***
 
 ### PURPOSE
 

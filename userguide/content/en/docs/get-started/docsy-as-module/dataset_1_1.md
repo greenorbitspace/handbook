@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Dataset 1 1
+aliases:
+- /docs/dataset_1_1/
+description: ''
+linkTitle: Dataset 1 1
+type: docs
+---
+
 **Dataset** is the base class for datasets in Datawrapper. A dataset basically contains of a set of [columns](Column) and provides a few convenient functions.
 
 Datasets are usually constructed by a [data source](Data-Sources).

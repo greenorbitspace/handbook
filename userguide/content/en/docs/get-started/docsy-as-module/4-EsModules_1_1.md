@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 4 Esmodules 1 1
+aliases:
+- /docs/4-EsModules_1_1/
+description: ''
+linkTitle: 4 Esmodules 1 1
+type: docs
+---
+
 ### ES Moduele
 - at the time node.js was created there was no built-in module system in js
 - nodejs defaulted to CommonJs as its moudle system

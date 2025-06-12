@@ -1,7 +1,13 @@
 ---
 title: Ticket processor
 description: Operations workflows page for ticket processor
-canonical_path: "/handbook/security/customer-support-operations/workflows/zendesk/ticket-processor"
+canonical_path: /handbook/security/customer-support-operations/workflows/zendesk/ticket-processor
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ticket-processor_2_1/
+linkTitle: Ticket processor
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

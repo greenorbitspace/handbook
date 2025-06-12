@@ -1,5 +1,12 @@
 ---
-title: "Talent Acquisition, Recruiter"
+title: Talent Acquisition, Recruiter
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/talent-acquisition_1_1/
+description: ''
+linkTitle: Talent Acquisition, Recruiter
+type: docs
 ---
 
 ### Levels

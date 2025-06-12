@@ -1,9 +1,14 @@
 ---
-
 title: Solutions Architects GitLab Docs Section
-description: "Purpose and contribution process for the GitLab Solutions Documentation section."
+description: Purpose and contribution process for the GitLab Solutions Documentation
+  section.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sa-documentation_1_1/
+linkTitle: Solutions Architects GitLab Docs Section
+type: docs
 ---
-
 
 ## Purpose
 

@@ -1,6 +1,13 @@
 ---
-title: "Product Development Flow Working Group"
-canonical_path: "/company/team/structure/working-groups/product-development-flow/"
+title: Product Development Flow Working Group
+canonical_path: /company/team/structure/working-groups/product-development-flow/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-development-flow_1_1/
+description: ''
+linkTitle: Product Development Flow Working Group
+type: docs
 ---
 
 ## Attributes

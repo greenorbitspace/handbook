@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Public Api Categories 1 1
+aliases:
+- /docs/Public API Categories_1_1/
+description: ''
+linkTitle: Public Api Categories 1 1
+type: docs
+---
+
 For monitoring we group similar API endpoints into semantic categories.
 
 You can find high-level status about each category of APIs on our API Health page at https://status.api.semanticscholar.org/ 

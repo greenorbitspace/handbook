@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Making Updates 1 1
+aliases:
+- /docs/making-updates_1_1/
+description: ''
+linkTitle: Making Updates 1 1
+type: docs
+---
+
 <h1>Making updates to data and metadata</h1>
 
 This document will describe how to update data and metadata for the Open SDG platform.

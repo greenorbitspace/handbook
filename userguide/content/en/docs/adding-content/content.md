@@ -1,8 +1,13 @@
 ---
 title: Adding Content
 weight: 1
-description: >
+description: |
   Add different types of content to your Docsy site.
+type: docs
+date: '2025-06-12T01:05:53+01:00'
+linkTitle: Adding Content
+aliases:
+- /docs/content/
 ---
 
 So you've got a new Hugo website with Docsy, now it's time to add some content!

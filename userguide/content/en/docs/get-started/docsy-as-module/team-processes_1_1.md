@@ -1,13 +1,13 @@
 ---
-
 title: Team Processes
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/team-processes_1_1/
+description: ''
+linkTitle: Team Processes
+type: docs
 ---
-
-
-
-
-
-
 
 ## Issue hygiene
 

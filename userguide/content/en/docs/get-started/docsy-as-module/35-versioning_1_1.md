@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 35 Versioning 1 1
+aliases:
+- /docs/35-versioning_1_1/
+description: ''
+linkTitle: 35 Versioning 1 1
+type: docs
+---
+
 ### version
 - like when the latest version has a bug that has been overlooked my the maintainers, you can install earlier version untill latest version pug has been patched up
 ```bash

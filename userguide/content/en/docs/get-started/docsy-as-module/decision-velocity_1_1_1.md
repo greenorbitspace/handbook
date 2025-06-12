@@ -1,10 +1,21 @@
 ---
-title: "Decision Velocity"
-summary: "Decisions are the fuel for high-performance teams. Conventional management philosophies often strive for consensus and avoid risk instead of developing a [bias for action](/handbook/values/#bias-for-action). This can result in slow decision-making. In TeamOps, success is correlated with **decision velocity**: the quantity of decisions made in a particular stretch of time (e.g. month, quarter) and the results that stem from faster progress."
+title: Decision Velocity
+summary: 'Decisions are the fuel for high-performance teams. Conventional management
+  philosophies often strive for consensus and avoid risk instead of developing a [bias
+  for action](/handbook/values/#bias-for-action). This can result in slow decision-making.
+  In TeamOps, success is correlated with **decision velocity**: the quantity of decisions
+  made in a particular stretch of time (e.g. month, quarter) and the results that
+  stem from faster progress.'
 weight: 3
-canonical_path: "/teamops/decision-velocity/"
+canonical_path: /teamops/decision-velocity/
 images:
-    - /images/opengraph/all-remote.jpg
+- /images/opengraph/all-remote.jpg
+date: '2025-06-12'
+aliases:
+- /docs/decision-velocity_1_1_1/
+description: ''
+linkTitle: Decision Velocity
+type: docs
 ---
 
 ![GitLab TeamOps contribution illustration](/teamops/images/teamops-illustration_contribution_purple.png)

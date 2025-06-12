@@ -5,6 +5,13 @@ doc_id: doc-744
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070712_annual-performance-self-review_1_1/
+description: ''
+linkTitle: Annual Performance Self Review
+type: docs
 ---
 
 # Step 1: Identify the Year's Yay Moments

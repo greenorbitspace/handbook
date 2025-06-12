@@ -1,6 +1,14 @@
 ---
 title: Internal Audit Manager
-description: Own the planning, execution, and reporting of internal audits (e.g., SOX, financial, compliance, and operational) to evaluate processes and controls as identified in the annual internal audit plan.
+description: Own the planning, execution, and reporting of internal audits (e.g.,
+  SOX, financial, compliance, and operational) to evaluate processes and controls
+  as identified in the annual internal audit plan.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/internal-audit-manager_1_1/
+linkTitle: Internal Audit Manager
+type: docs
 ---
 
 Additionally, they assist in the preparation and implementation of a risk-based audit plan to assess, report on, and make suggestions for improving the company's key operational and finance activities and internal controls. 

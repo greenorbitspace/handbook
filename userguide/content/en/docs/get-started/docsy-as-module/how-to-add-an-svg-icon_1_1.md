@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: How To Add An Svg Icon 1 1
+aliases:
+- /docs/how-to-add-an-svg-icon_1_1/
+description: ''
+linkTitle: How To Add An Svg Icon 1 1
+type: docs
+---
+
 # How to Add an SVG Icon
 
 Icons should be added to the [public icons folder](/public/assets/images/icons).

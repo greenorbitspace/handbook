@@ -3,6 +3,13 @@ stage: enablement
 group: Tenant Scale
 title: 'Cells: Secrets & Credentials'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/secrets_1_1/
+description: ''
+linkTitle: 'Cells: Secrets & Credentials'
+type: docs
 ---
 
 {{% alert %}}

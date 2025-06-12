@@ -1,7 +1,13 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/workflows/project_execution/calls.html
+aliases:
+- /docs/calls_1_1/
 title: Standing Calls
 category: Project Execution
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Standing Calls
+type: docs
 ---
 
 ## Customer Facing

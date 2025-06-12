@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Tech Stack Guide Reference 1 1
+aliases:
+- /docs/tech-stack-guide-reference_1_1/
+description: ''
+linkTitle: Tech Stack Guide Reference 1 1
+type: docs
+---
+
 Reference for how to create and maintain Tech Stack Guides.
 
 ## What Is A Tech Stack Guide?

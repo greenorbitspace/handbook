@@ -1,9 +1,16 @@
 ---
 name: Something not working
 about: Let us know if you can't get something to work or you've found a bug
-title: ''
+title: Something Not Working 1
 labels: ''
 assignees: ''
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/something_not_working_1/
+description: ''
+linkTitle: Something Not Working 1
+type: docs
 ---
 
 <!--

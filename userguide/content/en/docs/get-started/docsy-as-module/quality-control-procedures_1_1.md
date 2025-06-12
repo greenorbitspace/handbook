@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Quality Control Procedures 1 1
+aliases:
+- /docs/quality-control-procedures_1_1/
+description: ''
+linkTitle: Quality Control Procedures 1 1
+type: docs
+---
+
 ## 1. Quality Standards and Specifications
 
 - Define clear quality standards for all products and services

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 'Procurement Guide: Collaborating With Legal 1 1'
+aliases:
+- '/docs/Procurement Guide: Collaborating with Legal_1_1/'
+description: ''
+linkTitle: 'Procurement Guide: Collaborating With Legal 1 1'
+type: docs
+---
+
 # Procurement Guide: Collaborating with Legal
 
 [Unsupported block type: image]

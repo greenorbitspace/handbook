@@ -1,7 +1,13 @@
 ---
 title: Help Center management user segments
 description: Operations workflow page for Zendesk Help Center user segments
-canonical_path: "/handbook/security/customer-support-operations/workflows/zendesk/help-center-user-segments"
+canonical_path: /handbook/security/customer-support-operations/workflows/zendesk/help-center-user-segments
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/help-center-user-segments_2_1/
+linkTitle: Help Center management user segments
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

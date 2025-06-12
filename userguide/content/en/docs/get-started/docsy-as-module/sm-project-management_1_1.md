@@ -1,14 +1,13 @@
 ---
-
-title: "Product and Solution Marketing Project Management Overview"
+title: Product and Solution Marketing Project Management Overview
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sm-project-management_1_1/
+description: ''
+linkTitle: Product and Solution Marketing Project Management Overview
+type: docs
 ---
-
-
-
-
-
-
-
 
 ### Project management overview
 

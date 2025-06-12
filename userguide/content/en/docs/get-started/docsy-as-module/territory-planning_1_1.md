@@ -1,13 +1,13 @@
 ---
-
-title: "Territory Planning"
+title: Territory Planning
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/territory-planning_1_1/
+description: ''
+linkTitle: Territory Planning
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

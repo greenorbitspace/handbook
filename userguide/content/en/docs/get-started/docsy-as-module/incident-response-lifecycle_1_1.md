@@ -1,6 +1,13 @@
 ---
-title: "Incident Response Lifecycle"
-description: "The Incident Response Lifecyle working group is intended to document a shared incident response protocol and knowledgebase."
+title: Incident Response Lifecycle
+description: The Incident Response Lifecyle working group is intended to document
+  a shared incident response protocol and knowledgebase.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/incident-response-lifecycle_1_1/
+linkTitle: Incident Response Lifecycle
+type: docs
 ---
 
 ## Attributes

@@ -1,5 +1,12 @@
 ---
 title: Global Workforce Strategy
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/global-workforce-strategy_1_1/
+description: ''
+linkTitle: Global Workforce Strategy
+type: docs
 ---
 
 Global Workforce Strategy forms part of the People Operations Team at GitLab and directly responsible for contributing to our International expansion efforts. This team will be collaborating very closely with Total Rewards, Finance, Legal, Recruiting and the People Operations team. It will also involve key stakeholder relationship management and enabling our PEO's.

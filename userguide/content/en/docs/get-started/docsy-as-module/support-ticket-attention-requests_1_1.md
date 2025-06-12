@@ -1,6 +1,13 @@
 ---
 title: GitLab Support - Support Ticket Attention Requests (STAR)
-description: Process documentation for getting additional attention on a ticket from Support leadership.
+description: Process documentation for getting additional attention on a ticket from
+  Support leadership.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-ticket-attention-requests_1_1/
+linkTitle: GitLab Support - Support Ticket Attention Requests (STAR)
+type: docs
 ---
 
 ## Overview

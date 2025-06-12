@@ -1,8 +1,7 @@
-module github.com/google/docsy
+module github.com/greenorbitspace/handbook
 
-go 1.12
+go 1.18
 
-// AUTO-GENERATED using `npm run get:hugo-modules`
 
 require (
 	github.com/FortAwesome/Font-Awesome v0.0.0-20241216213156-af620534bfc3 // indirect

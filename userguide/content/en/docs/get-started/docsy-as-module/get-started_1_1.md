@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Get Started 1 1
+aliases:
+- /docs/get-started_1_1/
+description: ''
+linkTitle: Get Started 1 1
+type: docs
+---
+
 ## Get Started
 
 ### Installation

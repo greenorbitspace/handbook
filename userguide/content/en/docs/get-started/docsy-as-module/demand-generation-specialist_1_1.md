@@ -1,6 +1,13 @@
 ---
-title: "Demand Generation Specialist"
-summary: " "
+title: Demand Generation Specialist
+summary: ' '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/demand-generation-specialist_1_1/
+description: ''
+linkTitle: Demand Generation Specialist
+type: docs
 ---
 
 ## Responsibilities

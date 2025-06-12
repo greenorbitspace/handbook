@@ -1,6 +1,12 @@
 ---
-title: "International Accounting"
-description: " _add high level description of job family_ "
+title: International Accounting
+description: ' _add high level description of job family_ '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/international-accounting_1_1/
+linkTitle: International Accounting
+type: docs
 ---
 
 ### Manager, Accounting, Global Consolidation & Reporting

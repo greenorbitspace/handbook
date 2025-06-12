@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Stage Review 1 1
+aliases:
+- /docs/stage-review_1_1/
+description: ''
+linkTitle: Stage Review 1 1
+type: docs
+---
+
 The Engineering Stage Review is a monthly Engineering Manager meeting designed to evaluate team productivity, technical progress, and key metrics across the stage groups. In this meeting, we assess team productivity metrics and trends at a stage-wide level, review technical roadmap progress and align initiatives across teams, identify areas for improvement and discuss action plans, and connect related technical work across different teams.
 
 **Format:**

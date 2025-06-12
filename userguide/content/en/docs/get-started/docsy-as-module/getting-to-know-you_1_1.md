@@ -1,7 +1,13 @@
 ---
-
 title: Getting To Know Your Team Members
-description: "Guideline on becoming not just a good manager, but the right manager for each individual member of your Support Engineering team"
+description: Guideline on becoming not just a good manager, but the right manager
+  for each individual member of your Support Engineering team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/getting-to-know-you_1_1/
+linkTitle: Getting To Know Your Team Members
+type: docs
 ---
 
 ## Introduction

@@ -1,7 +1,13 @@
 ---
 title: People Operations Program Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/people-operations-program-manager_1_1/
+description: ''
+linkTitle: People Operations Program Manager
+type: docs
 ---
-
 
 ## Levels
 

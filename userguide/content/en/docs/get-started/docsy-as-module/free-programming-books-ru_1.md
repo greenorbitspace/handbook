@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Books Ru 1
+aliases:
+- /docs/free-programming-books-ru_1/
+description: ''
+linkTitle: Free Programming Books Ru 1
+type: docs
+---
+
 ### Index
 
 * [0 - Language Agnostic](#0---language-agnostic)

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Service Management Policy 1 1
+aliases:
+- /docs/service-management-policy_1_1/
+description: ''
+linkTitle: Service Management Policy 1 1
+type: docs
+---
+
 # 1. Purpose and Scope
 
 This policy establishes the framework for service management at Green Orbit Digital to ensure consistent, efficient, and high-quality delivery of IT services in accordance with ISO/IEC 20000-1 requirements.

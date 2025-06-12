@@ -1,15 +1,13 @@
 ---
-
-title: "OSS Contributions"
+title: OSS Contributions
 aliases:
 - /handbook/marketing/developer-relations/developer-evangelism/oss-contributions/index.html
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: OSS Contributions
+type: docs
 ---
-
-
-
-
-
-
 
 ## Contributions to OSS
 

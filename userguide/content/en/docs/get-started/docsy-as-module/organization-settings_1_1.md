@@ -3,6 +3,13 @@ stage: enablement
 group: Tenant Scale
 title: 'Organization: Settings'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/organization-settings_1_1/
+description: ''
+linkTitle: 'Organization: Settings'
+type: docs
 ---
 
 The end goal for most existing Admin Area settings is to migrate them to Organizations, with a few exceptions in which we might want to make a setting available at both the instance and Organization level.

@@ -1,7 +1,15 @@
 ---
-
-title: "Field Functional Competencies"
-description: "GitLab field functional competencies define the critical skills, behaviors, and attitudes that GitLab field team members must demonstrate to successfully deliver desired outcomes. They provide a common language and consistent expectations for what good looks like for the GitLab field organization."
+title: Field Functional Competencies
+description: GitLab field functional competencies define the critical skills, behaviors,
+  and attitudes that GitLab field team members must demonstrate to successfully deliver
+  desired outcomes. They provide a common language and consistent expectations for
+  what good looks like for the GitLab field organization.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/field-functional-competencies_1_1/
+linkTitle: Field Functional Competencies
+type: docs
 ---
 
 ## Field Functional Competencies

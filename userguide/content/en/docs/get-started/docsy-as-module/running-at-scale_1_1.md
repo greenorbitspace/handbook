@@ -1,3 +1,13 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Running At Scale 1 1
+aliases:
+- /docs/running-at-scale_1_1/
+description: ''
+linkTitle: Running At Scale 1 1
+type: docs
+---
 
 # Running Lighthouse at Scale
 

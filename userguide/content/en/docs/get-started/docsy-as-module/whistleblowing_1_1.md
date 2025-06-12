@@ -1,6 +1,12 @@
 ---
-title: "Whistleblowing at GitLab"
-description: "GitLab's Whistleblowing Handbook page, with links to whistleblowing policies."
+title: Whistleblowing at GitLab
+description: GitLab's Whistleblowing Handbook page, with links to whistleblowing policies.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/whistleblowing_1_1/
+linkTitle: Whistleblowing at GitLab
+type: docs
 ---
 
 {{% alert title="This is a Controlled Handbook Page" color="danger" %}}

@@ -1,5 +1,12 @@
 ---
-title: "Workspaces ADR 013: Create workspaces from private container images"
+title: 'Workspaces ADR 013: Create workspaces from private container images'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/013_create_workspace_from_private_container_1_1/
+description: ''
+linkTitle: 'Workspaces ADR 013: Create workspaces from private container images'
+type: docs
 ---
 
 ## Context

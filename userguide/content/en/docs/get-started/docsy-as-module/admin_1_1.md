@@ -1,18 +1,17 @@
 ---
-
-title: "Social Media Project Management and Admin"
+title: Social Media Project Management and Admin
 description: Workflows, Templates, and more for GitLab Team Members
-twitter_image: "/images/opengraph/handbook/social-marketing/social-handbook-admin-pm.png"
-twitter_image_alt: "GitLab's Social Media Handbook branded image"
-twitter_site: "gitlab"
-twitter_creator: "gitlab"
+twitter_image: /images/opengraph/handbook/social-marketing/social-handbook-admin-pm.png
+twitter_image_alt: GitLab's Social Media Handbook branded image
+twitter_site: gitlab
+twitter_creator: gitlab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/admin_1_1/
+linkTitle: Social Media Project Management and Admin
+type: docs
 ---
-
-
-
-
-
-
 
 ℹ️ This page is the single source of truth for all administrative tasks, templates, and project management needs focused on GitLab brand social channels. If your question is "how?", the answer will be here.
 {:.alert .alert-info .text-justify}

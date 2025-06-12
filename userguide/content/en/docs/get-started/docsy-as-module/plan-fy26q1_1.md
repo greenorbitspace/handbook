@@ -1,5 +1,12 @@
 ---
-title: "Co-Create Action Plan - FY26Q1"
+title: Co-Create Action Plan - FY26Q1
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/plan-fy26q1_1/
+description: ''
+linkTitle: Co-Create Action Plan - FY26Q1
+type: docs
 ---
 
 ## Overview

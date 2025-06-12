@@ -1,6 +1,14 @@
 ---
-title: "GitLab Subscription Agreement V5"
+title: GitLab Subscription Agreement V5
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/legacy-subscription-agreement-v5_1748146058046049377_1_1/
+description: ''
+linkTitle: GitLab Subscription Agreement V5
+type: docs
 ---
+
 <!-- vale off -->
 *Deprecated 2024-08-29*
 

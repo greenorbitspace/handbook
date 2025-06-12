@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Tags 1
+aliases:
+- /docs/tags_1/
+description: ''
+linkTitle: Tags 1
+type: docs
+---
+
 +++
 # Tag Cloud widget.
 widget = "tag_cloud"  # See https://sourcethemes.com/academic/docs/page-builder/

@@ -1,13 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/data_stores/database/doc/gitlab-com-database.html
+aliases:
+- /docs/gitlab-com-database_1_1/
 title: Working with the GitLab.com database for developers
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Working with the GitLab.com database for developers
+type: docs
 ---
-
-
-
-
-
-
 
 ## A developer's guide to working with the GitLab.com database
 

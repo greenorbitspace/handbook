@@ -1,11 +1,16 @@
 ---
-
 title: Handling Internal Requests
-description: "Various templates and workflows that should be followed in order to properly handle GitLab.com related requests that Support receives in the internal requests issue tracker"
+description: Various templates and workflows that should be followed in order to properly
+  handle GitLab.com related requests that Support receives in the internal requests
+  issue tracker
 category: GitLab.com
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/internal_requests_1_1/
+linkTitle: Handling Internal Requests
+type: docs
 ---
-
-
 
 **NOTE:** If you are a GitLab team member who wants to file an internal request, please see the [Support Internal Requests handbook page](/handbook/support/internal-support/).
 

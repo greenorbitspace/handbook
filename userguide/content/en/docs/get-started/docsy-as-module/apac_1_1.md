@@ -1,7 +1,12 @@
 ---
-
 title: Support Team APAC
 description: Support Team APAC home page
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/apac_1_1/
+linkTitle: Support Team APAC
+type: docs
 ---
 
 ## Welcome to Support Team APAC's Handbook page

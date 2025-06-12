@@ -1,5 +1,12 @@
 ---
 title: Package Stage - The most important use cases for our customers
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/jtbd_5_1_1/
+description: ''
+linkTitle: Package Stage - The most important use cases for our customers
+type: docs
 ---
 
 ## Overview

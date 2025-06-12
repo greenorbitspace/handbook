@@ -2,6 +2,13 @@
 layout: page
 title: Icons
 permalink: icons/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/icons_1_1/
+description: ''
+linkTitle: Icons
+type: docs
 ---
 
 ## Goal icons

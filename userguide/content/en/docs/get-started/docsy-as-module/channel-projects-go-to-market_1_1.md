@@ -1,5 +1,12 @@
 ---
-title: "Channel - Go to Market"
+title: Channel - Go to Market
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/channel-projects-go-to-market_1_1/
+description: ''
+linkTitle: Channel - Go to Market
+type: docs
 ---
 
 ## Levels

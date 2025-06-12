@@ -1,8 +1,14 @@
 ---
-title: "E-Group Weekly"
-description: "For executives to connect on a weekly basis in order to get timely input from E-Group, align on key initiatives, inform about key business happenings and celebrate company successes."
+title: E-Group Weekly
+description: For executives to connect on a weekly basis in order to get timely input
+  from E-Group, align on key initiatives, inform about key business happenings and
+  celebrate company successes.
 aliases:
 - /handbook/e-group-weekly/
+weight: 2
+date: '2025-06-12'
+linkTitle: E-Group Weekly
+type: docs
 ---
 
 ## Purpose

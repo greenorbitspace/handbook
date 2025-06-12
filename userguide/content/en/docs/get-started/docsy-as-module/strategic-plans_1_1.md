@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Strategic Plans 1 1
+aliases:
+- /docs/strategic-plans_1_1/
+description: ''
+linkTitle: Strategic Plans 1 1
+type: docs
+---
+
 # Strategic Plans
 
 ## 1. Executive Summary

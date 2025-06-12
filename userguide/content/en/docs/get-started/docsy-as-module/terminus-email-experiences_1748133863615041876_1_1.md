@@ -1,6 +1,13 @@
 ---
-title: "Terminus Email Experiences"
-description: "Terminus Email Experiences is a marketing tool used as an advertising channel inside the inbox."
+title: Terminus Email Experiences
+description: Terminus Email Experiences is a marketing tool used as an advertising
+  channel inside the inbox.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/terminus-email-experiences_1748133863615041876_1_1/
+linkTitle: Terminus Email Experiences
+type: docs
 ---
 
 ## Uses

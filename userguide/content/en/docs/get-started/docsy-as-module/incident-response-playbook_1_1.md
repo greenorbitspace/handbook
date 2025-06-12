@@ -1,9 +1,13 @@
 ---
-
-title: "Incident Response Matrix"
-description: "A guide for incidents that may occur on the Marketing site"
+title: Incident Response Matrix
+description: A guide for incidents that may occur on the Marketing site
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/incident-response-playbook_1_1/
+linkTitle: Incident Response Matrix
+type: docs
 ---
-
 
 ## Overview
 

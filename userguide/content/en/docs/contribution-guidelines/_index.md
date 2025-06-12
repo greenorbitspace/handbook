@@ -2,6 +2,11 @@
 title: Contribution Guidelines
 weight: 9
 description: How to contribute to Docsy
+type: docs
+date: '2025-06-12T01:05:53+01:00'
+linkTitle: Contribution Guidelines
+aliases:
+- /docs/_index/
 ---
 
 Docsy is an open source project and we love getting patches and contributions to make Docsy and its docs even better.

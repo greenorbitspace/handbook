@@ -1,6 +1,13 @@
 ---
-title: "Quality Department SET Career Framework: Senior"
-description: "These are the expected competencies of a Senior Software Engineer in Test (SET) at GitLab."
+title: 'Quality Department SET Career Framework: Senior'
+description: These are the expected competencies of a Senior Software Engineer in
+  Test (SET) at GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior_2_1_1/
+linkTitle: 'Quality Department SET Career Framework: Senior'
+type: docs
 ---
 
 ## Quality Department Competencies: Senior

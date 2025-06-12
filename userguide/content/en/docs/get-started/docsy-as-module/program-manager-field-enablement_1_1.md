@@ -1,6 +1,14 @@
 ---
 title: Program Manager, Field Enablement
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/program-manager-field-enablement_1_1/
+description: ''
+linkTitle: Program Manager, Field Enablement
+type: docs
 ---
+
 The Program Manager, Field Enablement job family is responsible for aligning, building, measuring and managing world-class global sales content, training, and enablement programs.
 
 ## Levels

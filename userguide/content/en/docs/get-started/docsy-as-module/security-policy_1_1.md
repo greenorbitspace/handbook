@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Security Policy 1 1
+aliases:
+- /docs/security-policy_1_1/
+description: ''
+linkTitle: Security Policy 1 1
+type: docs
+---
+
 # SECURITY POLICY
 
 <!-- Unsupported block type: table -->

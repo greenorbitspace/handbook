@@ -1,17 +1,17 @@
 ---
-
-title: "GitLab.tv All-Remote Channel Playbook"
+title: GitLab.tv All-Remote Channel Playbook
 description: All Remote Channel Playbook
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/all-remote-channel-playbook_1_1/
+linkTitle: GitLab.tv All-Remote Channel Playbook
+type: docs
 ---
-
-
-
-
-
 
 ## Introduction
 

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 1 Xmlsitemap 1 1
+aliases:
+- /docs/1-XMLSiteMap_1_1/
+description: ''
+linkTitle: 1 Xmlsitemap 1 1
+type: docs
+---
+
 ### sitemap creation
 The XML sitemap format is the most versatile of the supported formats.
 

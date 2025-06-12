@@ -2,6 +2,12 @@
 title: How to write workflows
 category: References
 description: Guidelines, rationale, and resources on writing good workflow pages.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/writing_workflows_1_1/
+linkTitle: How to write workflows
+type: docs
 ---
 
 ## Overview

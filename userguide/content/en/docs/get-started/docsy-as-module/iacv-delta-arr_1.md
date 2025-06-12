@@ -1,6 +1,13 @@
 ---
-title: "IACV and Delta ARR"
-description: "The business goal of GitLab IACV and Delta ARR is to change GitLab's leading metric, IACV, to Delta ARR. View more information here!"
+title: IACV and Delta ARR
+description: The business goal of GitLab IACV and Delta ARR is to change GitLab's
+  leading metric, IACV, to Delta ARR. View more information here!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/iacv-delta-arr_1/
+linkTitle: IACV and Delta ARR
+type: docs
 ---
 
 ## Attributes

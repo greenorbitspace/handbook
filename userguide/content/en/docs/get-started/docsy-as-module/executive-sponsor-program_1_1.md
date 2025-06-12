@@ -1,8 +1,17 @@
 ---
-
-title: "Executive Sponsorship Program"
-description: "The Executive Sponsorship Program aims to grow our relationships with senior-level buyers and champions at our top customers, expand engagement to promote enterprise-wide platform adoption, and take a customer-centric approach to solving our customers' most challenging business problems."
+title: Executive Sponsorship Program
+description: The Executive Sponsorship Program aims to grow our relationships with
+  senior-level buyers and champions at our top customers, expand engagement to promote
+  enterprise-wide platform adoption, and take a customer-centric approach to solving
+  our customers' most challenging business problems.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/executive-sponsor-program_1_1/
+linkTitle: Executive Sponsorship Program
+type: docs
 ---
+
 The Executive Sponsorship Program aims to grow our relationships with senior-level buyers and champions at our top customers, expand engagement to promote enterprise-wide platform adoption, and take a customer-centric approach to solving our customers' most challenging business problems
 
 ## Executive Sponsorship Program Vision & Goals

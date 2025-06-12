@@ -1,10 +1,16 @@
 ---
 name: 'Bug report: Jupyter widget'
 about: Report Bug for keplergl Jupyter widget
-title: "[Bug][Jupyter Widget]"
+title: '[Bug][Jupyter Widget]'
 labels: jupyter
 assignees: heshan0131
-
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bug-report--jupyter-widget_1_1/
+description: ''
+linkTitle: '[Bug][Jupyter Widget]'
+type: docs
 ---
 
 **Describe the bug**

@@ -1,6 +1,13 @@
 ---
-title: "GitLab Administration Working Group"
-description: "Learn more about the GitLab Administration Working Group attributes, goals, roles and responsibilities."
+title: GitLab Administration Working Group
+description: Learn more about the GitLab Administration Working Group attributes,
+  goals, roles and responsibilities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/administration_1_2/
+linkTitle: GitLab Administration Working Group
+type: docs
 ---
 
 ## Attributes

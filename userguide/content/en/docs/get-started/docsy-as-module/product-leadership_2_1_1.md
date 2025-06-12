@@ -1,5 +1,12 @@
 ---
 title: Product Leadership
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-leadership_2_1_1/
+description: ''
+linkTitle: Product Leadership
+type: docs
 ---
 
 {{% include "includes/product-handbook-links.md" %}}

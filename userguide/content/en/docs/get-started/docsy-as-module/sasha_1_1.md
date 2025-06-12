@@ -1,13 +1,13 @@
 ---
-
-title: "Sacha Persona snippets"
+title: Sacha Persona snippets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sasha_1_1/
+description: ''
+linkTitle: Sacha Persona snippets
+type: docs
 ---
-
-
-
-
-
-
 
 ## SDR persona snippets by use case
 

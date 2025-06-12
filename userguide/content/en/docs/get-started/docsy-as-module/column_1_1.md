@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Column 1 1
+aliases:
+- /docs/column_1_1/
+description: ''
+linkTitle: Column 1 1
+type: docs
+---
+
 **Column** is the base class for data columns (sometimes also called data series) in Datawrapper. A column has a *column type* and stores a list of values as *rows*. Also they support common computations such as calculating the sum and the range of the data it holds.
 
 ```js

@@ -1,7 +1,14 @@
 ---
-title: "GitLab Purpose"
-description: "GitLab empowers everyone through knowledge sharing, job access, and our software platform."
-canonical_path: "/company/purpose/"
+title: GitLab Purpose
+description: GitLab empowers everyone through knowledge sharing, job access, and our
+  software platform.
+canonical_path: /company/purpose/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/purpose_1_1_1/
+linkTitle: GitLab Purpose
+type: docs
 ---
 
 ## Purpose

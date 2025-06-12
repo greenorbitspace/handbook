@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Brand And Product Marketing 1 1
+aliases:
+- /docs/brand-and-product-marketing_1_1/
+description: ''
+linkTitle: Brand And Product Marketing 1 1
+type: docs
+---
+
 GitLab Brand and Product Marketing Handbook
 
 ## Welcome to the GitLab Brand and Product Marketing Handbook

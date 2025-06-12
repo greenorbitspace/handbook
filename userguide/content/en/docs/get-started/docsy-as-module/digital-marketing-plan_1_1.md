@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Digital Marketing Plan 1 1
+aliases:
+- /docs/digital-marketing-plan_1_1/
+description: ''
+linkTitle: Digital Marketing Plan 1 1
+type: docs
+---
+
 <!-- Unsupported block type: table -->
 
 <!-- Unsupported block type: table -->

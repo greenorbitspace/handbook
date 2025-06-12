@@ -1,6 +1,16 @@
 ---
-title: "Go-to-Market (GTM) Enablement motion"
-description: "The GTM Enablement function is designed to ensure that new products, SKUs, and offers are supported effectively and efficiently as they launch to field teams and ultimately go to market. This framework outlines the processes and standards necessary for successful GTM enablement launches, aligning and integrating closely with both the New Product Introduction (NPI) process and the Field Enablement team."
+title: Go-to-Market (GTM) Enablement motion
+description: The GTM Enablement function is designed to ensure that new products,
+  SKUs, and offers are supported effectively and efficiently as they launch to field
+  teams and ultimately go to market. This framework outlines the processes and standards
+  necessary for successful GTM enablement launches, aligning and integrating closely
+  with both the New Product Introduction (NPI) process and the Field Enablement team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gtm-enablement_1_1/
+linkTitle: Go-to-Market (GTM) Enablement motion
+type: docs
 ---
 
 This page defines the GTM Enablement motion and how it aligns to current processes here at GitLab. The GTM Enablement function is designed to ensure that new products, SKUs, and offers are supported effectively and efficiently as they launch to field teams and ultimately go to market. This framework outlines the processes and standards necessary for successful GTM enablement launches, aligning and integrating closely with both the New Product Introduction (NPI) process and the Field Enablement team.

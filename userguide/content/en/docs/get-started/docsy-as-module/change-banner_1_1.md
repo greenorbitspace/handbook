@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Change Banner 1 1
+aliases:
+- /docs/change-banner_1_1/
+description: ''
+linkTitle: Change Banner 1 1
+type: docs
+---
+
 <h1>Tutorial: Changing the site-wide banner</h1>
 
 This tutorial will describe how to change the banner that appears at the top of each page on your Open SDG implementation. This is intended to be a continuation of the [quick start](../quick-start.md) tutorial. We will take an example of adding a banner required by all United States federal websites.

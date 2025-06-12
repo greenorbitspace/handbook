@@ -1,14 +1,14 @@
 ---
-
-title: "Marin Jankovski's README"
-job: "Director of Platform Infrastructure"
+title: Marin Jankovski's README
+job: Director of Platform Infrastructure
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/marin-jankovski_1_1/
+description: ''
+linkTitle: Marin Jankovski's README
+type: docs
 ---
-
-
-
-
-
-
 
 ## Purpose
 

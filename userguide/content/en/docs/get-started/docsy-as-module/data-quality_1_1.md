@@ -1,14 +1,13 @@
 ---
-
-title: "Data Quality"
-description: "MVC for a Data Quality Program at GitLab"
+title: Data Quality
+description: MVC for a Data Quality Program at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/data-quality_1_1/
+linkTitle: Data Quality
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

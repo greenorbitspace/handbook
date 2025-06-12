@@ -1,12 +1,15 @@
 ---
-
 title: Use of Admin Notes
 category: GitLab.com
 subcategory: Accounts
-description: "Workflow for when and how to add admin notes to a GitLab.com account"
+description: Workflow for when and how to add admin notes to a GitLab.com account
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/admin_note_1_1/
+linkTitle: Use of Admin Notes
+type: docs
 ---
-
-
 
 ### Overview
 

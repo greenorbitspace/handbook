@@ -1,7 +1,13 @@
 ---
 title: Support Super Form Processor
 description: Operations documentation page for the Support Super Form Processor
-canonical_path: "/handbook/security/customer-support-operations/docs/gitlab/support-super-form-processor"
+canonical_path: /handbook/security/customer-support-operations/docs/gitlab/support-super-form-processor
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-super-form-processor_1748142274201159734_1_1/
+linkTitle: Support Super Form Processor
+type: docs
 ---
 
 <sup>*Introduced via [support-team-meta#5654](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5654)*</sup>

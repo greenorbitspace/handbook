@@ -1,6 +1,12 @@
 ---
 title: Upgrade Support Pod
 description: Support Pod for focus on all the aspects of Upgrading GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_78_1_1/
+linkTitle: Upgrade Support Pod
+type: docs
 ---
 
 ## Purpose

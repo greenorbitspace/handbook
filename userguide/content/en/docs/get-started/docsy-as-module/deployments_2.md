@@ -1,12 +1,21 @@
 ---
-title: "Application Deployment with a Cellular Architecture"
-owning-stage: "~devops::platforms"
+title: Application Deployment with a Cellular Architecture
+owning-stage: ~devops::platforms
 group: Delivery
-creation-date: "2024-01-09"
-authors: ["@nolith", "@skarbek"]
-coach:
+creation-date: '2024-01-09'
+authors:
+- '@nolith'
+- '@skarbek'
+coach: null
 approvers: []
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/deployments_2/
+description: ''
+linkTitle: Application Deployment with a Cellular Architecture
+type: docs
 ---
 
 {{< design-document-header >}}

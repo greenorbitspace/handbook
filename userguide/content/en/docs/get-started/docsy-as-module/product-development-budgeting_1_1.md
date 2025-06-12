@@ -2,6 +2,11 @@
 title: Product Development Budgeting Process
 aliases:
 - /handbook/product-development-budgeting/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Product Development Budgeting Process
+type: docs
 ---
 
 ## Pre-planning for potential new investments

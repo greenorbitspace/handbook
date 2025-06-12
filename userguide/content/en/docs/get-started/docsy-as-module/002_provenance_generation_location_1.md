@@ -1,7 +1,13 @@
 ---
 layout: handbook-page-toc
-title: "ADR 002: Generate SLSA Provenance in GitLab Rails backend"
-description: "Architecture Decision Record for where to generate SLSA provenance statements"
+title: 'ADR 002: Generate SLSA Provenance in GitLab Rails backend'
+description: Architecture Decision Record for where to generate SLSA provenance statements
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/002_provenance_generation_location_1/
+linkTitle: 'ADR 002: Generate SLSA Provenance in GitLab Rails backend'
+type: docs
 ---
 
 ## Context

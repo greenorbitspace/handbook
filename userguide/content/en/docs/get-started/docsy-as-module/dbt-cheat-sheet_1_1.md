@@ -1,6 +1,12 @@
 ---
-title: "dbt Cheat Sheet"
-description: "data build tool (dbt) Cheat Sheet for Functional Analysts"
+title: dbt Cheat Sheet
+description: data build tool (dbt) Cheat Sheet for Functional Analysts
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dbt-cheat-sheet_1_1/
+linkTitle: dbt Cheat Sheet
+type: docs
 ---
 
 ## Objective of this page

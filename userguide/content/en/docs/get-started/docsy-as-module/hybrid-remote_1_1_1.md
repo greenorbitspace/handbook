@@ -1,10 +1,18 @@
 ---
-title: "Hybrid-Remote: understanding nuances and pitfalls"
-description: "This complete guide to remote-hybrid work teaches you all you need to know in order to establish a successful strategy for you and your company! Learn more here!"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+title: 'Hybrid-Remote: understanding nuances and pitfalls'
+description: This complete guide to remote-hybrid work teaches you all you need to
+  know in order to establish a successful strategy for you and your company! Learn
+  more here!
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/hybrid-remote_1_1_1/
+linkTitle: 'Hybrid-Remote: understanding nuances and pitfalls'
+type: docs
 ---
 
 On this page, we're detailing the primary differences between all-remote and other forms of remote working.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: List Follows 1 1
+aliases:
+- /docs/list-follows_1_1/
+description: ''
+linkTitle: List Follows 1 1
+type: docs
+---
+
 ## List follows lookup
 
 List follows lookup group has two available endpoints. You are able to retrieve details on followers of a specified List and get data on which Lists a user follows. These endpoints can be used to enable people to curate and organize Tweets based on what type of Lists other users are following.

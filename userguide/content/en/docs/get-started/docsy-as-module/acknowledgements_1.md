@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Acknowledgements 1
+aliases:
+- /docs/acknowledgements_1/
+description: ''
+linkTitle: Acknowledgements 1
+type: docs
+---
+
 # SimpleCrypt by Andre Somers
 
 Cryptographic methods for Qt.

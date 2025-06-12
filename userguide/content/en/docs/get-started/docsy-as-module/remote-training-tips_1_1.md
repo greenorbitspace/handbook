@@ -1,14 +1,14 @@
 ---
-
-title: "Remote Training Facilitation Best Practices"
-description: "Find some tips and lessons learned for delivering a successful GitLab remote training ."
+title: Remote Training Facilitation Best Practices
+description: Find some tips and lessons learned for delivering a successful GitLab
+  remote training .
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/remote-training-tips_1_1/
+linkTitle: Remote Training Facilitation Best Practices
+type: docs
 ---
-
-
-
-
-
-
 
 Making the transition from onsite trainer to remote trainer can be a challenge — there's a lot more you need to do to keep people engaged when the distractions of email, slack, browsing, and environment are outside of our direct control. Here are some tips and tricks developed by the GitLab Professional Services team, for presenters facilitating remote training sessions using video conferencing and webinar tools.
 

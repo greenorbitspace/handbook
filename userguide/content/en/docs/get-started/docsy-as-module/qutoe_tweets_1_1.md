@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Qutoe Tweets 1 1
+aliases:
+- /docs/qutoe_tweets_1_1/
+description: ''
+linkTitle: Qutoe Tweets 1 1
+type: docs
+---
+
 The Quote Tweets lookup endpoint gives the Quote Tweets for a given Tweet ID.  This allows developers that build apps and clients to get the Quote Tweets for a Tweet quickly and efficiently. It also makes it easy for researchers to study the full conversation around a Tweet including all its Quote Tweets.
 
 Tweets are delivered in reverse-chronological order, starting with the most recent. Results are paginated up to 100 Tweets per page (10 Tweets by default). Pagination tokens are provided for paging through large sets of Tweets.

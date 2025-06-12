@@ -1,6 +1,12 @@
 ---
-title: "Continuous Scanning Working Group"
-description: "Implement continuous scanning for GitLab projects"
+title: Continuous Scanning Working Group
+description: Implement continuous scanning for GitLab projects
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/continuous-scanning_1_1/
+linkTitle: Continuous Scanning Working Group
+type: docs
 ---
 
 ## Attributes

@@ -1,9 +1,13 @@
 ---
-title: "Billing & Pricing"
-date: 2022-12-28T11:02:05+06:00
-icon: "ti-credit-card"
-description: "Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet"
-type : "docs"
+title: Billing & Pricing
+date: '2025-06-12T01:05:54+01:00'
+icon: ti-credit-card
+description: Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet
+type: docs
+weight: 2
+aliases:
+- /docs/_index.en_1/
+linkTitle: Billing & Pricing
 ---
 
 Many businesses employ full-time pricing analysts or hire an analyst as a consultant for a particular project or concern.

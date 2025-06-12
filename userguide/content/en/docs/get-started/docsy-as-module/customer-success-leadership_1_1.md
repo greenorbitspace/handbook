@@ -1,6 +1,13 @@
 ---
-title: "Customer Success Leadership"
-description: "The Customer Success Leadership roles are Director and above roles in the customer success organization."
+title: Customer Success Leadership
+description: The Customer Success Leadership roles are Director and above roles in
+  the customer success organization.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-success-leadership_1_1/
+linkTitle: Customer Success Leadership
+type: docs
 ---
 
 The Customer Success Leadership team is responsible for leading a cross-cuntional team of customer success team members with an emphasis on the themes of align, enable, and expand.

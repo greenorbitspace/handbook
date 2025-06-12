@@ -1,6 +1,12 @@
 ---
-title: "Global Expansion"
-description: "Global Expansion"
+title: Global Expansion
+description: Global Expansion
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/global-expansion_1/
+linkTitle: Global Expansion
+type: docs
 ---
 
 ## Austria

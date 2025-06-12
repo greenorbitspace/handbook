@@ -1,7 +1,13 @@
 ---
 title: Mirroring
 description: Operations workflow page for the GitLab mirroring setup
-canonical_path: "/handbook/security/customer-support-operations/workflows/gitlab/mirroring"
+canonical_path: /handbook/security/customer-support-operations/workflows/gitlab/mirroring
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mirroring_1/
+linkTitle: Mirroring
+type: docs
 ---
 
 ## Process

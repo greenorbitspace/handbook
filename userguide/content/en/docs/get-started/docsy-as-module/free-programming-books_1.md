@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Books 1
+aliases:
+- /docs/free-programming-books_1/
+description: ''
+linkTitle: Free Programming Books 1
+type: docs
+---
+
 ### Index
 
 * [Ada](#ada)

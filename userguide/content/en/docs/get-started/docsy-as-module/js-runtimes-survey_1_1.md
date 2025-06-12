@@ -1,7 +1,12 @@
 ---
-aliases: /handbook/engineering/development/incubation/jamstack/js-runtimes-survey.html
-
+aliases:
+- /docs/js-runtimes-survey_1_1/
 title: Jamstack - User Survey
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Jamstack - User Survey
+type: docs
 ---
 
 ## Jamstack user survey

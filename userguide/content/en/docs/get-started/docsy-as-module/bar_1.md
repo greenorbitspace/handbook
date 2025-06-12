@@ -1,6 +1,13 @@
 ---
 id: bar
 title: Bar
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bar_1/
+description: ''
+linkTitle: Bar
+type: docs
 ---
 
 # Remarkable

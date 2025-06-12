@@ -1,13 +1,13 @@
 ---
-
 title: Fast Boot
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/fast-boot_1_1/
+description: ''
+linkTitle: Fast Boot
+type: docs
 ---
-
-
-
-
-
-
 
 A Fast Boot is an event that gathers the members of a team or group in one
 physical location to work together and bond in order to accelerate the

@@ -1,6 +1,12 @@
 ---
-title: "Recruitment methods"
-description: "Learn about how UX Research Operations Coordinators recruit"
+title: Recruitment methods
+description: Learn about how UX Research Operations Coordinators recruit
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/recruitment-methods_1_1/
+linkTitle: Recruitment methods
+type: docs
 ---
 
 UX research operations coordinators have several resources to recruit from. Learn more about each source and anticipated timelines.

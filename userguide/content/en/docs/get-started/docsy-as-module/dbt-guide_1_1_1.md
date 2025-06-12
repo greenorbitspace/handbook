@@ -1,7 +1,13 @@
 ---
-title: "dbt Guide"
-description: "data build tool (dbt) Guide"
+title: dbt Guide
+description: data build tool (dbt) Guide
 math: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dbt-guide_1_1_1/
+linkTitle: dbt Guide
+type: docs
 ---
 
 ## Quick Links

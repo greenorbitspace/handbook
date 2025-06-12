@@ -1,6 +1,15 @@
 ---
-title: "Remote Design Sprint"
-description: "The purpose of a Remote Design Sprint is to create a shared understanding and a solution to a problem following a specific process over a set timeframe. Remote Design Sprint process is based on [Google's Design Sprint methodology](https://designsprintkit.withgoogle.com/methodology/overview), and adjusted using [AJ&Smart's Remote Design Sprint 2.0](https://drive.google.com/file/d/16bwrAqHVf8qxovd87Q7LdzqwAgy7a6Rx/view)."
+title: Remote Design Sprint
+description: The purpose of a Remote Design Sprint is to create a shared understanding
+  and a solution to a problem following a specific process over a set timeframe. Remote
+  Design Sprint process is based on [Google's Design Sprint methodology](https://designsprintkit.withgoogle.com/methodology/overview),
+  and adjusted using [AJ&Smart's Remote Design Sprint 2.0](https://drive.google.com/file/d/16bwrAqHVf8qxovd87Q7LdzqwAgy7a6Rx/view).
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/design-sprint_1_1/
+linkTitle: Remote Design Sprint
+type: docs
 ---
 
 ### Purpose

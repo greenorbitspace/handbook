@@ -1,5 +1,12 @@
 ---
-title: "Transparency by Default"
+title: Transparency by Default
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/transparency-by-default_1_1/
+description: ''
+linkTitle: Transparency by Default
+type: docs
 ---
 
 ## Purpose

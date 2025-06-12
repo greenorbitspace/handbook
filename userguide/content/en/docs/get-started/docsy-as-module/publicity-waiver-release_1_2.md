@@ -1,6 +1,12 @@
 ---
-title: "Publicity Waiver and Release Guidelines and Process"
-description: "Guidelines and process for use of Publicity Waiver and Release agreements"
+title: Publicity Waiver and Release Guidelines and Process
+description: Guidelines and process for use of Publicity Waiver and Release agreements
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/publicity-waiver-release_1_2/
+linkTitle: Publicity Waiver and Release Guidelines and Process
+type: docs
 ---
 
 ## Is a Publicity Waiver and Release agreement required?

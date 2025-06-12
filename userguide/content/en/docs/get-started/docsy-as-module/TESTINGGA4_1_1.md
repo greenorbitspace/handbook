@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Testingga4 1 1
+aliases:
+- /docs/TESTINGGA4_1_1/
+description: ''
+linkTitle: Testingga4 1 1
+type: docs
+---
+
 ## Testing
 
 This document outlines how to run the automated tests for the Google Analytics Importer plugin- GA4.

@@ -1,10 +1,16 @@
 ---
-title: "How values contribute to an all-remote environment"
+title: How values contribute to an all-remote environment
 description: How values contribute to an all-remote environment
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/remote-values_2_1/
+linkTitle: How values contribute to an all-remote environment
+type: docs
 ---
 
 ![GitLab values](/images/all-remote/gitlab-values-tanukis.jpg)

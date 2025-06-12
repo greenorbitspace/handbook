@@ -1,13 +1,13 @@
 ---
-
-title: "Market Segmentation"
+title: Market Segmentation
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/market-segmentation_1_1/
+description: ''
+linkTitle: Market Segmentation
+type: docs
 ---
-
-
-
-
-
-
 
 ## Industry verticals
 

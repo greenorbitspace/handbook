@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Redirecthandler 1 1
+aliases:
+- /docs/RedirectHandler_1_1/
+description: ''
+linkTitle: Redirecthandler 1 1
+type: docs
+---
+
 # Class: RedirectHandler
 
 A class that handles redirection logic for HTTP requests.

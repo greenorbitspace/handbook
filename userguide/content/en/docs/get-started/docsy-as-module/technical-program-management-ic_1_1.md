@@ -1,6 +1,12 @@
 ---
-title: "Infrastructure Technical Program Management Individual Contributors"
-description: "Driving infrastructure strategy and initiatives across Engineering"
+title: Infrastructure Technical Program Management Individual Contributors
+description: Driving infrastructure strategy and initiatives across Engineering
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/technical-program-management-ic_1_1/
+linkTitle: Infrastructure Technical Program Management Individual Contributors
+type: docs
 ---
 
 Infrastructure Technical Program Manager (ITPM) is responsible for the planning, execution, and delivery of complex infrastructure projects across Engineering and Product. ITPMs work with a variety of stakeholders, including engineers, architects, and business leaders, to ensure that projects are completed on time and within budget, and to the required quality standards. This includes the tracking, monitoring and influencing priority of significant infrastructure objectives, goals and plans from all Infrastructure sub-departments.

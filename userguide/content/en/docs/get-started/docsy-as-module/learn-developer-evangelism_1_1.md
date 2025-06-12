@@ -1,16 +1,13 @@
 ---
-
-title: "Learn Developer Advocacy"
+title: Learn Developer Advocacy
 aliases:
 - /handbook/marketing/developer-relations/developer-evangelism/learn-developer-evangelism/index.html
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Learn Developer Advocacy
+type: docs
 ---
-
-
-
-
-
-
-
 
 ## What is advocacy?
 

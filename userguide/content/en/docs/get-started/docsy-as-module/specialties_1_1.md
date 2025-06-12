@@ -1,5 +1,12 @@
 ---
 title: Product Management Specialty Assignments
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/specialties_1_1/
+description: ''
+linkTitle: Product Management Specialty Assignments
+type: docs
 ---
 
 {{< team-by-department-with-speciality "Product Management" >}}

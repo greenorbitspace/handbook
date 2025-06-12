@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Web Strategy 1 1
+aliases:
+- /docs/web-strategy_1_1/
+description: ''
+linkTitle: Web Strategy 1 1
+type: docs
+---
+
 # Website Strategy
 
 ## Objectives

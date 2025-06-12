@@ -1,10 +1,16 @@
 ---
-title: "The phases of remote adaptation"
+title: The phases of remote adaptation
 description: The phases of remote adaptation
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/phases-of-remote-adaptation_1_1_1/
+linkTitle: The phases of remote adaptation
+type: docs
 ---
 
 As teams grapple with [transitioning](transition/) from a colocated environment to a remote one, it's common to see differing levels of [adaptability](remote-work-emergency-plan/). For some, the transition is fairly smooth, as a [remote-first infrastructure](how-to-work-remote-first/) was already established. For others, the shift is thoroughly disruptive.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Financial Control Policy 1 1
+aliases:
+- /docs/financial-control-policy_1_1/
+description: ''
+linkTitle: Financial Control Policy 1 1
+type: docs
+---
+
 # Financial Controls Policy
 
 ## 1. Purpose and Scope

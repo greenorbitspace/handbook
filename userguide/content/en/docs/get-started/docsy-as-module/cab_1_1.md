@@ -1,7 +1,14 @@
 ---
-aliases: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/CAB
-title: "Customer Advisory Boards"
+aliases:
+- /docs/cab_1_1/
+title: Customer Advisory Boards
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Customer Advisory Boards
+type: docs
 ---
+
 ### GitLab Customer Advisory Boards
 
 **Purpose:** To help foster DevOps transformation and adoption we are establishing a Customer Advisory Board, where we focus on sharing DevOps best practices and lessons learned with each other. We believe that transparency and sharing  is a key way to help encourage the success of DevOps transformations.  The GitLab customer advisory board is intended to be home to learning and collaboration so we can all experience success through DevOps transformation.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Internship Action Plan 1 1
+aliases:
+- /docs/internship-action-plan_1_1/
+description: ''
+linkTitle: Internship Action Plan 1 1
+type: docs
+---
+
 # Internship Action Plan
 
 ## Program Objectives

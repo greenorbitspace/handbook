@@ -1,6 +1,12 @@
 ---
 title: Pipeline Triage
 description: Overview of GitLab's E2E Pipeline Triage processes
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/pipeline-triage_1_1/
+linkTitle: Pipeline Triage
+type: docs
 ---
 
 ## Overview

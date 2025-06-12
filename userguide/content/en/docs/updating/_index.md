@@ -2,6 +2,11 @@
 title: Update Docsy
 description: Keeping the Docsy theme up to date.
 weight: 8
+type: docs
+date: '2025-06-12T01:05:53+01:00'
+linkTitle: Update Docsy
+aliases:
+- /docs/_index/
 ---
 
 We hope to continue to make improvements to the theme

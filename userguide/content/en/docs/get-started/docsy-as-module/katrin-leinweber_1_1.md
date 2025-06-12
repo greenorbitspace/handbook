@@ -1,8 +1,13 @@
 ---
-
-title: "README of Katrin Leinweber"
-description: "Personal readme page for Katrin Leinweber, Senior Support Engineer, GitLab"
-job: "Senior Support Engineer (EMEA)"
+title: README of Katrin Leinweber
+description: Personal readme page for Katrin Leinweber, Senior Support Engineer, GitLab
+job: Senior Support Engineer (EMEA)
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/katrin-leinweber_1_1/
+linkTitle: README of Katrin Leinweber
+type: docs
 ---
 
 ## Katrin's README

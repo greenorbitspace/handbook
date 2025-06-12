@@ -1,9 +1,14 @@
 ---
-
 title: Abuse Report Review Request
 category: GitLab.com
 subcategory: Security
 description: How to request a review of an Abuse Report
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/abuse_report_review_request_1_1/
+linkTitle: Abuse Report Review Request
+type: docs
 ---
 
 This workflow is to request a review of an Abuse Report.  All blocked accounts should have an admin note with a link to a relevant issue.

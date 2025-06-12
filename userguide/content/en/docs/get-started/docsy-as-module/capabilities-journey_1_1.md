@@ -1,14 +1,14 @@
 ---
-aliases: /handbook/customer-success/partners/vision
-title: "Partner Capabilities Journey"
-description: "Suggest a partner journey maturity model for Channel and Systems Integrator partner"
+aliases:
+- /docs/capabilities-journey_1_1/
+title: Partner Capabilities Journey
+description: Suggest a partner journey maturity model for Channel and Systems Integrator
+  partner
+weight: 2
+date: '2025-06-12'
+linkTitle: Partner Capabilities Journey
+type: docs
 ---
-
-
-
-
-
-
 
 ## Objective
 

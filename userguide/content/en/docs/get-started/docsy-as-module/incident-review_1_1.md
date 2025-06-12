@@ -1,5 +1,12 @@
 ---
-title: "Incident Review"
+title: Incident Review
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/incident-review_1_1/
+description: ''
+linkTitle: Incident Review
+type: docs
 ---
 
 > The primary goals of writing an Incident Review are to ensure that the incident is documented, that all contributing root cause(s) are well understood, and, especially, that effective preventive actions are put in place to reduce the likelihood and/or impact of recurrence.[^1]

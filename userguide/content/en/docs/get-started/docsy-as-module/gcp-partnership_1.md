@@ -1,7 +1,13 @@
 ---
-title: "GCP Partnership Working Group"
-description: "Better together with GCP and GitLab"
+title: GCP Partnership Working Group
+description: Better together with GCP and GitLab
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gcp-partnership_1/
+linkTitle: GCP Partnership Working Group
+type: docs
 ---
 
 ## Attributes

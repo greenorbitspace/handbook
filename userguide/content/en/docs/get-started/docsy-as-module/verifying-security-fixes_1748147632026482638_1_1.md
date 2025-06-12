@@ -1,5 +1,12 @@
 ---
-title: "Verifying Security Fixes"
+title: Verifying Security Fixes
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/verifying-security-fixes_1748147632026482638_1_1/
+description: ''
+linkTitle: Verifying Security Fixes
+type: docs
 ---
 
 The review of a fix by an application security engineer is triggered by the engineer implementing the fix. The security engineer that triaged the vulnerability report is responsible for validating the merge request involving the fix. As the engineer engaging in the verification, these are the steps that should be followed:

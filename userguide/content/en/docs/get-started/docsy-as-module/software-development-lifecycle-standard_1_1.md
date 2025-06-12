@@ -1,5 +1,12 @@
 ---
-title: "Software Development Lifecycle Standard"
+title: Software Development Lifecycle Standard
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/software-development-lifecycle-standard_1_1/
+description: ''
+linkTitle: Software Development Lifecycle Standard
+type: docs
 ---
 
 ## Purpose

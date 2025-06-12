@@ -1,5 +1,12 @@
 ---
-title: "IT Enterprise Applications Services Management"
+title: IT Enterprise Applications Services Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/It-entapps-services_1_1_1/
+description: ''
+linkTitle: IT Enterprise Applications Services Management
+type: docs
 ---
 
 The IT Enterprise Services Job Family is responsible for optimal delivery of services provided by IT Enterprise Applications. The management job family is responsible for tracking, measuring and improving service delivery by managing the people running operations, defining success criterias and measuring key performance indicators to hold the team accountable to providing accurate and on-time results for GitLab team members.

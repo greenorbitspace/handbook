@@ -1,13 +1,13 @@
 ---
-
-title: "Dakota Persona snippets"
+title: Dakota Persona snippets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dakota_1_1/
+description: ''
+linkTitle: Dakota Persona snippets
+type: docs
 ---
-
-
-
-
-
-
 
 ## SDR persona snippets by use case
 

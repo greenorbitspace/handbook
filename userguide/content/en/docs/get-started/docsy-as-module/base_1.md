@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Base 1
+aliases:
+- /docs/base_1/
+description: ''
+linkTitle: Base 1
+type: docs
+---
+
 The blog feature enables you to deploy in no time a full-featured blog.
 
 :::info Sample Title

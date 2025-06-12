@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Publish 1
+aliases:
+- /docs/publish_1/
+description: ''
+linkTitle: Publish 1
+type: docs
+---
+
 # Publishing Instructions
 
 Docusaurus is published as an npm package that can be installed via `npm` or `yarn`.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 11 Characters Set And Encoding 1 1
+aliases:
+- /docs/11-characters-set-and-encoding_1_1/
+description: ''
+linkTitle: 11 Characters Set And Encoding 1 1
+type: docs
+---
+
 ### characters in binary format
 - we know that in order for the computer to deal with the data it should convert it first to the binary representation.
 - numbers can be converted easily to binary and vice versa

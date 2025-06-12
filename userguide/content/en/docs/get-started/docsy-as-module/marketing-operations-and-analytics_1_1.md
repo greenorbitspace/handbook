@@ -1,6 +1,13 @@
 ---
-title: "Marketing Operations and Analytics"
-summary: " "
+title: Marketing Operations and Analytics
+summary: ' '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/marketing-operations-and-analytics_1_1/
+description: ''
+linkTitle: Marketing Operations and Analytics
+type: docs
 ---
 
 ## Levels

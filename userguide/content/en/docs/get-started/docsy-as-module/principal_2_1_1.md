@@ -1,5 +1,12 @@
 ---
-title: "Development Department Career Framework: Principal"
+title: 'Development Department Career Framework: Principal'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/principal_2_1_1/
+description: ''
+linkTitle: 'Development Department Career Framework: Principal'
+type: docs
 ---
 
 ## Development Department Competencies: Principal

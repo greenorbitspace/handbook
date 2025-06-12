@@ -5,6 +5,13 @@ doc_id: doc-395
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070710_data-protection-and-confidentiality-policy_1_1/
+description: ''
+linkTitle: Data Protection And Confidentiality Policy
+type: docs
 ---
 
 At Green Orbit Digital, we are committed to ensuring the privacy, confidentiality, and security of all personal data we collect and process in accordance with the General Data Protection Regulation (GDPR) and other applicable data protection laws. This Data Protection and Confidentiality Policy outlines our commitment to protecting personal data and maintaining confidentiality.

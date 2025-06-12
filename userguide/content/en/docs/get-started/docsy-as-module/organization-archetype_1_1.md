@@ -1,13 +1,13 @@
 ---
-
 title: Organization Archetype
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/organization-archetype_1_1/
+description: ''
+linkTitle: Organization Archetype
+type: docs
 ---
-
-
-
-
-
-
 
 ## What is an organization archetype?
 

@@ -1,6 +1,12 @@
 ---
-title: "UX research recruiting email tips"
-description: "Guidance on how to recruit through email for UX research participants"
+title: UX research recruiting email tips
+description: Guidance on how to recruit through email for UX research participants
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/recruiting-email-tips_1_1/
+linkTitle: UX research recruiting email tips
+type: docs
 ---
 
 When sending emails to participants from Qualtrics or Marketo, coordinators may customize emails in a few ways.

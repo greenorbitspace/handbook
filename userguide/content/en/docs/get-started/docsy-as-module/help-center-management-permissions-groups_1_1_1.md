@@ -1,7 +1,13 @@
 ---
 title: Help Center management permissions
 description: Operations documentation page for Zendesk Help Center management permissions
-canonical_path: "/handbook/security/customer-support-operations/docs/zendesk/help-center-management-permissions"
+canonical_path: /handbook/security/customer-support-operations/docs/zendesk/help-center-management-permissions
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/help-center-management-permissions-groups_1_1_1/
+linkTitle: Help Center management permissions
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

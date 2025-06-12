@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Sustainability Charter 1 1
+aliases:
+- /docs/sustainability-charter_1_1/
+description: ''
+linkTitle: Sustainability Charter 1 1
+type: docs
+---
+
 Here's an updated version of Green Orbit Digital's Sustainability Charter, incorporating relevant elements from the CAST Sustainability Charter while maintaining Green Orbit Digital’s unique focus on space sustainability and marketing.
 
 <!-- Unsupported block type: divider -->

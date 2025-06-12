@@ -1,8 +1,16 @@
 ---
-title: "Red Team Roles"
-description: "GitLab's internal Red Team conducts security exercises that emulate real-world threats. We do this to help assess and improve the effectiveness of the people, processes, and technologies used to keep our organization secure."
+title: Red Team Roles
+description: GitLab's internal Red Team conducts security exercises that emulate real-world
+  threats. We do this to help assess and improve the effectiveness of the people,
+  processes, and technologies used to keep our organization secure.
 extra_js:
 - libs/mermaid.min.js
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/red-team_1_1/
+linkTitle: Red Team Roles
+type: docs
 ---
 
 As members of GitLab's [Threat Management sub department](/handbook/security/threat-management/), the [Red Team](/handbook/security/security-operations/red-team/) conducts security exercises that emulate real-world threats. We do this to help assess and improve the effectiveness of the people, processes, and technologies used to keep our organization secure.

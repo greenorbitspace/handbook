@@ -1,6 +1,12 @@
 ---
 title: Engaging the Security Engineer On-Call
 description: How to Engage the Security Engineer On-Call
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engaging-security-on-call_1748146058228689712_1_1/
+linkTitle: Engaging the Security Engineer On-Call
+type: docs
 ---
 
 ## Overview

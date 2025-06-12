@@ -1,7 +1,12 @@
 ---
-title: "On-Call"
+title: On-Call
 aliases:
 - /handbook/on-call/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: On-Call
+type: docs
 ---
 
 {{% alert color="warning" %}}

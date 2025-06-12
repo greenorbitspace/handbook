@@ -1,6 +1,12 @@
 ---
 title: Professional Development
 description: This page describes the professional development opportunities available.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/professional-development_1748146057939859055_1_1/
+linkTitle: Professional Development
+type: docs
 ---
 
 ## How do we support Professional Development?

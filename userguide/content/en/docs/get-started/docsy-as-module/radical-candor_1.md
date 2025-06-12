@@ -1,6 +1,13 @@
 ---
 title: Radical Candor at GitLab
-description: A multi-modal learning experience for GitLab team members to strengths their skills around having difficult conversations.
+description: A multi-modal learning experience for GitLab team members to strengths
+  their skills around having difficult conversations.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/radical-candor_1/
+linkTitle: Radical Candor at GitLab
+type: docs
 ---
 
 ## Radical Candor on High Performing Teams

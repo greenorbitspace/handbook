@@ -1,8 +1,13 @@
 ---
 title: GitLab Support On-Call Guide
-description: >-
-  For customers that have Priority Support, the Support Engineering Team is
-  on-call and available to assist with emergencies
+description: For customers that have Priority Support, the Support Engineering Team
+  is on-call and available to assist with emergencies
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/on-call_1_1_1/
+linkTitle: GitLab Support On-Call Guide
+type: docs
 ---
 
 ## On-call in GitLab Support

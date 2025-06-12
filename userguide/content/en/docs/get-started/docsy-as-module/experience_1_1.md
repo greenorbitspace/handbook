@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Experience 1 1
+aliases:
+- /docs/experience_1_1/
+description: ''
+linkTitle: Experience 1 1
+type: docs
+---
+
 +++
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/

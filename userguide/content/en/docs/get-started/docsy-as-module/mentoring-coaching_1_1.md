@@ -1,15 +1,13 @@
 ---
-
-title: "Developer Advocacy: Mentoring and Coaching"
+title: 'Developer Advocacy: Mentoring and Coaching'
 aliases:
 - /handbook/marketing/developer-relations/developer-evangelism/mentoring-coaching/index.html
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: 'Developer Advocacy: Mentoring and Coaching'
+type: docs
 ---
-
-
-
-
-
-
 
 ## Introduction
 

@@ -1,7 +1,15 @@
 ---
-title: "GitLab Token Management Standard"
-description: "This is the GitLab Token Management Standard. It defines approved GitLab token usage, and distribution for the purposes of providing authentication and authorization within various systems and subsystems used by GitLab."
+title: GitLab Token Management Standard
+description: This is the GitLab Token Management Standard. It defines approved GitLab
+  token usage, and distribution for the purposes of providing authentication and authorization
+  within various systems and subsystems used by GitLab.
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/token-management-standard_1_1/
+linkTitle: GitLab Token Management Standard
+type: docs
 ---
 
 ## Purpose

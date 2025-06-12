@@ -1,7 +1,14 @@
 ---
-title: "Issue Prioritization Framework"
-description: "Improve our Issue Prioritization Framework be factoring in Business goals, IACV, Cost into a common quantifiable representation"
+title: Issue Prioritization Framework
+description: Improve our Issue Prioritization Framework be factoring in Business goals,
+  IACV, Cost into a common quantifiable representation
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/issue-prioritization-framework_1_1/
+linkTitle: Issue Prioritization Framework
+type: docs
 ---
 
 ## Attributes

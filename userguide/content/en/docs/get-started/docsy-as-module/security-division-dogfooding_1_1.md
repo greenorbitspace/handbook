@@ -1,5 +1,12 @@
 ---
 title: Security Division Dogfooding Program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-division-dogfooding_1_1/
+description: ''
+linkTitle: Security Division Dogfooding Program
+type: docs
 ---
 
 ## Introduction and Purpose

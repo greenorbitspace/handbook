@@ -1,6 +1,12 @@
 ---
-
-title: "Running Click-throughs off-line"
+title: Running Click-throughs off-line
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/off-line-click-throughs_1_1/
+description: ''
+linkTitle: Running Click-throughs off-line
+type: docs
 ---
 
 ## Running Click-through Demos Off-line

@@ -1,5 +1,12 @@
 ---
 title: Internal Strategy Intern
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/internal-strategy-intern_1_2/
+description: ''
+linkTitle: Internal Strategy Intern
+type: docs
 ---
 
 The Internal Strategy Intern reports to the Chief of Staff to the CEO and works to support the Office of the CEO.

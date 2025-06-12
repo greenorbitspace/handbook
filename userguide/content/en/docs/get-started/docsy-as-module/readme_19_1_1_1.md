@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 19 1 1 1
+aliases:
+- /docs/readme_19_1_1_1/
+description: ''
+linkTitle: Readme 19 1 1 1
+type: docs
+---
+
 # Lilconfig ⚙️
 [![npm version](https://badge.fury.io/js/lilconfig.svg)](https://badge.fury.io/js/lilconfig)
 [![install size](https://packagephobia.now.sh/badge?p=lilconfig)](https://packagephobia.now.sh/result?p=lilconfig)

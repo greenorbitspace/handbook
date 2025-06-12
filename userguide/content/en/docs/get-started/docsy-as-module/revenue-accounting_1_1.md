@@ -1,6 +1,13 @@
 ---
 title: Revenue Accounting
-description: "The Revenue Accounting Team at GitLab forms part of the Revenue Organization. The Revenue Accounting Team is responsible for Worldwide Revenue Accounting."
+description: The Revenue Accounting Team at GitLab forms part of the Revenue Organization.
+  The Revenue Accounting Team is responsible for Worldwide Revenue Accounting.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/revenue-accounting_1_1/
+linkTitle: Revenue Accounting
+type: docs
 ---
 
 The Revenue Accounting Team at GitLab forms part of the Revenue Organization. The Revenue Accounting Team is responsible for Worldwide Revenue Accounting.

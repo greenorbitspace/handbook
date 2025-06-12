@@ -1,10 +1,16 @@
 ---
-title: "History of all-remote work"
+title: History of all-remote work
 description: History of remote work
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/remote-history_1_1/
+linkTitle: History of all-remote work
+type: docs
 ---
 
 On this page, we're curating important historical moments and milestones that have shaped and furthered remote work globally.

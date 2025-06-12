@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Github Pages 1 1
+aliases:
+- /docs/github-pages_1_1/
+description: ''
+linkTitle: Github Pages 1 1
+type: docs
+---
+
 <h1>GitHub Pages</h1>
 
 GitHub's "GitHub Pages" is a great hosting option for Open SDG, because GitHub is already a central component of the platform. The way GitHub Pages works is fairly simple: GitHub will serve your files as a website, for free. All you need to do is push them to a branch called `gh-pages`.

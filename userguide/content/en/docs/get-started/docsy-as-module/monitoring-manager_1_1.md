@@ -1,7 +1,13 @@
 ---
-title: "Engineering Manager, Monitoring"
+title: Engineering Manager, Monitoring
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/monitoring-manager_1_1/
+description: ''
+linkTitle: Engineering Manager, Monitoring
+type: docs
 ---
-
 
 ## Responsibilities
 

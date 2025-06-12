@@ -1,6 +1,12 @@
 ---
-title: "Executive Search"
-description: "This page provides an overview on the executive search team and process"
+title: Executive Search
+description: This page provides an overview on the executive search team and process
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/executive-search_1_1/
+linkTitle: Executive Search
+type: docs
 ---
 
 ## Team Mission

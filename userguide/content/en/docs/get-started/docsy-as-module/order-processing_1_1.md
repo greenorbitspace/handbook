@@ -1,7 +1,14 @@
 ---
-
-title: "Sales Order Processing"
-description: "This page outlines the Quote to Cash process, starting from account and opportunity creation, quote configuration, approvals, booking requirements and to the ultimate closure of a deal."
+title: Sales Order Processing
+description: This page outlines the Quote to Cash process, starting from account and
+  opportunity creation, quote configuration, approvals, booking requirements and to
+  the ultimate closure of a deal.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/order-processing_1_1/
+linkTitle: Sales Order Processing
+type: docs
 ---
 
 **Welcome to the Sales Order Processing page!**

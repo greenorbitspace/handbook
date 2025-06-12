@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 27 Libuv 1 1
+aliases:
+- /docs/27-libuv_1_1/
+description: ''
+linkTitle: 27 Libuv 1 1
+type: docs
+---
+
 ### libuv
 - is a cross platform open source library written in C language
 - it handles asynchronous non-blocking operation in nodejs

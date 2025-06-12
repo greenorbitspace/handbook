@@ -1,6 +1,13 @@
 ---
-title: "GitLab Security Essentials - Hands-On Lab: SAST and Secret Detection"
-description: "This Hands-On Guide walks you through the process of enabling and using SAST and secret detection in your projects"
+title: 'GitLab Security Essentials - Hands-On Lab: SAST and Secret Detection'
+description: This Hands-On Guide walks you through the process of enabling and using
+  SAST and secret detection in your projects
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabsecurityessentialslab1_1/
+linkTitle: 'GitLab Security Essentials - Hands-On Lab: SAST and Secret Detection'
+type: docs
 ---
 
 > Estimated time to complete: 15 minutes

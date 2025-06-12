@@ -4,6 +4,13 @@ group: Tenant Scale
 title: 'Proposal: Stateless Router using Requests Buffering'
 status: rejected
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/proposal-stateless-router-with-buffering-requests_1_1/
+description: ''
+linkTitle: 'Proposal: Stateless Router using Requests Buffering'
+type: docs
 ---
 
 {{< design-document-header >}}

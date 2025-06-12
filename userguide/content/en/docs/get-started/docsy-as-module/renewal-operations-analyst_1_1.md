@@ -1,6 +1,14 @@
 ---
-title: "Renewals Operations Analyst"
-description: "The Renewal Operations Team is responsible for providing forecast clarity, scoring renewal growth and retention likelihood, customer analytics, and developing retention action plans."
+title: Renewals Operations Analyst
+description: The Renewal Operations Team is responsible for providing forecast clarity,
+  scoring renewal growth and retention likelihood, customer analytics, and developing
+  retention action plans.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/renewal-operations-analyst_1_1/
+linkTitle: Renewals Operations Analyst
+type: docs
 ---
 
 The Renewal Operations Team is responsible for providing forecast clarity, scoring renewal growth and retention likelihood, and developing retention action plans. Key objectives include:

@@ -1,5 +1,12 @@
 ---
-title: "Technical Interviews"
+title: Technical Interviews
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/technical_1_1/
+description: ''
+linkTitle: Technical Interviews
+type: docs
 ---
 
 **Technical Interview Guide**

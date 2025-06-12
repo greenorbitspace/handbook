@@ -1,6 +1,13 @@
 ---
-title: "Incentives at GitLab"
-description: "The page contains information about incentives available for GitLab team members."
+title: Incentives at GitLab
+description: The page contains information about incentives available for GitLab team
+  members.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/incentives_1_1_1/
+linkTitle: Incentives at GitLab
+type: docs
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-group/).

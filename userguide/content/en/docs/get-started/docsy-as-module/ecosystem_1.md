@@ -1,5 +1,12 @@
 ---
-title: "Security Division Ecosystem"
+title: Security Division Ecosystem
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ecosystem_1/
+description: ''
+linkTitle: Security Division Ecosystem
+type: docs
 ---
 
 ## Overview

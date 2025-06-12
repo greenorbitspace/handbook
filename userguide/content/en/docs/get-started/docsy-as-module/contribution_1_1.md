@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Contribution 1 1
+aliases:
+- /docs/contribution_1_1/
+description: ''
+linkTitle: Contribution 1 1
+type: docs
+---
+
 <h1>Contribution guidelines</h1>
 
 ## What do I need to know to help?

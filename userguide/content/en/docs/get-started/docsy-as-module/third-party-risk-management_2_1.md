@@ -1,6 +1,13 @@
 ---
-title: "Security Third Party Risk Management"
+title: Security Third Party Risk Management
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/third-party-risk-management_2_1/
+description: ''
+linkTitle: Security Third Party Risk Management
+type: docs
 ---
 
 ## GitLab's Integrated Third-Party Risk Management Program

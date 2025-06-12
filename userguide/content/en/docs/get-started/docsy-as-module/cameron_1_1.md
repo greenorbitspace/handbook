@@ -1,13 +1,13 @@
 ---
-
-title: "Cameron Persona snippets"
+title: Cameron Persona snippets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cameron_1_1/
+description: ''
+linkTitle: Cameron Persona snippets
+type: docs
 ---
-
-
-
-
-
-
 
 ## SDR persona snippets by use case
 

@@ -1,6 +1,12 @@
 ---
-
-title: "Production Readiness Review"
+title: Production Readiness Review
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/readiness_1_1/
+description: ''
+linkTitle: Production Readiness Review
+type: docs
 ---
 
 ## Overview

@@ -1,7 +1,13 @@
 ---
-title: "GitLab.com SAAS Data Pipeline"
-description: "The GitLab.com SAAS Data Pipeline Working Group"
+title: GitLab.com SAAS Data Pipeline
+description: The GitLab.com SAAS Data Pipeline Working Group
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-com-saas-data-pipeline_1_1/
+linkTitle: GitLab.com SAAS Data Pipeline
+type: docs
 ---
 
 ## Attributes

@@ -1,5 +1,12 @@
 ---
 title: Core Development Department
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/core-development_1_2/
+description: ''
+linkTitle: Core Development Department
+type: docs
 ---
 
 ## Vision

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Local Third Party Project Testing 1
+aliases:
+- /docs/local-third-party-project-testing_1/
+description: ''
+linkTitle: Local Third Party Project Testing 1
+type: docs
+---
+
 Sometimes you want to test the latest version of Docusaurus on a third-party project via `npm` or `yarn` without having to publish it to npm itself. For example, you may want to use the latest code in `main`.
 
 > If you want to use Docusaurus to test Docusaurus, see the [testing changes on Docusaurus itself doc](./testing-changes-on-Docusaurus-itself.md)

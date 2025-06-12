@@ -1,5 +1,12 @@
 ---
 title: Mermaid Layouts
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mermaid_1_1/
+description: ''
+linkTitle: Mermaid Layouts
+type: docs
 ---
 
 ## Mermaid diagrams

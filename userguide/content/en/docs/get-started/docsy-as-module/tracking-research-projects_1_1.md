@@ -1,6 +1,12 @@
 ---
-title: "Tracking gold, silver, and bronze UX research projects"
-description: "How we track research research projects, by service level."
+title: Tracking gold, silver, and bronze UX research projects
+description: How we track research research projects, by service level.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tracking-research-projects_1_1/
+linkTitle: Tracking gold, silver, and bronze UX research projects
+type: docs
 ---
 
 As part of our [UX research prioritization](/handbook/product/ux/ux-research/research-prioritization/) process, each UX research project issue will have one of the following labels:

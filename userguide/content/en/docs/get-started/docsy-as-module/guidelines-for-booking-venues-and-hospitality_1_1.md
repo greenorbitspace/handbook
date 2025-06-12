@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Guidelines For Booking Venues And Hospitality 1 1
+aliases:
+- /docs/guidelines-for-booking-venues-and-hospitality_1_1/
+description: ''
+linkTitle: Guidelines For Booking Venues And Hospitality 1 1
+type: docs
+---
+
 1. Introduction
 
 These guidelines are designed to ensure that all bookings of venues and hospitality services by employees of Green Orbit Digital are made in a responsible, efficient, and cost-effective manner. Proper planning and adherence to these guidelines will help to create positive experiences for both internal and external stakeholders while maximizing the value of the company's resources.

@@ -1,6 +1,12 @@
 ---
-title: "Quote to Cash"
-description: "GitLab's Quote to Cash systems and processes"
+title: Quote to Cash
+description: GitLab's Quote to Cash systems and processes
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/quote-to-cash_1_1/
+linkTitle: Quote to Cash
+type: docs
 ---
 
 ## Overview

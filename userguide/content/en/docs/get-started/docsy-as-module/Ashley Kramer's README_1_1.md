@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Ashley Kramer'S Readme 1 1
+aliases:
+- /docs/Ashley Kramer's README_1_1/
+description: ''
+linkTitle: Ashley Kramer'S Readme 1 1
+type: docs
+---
+
 # Ashley Kramer's README
 
 [Unsupported block type: image]

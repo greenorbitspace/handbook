@@ -1,7 +1,13 @@
 ---
-aliases: /handbook/product/ux/ux-research-coordination/IP-Assignment
-title: "The IP Assignment and when to show it"
-description: "Learn about what the IP Assignment is and when to show it to research participants."
+aliases:
+- /docs/ip-assignment_1_1/
+title: The IP Assignment and when to show it
+description: Learn about what the IP Assignment is and when to show it to research
+  participants.
+weight: 2
+date: '2025-06-12'
+linkTitle: The IP Assignment and when to show it
+type: docs
 ---
 
 The Intellectual Property (IP) Assignment is a short acknowledgement by which participants in UX research activities confirm that IP rights in any feedback, suggestions and ideas they provide are (i) owned by GitLab; and (ii) to the extent not already owned by GitLab, assigned to GitLab.

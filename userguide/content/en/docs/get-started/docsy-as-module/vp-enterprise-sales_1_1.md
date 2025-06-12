@@ -1,6 +1,13 @@
 ---
-title: "Vice President of Enterprise Sales"
-RoleName: "VP of Enterprise Sales"
+title: Vice President of Enterprise Sales
+RoleName: VP of Enterprise Sales
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vp-enterprise-sales_1_1/
+description: ''
+linkTitle: Vice President of Enterprise Sales
+type: docs
 ---
 
 ## Job Grade

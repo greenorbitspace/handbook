@@ -1,6 +1,16 @@
 ---
-title: "Developer Advocate"
-summary: Help us fulfill our mission by connecting with other developers and GitLab users and sharing your knowledge and experience about GitLab and other leading technologies through blog posts, demos, videos,  contributed articles, podcasts, social media, and events.
+title: Developer Advocate
+summary: Help us fulfill our mission by connecting with other developers and GitLab
+  users and sharing your knowledge and experience about GitLab and other leading technologies
+  through blog posts, demos, videos,  contributed articles, podcasts, social media,
+  and events.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/developer-advocate_1_1/
+description: ''
+linkTitle: Developer Advocate
+type: docs
 ---
 
 The Developer Advocacy team supports and grows GitLab’s user community by enabling and engaging with GitLab community members through deep technical content, targeted programs, and events.

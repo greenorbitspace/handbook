@@ -1,3 +1,13 @@
+---
+type: docs
+weight: 2
+date: '2025-06-12T01:05:53+01:00'
+title: ' Index'
+linkTitle: ' Index'
+aliases:
+- /docs/_index/
+description: ''
+---
 
 ---
 title: Get started

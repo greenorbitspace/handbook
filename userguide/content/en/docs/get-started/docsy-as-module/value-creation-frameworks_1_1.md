@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Value Creation Frameworks 1 1
+aliases:
+- /docs/value-creation-frameworks_1_1/
+description: ''
+linkTitle: Value Creation Frameworks 1 1
+type: docs
+---
+
 # 1. Value Creation Foundation
 
 A systematic framework for creating and delivering value to stakeholders through strategic alignment of resources, capabilities, and market opportunities.

@@ -1,5 +1,12 @@
 ---
-title: "Support Career Framework: Customer Support Representative"
+title: 'Support Career Framework: Customer Support Representative'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/csr_2/
+description: ''
+linkTitle: 'Support Career Framework: Customer Support Representative'
+type: docs
 ---
 
 ## Customer Support Representative

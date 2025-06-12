@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Configuration 1
+aliases:
+- /docs/configuration_1/
+description: ''
+linkTitle: Configuration 1
+type: docs
+---
+
 <h1>Site configuration</h1>
 
 In addition to the [usual Jekyll configuration options](https://jekyllrb.com/docs/configuration/), there are many options specific to Open SDG. These are detailed below, along with usage examples. **All of these settings go in the `_data/site_config.yml` file.** Alternatively, you can make changes using the site configuration forms. See more [details on the site configuration forms](site-configuration-forms.md).

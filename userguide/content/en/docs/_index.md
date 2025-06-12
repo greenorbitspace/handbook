@@ -1,7 +1,15 @@
 ---
 title: Welcome to Docsy
 linkTitle: Documentation
-menu: { main: { weight: 20 } }
+menu:
+  main:
+    weight: 20
+type: docs
+weight: 2
+date: '2025-06-12T01:05:53+01:00'
+aliases:
+- /docs/_index/
+description: ''
 ---
 
 Welcome to the Docsy theme user guide! This guide shows you how to get started

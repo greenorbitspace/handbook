@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Eventsource 1 1
+aliases:
+- /docs/EventSource_1_1/
+description: ''
+linkTitle: Eventsource 1 1
+type: docs
+---
+
 # EventSource
 
 > ⚠️ Warning: the EventSource API is experimental.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Privacy 1
+aliases:
+- /docs/privacy_1/
+description: ''
+linkTitle: Privacy 1
+type: docs
+---
+
 # Privacy 
 This is a summary of all of the components within Matomo which may affect your privacy in some way. Please keep in mind
 third party Themes, Plugins or Apps may introduce privacy concerns not listed here.

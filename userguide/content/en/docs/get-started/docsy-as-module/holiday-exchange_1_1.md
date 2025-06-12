@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Holiday Exchange 1 1
+aliases:
+- /docs/holiday-exchange_1_1/
+description: ''
+linkTitle: Holiday Exchange 1 1
+type: docs
+---
+
 We will kick off the holiday season on December 8 by _optionally_ participating in a Secret Santa exchange - an exchange where a group of colleagues will exchange holiday presents anonymously with each member of the group being assigned to another member to provide a small gift.
 
 1. The exchange amount will be $30 USD, including shipping and tax fees. This amount cannot be expensed and would need to be paid for out of pocket. Team members are not required to participate.

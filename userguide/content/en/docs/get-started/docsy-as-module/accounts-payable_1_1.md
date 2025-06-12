@@ -1,6 +1,14 @@
 ---
-title: "Accounts Payable - Roles & Responsibilities"
-description: "The Accounts Payable team is responsible for timely and accurate processing and payment of vendor invoices, processing vendor credits and expense reports submitted by GitLab team members."
+title: Accounts Payable - Roles & Responsibilities
+description: The Accounts Payable team is responsible for timely and accurate processing
+  and payment of vendor invoices, processing vendor credits and expense reports submitted
+  by GitLab team members.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/accounts-payable_1_1/
+linkTitle: Accounts Payable - Roles & Responsibilities
+type: docs
 ---
 
 The Accounts Payable team is responsible for timely and accurate processing and payment of vendor invoices, processing vendor credits and expense reports submitted by GitLab team members. The Accounts Payable team ensures that all transactions are SOX compliant including obtaining all required supporting documentation and appropriate authorization for disbursements.

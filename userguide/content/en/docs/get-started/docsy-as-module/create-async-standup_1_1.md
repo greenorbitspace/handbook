@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Create Async Standup 1 1
+aliases:
+- /docs/create-async-standup_1_1/
+description: ''
+linkTitle: Create Async Standup 1 1
+type: docs
+---
+
 The groups in the [Create stage](/handbook/product/categories/#create-stage) conduct asynchronous standups in the
 [#g_create_standup](https://gitlab.slack.com/archives/g_create_standup) channel 3 times a week, on Monday, Wednesday, and Friday.
 

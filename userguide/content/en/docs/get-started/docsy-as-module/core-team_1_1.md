@@ -1,5 +1,12 @@
 ---
-title: "Core Team"
+title: Core Team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/core-team_1_1/
+description: ''
+linkTitle: Core Team
+type: docs
 ---
 
 ## Becoming a Core Team member

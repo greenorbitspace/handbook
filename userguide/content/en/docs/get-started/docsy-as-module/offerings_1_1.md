@@ -1,6 +1,12 @@
 ---
-title: "Professional Services Offerings"
-description: "Find information about GitLab Professional services Offerings."
+title: Professional Services Offerings
+description: Find information about GitLab Professional services Offerings.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/offerings_1_1/
+linkTitle: Professional Services Offerings
+type: docs
 ---
 
 ## Discovery Engagement

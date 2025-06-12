@@ -1,10 +1,17 @@
 ---
-title: "The 10 models of remote and hybrid work"
-description: "The complete guide to 10 models of remote and hybrid work can help you decide what's best for your workplace."
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+title: The 10 models of remote and hybrid work
+description: The complete guide to 10 models of remote and hybrid work can help you
+  decide what's best for your workplace.
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/stages_2_1/
+linkTitle: The 10 models of remote and hybrid work
+type: docs
 ---
 
 ## About the types of remote work models

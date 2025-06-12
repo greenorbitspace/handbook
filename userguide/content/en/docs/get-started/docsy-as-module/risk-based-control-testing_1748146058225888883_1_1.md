@@ -1,5 +1,12 @@
 ---
-title: "Risk-based Control Testing"
+title: Risk-based Control Testing
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/risk-based-control-testing_1748146058225888883_1_1/
+description: ''
+linkTitle: Risk-based Control Testing
+type: docs
 ---
 
 ## What is Risk-based control testing?

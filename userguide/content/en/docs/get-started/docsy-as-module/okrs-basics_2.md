@@ -1,7 +1,12 @@
 ---
-title: "Overview of Objectives and Key Results (OKRs)"
-description: "General information on OKRs, criteria, and guidance on how to write them."
+title: Overview of Objectives and Key Results (OKRs)
+description: General information on OKRs, criteria, and guidance on how to write them.
 weight: 1
+date: '2025-06-12'
+aliases:
+- /docs/okrs-basics_2/
+linkTitle: Overview of Objectives and Key Results (OKRs)
+type: docs
 ---
 
 ## What are OKRs?

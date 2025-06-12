@@ -1,6 +1,12 @@
 ---
-title: "Data Steering Committee at GitLab"
-description: "GitLab Data Steering Committee Handbook"
+title: Data Steering Committee at GitLab
+description: GitLab Data Steering Committee Handbook
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/data-steering_1_1/
+linkTitle: Data Steering Committee at GitLab
+type: docs
 ---
 
 ## Data Steering Committee Purpose

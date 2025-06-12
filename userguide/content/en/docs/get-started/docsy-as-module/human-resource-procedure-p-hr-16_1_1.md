@@ -5,6 +5,13 @@ doc_id: doc-915
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/human-resource-procedure-p-hr-16_1_1/
+description: ''
+linkTitle: Human Resource Procedure P Hr 16
+type: docs
 ---
 
 <!-- Unsupported block type: table_of_contents -->

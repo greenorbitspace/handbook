@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Speaking 1
+aliases:
+- /docs/speaking_1/
+description: ''
+linkTitle: Speaking 1
+type: docs
+---
+
 # Document Purpose
 
 <!-- Unsupported block type: divider -->

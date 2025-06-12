@@ -1,6 +1,13 @@
 ---
 title: Secure, Composition Analysis
-description: "The Composition Analysis group at GitLab is charged with developing solutions which perform Container and Dependency Scanning and License Compliance."
+description: The Composition Analysis group at GitLab is charged with developing solutions
+  which perform Container and Dependency Scanning and License Compliance.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/composition-analysis_1_1/
+linkTitle: Secure, Composition Analysis
+type: docs
 ---
 
 ## Composition Analysis

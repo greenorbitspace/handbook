@@ -1,10 +1,14 @@
 ---
-
 title: AMER Licensing & Renewals Team
-description: Information specific to the AMER region's Licensing & Renewals Support Team
+description: Information specific to the AMER region's Licensing & Renewals Support
+  Team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/amer-region_1_1/
+linkTitle: AMER Licensing & Renewals Team
+type: docs
 ---
-
-
 
 ## Overview
 

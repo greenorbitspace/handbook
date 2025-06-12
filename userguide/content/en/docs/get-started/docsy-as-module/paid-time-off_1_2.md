@@ -1,7 +1,12 @@
 ---
-title: "Paid Time Off at GitLab"
+title: Paid Time Off at GitLab
 aliases:
 - /handbook/paid-time-off/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Paid Time Off at GitLab
+type: docs
 ---
 
 ## Introduction

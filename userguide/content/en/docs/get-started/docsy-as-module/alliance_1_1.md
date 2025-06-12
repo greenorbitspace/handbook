@@ -1,9 +1,13 @@
 ---
-
 title: Alliance Partners
-description: "Support specific information for alliance partners"
+description: Support specific information for alliance partners
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/alliance_1_1/
+linkTitle: Alliance Partners
+type: docs
 ---
-
 
 ## Contacting Support
 

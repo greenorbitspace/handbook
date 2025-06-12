@@ -1,8 +1,15 @@
 ---
-title: "Infrastructure Security - Roles & Responsibilities"
-description: "As members of GitLab's Product Security sub department, the Infrastructure Security engineers own security initiatives related to security of GitLab.com."
+title: Infrastructure Security - Roles & Responsibilities
+description: As members of GitLab's Product Security sub department, the Infrastructure
+  Security engineers own security initiatives related to security of GitLab.com.
 extra_js:
 - libs/mermaid.min.js
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/infrastructure-security_1_1/
+linkTitle: Infrastructure Security - Roles & Responsibilities
+type: docs
 ---
 
 As members of GitLab's [Product Security sub department](/handbook/security/product-security/), the [Infrastructure Security](/handbook/security/product-security/infrastructure-security/) engineers own security initiatives related to security of GitLab.com. They are Infrastructure's stable counterparts in the Security department, and as such work with various Infrastructure and Security teams to identify and mitigate security issues, vulnerabilities, and misconfigurations by applying their in-depth knowledge of operating systems, infrastructure, and cloud providers. They work very closely with the Security Incident Response Team and share their findings in a proactive manner. Successful Security Engineers thrive in high-stress environments and can think like both an attacker and defender, engage with and mentor more junior Security Engineers, and can help come up with proactive and preventative security measures to keep GitLab and its user’s data safe in an ever changing threat landscape.

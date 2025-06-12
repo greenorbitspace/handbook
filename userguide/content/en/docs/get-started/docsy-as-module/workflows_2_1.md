@@ -1,7 +1,13 @@
 ---
 title: Workflows
 description: Support Operations documentation page for Slack workflows
-canonical_path: "/handbook/support/readiness/operations/docs/slack/workflows"
+canonical_path: /handbook/support/readiness/operations/docs/slack/workflows
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/workflows_2_1/
+linkTitle: Workflows
+type: docs
 ---
 
 ## Building a Slack workflow

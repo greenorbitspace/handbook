@@ -1,6 +1,14 @@
 ---
-title: "Field CISO"
-description: "The Field CISO or Field Security Officer engages with GitLab customers and prospects providing strategic advice and guidance. Providing thought leadership in DevSecOps and secure SDLC."
+title: Field CISO
+description: The Field CISO or Field Security Officer engages with GitLab customers
+  and prospects providing strategic advice and guidance. Providing thought leadership
+  in DevSecOps and secure SDLC.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/field-ciso_1_1/
+linkTitle: Field CISO
+type: docs
 ---
 
 ## Responsibilities

@@ -1,15 +1,13 @@
 ---
-
-title: "Infrafin"
-description: "Infrafin Board"
+title: Infrafin
+description: Infrafin Board
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/infrafin-board_1_1/
+linkTitle: Infrafin
+type: docs
 ---
-
-
-
-
-
-
-
 
 ---
 

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Procedure For Document Control 1 1
+aliases:
+- /docs/procedure-for-document-control_1_1/
+description: ''
+linkTitle: Procedure For Document Control 1 1
+type: docs
+---
+
 # Procedure for Document Control
 
 ## 1. Purpose and Scope

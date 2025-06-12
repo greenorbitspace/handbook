@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Handbook Development 1 1
+aliases:
+- /docs/handbook-development_1_1/
+description: ''
+linkTitle: Handbook Development 1 1
+type: docs
+---
+
 <!-- Unsupported block type: image -->
 
 Development environment and processes for maintaining the handbook

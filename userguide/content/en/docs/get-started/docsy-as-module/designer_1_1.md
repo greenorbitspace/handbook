@@ -1,6 +1,13 @@
 ---
-title: "Designer"
-description: "As a designer for GitLab you would be responsible for creating and maintaining our brand."
+title: Designer
+description: As a designer for GitLab you would be responsible for creating and maintaining
+  our brand.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/designer_1_1/
+linkTitle: Designer
+type: docs
 ---
 
 As a designer for GitLab you would be responsible for creating and maintaining our brand. You will work on the design of the GitLab website, all marketing design needs, and all branding. You'll work very closely together with almost everyone in GitLab to make sure we follow good design principles and our branding is clear in everything we do. This means you get a lot of freedom, independence and responsibilities.

@@ -1,15 +1,14 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/systems/distribution/merge_requests.html
-
-title: "Distribution Team Merge Request Handling"
-description: "Workflow and responsibilities for Merge Requests performed by Distribution Engineers."
+aliases:
+- /docs/merge_requests_1_1/
+title: Distribution Team Merge Request Handling
+description: Workflow and responsibilities for Merge Requests performed by Distribution
+  Engineers.
+weight: 2
+date: '2025-06-12'
+linkTitle: Distribution Team Merge Request Handling
+type: docs
 ---
-
-
-
-
-
-
 
 ## Introduction
 

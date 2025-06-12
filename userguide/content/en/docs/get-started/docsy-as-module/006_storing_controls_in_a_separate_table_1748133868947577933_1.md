@@ -1,6 +1,13 @@
 ---
-title: "Compliance Frameworks ADR 006: Storing Controls in a separate Table"
+title: 'Compliance Frameworks ADR 006: Storing Controls in a separate Table'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/006_storing_controls_in_a_separate_table_1748133868947577933_1/
+description: ''
+linkTitle: 'Compliance Frameworks ADR 006: Storing Controls in a separate Table'
+type: docs
 ---
 
 ## Context

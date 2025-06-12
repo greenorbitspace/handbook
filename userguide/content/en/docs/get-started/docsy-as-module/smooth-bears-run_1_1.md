@@ -1,5 +1,13 @@
 ---
-'next': patch
+next: patch
+weight: 2
+date: '2025-06-12'
+title: Smooth Bears Run 1 1
+aliases:
+- /docs/smooth-bears-run_1_1/
+description: ''
+linkTitle: Smooth Bears Run 1 1
+type: docs
 ---
 
 [dev-overlay] Show error overlay on any thrown value

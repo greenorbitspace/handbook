@@ -1,13 +1,13 @@
 ---
-
 title: GitLab Incident Communications Plan
-description: 'Escalations, Processes, and How to Manage Incidents'
+description: Escalations, Processes, and How to Manage Incidents
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/incident-communications-plan_1_1/
+linkTitle: GitLab Incident Communications Plan
+type: docs
 ---
-
-
-
-
-
 
 ### If you need review from the corporate communications team on a potential incident, gather information in an issue or link us to the Slack discussion by message the team in the #corpcomms Slack channel and we'll work with the [Security Communication Manager on Call](/handbook/security/security-operations/sirt/security-incident-communication-plan.html#roles-and-responsibilities-in-a-security-incident) to determine next steps
 

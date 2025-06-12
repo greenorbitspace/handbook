@@ -1,6 +1,15 @@
 ---
-title: 'GitLab Secrets Manager ADR 005: Non-hierarchical key structure for secrets in OpenBao'
+title: 'GitLab Secrets Manager ADR 005: Non-hierarchical key structure for secrets
+  in OpenBao'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/005_secrets_key_structure_1/
+description: ''
+linkTitle: 'GitLab Secrets Manager ADR 005: Non-hierarchical key structure for secrets
+  in OpenBao'
+type: docs
 ---
 
 ## Context

@@ -1,7 +1,14 @@
 ---
 title: Data Requests
-description: Support Operations workflows for handling data requests from GitLab team members
-canonical_path: "/handbook/support/readiness/operations/docs/policies/data_requests"
+description: Support Operations workflows for handling data requests from GitLab team
+  members
+canonical_path: /handbook/support/readiness/operations/docs/policies/data_requests
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/data_requests_1_1/
+linkTitle: Data Requests
+type: docs
 ---
 
 ## Support Operations data requests

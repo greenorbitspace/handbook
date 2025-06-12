@@ -1,6 +1,12 @@
 ---
-title: "TMRG - Gente"
-description: "An overview of our TMRG Gente"
+title: TMRG - Gente
+description: An overview of our TMRG Gente
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tmrg-gitlab-gente_1_1/
+linkTitle: TMRG - Gente
+type: docs
 ---
 
 Bienvenidos, bem-vinda and welcome to the Gente space! We are a TMRG that was started in early 2021. Join us in [our slack channel](https://gitlab.slack.com/archives/C01JL1MGGV9) `#gente` to be notified of our upcoming calls and feel free to check out what we've been up to so far below.

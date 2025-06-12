@@ -5,6 +5,13 @@ doc_id: doc-572
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070711_comprehensive-financial-management-procedure_1_1/
+description: ''
+linkTitle: Comprehensive Financial Management Procedure
+type: docs
 ---
 
 Policy Statement:

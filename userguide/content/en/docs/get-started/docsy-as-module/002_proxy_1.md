@@ -1,6 +1,13 @@
 ---
 title: 'AI Gateway ADR 002: Exposing proxy endpoints to AI providers'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/002_proxy_1/
+description: ''
+linkTitle: 'AI Gateway ADR 002: Exposing proxy endpoints to AI providers'
+type: docs
 ---
 
 ## Summary

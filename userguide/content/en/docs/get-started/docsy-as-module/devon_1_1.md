@@ -1,13 +1,13 @@
 ---
-
-title: "Devon Persona snippets"
+title: Devon Persona snippets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/devon_1_1/
+description: ''
+linkTitle: Devon Persona snippets
+type: docs
 ---
-
-
-
-
-
-
 
 ## SDR persona snippets by use case
 

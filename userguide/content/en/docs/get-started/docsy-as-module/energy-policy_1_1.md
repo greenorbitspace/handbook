@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Energy Policy 1 1
+aliases:
+- /docs/energy-policy_1_1/
+description: ''
+linkTitle: Energy Policy 1 1
+type: docs
+---
+
 <!-- Unsupported block type: table_of_contents -->
 
 <!-- Unsupported block type: divider -->

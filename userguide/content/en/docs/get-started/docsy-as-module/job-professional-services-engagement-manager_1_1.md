@@ -1,5 +1,12 @@
 ---
-title: "Professional Services Engagement Manager"
+title: Professional Services Engagement Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/job-professional-services-engagement-manager_1_1/
+description: ''
+linkTitle: Professional Services Engagement Manager
+type: docs
 ---
 
 The Engagement Manager plays the critical role in helping Customers drive adoption of high value functionality of the GitLab platform. The Engagement Manager plays a sales overlay role by shaping customer engagements focused helping customers accelerated toward their positive business outcomes with GitLab. The Engagement Manager serves as a trusted advisor to customers in their portfolio, providing guidance to Sales, Customer Success and Professional Services Delivery team and ensuring the highest levels of customer satisfaction.

@@ -1,6 +1,12 @@
 ---
-title: "Coupa Prepaid Automation Process"
-description: "Coupa Prepaid Automation Process (as of 2022-04-01)"
+title: Coupa Prepaid Automation Process
+description: Coupa Prepaid Automation Process (as of 2022-04-01)
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_74_1_1/
+linkTitle: Coupa Prepaid Automation Process
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

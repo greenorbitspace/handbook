@@ -1,5 +1,12 @@
 ---
 title: GitLab for Education Program Agreement
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/education-agreement_1_1/
+description: ''
+linkTitle: GitLab for Education Program Agreement
+type: docs
 ---
 
 ## Education Program Agreement

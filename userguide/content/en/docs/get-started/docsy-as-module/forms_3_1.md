@@ -1,7 +1,13 @@
 ---
 title: Ticket Forms
 description: Support Operations documentation page for Zendesk ticket forms
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/forms"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/forms
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/forms_3_1/
+linkTitle: Ticket Forms
+type: docs
 ---
 
 ## What are ticket form

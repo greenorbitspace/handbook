@@ -1,6 +1,12 @@
 ---
-title: "Professional Services Engagement Management - SOW Creation"
-description: "Describes the workflows for processing different types of SOWs."
+title: Professional Services Engagement Management - SOW Creation
+description: Describes the workflows for processing different types of SOWs.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sow-processing_1_1/
+linkTitle: Professional Services Engagement Management - SOW Creation
+type: docs
 ---
 
 ## SOW Creation

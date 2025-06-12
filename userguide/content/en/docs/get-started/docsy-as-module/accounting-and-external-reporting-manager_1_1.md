@@ -1,6 +1,14 @@
 ---
-title: "Accounting and External Reporting"
-description: "The Accounting and External Reporting team are responsible for generating accurate and complete financial statements based on the applicable GAAP for all GitLab entities."
+title: Accounting and External Reporting
+description: The Accounting and External Reporting team are responsible for generating
+  accurate and complete financial statements based on the applicable GAAP for all
+  GitLab entities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/accounting-and-external-reporting-manager_1_1/
+linkTitle: Accounting and External Reporting
+type: docs
 ---
 
 The Accounting and External Reporting team are responsible for generating accurate and complete financial statements based on the applicable GAAP for all GitLab entities.  This team also is responsible for managing the consolidated and statutory audits for all entities.

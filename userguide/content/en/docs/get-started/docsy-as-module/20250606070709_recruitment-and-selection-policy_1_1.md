@@ -5,6 +5,13 @@ doc_id: doc-157
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070709_recruitment-and-selection-policy_1_1/
+description: ''
+linkTitle: Recruitment And Selection Policy
+type: docs
 ---
 
 ### 1. Policy Statement

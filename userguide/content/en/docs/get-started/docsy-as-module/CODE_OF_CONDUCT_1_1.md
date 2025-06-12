@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Code Of Conduct 1 1
+aliases:
+- /docs/CODE_OF_CONDUCT_1_1/
+description: ''
+linkTitle: Code Of Conduct 1 1
+type: docs
+---
+
 # Google Open Source Community Guidelines
 
 At Google, we recognize and celebrate the creativity and collaboration of open

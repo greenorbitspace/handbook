@@ -1,7 +1,12 @@
 ---
-aliases: /handbook/engineering/fellow/shadow
-title: "Engineering Fellow Shadow"
-description: "GitLab engineers: work with an Engineering Fellow for a week"
+aliases:
+- /docs/fellow-shadow_1_1/
+title: Engineering Fellow Shadow
+description: 'GitLab engineers: work with an Engineering Fellow for a week'
+weight: 2
+date: '2025-06-12'
+linkTitle: Engineering Fellow Shadow
+type: docs
 ---
 
 ## Introduction

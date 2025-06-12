@@ -1,3 +1,15 @@
+---
+weight: 2
+date: '2025-06-12'
+title: A Detailed Guide To Process Implementation In Your Agency  Processkit 1 1
+aliases:
+- /docs/a-detailed-guide-to-process-implementation-in-your-agency--processkit_1_1/
+description: ''
+linkTitle: A Detailed Guide To Process Implementation In Your Agency  Processkit 1
+  1
+type: docs
+---
+
 <!-- Unsupported block type: image -->
 
 A simple way to push out process changes without the disruption

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 2020 Indicator Updates 1 1
+aliases:
+- /docs/2020-indicator-updates_1_1/
+description: ''
+linkTitle: 2020 Indicator Updates 1 1
+type: docs
+---
+
 As part of the UN IAEG-SDG's [2020 Comprehensive Review Process](https://unstats.un.org/sdgs/iaeg-sdgs/2020-comp-rev/), 36 changes to the SDG indicators were recommended. The breakdown of changes include:
 
 - 14 proposals for replacements of existing indicators

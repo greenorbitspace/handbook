@@ -1,6 +1,13 @@
 ---
 title: Strategy
 Description: Migration report for moving the handbooks strategy section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/strategy-migration-report_1_1/
+description: ''
+linkTitle: Strategy
+type: docs
 ---
 
 **Section:** strategy

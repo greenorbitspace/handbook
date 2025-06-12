@@ -1,3 +1,13 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme Per Directory Addendum 1 1
+aliases:
+- /docs/readme-per-directory-addendum_1_1/
+description: ''
+linkTitle: Readme Per Directory Addendum 1 1
+type: docs
+---
 
 ## Which font?
 

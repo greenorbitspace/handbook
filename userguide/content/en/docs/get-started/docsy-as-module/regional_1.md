@@ -1,11 +1,19 @@
 ---
-title: "Regional Recovery"
+title: Regional Recovery
 status: ongoing
-creation-date: "2024-01-29"
-authors: [ "@jarv" ]
-coach:
-approvers: [  ]
+creation-date: '2024-01-29'
+authors:
+- '@jarv'
+coach: null
+approvers: []
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/regional_1/
+description: ''
+linkTitle: Regional Recovery
+type: docs
 ---
 
 ## Improving the Recovery Time Objective (RTO) and Recovery Point Objective (RPO) for Regional Recovery

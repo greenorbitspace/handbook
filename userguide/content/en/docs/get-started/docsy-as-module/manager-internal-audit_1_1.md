@@ -1,6 +1,13 @@
 ---
 title: Manager, Internal Audit and SOX
 Description: Responsible for managing the Internal Audit and SOX team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/manager-internal-audit_1_1/
+description: ''
+linkTitle: Manager, Internal Audit and SOX
+type: docs
 ---
 
 Additionally, they prepare and implement a risk-based audit plan to assess, report on, and make suggestions for improving the company’s key operational and finance activities and internal controls. The Manager Internal Audit reports to the Senior Internal Audit Manager.

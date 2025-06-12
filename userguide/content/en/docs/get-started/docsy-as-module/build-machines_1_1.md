@@ -1,16 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/systems/distribution/maintenance/build-machines.html
-
-title: "Distribution Team Infrastructure and Maintenance - Build Machines"
-description: "Details and maintenance tasks for the Distribution Team's build nodes"
+aliases:
+- /docs/build-machines_1_1/
+title: Distribution Team Infrastructure and Maintenance - Build Machines
+description: Details and maintenance tasks for the Distribution Team's build nodes
+weight: 2
+date: '2025-06-12'
+linkTitle: Distribution Team Infrastructure and Maintenance - Build Machines
+type: docs
 ---
-
-
-
-
-
-
-
 
 ## Common links
 

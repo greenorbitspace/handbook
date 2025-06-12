@@ -1,7 +1,13 @@
 ---
 title: Tags
 description: Support Operations documentation page for Zendesk tags
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/tags"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/tags
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tags_1_1/
+linkTitle: Tags
+type: docs
 ---
 
 ## What are Zendesk tags?

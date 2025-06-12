@@ -1,8 +1,13 @@
 ---
-title: "Only Healthy Constraints"
-description: "Companies often slow down as they mature. GitLab strives for healthy constraints."
+title: Only Healthy Constraints
+description: Companies often slow down as they mature. GitLab strives for healthy
+  constraints.
 aliases:
 - /handbook/only-healthy-constraints/
+weight: 2
+date: '2025-06-12'
+linkTitle: Only Healthy Constraints
+type: docs
 ---
 
 ## Introduction

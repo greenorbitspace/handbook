@@ -1,7 +1,16 @@
 ---
-title: "Support Engineer"
-description: "The core responsibility of a GitLab Support Engineer is to deliver an excellent support experience to our customers on a daily basis by working with them to solve the problems and answer the questions that they present to us in support tickets."
-canonical_path: "/job-families/engineering/support-engineer/"
+title: Support Engineer
+description: The core responsibility of a GitLab Support Engineer is to deliver an
+  excellent support experience to our customers on a daily basis by working with them
+  to solve the problems and answer the questions that they present to us in support
+  tickets.
+canonical_path: /job-families/engineering/support-engineer/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-engineer_1_1_1/
+linkTitle: Support Engineer
+type: docs
 ---
 
 <figure class="video_container">

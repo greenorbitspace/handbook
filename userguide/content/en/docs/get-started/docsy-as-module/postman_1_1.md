@@ -1,7 +1,12 @@
 ---
-
-title: "Postman"
-description: "Guidelines and best practices for using Postman"
+title: Postman
+description: Guidelines and best practices for using Postman
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/postman_1_1/
+linkTitle: Postman
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

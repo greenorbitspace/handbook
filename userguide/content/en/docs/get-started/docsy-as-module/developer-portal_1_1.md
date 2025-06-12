@@ -1,13 +1,13 @@
 ---
-
 title: Developer Portal Single-Engineer Group
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/developer-portal_1_1/
+description: ''
+linkTitle: Developer Portal Single-Engineer Group
+type: docs
 ---
-
-
-
-
-
-
 
 ## Developer Portal Single-Engineer Group
 

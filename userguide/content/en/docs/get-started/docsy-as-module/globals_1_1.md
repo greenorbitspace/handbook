@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Globals 1 1
+aliases:
+- /docs/globals_1_1/
+description: ''
+linkTitle: Globals 1 1
+type: docs
+---
+
 [kepler.gl](README.md) › [Globals](globals.md)
 
 # kepler.gl

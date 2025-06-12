@@ -1,6 +1,13 @@
 ---
-owning-stage: "~devops::secure"
+owning-stage: ~devops::secure
 title: 'EPSS Support ADR 003: Switched from EPSS API to CSV File'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/003_switch_from_api_to_csv_file_1/
+description: ''
+linkTitle: 'EPSS Support ADR 003: Switched from EPSS API to CSV File'
+type: docs
 ---
 
 ## Context

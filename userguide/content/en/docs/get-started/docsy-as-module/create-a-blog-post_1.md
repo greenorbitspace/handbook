@@ -1,5 +1,13 @@
 ---
 sidebar_position: 3
+weight: 2
+date: '2025-06-12'
+title: Create A Blog Post 1
+aliases:
+- /docs/create-a-blog-post_1/
+description: ''
+linkTitle: Create A Blog Post 1
+type: docs
 ---
 
 # Create a Blog Post

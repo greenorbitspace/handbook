@@ -1,7 +1,13 @@
 ---
-
-title: "Mark Nuzzo's README"
-job: "Backend Engineering Manager, Verify:Pipeline Authoring"
+title: Mark Nuzzo's README
+job: Backend Engineering Manager, Verify:Pipeline Authoring
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mark-nuzzo_1_1/
+description: ''
+linkTitle: Mark Nuzzo's README
+type: docs
 ---
 
 ## Mark Nuzzo's README

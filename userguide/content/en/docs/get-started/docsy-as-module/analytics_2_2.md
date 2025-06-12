@@ -1,6 +1,13 @@
 ---
-title: "Marketing web analytics"
-description: "Our marketing team uses analtyics tools to understand how people discover and use our marketing website."
+title: Marketing web analytics
+description: Our marketing team uses analtyics tools to understand how people discover
+  and use our marketing website.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/analytics_2_2/
+linkTitle: Marketing web analytics
+type: docs
 ---
 
 Our marketing team uses analtyics tools to understand how people discover and use our marketing website. The Inbound Marketing team manages the analytics implementation for our public websites, including about.gitlab.com and docs.gitlab.com. Our tools include Google Tag Manager, Google Analytics, and Google dataStudio.

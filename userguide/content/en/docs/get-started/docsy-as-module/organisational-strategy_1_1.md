@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Organisational Strategy 1 1
+aliases:
+- /docs/organisational-strategy_1_1/
+description: ''
+linkTitle: Organisational Strategy 1 1
+type: docs
+---
+
 Functions not personalities 
 
 Structure 

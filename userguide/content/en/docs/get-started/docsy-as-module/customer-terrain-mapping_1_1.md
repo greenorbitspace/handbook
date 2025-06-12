@@ -1,5 +1,12 @@
 ---
-title: "Customer Terrain Mapping Engagements"
+title: Customer Terrain Mapping Engagements
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-terrain-mapping_1_1/
+description: ''
+linkTitle: Customer Terrain Mapping Engagements
+type: docs
 ---
 
 Customer Terrain Mapping Engagements provide customers with the benefit of GitLab's experience with DevOps methodologies, Git, GitLab, CI, CD and monitoring by brainstorming a high level, first draft discovery of their specific challenges that need to be addressed for success in a scoped area of DevOps (a Terrain). The need for this generally arises when the customer is getting ready to utilize technologies and/or methodologies they are less familiar with.

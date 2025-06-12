@@ -6,9 +6,15 @@ img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
 tags:
-  - Design
-  - Dev
-  - User Testing
+- Design
+- Dev
+- User Testing
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/markdown-mystery-tour_1_1/
+linkTitle: Markdown Mystery Tour
+type: docs
 ---
 
 ## Level-two heading

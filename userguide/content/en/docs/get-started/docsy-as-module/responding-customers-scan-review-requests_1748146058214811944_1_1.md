@@ -1,5 +1,12 @@
 ---
-title: "Responding to customers security scanners review requests"
+title: Responding to customers security scanners review requests
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/responding-customers-scan-review-requests_1748146058214811944_1_1/
+description: ''
+linkTitle: Responding to customers security scanners review requests
+type: docs
 ---
 
 We scan our own product using our [security scanners](https://docs.gitlab.com/ee/user/application_security/). Our Engineering teams are remediating vulnerabilities detected by our scanners on a regular basis. This is done when a patch is available **and** for vulnerabilities that can be exploited in our context.

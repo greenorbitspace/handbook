@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Upgrading 1 1
+aliases:
+- /docs/upgrading_1_1/
+description: ''
+linkTitle: Upgrading 1 1
+type: docs
+---
+
 # Upgrading Luxon
 
 ## 1.x to 2.0

@@ -1,6 +1,12 @@
 ---
-title: "GitLab Korea Limited Benefits"
-description: "Discover GitLab's benefits for team members in Korea"
+title: GitLab Korea Limited Benefits
+description: Discover GitLab's benefits for team members in Korea
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/korea-ltd-benefits_1_1/
+linkTitle: GitLab Korea Limited Benefits
+type: docs
 ---
 
 ## Medical

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Access Control 1
+aliases:
+- /docs/access-control_1/
+description: ''
+linkTitle: Access Control 1
+type: docs
+---
+
 ## Access Control
 
 This document describes the key features and concepts of the current state of 

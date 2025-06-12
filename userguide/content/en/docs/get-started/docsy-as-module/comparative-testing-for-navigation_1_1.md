@@ -1,5 +1,12 @@
 ---
-title: "Comparative testing for navigation"
+title: Comparative testing for navigation
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/comparative-testing-for-navigation_1_1/
+description: ''
+linkTitle: Comparative testing for navigation
+type: docs
 ---
 
 [Comparative, qualitative usability testing](https://www.uxmatters.com/mt/archives/2017/03/conducting-qualitative-comparative-usability-testing.php) enables you to get feedback on 2-3 designs **early in the design process** to assess the pros and cons of different design directions. This is different from quantitative comparative studies that focus on benchmarking and measurement of the design.

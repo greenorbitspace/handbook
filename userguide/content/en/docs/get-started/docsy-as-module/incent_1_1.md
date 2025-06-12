@@ -1,12 +1,13 @@
 ---
-
-title: "Incent Technical Documentation"
+title: Incent Technical Documentation
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/incent_1_1/
+description: ''
+linkTitle: Incent Technical Documentation
+type: docs
 ---
-
-
-
-
-
 
 ## How to use this documentation
 

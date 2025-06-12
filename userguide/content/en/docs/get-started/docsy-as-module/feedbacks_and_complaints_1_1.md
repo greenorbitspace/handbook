@@ -1,12 +1,16 @@
 ---
-
 title: Feedback and Complaints
 category: Handling tickets
 subcategory: Writing responses and handling feedback
-description: "Support Engineering workflow for receiving and responding to customer feedback"
+description: Support Engineering workflow for receiving and responding to customer
+  feedback
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/feedbacks_and_complaints_1_1/
+linkTitle: Feedback and Complaints
+type: docs
 ---
-
-
 
 ### Overview
 

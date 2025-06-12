@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Tutorial Print Macosx 1 1
+aliases:
+- /docs/tutorial-print-macosx_1_1/
+description: ''
+linkTitle: Tutorial Print Macosx 1 1
+type: docs
+---
+
 # How to directly print to your ReMarkable on Mac
 
 This tuorial wil show you how to leverage [rmapi](https://github.com/juruen/rmapi) and `Automator` to print

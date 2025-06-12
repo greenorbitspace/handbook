@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 1 Modeling 1 1
+aliases:
+- /docs/1-modeling_1_1/
+description: ''
+linkTitle: 1 Modeling 1 1
+type: docs
+---
+
 ### model your data in prisma schema
 - in your `shema.prisma` file
 ```ts

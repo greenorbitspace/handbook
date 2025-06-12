@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 11 1 1 1
+aliases:
+- /docs/README_11_1_1_1/
+description: ''
+linkTitle: Readme 11 1 1 1
+type: docs
+---
+
 # markdownlint-cli2
 
 > A fast, flexible, configuration-based command-line interface for linting

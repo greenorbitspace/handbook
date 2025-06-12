@@ -1,6 +1,13 @@
 ---
-title: "Engineering Management Career Development"
-description: "Career development information and process to follow for Engineering Managers at GitLab."
+title: Engineering Management Career Development
+description: Career development information and process to follow for Engineering
+  Managers at GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/management-career-development_1748146057982394118_1_1/
+linkTitle: Engineering Management Career Development
+type: docs
 ---
 
 Outside of [hiring](/handbook/engineering/management/hiring/), the best way to improve the strengths of your team

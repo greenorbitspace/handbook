@@ -3,6 +3,13 @@ stage: enablement
 group: Tenant Scale
 title: 'Cells: Explore'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/explore_2/
+description: ''
+linkTitle: 'Cells: Explore'
+type: docs
 ---
 
 {{% alert %}}

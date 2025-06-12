@@ -1,6 +1,13 @@
 ---
 title: Miscellaneous
-description: "Information on automations related to syncing to our team page, job families, and more."
+description: Information on automations related to syncing to our team page, job families,
+  and more.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/miscellaneous_1_1/
+linkTitle: Miscellaneous
+type: docs
 ---
 
 ## Team page entry daily sync

@@ -1,6 +1,12 @@
 ---
-title: "Tableau Admin Guide"
-description: "Tableau at GitLab"
+title: Tableau Admin Guide
+description: Tableau at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_53_1_1/
+linkTitle: Tableau Admin Guide
+type: docs
 ---
 
 This page describes the processes used to administer the Tableau sites managed by GitLab.  Additional run books, scripts, tools and repositories related to the processes will be referenced throughout this guide.

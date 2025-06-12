@@ -1,12 +1,15 @@
 ---
-
 title: Working with Issues
 category: Handling tickets
-description: The support team uses the processes and escalation points described on this page when creating, updating and escalating GitLab issues.
-
+description: The support team uses the processes and escalation points described on
+  this page when creating, updating and escalating GitLab issues.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/working-with-issues_1_1/
+linkTitle: Working with Issues
+type: docs
 ---
-
-
 
 Creating, updating and escalating GitLab issues correctly is an important part of providing quick and accurate customer support. The support team uses the processes and escalation points described on this page when dealing with GitLab issues.
 

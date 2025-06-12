@@ -1,7 +1,14 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/data_stores/database-reliability/dbre-escalation/process.html
+aliases:
+- /docs/dbre-escalation-process_1_2/
 title: DBRE Escalation Process
-summary: This page outlines the DBRE team escalation process and guidelines for developing the rotation schedule for handling infrastructure incident escalations.
+summary: This page outlines the DBRE team escalation process and guidelines for developing
+  the rotation schedule for handling infrastructure incident escalations.
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: DBRE Escalation Process
+type: docs
 ---
 
 {{% alert title="Note" color="danger" %}}

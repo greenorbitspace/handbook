@@ -1,7 +1,14 @@
 ---
-owning-stage: "~devops::verify"
-title: "Steps Runner Deployment and Lifecycle Management for Runner Integration."
+owning-stage: ~devops::verify
+title: Steps Runner Deployment and Lifecycle Management for Runner Integration.
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/service-deployment_1_1/
+description: ''
+linkTitle: Steps Runner Deployment and Lifecycle Management for Runner Integration.
+type: docs
 ---
 
 This Blueprint is concerned with:

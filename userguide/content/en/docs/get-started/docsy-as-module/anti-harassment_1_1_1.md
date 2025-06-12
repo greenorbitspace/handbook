@@ -1,6 +1,13 @@
 ---
-title: "Anti-Harassment Policy"
-description: "Everyone at GitLab has a responsibility to prevent and stop harassment. Learn more about our Anti-harassment policy."
+title: Anti-Harassment Policy
+description: Everyone at GitLab has a responsibility to prevent and stop harassment.
+  Learn more about our Anti-harassment policy.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/anti-harassment_1_1_1/
+linkTitle: Anti-Harassment Policy
+type: docs
 ---
 
 {{% panel header="**This is a Secure Document**" header-bg="orange" %}}

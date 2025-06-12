@@ -1,6 +1,12 @@
 ---
-title: "Data Science Handbook"
-description: "GitLab Data Science Team Handbook"
+title: Data Science Handbook
+description: GitLab Data Science Team Handbook
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_52_1_1/
+linkTitle: Data Science Handbook
+type: docs
 ---
 
 {{% alert title="Purpose" color="success" %}}

@@ -1,5 +1,12 @@
 ---
-title: "AppSec Engineer's Local Setup"
+title: AppSec Engineer's Local Setup
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/local-setup_1_1/
+description: ''
+linkTitle: AppSec Engineer's Local Setup
+type: docs
 ---
 
 When evaluating security issues or MRs, it can be useful to have a way to reproduce issues, dig in to root causes, look for further impacts. This can also be a great way to get familiar with GitLab during your first few weeks of onboarding. Here are some handy tips & tricks.

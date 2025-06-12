@@ -1,5 +1,12 @@
 ---
-title: "git"
+title: git
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/git_1/
+description: ''
+linkTitle: git
+type: docs
 ---
 
 You know what `git` is. 😄

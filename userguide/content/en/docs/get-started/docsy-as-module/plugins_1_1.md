@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Plugins 1 1
+aliases:
+- /docs/plugins_1_1/
+description: ''
+linkTitle: Plugins 1 1
+type: docs
+---
+
 # Plugin Handbook
 
 ## Table of Contents

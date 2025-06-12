@@ -1,11 +1,14 @@
 ---
-
 title: Calendly Setup for Support
 category: References
-description: "Workflow for setting up and using Calendly in Support Engineering"
+description: Workflow for setting up and using Calendly in Support Engineering
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/calendly_1_1/
+linkTitle: Calendly Setup for Support
+type: docs
 ---
-
-
 
 **Note**: Always use [single-use Calendly links](#generating-a-single-use-calendly-link) when offering a call with customers.
 

@@ -4,6 +4,12 @@ description: Traction Lead Complete Overview
 twitter_image: /images/tweets/handbook-marketing.png
 twitter_site: '@gitlab'
 twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/traction-lead-complete_1_1/
+linkTitle: Traction Lead Complete
+type: docs
 ---
 
 - Overview

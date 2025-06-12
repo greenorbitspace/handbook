@@ -1,6 +1,13 @@
 ---
 title: Brilliant
-description: Brilliant Gifts will serve as GitLab's "swag" vendor platform (company-branded products) for the public-facing swag shop website.
+description: Brilliant Gifts will serve as GitLab's "swag" vendor platform (company-branded
+  products) for the public-facing swag shop website.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/brilliant_1/
+linkTitle: Brilliant
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

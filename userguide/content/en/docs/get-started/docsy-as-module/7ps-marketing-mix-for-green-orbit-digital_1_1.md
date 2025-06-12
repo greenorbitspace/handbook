@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 7Ps Marketing Mix For Green Orbit Digital 1 1
+aliases:
+- /docs/7ps-marketing-mix-for-green-orbit-digital_1_1/
+description: ''
+linkTitle: 7Ps Marketing Mix For Green Orbit Digital 1 1
+type: docs
+---
+
 ### 1. Product
 
 <!-- Unsupported block type: divider -->

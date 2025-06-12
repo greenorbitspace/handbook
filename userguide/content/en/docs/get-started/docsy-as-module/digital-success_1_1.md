@@ -1,6 +1,14 @@
 ---
-title: "Digital Success"
-description: "Digital Success team is a post-sales motion, accountable for driving customer adoption, measurable outcomes, and customer satisfaction through digital-first strategies."
+title: Digital Success
+description: Digital Success team is a post-sales motion, accountable for driving
+  customer adoption, measurable outcomes, and customer satisfaction through digital-first
+  strategies.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/digital-success_1_1/
+linkTitle: Digital Success
+type: docs
 ---
 
 ## Digital Success

@@ -1,6 +1,12 @@
 ---
-title: "Merge Request Roles and Responsibilities"
-description: "GitLab Data Team MR responsibilities"
+title: Merge Request Roles and Responsibilities
+description: GitLab Data Team MR responsibilities
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mr-review_1_1/
+linkTitle: Merge Request Roles and Responsibilities
+type: docs
 ---
 
 ## <i class="fas fa-users fa-fw color-orange font-awesome" aria-hidden="true"></i>Merge Request Roles and Responsibilities

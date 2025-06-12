@@ -1,6 +1,13 @@
 ---
-title: "Why are there noinspection comments"
+title: Why are there noinspection comments
 no_list: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/why-are-there-noinspection-comments_1_1/
+description: ''
+linkTitle: Why are there noinspection comments
+type: docs
 ---
 
 ## What are all the `noinspection` comments in the code?

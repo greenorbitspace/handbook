@@ -1,7 +1,13 @@
 ---
 title: Organization Fields
 description: Support Operations documentation page for Zendesk organization fields
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/org-fields"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/org-fields
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/org-fields_2_1_1/
+linkTitle: Organization Fields
+type: docs
 ---
 
 ## What are organization fields

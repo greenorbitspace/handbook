@@ -1,6 +1,13 @@
 ---
-title: "Associate - Infrastructure Department Career Framework"
-description: "The expected team member competencies in the Infrastructure department at GitLab for the Associate job level."
+title: Associate - Infrastructure Department Career Framework
+description: The expected team member competencies in the Infrastructure department
+  at GitLab for the Associate job level.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/associate_2_1_1/
+linkTitle: Associate - Infrastructure Department Career Framework
+type: docs
 ---
 
 {{% include "includes/engineering-careers/career-matrix-nav.md" %}}

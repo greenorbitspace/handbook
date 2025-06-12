@@ -1,6 +1,15 @@
 ---
-title: "GitLab Agile Portfolio Management- Hands-On Lab: Use A Merge Request To Review And Merge Code"
-description: "This Hands-On Guide walks you through creating a merge request and approval rules in GitLab."
+title: 'GitLab Agile Portfolio Management- Hands-On Lab: Use A Merge Request To Review
+  And Merge Code'
+description: This Hands-On Guide walks you through creating a merge request and approval
+  rules in GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabpmhandsonlab6_1_1/
+linkTitle: 'GitLab Agile Portfolio Management- Hands-On Lab: Use A Merge Request To
+  Review And Merge Code'
+type: docs
 ---
 
 > Estimated time to complete: 45-60 minutes

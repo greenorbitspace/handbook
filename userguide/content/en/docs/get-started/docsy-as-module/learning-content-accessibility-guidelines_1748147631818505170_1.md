@@ -1,5 +1,12 @@
 ---
-title: "Learning Content Accessibility Guidelines"
+title: Learning Content Accessibility Guidelines
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/learning-content-accessibility-guidelines_1748147631818505170_1/
+description: ''
+linkTitle: Learning Content Accessibility Guidelines
+type: docs
 ---
 
 ## Overview

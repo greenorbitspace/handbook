@@ -1,5 +1,12 @@
 ---
 title: Senior Director, Corporate Security & IT Operations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior-director-corpsec-it-operations_1_1/
+description: ''
+linkTitle: Senior Director, Corporate Security & IT Operations
+type: docs
 ---
 
 The Corporate Security & IT Operations Job Family leads a team of highly-collaborative and results-oriented Security and IT team members tasked with delivering and securing global IT services across the company. The Senior Director, Corporate Security & IT Operations is in charge of securing, scaling, increasing performance, and providing great team member experience in order to help drive forward business success based on world class infrastructure & operations.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Marketing Audit 1 1
+aliases:
+- /docs/marketing-audit_1_1/
+description: ''
+linkTitle: Marketing Audit 1 1
+type: docs
+---
+
 A marketing audit is a periodic review of a business’ marketing strategy, designed to help identify whether the existing strategy requires changing and where the direction of the company needs to go in the future. It’s a useful tool which can help businesses to increase the return on its marketing budget if successful changes are made.
 
 ## Define your objectives

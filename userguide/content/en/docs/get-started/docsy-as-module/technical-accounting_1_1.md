@@ -1,6 +1,13 @@
 ---
-title: "Technical Accounting Management"
-description: "The Technical Accounting Role deeply understands GAAP accounting principles and how to apply those principles to GitLab’s financial statements."
+title: Technical Accounting Management
+description: The Technical Accounting Role deeply understands GAAP accounting principles
+  and how to apply those principles to GitLab’s financial statements.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/technical-accounting_1_1/
+linkTitle: Technical Accounting Management
+type: docs
 ---
 
 The Technical Accounting Role deeply understands GAAP accounting principles and how to apply those principles to GitLab’s financial statements.

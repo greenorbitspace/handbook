@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Simplify Reproduction 1 1
+aliases:
+- /docs/simplify-reproduction_1_1/
+description: ''
+linkTitle: Simplify Reproduction 1 1
+type: docs
+---
+
 We cannot easily recreate the issue with the provided information. Please add a **minimal** reproduction in order for us to be able to help more efficiently.
 
 ### Why was this issue marked with the `please simplify reproduction` label?

@@ -5,6 +5,13 @@ doc_id: doc-672
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070712_modern-slavery-and-human-trafficking-statement_1_1/
+description: ''
+linkTitle: Modern Slavery And Human Trafficking Statement
+type: docs
 ---
 
 Introduction:

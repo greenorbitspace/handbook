@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Streaming 1 1
+aliases:
+- /docs/streaming_1_1/
+description: ''
+linkTitle: Streaming 1 1
+type: docs
+---
+
 Streaming endpoint delivers Tweet objects through a persistent HTTP GET connection.
 
 And now has two different api.

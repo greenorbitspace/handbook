@@ -3,6 +3,13 @@ stage: enablement
 group: Tenant Scale
 title: 'Cells: Organizations'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/organizations_1_1_1/
+description: ''
+linkTitle: 'Cells: Organizations'
+type: docs
 ---
 
 {{% alert %}}

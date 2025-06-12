@@ -1,5 +1,12 @@
 ---
-title: "Director of Customer Success"
+title: Director of Customer Success
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/director-customer-success_2_1/
+description: ''
+linkTitle: Director of Customer Success
+type: docs
 ---
 
 The Director of Customer Success Job Family, builds and leads the customer success team, including Solution Architects, Professional Services, and Technical Account Management. The Customer Success team drives the technical portion of a sale as well as ensure GitLab customers successfully adopt the product with a positive experience, driving growth for GitLab through renewals and expansion.

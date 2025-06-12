@@ -1,15 +1,13 @@
 ---
-
-title: "Hacker News"
+title: Hacker News
 aliases:
 - /handbook/marketing/developer-relations/developer-evangelism/hacker-news/index.html
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Hacker News
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

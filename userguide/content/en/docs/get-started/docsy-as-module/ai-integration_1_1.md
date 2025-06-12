@@ -1,7 +1,14 @@
 ---
-title: "AI Integration"
-description: "The GitLab AI Integration Working Group aims to define, coordinate and ramp up integration of AI capabilities into all product areas"
+title: AI Integration
+description: The GitLab AI Integration Working Group aims to define, coordinate and
+  ramp up integration of AI capabilities into all product areas
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ai-integration_1_1/
+linkTitle: AI Integration
+type: docs
 ---
 
 ## Attributes

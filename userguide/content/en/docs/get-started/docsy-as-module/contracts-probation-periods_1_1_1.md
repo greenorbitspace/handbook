@@ -1,6 +1,12 @@
 ---
-title: "Contracts, Background Screenings, Probation Periods & PIAA"
-description: "GitLab contract information and associated procedures."
+title: Contracts, Background Screenings, Probation Periods & PIAA
+description: GitLab contract information and associated procedures.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/contracts-probation-periods_1_1_1/
+linkTitle: Contracts, Background Screenings, Probation Periods & PIAA
+type: docs
 ---
 
 ## Contract Templates

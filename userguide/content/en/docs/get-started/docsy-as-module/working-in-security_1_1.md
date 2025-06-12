@@ -1,5 +1,12 @@
 ---
-title: "Working in Security"
+title: Working in Security
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/working-in-security_1_1/
+description: ''
+linkTitle: Working in Security
+type: docs
 ---
 
 ## Security Hiring

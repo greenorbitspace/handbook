@@ -1,7 +1,14 @@
 ---
-owning-stage: "~devops::data stores" # because Tenant Scale is under this
+owning-stage: ~devops::data stores
 title: 'Cells ADR 005: Flexible Reference Architectures'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/005_flexible_reference_architectures_1748147631649033110_1_1/
+description: ''
+linkTitle: 'Cells ADR 005: Flexible Reference Architectures'
+type: docs
 ---
 
 ## Glossary

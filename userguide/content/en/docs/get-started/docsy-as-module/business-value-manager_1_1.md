@@ -1,5 +1,12 @@
 ---
 title: Business Value Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/business-value-manager_1_1/
+description: ''
+linkTitle: Business Value Manager
+type: docs
 ---
 
 Business Value Managers, as part of the Business Value Services team, are responsible for scaling quantifiable value-oriented conversations across the Enterprise Majors sales teams to drive higher sales effectiveness and productivity.  Specifically, the team manages the approach and associated tooling required to build value-driven business justifications for strategic opportunities.  The team also engages on highly strategic, high-LAM opportunities where appropriate.

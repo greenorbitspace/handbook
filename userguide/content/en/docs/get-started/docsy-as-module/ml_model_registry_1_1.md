@@ -1,7 +1,12 @@
 ---
-aliases: /handbook/engineering/development/incubation/mlops/ml_model_registry.html
-
+aliases:
+- /docs/ml_model_registry_1_1/
 title: ML Model Registry
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: ML Model Registry
+type: docs
 ---
 
 This is a project led by the Incubation Engineer - MLOps

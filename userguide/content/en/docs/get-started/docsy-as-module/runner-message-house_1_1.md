@@ -1,14 +1,14 @@
 ---
-
-title: "Runner Message House"
-description: Messaging and positioning for GitLab Runner, the open source project that is used to run your jobs and send the results back to GitLab.
+title: Runner Message House
+description: Messaging and positioning for GitLab Runner, the open source project
+  that is used to run your jobs and send the results back to GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/runner-message-house_1_1/
+linkTitle: Runner Message House
+type: docs
 ---
-
-
-
-
-
-
 
 ## Background info
 

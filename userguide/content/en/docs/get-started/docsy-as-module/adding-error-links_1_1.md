@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Adding Error Links 1 1
+aliases:
+- /docs/adding-error-links_1_1/
+description: ''
+linkTitle: Adding Error Links 1 1
+type: docs
+---
+
 # Adding Warning and Error Descriptions
 
 Next.js has a system to add helpful links to warnings and errors.

@@ -1,7 +1,14 @@
 ---
-title: "GitLab France S.A.S. Remote Work Charter"
-description: GitLab France S.A.S. Remote Work Charter - French and English language versions.
+title: GitLab France S.A.S. Remote Work Charter
+description: GitLab France S.A.S. Remote Work Charter - French and English language
+  versions.
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/remote-work-charter_1_1/
+linkTitle: GitLab France S.A.S. Remote Work Charter
+type: docs
 ---
 
 ## Français: GITLAB FRANCE S.A.S. CHARTE SUR LE TÉLÉTRAVAIL

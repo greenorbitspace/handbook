@@ -1,11 +1,17 @@
 ---
 title: Creating Agent Rule Expressions
-description: "Agent expression attributes and operators for CSM Threats Rules"
+description: Agent expression attributes and operators for CSM Threats Rules
 disable_edit: true
 further_reading:
-- link: "/security/cloud_workload_security/getting_started/"
-  tag: "Documentation"
-  text: "Get started with Datadog CSM Threats"
+- link: /security/cloud_workload_security/getting_started/
+  tag: Documentation
+  text: Get started with Datadog CSM Threats
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/agent_expressions_1_1/
+linkTitle: Creating Agent Rule Expressions
+type: docs
 ---
 
 ## Create custom rules using the Assisted rule creator

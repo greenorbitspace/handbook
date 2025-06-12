@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Recruitment And Hiring 1 1
+aliases:
+- /docs/recruitment-and-hiring_1_1/
+description: ''
+linkTitle: Recruitment And Hiring 1 1
+type: docs
+---
+
 # Recruitment and Hiring Procedures
 
 ## 1. Job Posting Process

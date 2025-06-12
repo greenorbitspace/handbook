@@ -1,6 +1,13 @@
 ---
-title: "High Velocity Sales and First Orders - Feedback Collection and Best Practices"
-description: "Overview of how HVS collects product, systems, and case operations feedback, along with how to best provide feedback"
+title: High Velocity Sales and First Orders - Feedback Collection and Best Practices
+description: Overview of how HVS collects product, systems, and case operations feedback,
+  along with how to best provide feedback
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/hvs_fo_feedback_1_1/
+linkTitle: High Velocity Sales and First Orders - Feedback Collection and Best Practices
+type: docs
 ---
 
 ## Background

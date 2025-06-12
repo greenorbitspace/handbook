@@ -1,5 +1,12 @@
 ---
-title: "Partner Integration Engineering"
+title: Partner Integration Engineering
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/partner-integration-engineering_1_1/
+description: ''
+linkTitle: Partner Integration Engineering
+type: docs
 ---
 
 The Partner Integration Engineering job family will provide technical guidance to our technology partners through integrating with GitLab using our existing OAuth flows, APIs, and Webhooks. The PIE engineering team will also work closely with GitLab Ecosystem Engineering and GitLab Product Management to advocate for changes in our product to improve the overall integration experience.

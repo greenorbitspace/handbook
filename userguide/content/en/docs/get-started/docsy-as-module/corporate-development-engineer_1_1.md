@@ -1,8 +1,13 @@
 ---
-title: "Data Engineer, Corporate Development"
-description: "As a Data Engineer in Corporate Development, you'll be in charge of developing
-innovative technical solutions to automate, scale, and streamline business
-operations"
+title: Data Engineer, Corporate Development
+description: As a Data Engineer in Corporate Development, you'll be in charge of developing
+  innovative technical solutions to automate, scale, and streamline business operations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/corporate-development-engineer_1_1/
+linkTitle: Data Engineer, Corporate Development
+type: docs
 ---
 
 As a Data Engineer in Corporate Development, you'll be in charge of developing

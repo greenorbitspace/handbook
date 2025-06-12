@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme Es 1
+aliases:
+- /docs/README-es_1/
+description: ''
+linkTitle: Readme Es 1
+type: docs
+---
+
 <div align="center">
 🎉 announcing <a href="https://github.com/dotenvx/dotenvx">dotenvx</a>. <em>run anywhere, multi-environment, encrypted envs</em>.
 </div>

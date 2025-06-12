@@ -1,7 +1,14 @@
 ---
-title: "Michael 'dnsmichi' Friedrich README (Senior Developer Advocate)"
-description: "Learn more about working with Michael 'dnsmichi' Friedrich, Senior Developer Advocate, GitLab"
-job: "Developer Advocate"
+title: Michael 'dnsmichi' Friedrich README (Senior Developer Advocate)
+description: Learn more about working with Michael 'dnsmichi' Friedrich, Senior Developer
+  Advocate, GitLab
+job: Developer Advocate
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/michael-friedrich_1_1/
+linkTitle: Michael 'dnsmichi' Friedrich README (Senior Developer Advocate)
+type: docs
 ---
 
 This page is intended to help everyone to understand how I work, how to find me, my strengths and weaknesses, and my expertise and background. I'm intentionally vulnerable and open to feedback.

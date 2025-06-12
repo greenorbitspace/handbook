@@ -1,6 +1,12 @@
 ---
 title: Knowledge Base
-description:
+description: ''
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_96_1_1/
+linkTitle: Knowledge Base
+type: docs
 ---
 
 The knowledge base (KB) is a repository of solutions to commonly-encountered problems, created and

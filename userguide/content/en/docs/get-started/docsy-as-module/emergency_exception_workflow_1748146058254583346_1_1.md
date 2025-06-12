@@ -1,7 +1,13 @@
 ---
 title: Emergency Exception Workflow
 category: On-call
-description: "Describes the exception process for emergencies with some examples"
+description: Describes the exception process for emergencies with some examples
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/emergency_exception_workflow_1748146058254583346_1_1/
+linkTitle: Emergency Exception Workflow
+type: docs
 ---
 
 ## Introduction

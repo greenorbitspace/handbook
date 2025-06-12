@@ -5,6 +5,13 @@ doc_id: doc-274
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070710_notions-office-manual_1_1/
+description: ''
+linkTitle: Notions Office Manual
+type: docs
 ---
 
 <!-- Unsupported block type: column_list -->

@@ -1,7 +1,14 @@
 ---
 title: Billing, invoice and payments requests
 category: General
-description: Some billing and invoicing requests require action from our Billing/Accounts Receivable team.
+description: Some billing and invoicing requests require action from our Billing/Accounts
+  Receivable team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/billing_contact_change_payments_1748146058241625008_1_1/
+linkTitle: Billing, invoice and payments requests
+type: docs
 ---
 
 ## Overview

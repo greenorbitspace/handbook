@@ -1,10 +1,16 @@
 ---
-title: "Why GitLab uses the term all-remote to describe its 100% remote workforce"
+title: Why GitLab uses the term all-remote to describe its 100% remote workforce
 description: Remote work terminology
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/terminology_1_1_1/
+linkTitle: Why GitLab uses the term all-remote to describe its 100% remote workforce
+type: docs
 ---
 
 ![GitLab all-remote team](/images/all-remote/gitlab-com-all-remote-1280x270.png)

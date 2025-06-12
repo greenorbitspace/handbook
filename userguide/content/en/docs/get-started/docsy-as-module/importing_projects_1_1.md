@@ -1,7 +1,14 @@
 ---
 title: Project Imports and Exports for Customers
-description: "Provides guidance on when GitLab Team members might offer to import projects on behalf of customers, and the process for doing so."
+description: Provides guidance on when GitLab Team members might offer to import projects
+  on behalf of customers, and the process for doing so.
 category: GitLab.com
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/importing_projects_1_1/
+linkTitle: Project Imports and Exports for Customers
+type: docs
 ---
 
 ## Reminder

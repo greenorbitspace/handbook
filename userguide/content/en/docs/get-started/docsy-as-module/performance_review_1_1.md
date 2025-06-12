@@ -1,11 +1,14 @@
 ---
-
 title: Performance reviews
 category: Support Team
 description: Information about performance reviews in Support Engineering
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/performance_review_1_1/
+linkTitle: Performance reviews
+type: docs
 ---
-
-
 
 ## Overview
 

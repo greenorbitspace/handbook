@@ -1,5 +1,12 @@
 ---
-title: "Secret push protection performance testing"
+title: Secret push protection performance testing
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/secret-push-protection-performance-testing_1_1/
+description: ''
+linkTitle: Secret push protection performance testing
+type: docs
 ---
 
 ### When to use this runbook?

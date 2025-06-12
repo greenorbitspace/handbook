@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Creating Components 1 1
+aliases:
+- /docs/creating-components_1_1/
+description: ''
+linkTitle: Creating Components 1 1
+type: docs
+---
+
 # Creating a Component
 
 This page explains how to create components in detail.

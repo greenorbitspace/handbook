@@ -2,7 +2,13 @@
 title: Handbook
 description: Here's where your user finds out if your project is for them.
 weight: 1
+date: '2025-06-12'
+aliases:
+- /docs/handbook_1_1/
+linkTitle: Handbook
+type: docs
 ---
+
 {{% pageinfo %}}
 
 This is a placeholder page that shows you how to use this template site.

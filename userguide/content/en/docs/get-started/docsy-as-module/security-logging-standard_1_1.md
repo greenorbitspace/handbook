@@ -1,6 +1,13 @@
 ---
 title: GitLab Security Logging Standards
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-logging-standard_1_1/
+description: ''
+linkTitle: GitLab Security Logging Standards
+type: docs
 ---
 
 ## Purpose and Scope

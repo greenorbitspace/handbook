@@ -1,5 +1,12 @@
 ---
-title: "Delivery Team Training"
+title: Delivery Team Training
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/training_2_1/
+description: ''
+linkTitle: Delivery Team Training
+type: docs
 ---
 
 ## Common links

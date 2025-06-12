@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Return And Refund Policy 1 1
+aliases:
+- /docs/return-and-refund-policy_1_1/
+description: ''
+linkTitle: Return And Refund Policy 1 1
+type: docs
+---
+
 # Return and Refund Policy
 
 ## 1. Overview

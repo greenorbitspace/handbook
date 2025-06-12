@@ -1,6 +1,14 @@
 ---
-title: "UX Researcher"
-description: "At GitLab, UX Researchers collaborate with our Product Designers, Product Managers and the rest of the community to assist in determining what features should be built, behave, and priorities."
+title: UX Researcher
+description: At GitLab, UX Researchers collaborate with our Product Designers, Product
+  Managers and the rest of the community to assist in determining what features should
+  be built, behave, and priorities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ux-researcher_1_1_1/
+linkTitle: UX Researcher
+type: docs
 ---
 
 At GitLab, UX Researchers collaborate with our Product Designers, Product Managers and the rest of the community to assist in determining what features should be built, how they should behave, and what the priorities should be.

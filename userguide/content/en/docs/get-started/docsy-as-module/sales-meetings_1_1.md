@@ -1,14 +1,13 @@
 ---
-
-title: "Field Team Meetings"
-description: "Overview of the primary meetings for the worldwide GitLab Field team"
+title: Field Team Meetings
+description: Overview of the primary meetings for the worldwide GitLab Field team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sales-meetings_1_1/
+linkTitle: Field Team Meetings
+type: docs
 ---
-
-
-
-
-
-
 
 The below page overviews the primary all-hands meetings for the WW Field Team.
 

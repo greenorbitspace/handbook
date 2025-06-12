@@ -1,5 +1,12 @@
 ---
-title: "Incident Manager On Call onboarding"
+title: Incident Manager On Call onboarding
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/incident-manager-onboarding_1_1/
+description: ''
+linkTitle: Incident Manager On Call onboarding
+type: docs
 ---
 
 ## Introduction

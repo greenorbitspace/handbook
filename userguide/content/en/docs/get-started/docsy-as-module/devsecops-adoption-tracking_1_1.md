@@ -1,7 +1,12 @@
 ---
-
-title: "DevSecOps Adoption Tracking in Gainsight"
-description: "CSM guidance on how to track and log progress on DevSecOps usecase adoption"
+title: DevSecOps Adoption Tracking in Gainsight
+description: CSM guidance on how to track and log progress on DevSecOps usecase adoption
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/devsecops-adoption-tracking_1_1/
+linkTitle: DevSecOps Adoption Tracking in Gainsight
+type: docs
 ---
 
 ## On This Page

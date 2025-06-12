@@ -1,5 +1,12 @@
 ---
-title: "Guide to Engineering Analytics Data"
+title: Guide to Engineering Analytics Data
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/data-guide_1_2/
+description: ''
+linkTitle: Guide to Engineering Analytics Data
+type: docs
 ---
 
 ## Introduction

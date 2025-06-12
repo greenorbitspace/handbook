@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Aggregator 1 1
+aliases:
+- /docs/aggregator_1_1/
+description: ''
+linkTitle: Aggregator 1 1
+type: docs
+---
+
 # aggregator
 
 > **This module is intended for internal use and should never be imported directly.**

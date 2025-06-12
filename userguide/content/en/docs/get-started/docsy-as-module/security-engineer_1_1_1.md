@@ -1,6 +1,13 @@
 ---
-title: "Security Engineer"
-description: "As a member of the security team at GitLab, you will be working towards raising the bar on security."
+title: Security Engineer
+description: As a member of the security team at GitLab, you will be working towards
+  raising the bar on security.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-engineer_1_1_1/
+linkTitle: Security Engineer
+type: docs
 ---
 
 <!-- blank line -->

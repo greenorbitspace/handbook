@@ -1,7 +1,13 @@
 ---
-
-title: "Merge Trains Improvements (Fast-forward support) - Weekly Project Plan"
-description: "Merge Trains Improvements (Fast-forward support) - Weekly Project Plan - Pipeline Execution Group."
+title: Merge Trains Improvements (Fast-forward support) - Weekly Project Plan
+description: Merge Trains Improvements (Fast-forward support) - Weekly Project Plan
+  - Pipeline Execution Group.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/merge-trains_1_1/
+linkTitle: Merge Trains Improvements (Fast-forward support) - Weekly Project Plan
+type: docs
 ---
 
 ## Merge Trains - Weekly Project Plan

@@ -1,14 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/systems/distribution/demo.html
-
-title: "Distribution Team Demo"
+aliases:
+- /docs/demo_1_1/
+title: Distribution Team Demo
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Distribution Team Demo
+type: docs
 ---
-
-
-
-
-
-
 
 ## Weekly Demo ##
 

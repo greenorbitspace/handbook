@@ -1,5 +1,12 @@
 ---
 title: Triage Rotation
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/triage-rotation_1_1/
+description: ''
+linkTitle: Triage Rotation
+type: docs
 ---
 
 Application Security team members are alphabetically assigned as the

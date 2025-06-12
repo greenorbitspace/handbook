@@ -1,6 +1,12 @@
 ---
 title: Reports and Dashboards for ASEs
 description: Descriptions of each standard report and dashboard available to ASEs
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ase-reports_1/
+linkTitle: Reports and Dashboards for ASEs
+type: docs
 ---
 
 ## Introduction

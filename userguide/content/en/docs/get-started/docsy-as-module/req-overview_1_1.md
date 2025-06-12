@@ -1,6 +1,14 @@
 ---
-title: "Talent Acquisition Process Framework for REQs"
-description: "The Talent Acquisition Process Framework provides guidance on the talent acquisition process for the talent acquisition team, hiring manager, and hiring team to efficiently hire."
+title: Talent Acquisition Process Framework for REQs
+description: The Talent Acquisition Process Framework provides guidance on the talent
+  acquisition process for the talent acquisition team, hiring manager, and hiring
+  team to efficiently hire.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/req-overview_1_1/
+linkTitle: Talent Acquisition Process Framework for REQs
+type: docs
 ---
 
 **Purpose**: The Talent Acquisition Process Framework provides guidance on the hiring process for the talent acquisition team, hiring manager, and hiring team to efficiently hire top talent and create a positive candidate experience when it comes to hiring to a REQ.

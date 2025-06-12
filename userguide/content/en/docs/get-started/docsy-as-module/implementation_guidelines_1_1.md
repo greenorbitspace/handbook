@@ -1,5 +1,12 @@
 ---
-title: "Code Suggestions Implementation Guidelines"
+title: Code Suggestions Implementation Guidelines
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/implementation_guidelines_1_1/
+description: ''
+linkTitle: Code Suggestions Implementation Guidelines
+type: docs
 ---
 
 These are guidelines for supporting a model for Code Suggestions in the **[AI Gateway (AIGW)](#ai-gateway)**

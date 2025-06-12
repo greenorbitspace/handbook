@@ -1,6 +1,12 @@
 ---
 title: Adopting StackOverflow
 description: Adopting StackOverflow
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/adoping_1_1/
+linkTitle: Adopting StackOverflow
+type: docs
 ---
 
 The process to ask a question, provide an answer, write Knowledge Articles/ How to Guides, improving GitLab docs from Stack Overflow content is described here. 

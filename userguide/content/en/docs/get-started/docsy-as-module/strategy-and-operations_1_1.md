@@ -1,6 +1,13 @@
 ---
 title: Strategy and Operations
-description: The Strategy and Operations team are GitLab's internal strategy consultants who move from problem to problem in different functional areas.
+description: The Strategy and Operations team are GitLab's internal strategy consultants
+  who move from problem to problem in different functional areas.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/strategy-and-operations_1_1/
+linkTitle: Strategy and Operations
+type: docs
 ---
 
 The Strategy and Operations team are GitLab's internal strategy consultants who move from problem to problem in different functional areas. This team also plays an operational role in helping to support key initiatives while supporting the Chief of Staff to the CEO and CEO.

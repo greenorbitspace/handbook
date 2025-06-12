@@ -1,6 +1,13 @@
 ---
-title: "Developer Relations Program Manager"
-description: "Learn more about Developer Relations Program Management roles, responsibilities, requirements, and levels."
+title: Developer Relations Program Manager
+description: Learn more about Developer Relations Program Management roles, responsibilities,
+  requirements, and levels.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/devrel-program-manager_1_1/
+linkTitle: Developer Relations Program Manager
+type: docs
 ---
 
 The Developer Relations Program Management team supports communities that align with GitLab's [CREDIT values](/handbook/values/) by executing specific programs that help these communities grow and thrive. These programs include the [**GitLab for Education**](https://about.gitlab.com/solutions/education/), [**GitLab for Open Source**](https://about.gitlab.com/solutions/open-source/), and [**GitLab for Startups**](https://about.gitlab.com/solutions/startups/) programs. Our mission is to help these communities experience GitLab's vision of a world where everyone can contribute.

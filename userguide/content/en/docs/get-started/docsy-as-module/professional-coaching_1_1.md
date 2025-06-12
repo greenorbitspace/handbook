@@ -1,7 +1,12 @@
 ---
-
 title: Elevate Applied 1:1 Coaching
-
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/professional-coaching_1_1/
+description: ''
+linkTitle: Elevate Applied 1:1 Coaching
+type: docs
 ---
 
 ![visual displaying the content in each elevate+ module](/handbook/people-group/learning-and-development/elevate-programs/images/elevate-applied.png)

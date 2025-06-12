@@ -1,13 +1,13 @@
 ---
-aliases: /handbook/marketing/channel-marketing/channel-marketing-epics/Channel-Marketing-Service-Offerings
-title: "Channel Marketing Menu of Services"
+aliases:
+- /docs/channel-marketing-service-offerings_1_1/
+title: Channel Marketing Menu of Services
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Channel Marketing Menu of Services
+type: docs
 ---
-
-
-
-
-
-
 
 ## What marketing services are available to our channel partners?
 

@@ -1,16 +1,13 @@
 ---
-
-title: "Data Team Services"
-description: "Data Team Services"
+title: Data Team Services
+description: Data Team Services
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/data-service_1_1/
+linkTitle: Data Team Services
+type: docs
 ---
-
-
-
-
-
-
-
-
 
 ## Special Event On-Call
 

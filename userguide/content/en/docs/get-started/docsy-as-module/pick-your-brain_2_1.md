@@ -1,10 +1,16 @@
 ---
-title: "All-Remote Pick Your Brain"
-twitter_image: "/images/opengraph/all-remote.jpg"
+title: All-Remote Pick Your Brain
+twitter_image: /images/opengraph/all-remote.jpg
 description: All-Remote Pick Your Brain
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/pick-your-brain_2_1/
+linkTitle: All-Remote Pick Your Brain
+type: docs
 ---
 
 On this page, we're detailing how the public can request a Pick Your Brain interview focused on all-remote.

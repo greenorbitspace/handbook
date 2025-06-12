@@ -1,17 +1,13 @@
 ---
-title: "Reseller Agreement"
+title: Reseller Agreement
 aliases:
 - /handbook/resellers/reseller-agreement/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Reseller Agreement
+type: docs
 ---
-
-
-
-
-
-
-
-
-
 
 **Before submitting a Deal Registration, please review the Master Partner Agreement.**
 

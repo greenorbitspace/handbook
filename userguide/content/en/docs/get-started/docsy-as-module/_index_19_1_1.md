@@ -1,6 +1,18 @@
 ---
-title: "Identity User Guide - Audit and Compliance"
-description: "The Identity Platform manages access to our tech stack applications. We have automation for extracting audit and compliance artifacts including user listing, RBAC role mappings, application and group user membership, resource configuration, etc. This page provides a quick reference guide and runbooks for internal audit and compliance team members to perform audits and provides reference architecture and policy information for external auditors and compliance community to understand how our platform works to satisfy and exceed compliance requirements."
+title: Identity User Guide - Audit and Compliance
+description: The Identity Platform manages access to our tech stack applications.
+  We have automation for extracting audit and compliance artifacts including user
+  listing, RBAC role mappings, application and group user membership, resource configuration,
+  etc. This page provides a quick reference guide and runbooks for internal audit
+  and compliance team members to perform audits and provides reference architecture
+  and policy information for external auditors and compliance community to understand
+  how our platform works to satisfy and exceed compliance requirements.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_19_1_1/
+linkTitle: Identity User Guide - Audit and Compliance
+type: docs
 ---
 
 {{% alert title="Not Live Yet" color="warning" %}}

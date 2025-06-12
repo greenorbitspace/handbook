@@ -1,5 +1,12 @@
 ---
-title: "FY26 - Patching & OS Modernization"
+title: FY26 - Patching & OS Modernization
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/patching-os-modernization_1748147631766081317_1_1/
+description: ''
+linkTitle: FY26 - Patching & OS Modernization
+type: docs
 ---
 
 ## Background

@@ -1,6 +1,13 @@
 ---
-title: "DevSecOps with GitLab Duo - Hands-On Lab: Getting Started with GitLab Duo"
-description: "This Hands-On Guide walks you through using GitLab Duo to generate code."
+title: 'DevSecOps with GitLab Duo - Hands-On Lab: Getting Started with GitLab Duo'
+description: This Hands-On Guide walks you through using GitLab Duo to generate code.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/devsecopswithduolab2_1_1/
+linkTitle: 'DevSecOps with GitLab Duo - Hands-On Lab: Getting Started with GitLab
+  Duo'
+type: docs
 ---
 
 > Estimated time to complete: 30 minutes

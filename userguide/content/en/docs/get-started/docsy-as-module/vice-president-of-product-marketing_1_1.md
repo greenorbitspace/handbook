@@ -1,6 +1,14 @@
 ---
-title: "Vice President of Product Marketing"
-summary: Be responsible for managing and building the product marketing, technical marketing, competitive intelligence & market research and customer insights teams.
+title: Vice President of Product Marketing
+summary: Be responsible for managing and building the product marketing, technical
+  marketing, competitive intelligence & market research and customer insights teams.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vice-president-of-product-marketing_1_1/
+description: ''
+linkTitle: Vice President of Product Marketing
+type: docs
 ---
 
 As the Vice President of Product Marketing, you will be responsible for managing and building the product marketing, technical marketing, competitive intelligence & market research and customer insights teams.

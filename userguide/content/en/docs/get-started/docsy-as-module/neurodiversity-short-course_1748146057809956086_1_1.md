@@ -1,7 +1,14 @@
 ---
-title: "Neurodiversity in the Workplace Short Course"
-description: "This page hosts the read section of the Neurodiversity in the Workplace Short Course"
-canonical_path: "/company/culture/inclusion/neurodiversity-short-course/"
+title: Neurodiversity in the Workplace Short Course
+description: This page hosts the read section of the Neurodiversity in the Workplace
+  Short Course
+canonical_path: /company/culture/inclusion/neurodiversity-short-course/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/neurodiversity-short-course_1748146057809956086_1_1/
+linkTitle: Neurodiversity in the Workplace Short Course
+type: docs
 ---
 
 In this course you will read or watch content created by the Diversity, Inclusion & Belonging team, curated from experts in the field via LinkedIn Learning and hear from GitLab Team Members who are neurodivergent. I am excited for GitLab Team Members to learn more about Neurodiversity and I want you all to remember the experiences that you will read or watch are all individuals, everyone's experience is different, what works for one person may not work for another. This course will hopefully give you some methods to help appreciate people as individuals with individual needs and to be more inclusive to neurodivergent team members. This is not a certification and the learning is a continuous process.

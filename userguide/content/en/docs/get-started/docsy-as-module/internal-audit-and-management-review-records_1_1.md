@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Internal Audit And Management Review Records 1 1
+aliases:
+- /docs/internal-audit-and-management-review-records_1_1/
+description: ''
+linkTitle: Internal Audit And Management Review Records 1 1
+type: docs
+---
+
 # 1. Introduction
 
 This document outlines the framework for internal audits and management reviews at Green Orbit Digital, ensuring compliance with ISO standards and continuous improvement of our management systems.

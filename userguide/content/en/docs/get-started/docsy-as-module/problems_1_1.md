@@ -1,9 +1,18 @@
 ---
-title: "GitLab Runner Technical Problems"
-authors: [ "@josephburnett", "@ajwalker" ]
-creation-date: "2025-03-26"
-owning-stage: "~devops::verify"
+title: GitLab Runner Technical Problems
+authors:
+- '@josephburnett'
+- '@ajwalker'
+creation-date: '2025-03-26'
+owning-stage: ~devops::verify
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/problems_1_1/
+description: ''
+linkTitle: GitLab Runner Technical Problems
+type: docs
 ---
 
 ## Problems ##

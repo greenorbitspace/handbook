@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Markdown 1 1
+aliases:
+- /docs/markdown_1_1/
+description: ''
+linkTitle: Markdown 1 1
+type: docs
+---
+
 # Assets Prefix
 
 Relative image has assetsPrefix

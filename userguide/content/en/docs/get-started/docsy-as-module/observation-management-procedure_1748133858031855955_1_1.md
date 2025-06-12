@@ -1,6 +1,12 @@
 ---
-title: "Observation Management Procedure"
-description: "This procedure details the  and remediation process for observations."
+title: Observation Management Procedure
+description: This procedure details the  and remediation process for observations.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/observation-management-procedure_1748133858031855955_1_1/
+linkTitle: Observation Management Procedure
+type: docs
 ---
 
 ## Purpose

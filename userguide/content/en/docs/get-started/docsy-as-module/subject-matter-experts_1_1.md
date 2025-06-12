@@ -1,6 +1,12 @@
 ---
-
 title: Solutions Architects - Subject Matter Experts
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/subject-matter-experts_1_1/
+description: ''
+linkTitle: Solutions Architects - Subject Matter Experts
+type: docs
 ---
 
 The Subject Matter Experts Program is an initiative designed to help solutions architects (SAs) provide better support to customers. The program will identify and onboard subject matter experts in key areas, such as AI, security, and agile planning.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 28 1 1
+aliases:
+- /docs/README_28_1_1/
+description: ''
+linkTitle: Readme 28 1 1
+type: docs
+---
+
 # SDG Translations
 
 <a href="https://hosted.weblate.org/engage/sdg-translations/">

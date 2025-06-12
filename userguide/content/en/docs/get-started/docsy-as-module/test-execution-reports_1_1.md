@@ -1,6 +1,12 @@
 ---
-title: "Test execution reports"
-description: "Data on all E2E test runs"
+title: Test execution reports
+description: Data on all E2E test runs
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/test-execution-reports_1_1/
+linkTitle: Test execution reports
+type: docs
 ---
 
 ## E2E test execution reports

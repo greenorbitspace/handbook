@@ -1,7 +1,13 @@
 ---
 title: Macros
 description: Support Operations documentation page for Zendesk macros
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/macros"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/macros
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/macros_3_1/
+linkTitle: Macros
+type: docs
 ---
 
 ## What are macros

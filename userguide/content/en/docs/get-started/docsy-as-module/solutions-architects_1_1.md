@@ -1,6 +1,14 @@
 ---
 title: Public Sector Solutions Architects
-description: "Solutions Architects (SA) who work with the Public Sector provide subject matter expertise and industry experience throughout the sales process to Public Sector customers within the United States"
+description: Solutions Architects (SA) who work with the Public Sector provide subject
+  matter expertise and industry experience throughout the sales process to Public
+  Sector customers within the United States
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/solutions-architects_1_1/
+linkTitle: Public Sector Solutions Architects
+type: docs
 ---
 
 Solutions Architects (SA) who work with the [Public Sector](/handbook/sales/public-sector/) provide subject matter expertise and industry experience throughout the sales process to Public Sector customers within the United States.

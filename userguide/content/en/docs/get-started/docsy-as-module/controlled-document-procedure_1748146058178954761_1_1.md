@@ -1,7 +1,14 @@
 ---
-title: "Controlled Document Procedure"
-description: "GitLab deploys control activities through policies and standards that establish what is expected and procedures that put policies and standards into action."
+title: Controlled Document Procedure
+description: GitLab deploys control activities through policies and standards that
+  establish what is expected and procedures that put policies and standards into action.
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/controlled-document-procedure_1748146058178954761_1_1/
+linkTitle: Controlled Document Procedure
+type: docs
 ---
 
 ## Purpose

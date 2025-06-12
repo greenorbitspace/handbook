@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Add Indicator 1 1
+aliases:
+- /docs/add-indicator_1_1/
+description: ''
+linkTitle: Add Indicator 1 1
+type: docs
+---
+
 <h1>Tutorial: Adding indicators</h1>
 
 This tutorial will describe how to add a new indicator to your Open SDG implementation. This is intended to be a continuation of the [quick start](../quick-start.md) tutorial.

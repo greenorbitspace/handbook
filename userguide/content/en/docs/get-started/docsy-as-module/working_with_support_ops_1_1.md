@@ -1,11 +1,14 @@
 ---
-
 title: Working with Support Ops
 category: References
-description: "Workflow for working with Support Operations"
+description: Workflow for working with Support Operations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/working_with_support_ops_1_1/
+linkTitle: Working with Support Ops
+type: docs
 ---
-
-
 
 ## Working with Support Ops
 

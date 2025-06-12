@@ -1,14 +1,13 @@
 ---
-
-title: "Demo Systems Infrastructure - Kubernetes"
+title: Demo Systems Infrastructure - Kubernetes
 description: “Discover GitLab’s Kubernetes Cluster Design for different cluster sizes”
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/kubernetes_1_1/
+linkTitle: Demo Systems Infrastructure - Kubernetes
+type: docs
 ---
-
-
-
-
-
-
 
 ## Kubernetes Cluster Design
 

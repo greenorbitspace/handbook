@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Prompt Engineering 101 1 1
+aliases:
+- /docs/prompt-engineering-101_1_1/
+description: ''
+linkTitle: Prompt Engineering 101 1 1
+type: docs
+---
+
 ## 🎯 Goal
 
 Learn how to write better prompts to get the most out of ChatGPT and similar tools — for all kinds of tasks, not just coding.

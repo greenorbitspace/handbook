@@ -1,6 +1,14 @@
 ---
-title: "AI Continuity Plan"
-description: "GitLab's Al Continuity Plan transparently lays out our process for selecting new Al vendors and how we intend to address any material changes our Al vendors may make to their practices with respect to the use of customer data."
+title: AI Continuity Plan
+description: GitLab's Al Continuity Plan transparently lays out our process for selecting
+  new Al vendors and how we intend to address any material changes our Al vendors
+  may make to their practices with respect to the use of customer data.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/continuity-plan_1_1/
+linkTitle: AI Continuity Plan
+type: docs
 ---
 
 ## Purpose

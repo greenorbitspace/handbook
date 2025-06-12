@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Quick Start 1 1
+aliases:
+- /docs/quick-start_1_1/
+description: ''
+linkTitle: Quick Start 1 1
+type: docs
+---
+
 <h1>Quick Start</h1>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/frvUcwdHC2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

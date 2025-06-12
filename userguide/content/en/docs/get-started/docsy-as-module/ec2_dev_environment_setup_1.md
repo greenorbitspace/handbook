@@ -1,5 +1,12 @@
 ---
-title: "Static Analysis Group EC2 development machine setup guide"
+title: Static Analysis Group EC2 development machine setup guide
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ec2_dev_environment_setup_1/
+description: ''
+linkTitle: Static Analysis Group EC2 development machine setup guide
+type: docs
 ---
 
 ## Static Analysis Group EC2 development machine setup guide

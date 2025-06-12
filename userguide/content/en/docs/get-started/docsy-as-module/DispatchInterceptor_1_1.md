@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Dispatchinterceptor 1 1
+aliases:
+- /docs/DispatchInterceptor_1_1/
+description: ''
+linkTitle: Dispatchinterceptor 1 1
+type: docs
+---
+
 # Interface: DispatchInterceptor
 
 Extends: `Function`

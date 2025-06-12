@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 20250606070935 Pull Request Template 1 1
+aliases:
+- /docs/20250606070935_pull_request_template_1_1/
+description: ''
+linkTitle: 20250606070935 Pull Request Template 1 1
+type: docs
+---
+
 <!-- Thanks for opening a PR! Your contribution is much appreciated.
 To make sure your PR is handled as smoothly as possible we request that you follow the checklist sections below.
 Choose the right checklist for the change(s) that you're making:

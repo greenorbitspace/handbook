@@ -1,6 +1,12 @@
 ---
-title: "Corporate & Compliance Legal"
-description: "This page offers a single source related to corporate legal information."
+title: Corporate & Compliance Legal
+description: This page offers a single source related to corporate legal information.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/publiccompanyresources_1748146058048947041_1_1/
+linkTitle: Corporate & Compliance Legal
+type: docs
 ---
 
 Please note that all links are GitLab-internal only.

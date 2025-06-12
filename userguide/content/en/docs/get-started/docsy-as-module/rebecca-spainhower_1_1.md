@@ -1,8 +1,14 @@
 ---
-
-title: "Rebecca Spainhower's README"
-description: "Personal readme page for Rebecca Spainhower, Support Engineering Manager, GitLab"
-job: "Support Engineering Manager"
+title: Rebecca Spainhower's README
+description: Personal readme page for Rebecca Spainhower, Support Engineering Manager,
+  GitLab
+job: Support Engineering Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/rebecca-spainhower_1_1/
+linkTitle: Rebecca Spainhower's README
+type: docs
 ---
 
 ### My Role and Responsibilities

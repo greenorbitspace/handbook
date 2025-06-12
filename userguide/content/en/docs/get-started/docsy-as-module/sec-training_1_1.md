@@ -1,7 +1,13 @@
 ---
-title: "Security Awareness Training Standard"
-description: "Security Training Standard"
+title: Security Awareness Training Standard
+description: Security Training Standard
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sec-training_1_1/
+linkTitle: Security Awareness Training Standard
+type: docs
 ---
 
 ## Purpose

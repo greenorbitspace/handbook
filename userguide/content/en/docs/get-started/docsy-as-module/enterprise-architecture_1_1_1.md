@@ -1,5 +1,12 @@
 ---
-title: "Enterprise Architecture"
+title: Enterprise Architecture
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/enterprise-architecture_1_1_1/
+description: ''
+linkTitle: Enterprise Architecture
+type: docs
 ---
 
 ## Junior Architect

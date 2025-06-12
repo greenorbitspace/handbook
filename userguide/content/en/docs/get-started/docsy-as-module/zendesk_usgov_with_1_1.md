@@ -1,7 +1,14 @@
 ---
 title: Zendesk US Government with contributions
-description: Support Operations policies page for project setup for Zendesk US Government with support contributions
-canonical_path: "/handbook/support/readiness/operations/docs/policies/project_setup/zendesk_usgov_with"
+description: Support Operations policies page for project setup for Zendesk US Government
+  with support contributions
+canonical_path: /handbook/support/readiness/operations/docs/policies/project_setup/zendesk_usgov_with
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/zendesk_usgov_with_1_1/
+linkTitle: Zendesk US Government with contributions
+type: docs
 ---
 
 Before proceeding, make sure you are comfortable with the

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Matrix 1 1
+aliases:
+- /docs/matrix_1_1/
+description: ''
+linkTitle: Matrix 1 1
+type: docs
+---
+
 # Support matrix
 
 This page covers what platforms are supported by Luxon and what caveats apply to them.

@@ -1,8 +1,14 @@
 ---
-
-title: "Mike Dunninger's README"
-job: "Support Engineering Manager"
-description: "Personal readme page for Mike Dunninger, Support Engineering Manager, GitLab"
+title: Mike Dunninger's README
+job: Support Engineering Manager
+description: Personal readme page for Mike Dunninger, Support Engineering Manager,
+  GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mike-dunninger_1_1/
+linkTitle: Mike Dunninger's README
+type: docs
 ---
 
 ### My Role and Responsibilities

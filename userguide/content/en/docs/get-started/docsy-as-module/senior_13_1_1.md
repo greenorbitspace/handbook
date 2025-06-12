@@ -1,5 +1,12 @@
 ---
-title: "Incubation Engineering Department Career Framework: Senior"
+title: 'Incubation Engineering Department Career Framework: Senior'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior_13_1_1/
+description: ''
+linkTitle: 'Incubation Engineering Department Career Framework: Senior'
+type: docs
 ---
 
 ## Incubation Engineering Department Competencies: Senior

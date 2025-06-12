@@ -1,6 +1,13 @@
 ---
 title: Job Families
-description: "Job families are organized by function at GitLab and we use them to inform candidates of roles and current team members to evaluate their performance."
+description: Job families are organized by function at GitLab and we use them to inform
+  candidates of roles and current team members to evaluate their performance.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/job-families_1_1_1/
+linkTitle: Job Families
+type: docs
 ---
 
 - Job families are [organized by function in directories in the `content-sites/handbook` repository](https://gitlab.com/gitlab-com/content-sites/handbook/-/tree/main/content/job-families).

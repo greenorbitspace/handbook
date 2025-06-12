@@ -1,6 +1,15 @@
 ---
-title: "GitLab with Git Essentials - Hands-On Lab: Static Application Security Testing (SAST)"
-description: "This Hands-On Guide walks you through setting up a SAST job to track security flaws in code."
+title: 'GitLab with Git Essentials - Hands-On Lab: Static Application Security Testing
+  (SAST)'
+description: This Hands-On Guide walks you through setting up a SAST job to track
+  security flaws in code.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitbasicshandsonlab6_1_1/
+linkTitle: 'GitLab with Git Essentials - Hands-On Lab: Static Application Security
+  Testing (SAST)'
+type: docs
 ---
 
 > Estimated time to complete: 30 minutes

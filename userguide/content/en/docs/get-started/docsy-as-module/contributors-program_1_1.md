@@ -1,6 +1,13 @@
 ---
-title: "GitLab Contributors Program"
-description: "Learn about the GitLab Contributors Program from the Contributor Success team under Developer Relations"
+title: GitLab Contributors Program
+description: Learn about the GitLab Contributors Program from the Contributor Success
+  team under Developer Relations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/contributors-program_1_1/
+linkTitle: GitLab Contributors Program
+type: docs
 ---
 
 ## Summary

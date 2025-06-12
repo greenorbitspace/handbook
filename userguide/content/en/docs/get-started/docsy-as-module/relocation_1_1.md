@@ -1,6 +1,12 @@
 ---
-title: "Relocation"
-description: "GitLab's Policies & Processes in Relation to Team Member Relocations."
+title: Relocation
+description: GitLab's Policies & Processes in Relation to Team Member Relocations.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/relocation_1_1/
+linkTitle: Relocation
+type: docs
 ---
 
 ## Relocation / Address Change

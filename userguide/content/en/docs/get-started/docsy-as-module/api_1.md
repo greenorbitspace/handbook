@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Api 1
+aliases:
+- /docs/api_1/
+description: ''
+linkTitle: Api 1
+type: docs
+---
+
 # Initializing colors
 
 ## chroma(a, b, c, [a], [mode])

@@ -1,5 +1,12 @@
 ---
-title: "Automated Evidence Collection and Control Testing"
+title: Automated Evidence Collection and Control Testing
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/automated-control-testing_1/
+description: ''
+linkTitle: Automated Evidence Collection and Control Testing
+type: docs
 ---
 
 ## Objectives

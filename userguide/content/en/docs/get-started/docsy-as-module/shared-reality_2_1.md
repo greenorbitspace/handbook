@@ -1,10 +1,19 @@
 ---
-title: "Shared Reality"
-summary: "Teams must be informed by an objective, shared reality. To make informed decisions, teams must have access to shared knowledge. While other management philosophies prioritize the speed of knowledge **transfer**, TeamOps optimizes for the speed of knowledge **retrieval**."
+title: Shared Reality
+summary: Teams must be informed by an objective, shared reality. To make informed
+  decisions, teams must have access to shared knowledge. While other management philosophies
+  prioritize the speed of knowledge **transfer**, TeamOps optimizes for the speed
+  of knowledge **retrieval**.
 weight: 1
-canonical_path: "/teamops/shared-reality/"
+canonical_path: /teamops/shared-reality/
 images:
-    - /images/opengraph/all-remote.jpg
+- /images/opengraph/all-remote.jpg
+date: '2025-06-12'
+aliases:
+- /docs/shared-reality_2_1/
+description: ''
+linkTitle: Shared Reality
+type: docs
 ---
 
 ![GitLab TeamOps collaboration illustration](/teamops/images/teamops-illustration_collaboration_purple.png)

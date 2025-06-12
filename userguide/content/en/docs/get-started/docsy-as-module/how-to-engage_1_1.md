@@ -1,6 +1,12 @@
 ---
-title: "How to Engage"
-description: "How to Engage with Infrastructure Analyst"
+title: How to Engage
+description: How to Engage with Infrastructure Analyst
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/how-to-engage_1_1/
+linkTitle: How to Engage
+type: docs
 ---
 
 [Infrafin Board](https://gitlab.com/groups/gitlab-com/-/boards/1502173?label_name%5B%5D=infrafin)

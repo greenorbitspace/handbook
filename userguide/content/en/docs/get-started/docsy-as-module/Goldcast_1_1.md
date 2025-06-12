@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Goldcast 1 1
+aliases:
+- /docs/Goldcast_1_1/
+description: ''
+linkTitle: Goldcast 1 1
+type: docs
+---
+
 Goldcast is a digital events platform that helps B2B marketers create and host events, webinars, and video campaigns. It uses AI to help users create engaging content and repurpose videos into multiple formats.
 
 ## About Goldcast

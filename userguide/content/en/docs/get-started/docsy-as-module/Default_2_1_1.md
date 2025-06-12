@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Default 2 1 1
+aliases:
+- /docs/Default_2_1_1/
+description: ''
+linkTitle: Default 2 1 1
+type: docs
+---
+
 <!-- Before proceeding, please check if you need to apply a specific MR description template from the dropdown menu above next to `Description` (e.g. blog post, website bug report). -->
 
 ## Why is this change being made?

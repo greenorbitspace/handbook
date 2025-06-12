@@ -1,5 +1,12 @@
 ---
-title: "GitLab Web IDE"
+title: GitLab Web IDE
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-web-ide_1_1/
+description: ''
+linkTitle: GitLab Web IDE
+type: docs
 ---
 
 Website: <https://docs.gitlab.com/ee/user/project/web_ide/>

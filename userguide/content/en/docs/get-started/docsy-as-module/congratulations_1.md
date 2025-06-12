@@ -1,5 +1,13 @@
 ---
 sidebar_position: 6
+weight: 2
+date: '2025-06-12'
+title: Congratulations 1
+aliases:
+- /docs/congratulations_1/
+description: ''
+linkTitle: Congratulations 1
+type: docs
 ---
 
 # Congratulations!

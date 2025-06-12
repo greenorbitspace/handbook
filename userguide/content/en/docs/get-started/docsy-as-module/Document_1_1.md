@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Document 1 1
+aliases:
+- /docs/Document_1_1/
+description: ''
+linkTitle: Document 1 1
+type: docs
+---
+
 # Document
 
 

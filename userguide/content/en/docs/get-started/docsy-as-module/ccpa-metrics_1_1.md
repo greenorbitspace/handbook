@@ -1,6 +1,12 @@
 ---
-title: "CCPA Reporting Metrics"
-description: "Annual Metrics on Data Subject Requests pursuant to CCPA."
+title: CCPA Reporting Metrics
+description: Annual Metrics on Data Subject Requests pursuant to CCPA.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ccpa-metrics_1_1/
+linkTitle: CCPA Reporting Metrics
+type: docs
 ---
 
 ## Overview

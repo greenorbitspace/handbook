@@ -1,7 +1,14 @@
 ---
 title: Zendesk Explore Dashboards and Reports Backup
-description: Support Operations documentation page for Zendesk Explore Dashboards and Reports Backup
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/zd_explore_backup_dashboards_reports.md"
+description: Support Operations documentation page for Zendesk Explore Dashboards
+  and Reports Backup
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/zd_explore_backup_dashboards_reports.md
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/zd_explore_backup_dashboards_reports_1_1/
+linkTitle: Zendesk Explore Dashboards and Reports Backup
+type: docs
 ---
 
 ## Key Review Reports

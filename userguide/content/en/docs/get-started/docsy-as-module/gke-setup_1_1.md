@@ -1,7 +1,14 @@
 ---
-
-title: "Set up GitLab CE or EE on Google Kubernetes Engine"
-description: "This tutorial walks through the process of installing GitLab on Google Kubernetes Engine (GKE) including setting up clusters, instructions for both GitLab CE and EE, and how to troubleshoot potential issues during installation."
+title: Set up GitLab CE or EE on Google Kubernetes Engine
+description: This tutorial walks through the process of installing GitLab on Google
+  Kubernetes Engine (GKE) including setting up clusters, instructions for both GitLab
+  CE and EE, and how to troubleshoot potential issues during installation.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gke-setup_1_1/
+linkTitle: Set up GitLab CE or EE on Google Kubernetes Engine
+type: docs
 ---
 
 ## Video

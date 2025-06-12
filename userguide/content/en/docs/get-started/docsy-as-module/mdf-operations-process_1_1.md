@@ -1,6 +1,12 @@
 ---
-title: "Global Channel Marketing - MDF Operations Process"
-description: "The page details the operational process for the MDF program."
+title: Global Channel Marketing - MDF Operations Process
+description: The page details the operational process for the MDF program.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mdf-operations-process_1_1/
+linkTitle: Global Channel Marketing - MDF Operations Process
+type: docs
 ---
 
 ## Planning

@@ -1,7 +1,13 @@
 ---
-
 title: Nominator bot
-description: Information on Slack Nominator bot created by the People Engineering team.
+description: Information on Slack Nominator bot created by the People Engineering
+  team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/nominatorbot_1_1/
+linkTitle: Nominator bot
+type: docs
 ---
 
 We're using a custom Slack app, the [Nominator Bot](https://gitlab.com/gitlab-com/people-group/peopleops-eng/nominatorbot/), that team members can use to nominate other team members for discretionary bonuses.

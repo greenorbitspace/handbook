@@ -1,6 +1,12 @@
 ---
 title: Debugging Failing Tests and Test Pipelines
 description: Guidelines for investigating end-to-end test pipeline failures
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/debugging-end-to-end-test-failures_1_1/
+linkTitle: Debugging Failing Tests and Test Pipelines
+type: docs
 ---
 
 ## Overview

@@ -1,5 +1,12 @@
 ---
-title: "Chief People Officer"
+title: Chief People Officer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/chief-people-officer_1_1/
+description: ''
+linkTitle: Chief People Officer
+type: docs
 ---
 
 The GitLab team has grown quickly and plans to continue to grow while maintaining our culture of [remote working](https://about.gitlab.com/blog/2015/04/08/the-remote-manifesto/), embracing development, and building scalable people-oriented policies. The Chief People Officer (CPO) is a strategic leader and consultant that oversees the People Success (People Operations, Learning & Development, Diversity, Inclusion & Belonging, Total Rewards, People Business Partners) and Recruiting functions. The CPO is empowered to grow teams, make data-driven decisions, and deliver transparent and people first programs.

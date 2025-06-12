@@ -1,6 +1,12 @@
 ---
-title: "External Security Communications Procedure"
-description: "Procedures for handling communications regarding security"
+title: External Security Communications Procedure
+description: Procedures for handling communications regarding security
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/external-security-communications-procedure_1748146058209109702_1_1/
+linkTitle: External Security Communications Procedure
+type: docs
 ---
 
 ## Purpose

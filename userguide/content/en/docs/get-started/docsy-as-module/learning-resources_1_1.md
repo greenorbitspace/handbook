@@ -1,15 +1,14 @@
 ---
-
 title: Quality Engineering Learning Resources
-description: >-
-  The Quality Engineering Sub-Department has compiled a list of learning resources for SET and QEM growth.
+description: The Quality Engineering Sub-Department has compiled a list of learning
+  resources for SET and QEM growth.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/learning-resources_1_1/
+linkTitle: Quality Engineering Learning Resources
+type: docs
 ---
-
-
-
-
-
-
 
 ## Software Engineer in Test Focus
 

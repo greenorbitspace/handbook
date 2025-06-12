@@ -1,6 +1,15 @@
 ---
-title: "GitLab Agile Portfolio Management - Hands-On Lab: Create And Manage A Kanban Board"
-description: "This Hands-On Guide walks you through creating and managing a Kanban board via issue boards."
+title: 'GitLab Agile Portfolio Management - Hands-On Lab: Create And Manage A Kanban
+  Board'
+description: This Hands-On Guide walks you through creating and managing a Kanban
+  board via issue boards.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabpmhandsonlab8_1_1/
+linkTitle: 'GitLab Agile Portfolio Management - Hands-On Lab: Create And Manage A
+  Kanban Board'
+type: docs
 ---
 
 > Estimated time to complete: 30 minutes

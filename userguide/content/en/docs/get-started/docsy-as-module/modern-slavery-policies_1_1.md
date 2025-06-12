@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Modern Slavery Policies 1 1
+aliases:
+- /docs/modern-slavery-policies_1_1/
+description: ''
+linkTitle: Modern Slavery Policies 1 1
+type: docs
+---
+
 Introduction
 
 At Green Orbit Digital, we are deeply committed to combating slavery and human trafficking in all its forms. Our dedication to ethical practices and integrity extends across our organisation and supply chains. We align our efforts with the requirements of the Modern Slavery Act 2015, ensuring transparency and accountability in our operations.

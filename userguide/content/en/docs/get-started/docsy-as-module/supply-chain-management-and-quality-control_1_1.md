@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Supply Chain Management And Quality Control 1 1
+aliases:
+- /docs/supply-chain-management-and-quality-control_1_1/
+description: ''
+linkTitle: Supply Chain Management And Quality Control 1 1
+type: docs
+---
+
 ### 1. Purpose
 
 This policy outlines our commitment to integrating sustainability principles into supply chain management, ensuring that goods, services, and materials procured for our operations and events align with our environmental, social, and economic values.

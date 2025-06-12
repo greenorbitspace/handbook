@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: L Color Attributes 1 1
+aliases:
+- /docs/l-color-attributes_1_1/
+description: ''
+linkTitle: L Color Attributes 1 1
+type: docs
+---
+
 # Color Palettes
 
 Color palettes pride both predefined and customized options and can be applied to either fill or stroke. Predefined palettes comes in diverging, sequential and qualitative types.

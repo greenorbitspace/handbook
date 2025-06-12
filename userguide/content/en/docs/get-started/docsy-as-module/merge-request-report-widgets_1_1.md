@@ -1,6 +1,14 @@
 ---
-title: "Merge Request Report Widgets Working Group"
-description: "The GitLab Merge Request Report Widgets Working Group aim is to assist in implementing the UX Framework created for extending MRs with extensions. Read more!"
+title: Merge Request Report Widgets Working Group
+description: The GitLab Merge Request Report Widgets Working Group aim is to assist
+  in implementing the UX Framework created for extending MRs with extensions. Read
+  more!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/merge-request-report-widgets_1_1/
+linkTitle: Merge Request Report Widgets Working Group
+type: docs
 ---
 
 ## Attributes

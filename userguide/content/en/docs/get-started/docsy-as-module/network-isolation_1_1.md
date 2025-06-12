@@ -1,5 +1,12 @@
 ---
 title: Isolating your work notebook from other devices in your home network
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/network-isolation_1_1/
+description: ''
+linkTitle: Isolating your work notebook from other devices in your home network
+type: docs
 ---
 
 ## Why

@@ -1,6 +1,13 @@
 ---
 title: Bulk editing SGG values in Zendesk
-description: How to find your assigned tickets that aren't in your group and move them
+description: How to find your assigned tickets that aren't in your group and move
+  them
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bulk-editing-sgg-values_1_1/
+linkTitle: Bulk editing SGG values in Zendesk
+type: docs
 ---
 
 ## Introduction

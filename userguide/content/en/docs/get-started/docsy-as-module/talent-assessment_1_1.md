@@ -1,13 +1,13 @@
 ---
-
 title: Development Talent Assessment Process
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/talent-assessment_1_1/
+description: ''
+linkTitle: Development Talent Assessment Process
+type: docs
 ---
-
-
-
-
-
-
 
 ### Talent Assessment Process
 

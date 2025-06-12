@@ -1,6 +1,13 @@
 ---
-title: "ADR 003: Centralize Unit Primitives configuration"
+title: 'ADR 003: Centralize Unit Primitives configuration'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/003_unit_primitives_1/
+description: ''
+linkTitle: 'ADR 003: Centralize Unit Primitives configuration'
+type: docs
 ---
 
 ## Context

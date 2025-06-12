@@ -1,13 +1,13 @@
 ---
-
-title: "Public Sector Go To Market"
+title: Public Sector Go To Market
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/public-sector-gtm_1_1/
+description: ''
+linkTitle: Public Sector Go To Market
+type: docs
 ---
-
-
-
-
-
-
 
 ### Public Sector Message House
 

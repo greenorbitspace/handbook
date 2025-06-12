@@ -1,11 +1,14 @@
 ---
-
-title: "Upsell Premium to Ultimate sales play planner"
-description: "description to add"
-twitter_image: '/images/tweets/handbook-marketing.png'
+title: Upsell Premium to Ultimate sales play planner
+description: description to add
+twitter_image: /images/tweets/handbook-marketing.png
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/planner-premium-to-ultimate_1_1/
+linkTitle: Upsell Premium to Ultimate sales play planner
+type: docs
 ---
-
-
 
 ### **Sales play planner and strategy page**
 

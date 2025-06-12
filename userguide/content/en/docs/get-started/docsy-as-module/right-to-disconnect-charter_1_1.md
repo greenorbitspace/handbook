@@ -1,8 +1,16 @@
 ---
-title: "GitLab France S.A.S. Right to Disconnect Charter"
-description: GitLab France S.A.S. Right to Disconnect Charter - French and English language versions.
+title: GitLab France S.A.S. Right to Disconnect Charter
+description: GitLab France S.A.S. Right to Disconnect Charter - French and English
+  language versions.
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/right-to-disconnect-charter_1_1/
+linkTitle: GitLab France S.A.S. Right to Disconnect Charter
+type: docs
 ---
+
 <!-- vale handbook.Spelling = NO -->
 ## Français: GITLAB FRANCE S.A.S. CHARTE SUR LE DROIT À LA DÉCONNEXION
 

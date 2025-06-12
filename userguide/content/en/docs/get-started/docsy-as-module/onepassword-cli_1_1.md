@@ -1,6 +1,12 @@
 ---
-title: "1Password and Environment Variables"
-description: "Secure secrets handling for local development"
+title: 1Password and Environment Variables
+description: Secure secrets handling for local development
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/onepassword-cli_1_1/
+linkTitle: 1Password and Environment Variables
+type: docs
 ---
 
 Secrets used on laptops need to be stored and used securely. The reasons for

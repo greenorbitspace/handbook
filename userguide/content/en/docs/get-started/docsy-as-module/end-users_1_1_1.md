@@ -1,7 +1,13 @@
 ---
 title: End-users
 description: Operations documentation page for Zendesk end-users
-canonical_path: "/handbook/security/customer-support-operations/docs/zendesk/end-users"
+canonical_path: /handbook/security/customer-support-operations/docs/zendesk/end-users
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/end-users_1_1_1/
+linkTitle: End-users
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

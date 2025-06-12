@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Onboarding Guide 1 1
+aliases:
+- /docs/onboarding-guide_1_1/
+description: ''
+linkTitle: Onboarding Guide 1 1
+type: docs
+---
+
 <!-- Unsupported block type: table_of_contents -->
 
 

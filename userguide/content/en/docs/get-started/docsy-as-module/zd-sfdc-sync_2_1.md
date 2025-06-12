@@ -1,7 +1,13 @@
 ---
 title: ZD-SFDC Sync
 description: Operations workflow page for the ZD-SFDC sync
-canonical_path: "/handbook/security/customer-support-operations/workflows/zendesk/zd-sfdc-sync"
+canonical_path: /handbook/security/customer-support-operations/workflows/zendesk/zd-sfdc-sync
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/zd-sfdc-sync_2_1/
+linkTitle: ZD-SFDC Sync
+type: docs
 ---
 
 {{% alert title="Note" color="danger" %}}

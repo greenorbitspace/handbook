@@ -1,8 +1,13 @@
 ---
-
-title: "Minorities in Tech Mentoring Program: Thank You"
-description: "Thank You Page for Completing your Voting."
-canonical_path: "/company/culture/inclusion/erg-minorities-in-tech/mentoring/projects/2020/thankyou.html"
+title: 'Minorities in Tech Mentoring Program: Thank You'
+description: Thank You Page for Completing your Voting.
+canonical_path: /company/culture/inclusion/erg-minorities-in-tech/mentoring/projects/2020/thankyou.html
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/thankyou_1_1/
+linkTitle: 'Minorities in Tech Mentoring Program: Thank You'
+type: docs
 ---
 
 Thank You for completing the Survey!

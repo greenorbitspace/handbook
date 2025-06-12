@@ -1,6 +1,15 @@
 ---
-title: DEX Core Web Vitals 
-description: "This page provides an overview of Core Web Vitals, key metrics for optimizing website performance and user experience, and introduces various tools for monitoring and improving these metrics, including Google Analytics, Google Search Console, ContentKing, and DebugBear."
+title: DEX Core Web Vitals
+description: This page provides an overview of Core Web Vitals, key metrics for optimizing
+  website performance and user experience, and introduces various tools for monitoring
+  and improving these metrics, including Google Analytics, Google Search Console,
+  ContentKing, and DebugBear.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cwv_1/
+linkTitle: DEX Core Web Vitals
+type: docs
 ---
 
 Core Web Vitals (CWV) are a set of performance metrics introduced by Google to measure key aspects of user experience on the web. These metrics focus on loading speed, interactivity, and visual stability, ensuring a smoother and more user-friendly experience. Understanding and optimizing Core Web Vitals is crucial for improving search rankings and enhancing user satisfaction.

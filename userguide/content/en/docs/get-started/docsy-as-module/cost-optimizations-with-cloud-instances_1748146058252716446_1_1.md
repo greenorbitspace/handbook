@@ -1,7 +1,13 @@
 ---
 title: Cost optimization of Cloud Services
 category: Infrastructure for troubleshooting
-description: "Guideline on how to use cloud services cost effectively"
+description: Guideline on how to use cloud services cost effectively
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cost-optimizations-with-cloud-instances_1748146058252716446_1_1/
+linkTitle: Cost optimization of Cloud Services
+type: docs
 ---
 
 Cloud services are a valuable resource in support and give us the ability to host GitLab or GitLab related deployments in a wide variety of configurations.  We can use permanent instances as a daily resource and ephemeral deployments to test, verify, reproduce and explore new ideas rapidly without consuming our local resources such as CPU, memory and battery life.

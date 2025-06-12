@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Releasing 1 1
+aliases:
+- /docs/RELEASING_1_1/
+description: ''
+linkTitle: Releasing 1 1
+type: docs
+---
+
 # Releasing OpenTelemetry Packages (for Maintainers Only)
 
 This repository uses [Release Please](https://github.com/googleapis/release-please) to manage its releases automatically and independently.

@@ -1,7 +1,13 @@
 ---
 title: Dynamic content
 description: Operations workflow page for Zendesk dynamic content
-canonical_path: "/handbook/security/customer-support-operations/workflows/zendesk/dynamic-content"
+canonical_path: /handbook/security/customer-support-operations/workflows/zendesk/dynamic-content
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dynamic-content_2_1/
+linkTitle: Dynamic content
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

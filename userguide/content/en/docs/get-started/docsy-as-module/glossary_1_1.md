@@ -3,6 +3,13 @@ stage: systems
 group: Geo
 title: 'Unified Backups: Glossary'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/glossary_1_1/
+description: ''
+linkTitle: 'Unified Backups: Glossary'
+type: docs
 ---
 
 ## archive

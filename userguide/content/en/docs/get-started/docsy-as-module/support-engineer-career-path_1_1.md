@@ -1,6 +1,14 @@
 ---
 title: Support Engineer Career Path
-description: The details of this page are to outline more specific guidance around promotions for Support team members. Page should not be moved without a Support Global Change Management issue.
+description: The details of this page are to outline more specific guidance around
+  promotions for Support team members. Page should not be moved without a Support
+  Global Change Management issue.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-engineer-career-path_1_1/
+linkTitle: Support Engineer Career Path
+type: docs
 ---
 
 ## Career Development in Support

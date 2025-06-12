@@ -1,5 +1,12 @@
 ---
 title: US Public Sector Services team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/us-public-sector-services_1_1/
+description: ''
+linkTitle: US Public Sector Services team
+type: docs
 ---
 
 ## Mission

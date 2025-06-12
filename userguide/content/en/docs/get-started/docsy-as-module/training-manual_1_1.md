@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Training Manual 1 1
+aliases:
+- /docs/training-manual_1_1/
+description: ''
+linkTitle: Training Manual 1 1
+type: docs
+---
+
 # Training Manual Template
 
 ## 1. Introduction

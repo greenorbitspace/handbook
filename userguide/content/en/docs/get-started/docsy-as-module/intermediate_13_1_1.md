@@ -1,5 +1,12 @@
 ---
-title: "Incubation Engineering Department Career Framework: Intermediate"
+title: 'Incubation Engineering Department Career Framework: Intermediate'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/intermediate_13_1_1/
+description: ''
+linkTitle: 'Incubation Engineering Department Career Framework: Intermediate'
+type: docs
 ---
 
 ## Incubation Engineering Department Competencies: Intermediate

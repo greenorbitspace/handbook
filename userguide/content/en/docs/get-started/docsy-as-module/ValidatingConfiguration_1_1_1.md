@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Validatingconfiguration 1 1 1
+aliases:
+- /docs/ValidatingConfiguration_1_1_1/
+description: ''
+linkTitle: Validatingconfiguration 1 1 1
+type: docs
+---
+
 # Validating Configuration
 
 A [JSON Schema][json-schema] is provided to enable validating configuration

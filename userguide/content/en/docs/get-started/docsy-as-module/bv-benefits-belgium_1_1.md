@@ -1,6 +1,12 @@
 ---
-title: "GitLab BV (Belgium) Benefits"
-description: "GitLab BV (Belgium) benefits specific to Belgium based team members."
+title: GitLab BV (Belgium) Benefits
+description: GitLab BV (Belgium) benefits specific to Belgium based team members.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bv-benefits-belgium_1_1/
+linkTitle: GitLab BV (Belgium) Benefits
+type: docs
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-group/).

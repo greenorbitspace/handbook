@@ -1,7 +1,14 @@
 ---
-owning-stage: "~devops::verify"
+owning-stage: ~devops::verify
 title: 'GitLab Steps ADR 001: Bootstrap Step Runner'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/001_initial_support_1/
+description: ''
+linkTitle: 'GitLab Steps ADR 001: Bootstrap Step Runner'
+type: docs
 ---
 
 ## Context

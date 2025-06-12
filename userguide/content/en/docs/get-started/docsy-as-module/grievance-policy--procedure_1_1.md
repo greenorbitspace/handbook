@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Grievance Policy  Procedure 1 1
+aliases:
+- /docs/grievance-policy--procedure_1_1/
+description: ''
+linkTitle: Grievance Policy  Procedure 1 1
+type: docs
+---
+
 1. Introduction
 
 At Green Orbit Digital, we are committed to providing a positive work environment where employees feel respected, valued, and supported. However, we recognize that issues or concerns may arise from time to time, and it is important for employees to have a formal mechanism to address grievances. This Grievance Policy outlines the procedure for employees to raise and resolve grievances in a fair, timely, and confidential manner.

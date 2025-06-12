@@ -1,5 +1,12 @@
 ---
-title: "SOX CUEC Mapping Procedure"
+title: SOX CUEC Mapping Procedure
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sox_cuec_mapping_procedure_1748147632043356664_1_1/
+description: ''
+linkTitle: SOX CUEC Mapping Procedure
+type: docs
 ---
 
 ## Purpose

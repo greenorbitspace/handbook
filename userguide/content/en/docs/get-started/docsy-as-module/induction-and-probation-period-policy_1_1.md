@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Induction And Probation Period Policy 1 1
+aliases:
+- /docs/induction-and-probation-period-policy_1_1/
+description: ''
+linkTitle: Induction And Probation Period Policy 1 1
+type: docs
+---
+
 1. Introduction
 
 At Green Orbit Digital, we believe that a comprehensive induction process and a structured probation period are essential for integrating new employees into our organization and ensuring that they have the necessary support and guidance to succeed in their roles. This policy outlines our approach to induction and probation periods for all new employees.

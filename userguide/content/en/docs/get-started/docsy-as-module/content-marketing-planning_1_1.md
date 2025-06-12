@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Content Marketing Planning 1 1
+aliases:
+- /docs/content-marketing-planning_1_1/
+description: ''
+linkTitle: Content Marketing Planning 1 1
+type: docs
+---
+
 ## 1.	Background 
 
 What is the current situation? What are the market conditions and challenges? What channels do you have to publish content in? 

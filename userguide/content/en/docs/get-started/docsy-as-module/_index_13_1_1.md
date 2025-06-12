@@ -1,6 +1,15 @@
 ---
-title: "Identity User Guide - Tech Stack Applications"
-description: "The Identity Platform manages access to our tech stack applications. This page provides a quick reference guide and runbooks for tech stack application and system owners to integrate and manage their application with Okta authentication and Identity Platform access management policies."
+title: Identity User Guide - Tech Stack Applications
+description: The Identity Platform manages access to our tech stack applications.
+  This page provides a quick reference guide and runbooks for tech stack application
+  and system owners to integrate and manage their application with Okta authentication
+  and Identity Platform access management policies.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_13_1_1/
+linkTitle: Identity User Guide - Tech Stack Applications
+type: docs
 ---
 
 {{% alert title="Not Live Yet" color="warning" %}}

@@ -1,8 +1,13 @@
 ---
 title: SME Engage with Product Management
-
-description: Rules of engagement for SMEs, SAs and CSMs engage hen requesting assistance from Product Management
-
+description: Rules of engagement for SMEs, SAs and CSMs engage hen requesting assistance
+  from Product Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sme-engage-pm_1_1/
+linkTitle: SME Engage with Product Management
+type: docs
 ---
 
 ## The Challenge

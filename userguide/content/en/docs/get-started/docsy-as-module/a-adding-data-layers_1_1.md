@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: A Adding Data Layers 1 1
+aliases:
+- /docs/a-adding-data-layers_1_1/
+description: ''
+linkTitle: A Adding Data Layers 1 1
+type: docs
+---
+
 # Adding Data Layers
 
 The term "Layer" refers to a layer of data visualization. For example, you might add a point layer to visualize all the instances where taxi trips began, as in the map of New York City below. 

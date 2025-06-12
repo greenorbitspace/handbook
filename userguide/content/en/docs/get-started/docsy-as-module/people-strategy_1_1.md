@@ -1,7 +1,13 @@
 ---
-title: "People Strategy Program Management"
+title: People Strategy Program Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/people-strategy_1_1/
+description: ''
+linkTitle: People Strategy Program Management
+type: docs
 ---
-
 
 ## People Strategy Program Management
 

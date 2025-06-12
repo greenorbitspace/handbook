@@ -1,6 +1,13 @@
 ---
-title: "NAVEX Compliance Courses"
-description: "Information about NAVEX compliance training, including processes, course info, and FAQ"
+title: NAVEX Compliance Courses
+description: Information about NAVEX compliance training, including processes, course
+  info, and FAQ
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/navex_1_1/
+linkTitle: NAVEX Compliance Courses
+type: docs
 ---
 
 The information on this page is specific to NAVEXEngage, NAVEX’s online ethics and compliance training solution. To learn more about other compliance courses and resources at GitLab, please visit the [Learning & Development handbook](/handbook/people-group/learning-and-development/compliance-courses/).

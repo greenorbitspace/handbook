@@ -1,6 +1,13 @@
 ---
-title: "Infrastructure Labels and Tags"
-description: "This handbook section defines the latest iteration of infrastructure standards for AWS and GCP across all departments and groups at GitLab."
+title: Infrastructure Labels and Tags
+description: This handbook section defines the latest iteration of infrastructure
+  standards for AWS and GCP across all departments and groups at GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/labels-tags_1_1/
+linkTitle: Infrastructure Labels and Tags
+type: docs
 ---
 
 ## Quick Reference

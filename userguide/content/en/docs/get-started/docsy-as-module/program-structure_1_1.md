@@ -1,6 +1,12 @@
 ---
-title: "MIT Mentoring Program Structure"
-description: "Here you will find information about GitLab MIT Mentoring Program Structure."
+title: MIT Mentoring Program Structure
+description: Here you will find information about GitLab MIT Mentoring Program Structure.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/program-structure_1_1/
+linkTitle: MIT Mentoring Program Structure
+type: docs
 ---
 
 ## Program Structure

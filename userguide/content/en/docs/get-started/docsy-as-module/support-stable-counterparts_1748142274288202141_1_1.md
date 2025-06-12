@@ -1,6 +1,13 @@
 ---
 title: Support Stable Counterparts
-description: An overview of the Support Stable Counterpart role and related expectations and goals.
+description: An overview of the Support Stable Counterpart role and related expectations
+  and goals.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-stable-counterparts_1748142274288202141_1_1/
+linkTitle: Support Stable Counterparts
+type: docs
 ---
 
 ## Overview

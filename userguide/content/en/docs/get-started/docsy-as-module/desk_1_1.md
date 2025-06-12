@@ -1,9 +1,15 @@
 ---
-title: "Digital Production Setup: Desk"
+title: 'Digital Production Setup: Desk'
 description: A guide for setting up equipment for recording or calls at your desk.
-twitter_image: '/images/tweets/handbook-marketing.png'
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/tweets/handbook-marketing.png
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/desk_1_1/
+linkTitle: 'Digital Production Setup: Desk'
+type: docs
 ---
 
 ## Setting Up to Record Video at your Desk

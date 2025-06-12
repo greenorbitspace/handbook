@@ -1,6 +1,12 @@
 ---
-title: "Professional Services EM Opportunity Tracking"
-description: "Describes processes for tracking open PS opportunities."
+title: Professional Services EM Opportunity Tracking
+description: Describes processes for tracking open PS opportunities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tracking-opps_1/
+linkTitle: Professional Services EM Opportunity Tracking
+type: docs
 ---
 
 ## Tracking Opportunities

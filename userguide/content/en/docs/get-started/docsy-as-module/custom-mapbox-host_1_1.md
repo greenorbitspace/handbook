@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Custom Mapbox Host 1 1
+aliases:
+- /docs/custom-mapbox-host_1_1/
+description: ''
+linkTitle: Custom Mapbox Host 1 1
+type: docs
+---
+
 ### 1. Configuring Mapbox API hostname
 The KeplerGL component accepts an optional parameter `mapboxApiUrl` to override the default value of `https://api.mapbox.com`.
 

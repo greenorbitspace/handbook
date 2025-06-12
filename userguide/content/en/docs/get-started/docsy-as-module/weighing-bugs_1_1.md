@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Weighing Bugs 1 1
+aliases:
+- /docs/weighing-bugs_1_1/
+description: ''
+linkTitle: Weighing Bugs 1 1
+type: docs
+---
+
 Estimating bugs is inherently difficult. The majority of the effort in fixing
 bugs is finding the cause, and then a bug be
 accurately estimated. Additionally, velocity is used to measure the amount of

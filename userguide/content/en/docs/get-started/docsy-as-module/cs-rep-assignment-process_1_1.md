@@ -1,8 +1,15 @@
 ---
-
-title: "CS Rep Account and Oppty Assignment Processes"
-description: "This document describes how CSMs and SAs are assigned to accounts and Opportunities"
+title: CS Rep Account and Oppty Assignment Processes
+description: This document describes how CSMs and SAs are assigned to accounts and
+  Opportunities
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cs-rep-assignment-process_1_1/
+linkTitle: CS Rep Account and Oppty Assignment Processes
+type: docs
 ---
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## Purpose

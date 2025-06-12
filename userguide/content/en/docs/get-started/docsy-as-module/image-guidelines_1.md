@@ -1,6 +1,12 @@
 ---
-title: "Image Guidelines"
-description: "The purpose of this page is to present guidelines for image file formats."
+title: Image Guidelines
+description: The purpose of this page is to present guidelines for image file formats.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/image-guidelines_1/
+linkTitle: Image Guidelines
+type: docs
 ---
 
 **Please note that deviation from these guidelines will increase production time.**

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Disciplinary Procedures 1 1
+aliases:
+- /docs/disciplinary-procedures_1_1/
+description: ''
+linkTitle: Disciplinary Procedures 1 1
+type: docs
+---
+
 ### Introduction
 
 Disciplinary procedures are established to address and resolve issues of misconduct or poor performance in the workplace. At Green Orbit Digital, we are committed to maintaining a fair and transparent disciplinary process that upholds our values and promotes a positive work environment for all employees.

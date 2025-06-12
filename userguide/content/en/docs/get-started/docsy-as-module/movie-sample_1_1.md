@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Movie Sample 1 1
+aliases:
+- /docs/movie-sample_1_1/
+description: ''
+linkTitle: Movie Sample 1 1
+type: docs
+---
+
 ```bash
 CREATE (TheMatrix:Movie {title:'The Matrix', released:1999, tagline:'Welcome to the Real World'})
 CREATE (Keanu:Person {name:'Keanu Reeves', born:1964})

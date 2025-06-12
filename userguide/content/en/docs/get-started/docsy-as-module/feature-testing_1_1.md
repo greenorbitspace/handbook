@@ -1,7 +1,14 @@
 ---
-title: "Feature Testing Working Group"
-description: "Establish the credibility of a permanent alternative to the usage of Capybara for Feature Testing."
+title: Feature Testing Working Group
+description: Establish the credibility of a permanent alternative to the usage of
+  Capybara for Feature Testing.
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/feature-testing_1_1/
+linkTitle: Feature Testing Working Group
+type: docs
 ---
 
 ## Attributes

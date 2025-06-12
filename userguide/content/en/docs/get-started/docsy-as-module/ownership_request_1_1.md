@@ -2,6 +2,14 @@
 name: Component Ownership Request
 about: Request yourself being added as a component owner for a component in this repository
 labels: type:ownership-request
+weight: 2
+date: '2025-06-12'
+title: Ownership Request 1 1
+aliases:
+- /docs/ownership_request_1_1/
+description: ''
+linkTitle: Ownership Request 1 1
+type: docs
 ---
 
 <!--

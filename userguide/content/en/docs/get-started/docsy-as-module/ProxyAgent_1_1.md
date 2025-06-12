@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Proxyagent 1 1
+aliases:
+- /docs/ProxyAgent_1_1/
+description: ''
+linkTitle: Proxyagent 1 1
+type: docs
+---
+
 # Class: ProxyAgent
 
 Extends: `undici.Dispatcher`

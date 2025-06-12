@@ -1,6 +1,13 @@
 ---
-title: "Competitor Evaluations"
-description: "Competitor evaluations help us understand how a competing product addresses the Jobs-To-Be-Done that our product also tries to address."
+title: Competitor Evaluations
+description: Competitor evaluations help us understand how a competing product addresses
+  the Jobs-To-Be-Done that our product also tries to address.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/competitor-evaluations_1748133859790140492_1/
+linkTitle: Competitor Evaluations
+type: docs
 ---
 
 ## What are competitor evaluations?

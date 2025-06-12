@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Pm Responsibilities 1 1
+aliases:
+- /docs/pm_responsibilities_1_1/
+description: ''
+linkTitle: Pm Responsibilities 1 1
+type: docs
+---
+
 ## Core Product Manager responsibilities
 
 As a Product Manager (PM) at GitLab, you are primarily responsible for:

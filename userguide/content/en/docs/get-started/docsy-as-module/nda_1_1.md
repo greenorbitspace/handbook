@@ -1,7 +1,12 @@
 ---
-aliases: /handbook/legal/NDA
-title: "Non-Disclosure Agreement Process"
-description: "How to complete an NDA Request"
+aliases:
+- /docs/nda_1_1/
+title: Non-Disclosure Agreement Process
+description: How to complete an NDA Request
+weight: 2
+date: '2025-06-12'
+linkTitle: Non-Disclosure Agreement Process
+type: docs
 ---
 
 - **Only GitLab Team Members with signature authority can execute agreements on behalf of GitLab, including Non-Disclosure Agreements (NDAs).**

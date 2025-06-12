@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Contributing 2 1 1
+aliases:
+- /docs/CONTRIBUTING_2_1_1/
+description: ''
+linkTitle: Contributing 2 1 1
+type: docs
+---
+
 # Contributing
 
 Interested in contributing? Great! Here are some suggestions to make it a good

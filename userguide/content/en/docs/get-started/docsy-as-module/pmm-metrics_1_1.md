@@ -1,6 +1,12 @@
 ---
-
-title: "PMM Metrics"
+title: PMM Metrics
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/pmm-metrics_1_1/
+description: ''
+linkTitle: PMM Metrics
+type: docs
 ---
 
 ## Objective:  Manage and track the velocity of the PMM team

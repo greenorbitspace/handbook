@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Design System 1 1
+aliases:
+- /docs/design-system_1_1/
+description: ''
+linkTitle: Design System 1 1
+type: docs
+---
+
 # How to use this design system
 
 Every designer, new and old, should review this system and leave comments, feedback, or questions. This design system is meant to be a single source of truth for the entire design team to stay consistent and reduce duplicative work.

@@ -1,6 +1,14 @@
 ---
-title: "GitLab Testing Agreement V3"
+title: GitLab Testing Agreement V3
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/testing-agreement-v3_1_1/
+description: ''
+linkTitle: GitLab Testing Agreement V3
+type: docs
 ---
+
 <!-- vale off -->
 *Deprecated 2024-08-29*
 

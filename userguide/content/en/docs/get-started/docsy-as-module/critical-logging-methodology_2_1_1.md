@@ -1,6 +1,14 @@
 ---
-title: "Critical Logging Tiering Methodology"
-description: "The purpose of the Critical Logging Tiering Methodology is to support GitLab in identifying and understanding the criticality of logs in systems utilized across the organization that are considered essential in order to maintain operations."
+title: Critical Logging Tiering Methodology
+description: The purpose of the Critical Logging Tiering Methodology is to support
+  GitLab in identifying and understanding the criticality of logs in systems utilized
+  across the organization that are considered essential in order to maintain operations.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/critical-logging-methodology_2_1_1/
+linkTitle: Critical Logging Tiering Methodology
+type: docs
 ---
 
 ## Purpose

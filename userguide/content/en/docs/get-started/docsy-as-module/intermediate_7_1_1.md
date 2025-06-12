@@ -1,5 +1,12 @@
 ---
-title: "Support Career Framework: Intermediate Support Engineer"
+title: 'Support Career Framework: Intermediate Support Engineer'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/intermediate_7_1_1/
+description: ''
+linkTitle: 'Support Career Framework: Intermediate Support Engineer'
+type: docs
 ---
 
 ## Intermediate Support Engineer

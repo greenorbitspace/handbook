@@ -1,7 +1,12 @@
 ---
-
-title: "Anti-Corruption Policy"
-description: "Overview of Anti-Corruption Policy"
+title: Anti-Corruption Policy
+description: Overview of Anti-Corruption Policy
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/anti-corruption-policy_1_1/
+linkTitle: Anti-Corruption Policy
+type: docs
 ---
 
 **THIS POLICY WAS APPROVED BY THE BOARD OF DIRECTORS OF THE COMPANY ON SEPTEMBER 14, 2021. THIS POLICY IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY. AN EXECUTABLE COPY OF THIS POLICY, INCLUDING THE TEAM MEMBERS CERTIFICATION REGARDING COMPLIANCE AND UNDERSTANDING, WILL BE REQUIRED TO BE SIGNED BY GITLAB TEAM MEMBERS.**

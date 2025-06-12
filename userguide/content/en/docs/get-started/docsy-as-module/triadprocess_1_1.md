@@ -1,6 +1,12 @@
 ---
-title: "Triad Process"
-description: "An overview on what the Triad Process is and who is involved."
+title: Triad Process
+description: An overview on what the Triad Process is and who is involved.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/triadprocess_1_1/
+linkTitle: Triad Process
+type: docs
 ---
 
 The Triad process exists to connect the various functional representatives from the PBP group, Finance and Talent Acquisition together to ensure seamless collaboration, reporting and metrics tracking.

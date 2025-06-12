@@ -1,7 +1,13 @@
 ---
 title: Agent Workspace
 description: Support Operations documentation page for Zendesk agent workspace
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/agent_workspace"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/agent_workspace
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/agent_workspace_1_1/
+linkTitle: Agent Workspace
+type: docs
 ---
 
 <sup>*Introduced via [support-team-meta#5243](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5243)*</sup>

@@ -1,14 +1,13 @@
 ---
-
 title: Developer Cheatsheet
 description: Helpful information for developers on the Editor team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/developer-cheatsheet_1_1/
+linkTitle: Developer Cheatsheet
+type: docs
 ---
-
-
-
-
-
-
 
 ## Useful Commands
 

@@ -1,6 +1,12 @@
 ---
-title: "James (Jim) Gladen's README"
-description: "Learn more about working with James (Jim) Gladen, VP Tax"
+title: James (Jim) Gladen's README
+description: Learn more about working with James (Jim) Gladen, VP Tax
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/james-gladen_1_1/
+linkTitle: James (Jim) Gladen's README
+type: docs
 ---
 
 ## Why I'm at GitLab

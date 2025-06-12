@@ -1,10 +1,15 @@
 ---
 title: Article Title
 description: Article description
-# remove the 3 lines below to render
 _build:
-    list: never
-    render: never
+  list: never
+  render: never
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/template.html_1_1/
+linkTitle: Article Title
+type: docs
 ---
 
 > SOP - Standard operating process/procedure

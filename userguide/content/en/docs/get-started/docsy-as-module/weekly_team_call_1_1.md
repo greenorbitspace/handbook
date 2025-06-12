@@ -1,12 +1,15 @@
 ---
-
 title: Weekly Support Team Call
 category: Support Team
 subcategory: Meetings
-description:
+description: ''
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/weekly_team_call_1_1/
+linkTitle: Weekly Support Team Call
+type: docs
 ---
-
-
 
 ## Overview
 

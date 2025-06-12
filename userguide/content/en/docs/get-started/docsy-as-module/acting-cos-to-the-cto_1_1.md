@@ -1,7 +1,14 @@
 ---
-title: "Acting Chief of Staff to the CTO"
-description: "This role will help enable communication, collaboration, strategy execution, and special projects across the CTO organization."
-canonical_path: "/job-families/engineering/acting-cos-to-the-cto/"
+title: Acting Chief of Staff to the CTO
+description: This role will help enable communication, collaboration, strategy execution,
+  and special projects across the CTO organization.
+canonical_path: /job-families/engineering/acting-cos-to-the-cto/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/acting-cos-to-the-cto_1_1/
+linkTitle: Acting Chief of Staff to the CTO
+type: docs
 ---
 
 ## Chief of Staff to the CTO

@@ -1,13 +1,27 @@
 ---
-title: "Cell Architecture and Tooling"
+title: Cell Architecture and Tooling
 status: proposed
-creation-date: "2024-03-22"
-authors: ["@pguinoiseau", "@jcstephenson", "@ayeung"]
-coach: ["@sxuereb", "@andrewn"]
-approvers: ["@product-manager", "@sabrams"]
-owning-stage: "~devops::data stores"
+creation-date: '2024-03-22'
+authors:
+- '@pguinoiseau'
+- '@jcstephenson'
+- '@ayeung'
+coach:
+- '@sxuereb'
+- '@andrewn'
+approvers:
+- '@product-manager'
+- '@sabrams'
+owning-stage: ~devops::data stores
 participating-stages: []
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cell_arch_tooling_1_1/
+description: ''
+linkTitle: Cell Architecture and Tooling
+type: docs
 ---
 
 {{< design-document-header >}}

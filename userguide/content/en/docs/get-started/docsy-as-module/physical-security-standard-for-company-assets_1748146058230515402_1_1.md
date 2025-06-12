@@ -1,9 +1,14 @@
 ---
-title: "Physical Security Standard for Company Assets"
+title: Physical Security Standard for Company Assets
 aliases:
 - /handbook/security/physical-security-standard-for-company-assets
 note: Do not remove alias due to extensive external use where it cannot be updated.
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Physical Security Standard for Company Assets
+type: docs
 ---
 
 ## Purpose

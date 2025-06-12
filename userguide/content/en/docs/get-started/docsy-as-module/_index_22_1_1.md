@@ -1,6 +1,19 @@
 ---
-title: "Identity User Guide - Policy Management"
-description: "The Identity Platform manages the top-level of administrative access and infrastructure for GitLab systems access, and manages access policies for our tech stack applications. We manage all configuration using Terraform (Configuration/Infrastructure-as-Code) or REST API (guess and check policy enforcement with API endpoints) base state management with a GitOps CI/CD approach. This page provides a quick reference guide and runbooks for how we have embedded change management in all of our processes and automation with configuration-as-code state management, merge request approval rules, approval user experience, audit and diff logging, and more."
+title: Identity User Guide - Policy Management
+description: The Identity Platform manages the top-level of administrative access
+  and infrastructure for GitLab systems access, and manages access policies for our
+  tech stack applications. We manage all configuration using Terraform (Configuration/Infrastructure-as-Code)
+  or REST API (guess and check policy enforcement with API endpoints) base state management
+  with a GitOps CI/CD approach. This page provides a quick reference guide and runbooks
+  for how we have embedded change management in all of our processes and automation
+  with configuration-as-code state management, merge request approval rules, approval
+  user experience, audit and diff logging, and more.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_22_1_1/
+linkTitle: Identity User Guide - Policy Management
+type: docs
 ---
 
 {{% alert title="Not Live Yet" color="warning" %}}

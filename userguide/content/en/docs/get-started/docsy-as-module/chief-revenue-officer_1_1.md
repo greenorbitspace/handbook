@@ -1,6 +1,13 @@
 ---
-title: "Chief Revenue Officer"
-RoleName: "Chief Revenue Officer"
+title: Chief Revenue Officer
+RoleName: Chief Revenue Officer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/chief-revenue-officer_1_1/
+description: ''
+linkTitle: Chief Revenue Officer
+type: docs
 ---
 
 ## Responsibilities

@@ -1,9 +1,15 @@
 ---
 title: Email Best Practices
 description: An overview of GitLab's email best practices.
-twitter_image: '/images/tweets/handbook-marketing.png'
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/tweets/handbook-marketing.png
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/email-best-practices_1_1/
+linkTitle: Email Best Practices
+type: docs
 ---
 
 ## Overview

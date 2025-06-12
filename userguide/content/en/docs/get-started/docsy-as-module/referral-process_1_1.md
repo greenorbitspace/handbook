@@ -1,6 +1,13 @@
 ---
-title: "Referral Process"
-description: "GitLab's Referral program is fairly straight-forward, there are several nuances to be mindful of. This is a review the program rules and eligibility."
+title: Referral Process
+description: GitLab's Referral program is fairly straight-forward, there are several
+  nuances to be mindful of. This is a review the program rules and eligibility.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/referral-process_1_1/
+linkTitle: Referral Process
+type: docs
 ---
 
 If you know someone who would be a great addition to the GitLab team, please submit them as a Referral. If they're successfully hired and all Referral criteria is met, you'll receive a Referral Bonus!

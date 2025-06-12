@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Sustainable Events Guide 1 1
+aliases:
+- /docs/sustainable-events-guide_1_1/
+description: ''
+linkTitle: Sustainable Events Guide 1 1
+type: docs
+---
+
 # Introduction
 
 A sustainable events guide is essential for organizing gatherings that minimize environmental impact while maximizing positive outcomes for attendees and stakeholders. This guide will help you plan and execute events that align with environmental responsibility and social consciousness.

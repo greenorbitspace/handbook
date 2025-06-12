@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Parameter Resolvers 1 1
+aliases:
+- /docs/parameter-resolvers_1_1/
+description: ''
+linkTitle: Parameter Resolvers 1 1
+type: docs
+---
+
 # Parameter resolvers
 
 Extending the behavior of the `Invoker` is easy and is done by implementing a [`ParameterResolver`](https://github.com/PHP-DI/Invoker/blob/master/src/ParameterResolver/ParameterResolver.php):

@@ -1,5 +1,12 @@
 ---
-title: "Field Enablement Leadership"
+title: Field Enablement Leadership
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/director-of-field-enablement_1_1/
+description: ''
+linkTitle: Field Enablement Leadership
+type: docs
 ---
 
 ## Director, Field Enablement

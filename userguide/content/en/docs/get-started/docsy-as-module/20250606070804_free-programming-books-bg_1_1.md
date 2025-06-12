@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 20250606070804 Free Programming Books Bg 1 1
+aliases:
+- /docs/20250606070804_free-programming-books-bg_1_1/
+description: ''
+linkTitle: 20250606070804 Free Programming Books Bg 1 1
+type: docs
+---
+
 ### Index
 
 * [C](#c)

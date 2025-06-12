@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Consultant Resource Guide 1 1
+aliases:
+- /docs/consultant-resource-guide_1_1/
+description: ''
+linkTitle: Consultant Resource Guide 1 1
+type: docs
+---
+
 # Introduction
 
 Welcome to the Consultant Resource Guide. This comprehensive document is designed to provide you with essential information, tools, and best practices to excel in your role as a consultant.

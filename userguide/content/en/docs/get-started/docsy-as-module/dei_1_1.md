@@ -1,14 +1,15 @@
 ---
-
-title: 'Distinguished Engineer, Infrastructure - Andrew Newdigate'
-description: "The Distinguished Engineer, Infrastructure is a member of the Infrastructure team and works with both department leadership and individual contributors to achieve the department's objectives."
+title: Distinguished Engineer, Infrastructure - Andrew Newdigate
+description: The Distinguished Engineer, Infrastructure is a member of the Infrastructure
+  team and works with both department leadership and individual contributors to achieve
+  the department's objectives.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dei_1_1/
+linkTitle: Distinguished Engineer, Infrastructure - Andrew Newdigate
+type: docs
 ---
-
-
-
-
-
-
 
 ![xkcd #670: Wow, that's less than $200 per ... uh ... that's a good deal!](https://imgs.xkcd.com/comics/spinal_tap_amps.png)
 

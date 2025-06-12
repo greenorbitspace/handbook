@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Policy Engagement 1 1
+aliases:
+- /docs/policy-engagement_1_1/
+description: ''
+linkTitle: Policy Engagement 1 1
+type: docs
+---
+
 # Policy Engagement Framework
 
 ## 1. Strategic Planning and Analysis

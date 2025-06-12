@@ -1,14 +1,13 @@
 ---
-
-title: "Environments Canary Stage"
-description: "Detailed information about how the Canary stage works in our Environments"
+title: Environments Canary Stage
+description: Detailed information about how the Canary stage works in our Environments
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/canary-stage_1_1/
+linkTitle: Environments Canary Stage
+type: docs
 ---
-
-
-
-
-
-
 
 ## Environments Canary Stage
 

@@ -1,7 +1,13 @@
 ---
 title: Theme
 description: Support Operations documentation page for our Zendesk theme
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/theme"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/theme
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/theme_1_1/
+linkTitle: Theme
+type: docs
 ---
 
 ### Change management

@@ -1,6 +1,13 @@
 ---
-title: "Bypass Policy"
-description: "This policy relates to the rate limits for GitLab.com, for Self-Managed and Dedicated please reach out to your administrator."
+title: Bypass Policy
+description: This policy relates to the rate limits for GitLab.com, for Self-Managed
+  and Dedicated please reach out to your administrator.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bypass-policy_1_1/
+linkTitle: Bypass Policy
+type: docs
 ---
 
 ## Bypass Policy for GitLab.com

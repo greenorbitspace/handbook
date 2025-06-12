@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Notion Workspace Guide 1 1
+aliases:
+- /docs/notion-workspace-guide_1_1/
+description: ''
+linkTitle: Notion Workspace Guide 1 1
+type: docs
+---
+
 # Getting Started with Notion
 
 <!-- Unsupported block type: callout -->

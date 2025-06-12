@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Fundamentals Of Sustainable Marketing 1 1
+aliases:
+- /docs/fundamentals-of-sustainable-marketing_1_1/
+description: ''
+linkTitle: Fundamentals Of Sustainable Marketing 1 1
+type: docs
+---
+
 CIM has created this new online course to look at the sustainability landscape and what it means for business and society, and how you can get started on your journey to becoming a sustainable marketer. There are 4 modules written by leading sustainability experts taking you through what you need to know and why it’s important.
 
 1. The sustainability landscape and what marketers need to be aware of

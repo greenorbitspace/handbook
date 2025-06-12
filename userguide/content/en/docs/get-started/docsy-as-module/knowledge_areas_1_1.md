@@ -1,11 +1,15 @@
 ---
-
 title: Support Team Knowledge Areas
-description: "Describes the internal reference pages for Support team members who feel that they are knowledgeable and willing to assist with specific skills and knowledge"
+description: Describes the internal reference pages for Support team members who feel
+  that they are knowledgeable and willing to assist with specific skills and knowledge
 category: References
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/knowledge_areas_1_1/
+linkTitle: Support Team Knowledge Areas
+type: docs
 ---
-
-
 
 ### Overview
 

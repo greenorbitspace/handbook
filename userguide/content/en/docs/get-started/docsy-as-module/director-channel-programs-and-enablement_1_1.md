@@ -1,5 +1,12 @@
 ---
-title: "Channel Programs & Enablement"
+title: Channel Programs & Enablement
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/director-channel-programs-and-enablement_1_1/
+description: ''
+linkTitle: Channel Programs & Enablement
+type: docs
 ---
 
 ## Director, Channel Programs & Enablement

@@ -1,13 +1,13 @@
 ---
-
 title: Five Minute Production
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/5-min-production_1_1/
+description: ''
+linkTitle: Five Minute Production
+type: docs
 ---
-
-
-
-
-
-
 
 ## Five Minute Production
 

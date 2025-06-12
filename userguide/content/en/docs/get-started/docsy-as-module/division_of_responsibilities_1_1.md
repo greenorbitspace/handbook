@@ -1,7 +1,13 @@
 ---
 title: Division of Responsibilities
 description: A breakdown of the division of responsibilities for the Support Ops team
-canonical_path: "/handbook/support/readiness/operations/division_of_responsibilities/"
+canonical_path: /handbook/support/readiness/operations/division_of_responsibilities/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/division_of_responsibilities_1_1/
+linkTitle: Division of Responsibilities
+type: docs
 ---
 
 To help ensure the team doesn't get overwhelmed and has the ability to focus on

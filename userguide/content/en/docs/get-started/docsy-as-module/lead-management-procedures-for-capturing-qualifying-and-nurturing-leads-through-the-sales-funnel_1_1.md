@@ -1,3 +1,16 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Lead Management Procedures For Capturing Qualifying And Nurturing Leads Through
+  The Sales Funnel 1 1
+aliases:
+- /docs/lead-management-procedures-for-capturing-qualifying-and-nurturing-leads-through-the-sales-funnel_1_1/
+description: ''
+linkTitle: Lead Management Procedures For Capturing Qualifying And Nurturing Leads
+  Through The Sales Funnel 1 1
+type: docs
+---
+
 ## 1. Lead Generation and Capture
 
 ### 1.1 Lead Sources

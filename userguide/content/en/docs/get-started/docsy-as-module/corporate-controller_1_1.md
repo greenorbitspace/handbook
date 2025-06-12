@@ -1,6 +1,14 @@
 ---
-title: "Corporate Controller"
-description: "The Corporate Controller job family leads the accounting and financial reporting activities and is responsible for the leadership, development and execution of the company’s corporate accounting function."
+title: Corporate Controller
+description: The Corporate Controller job family leads the accounting and financial
+  reporting activities and is responsible for the leadership, development and execution
+  of the company’s corporate accounting function.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/corporate-controller_1_1/
+linkTitle: Corporate Controller
+type: docs
 ---
 
 The Corporate Controller job family leads the accounting and financial reporting activities and is responsible for the leadership, development and execution of the company’s corporate accounting function. Reporting to the Principal Accounting Officer, the Corporate Controller enhances financial controls, processes and oversees compliance with our policies and procedures. These functions and processes produce timely and accurate monthly financial results in compliance with US GAAP and SEC reporting requirements. The Controller is also responsible for capturing, defining and ensuring accuracy of non-gaap financial metrics. The Controller works closely with our external and internal auditors, and other members of the organization to complete our monthly and quarterly reporting on a timely basis. This role instills a culture of strong internal controls across the company and is responsible for compliance with our technical accounting standards, GL and sub-modules for efficient operations and global revenue.

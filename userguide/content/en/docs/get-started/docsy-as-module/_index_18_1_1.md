@@ -1,6 +1,19 @@
 ---
-title: "Identity User Guide - Managers"
-description: "The Identity Platform handles Identity and Access Management (IAM), role-based access control (RBAC), and the application, group, and infrastructure provisioning automation for all users at GitLab. This page provies a quick reference guide and runbook for people managers and directors to create and update Identity Role and Identity Group policies, manage which applications and groups that the people on your team have access to with self-service updates to Identity Role and Identity Group policies. This also includes instructions for adding, renaming, refactoring, or removing job roles and teams from the Identity Platform."
+title: Identity User Guide - Managers
+description: The Identity Platform handles Identity and Access Management (IAM), role-based
+  access control (RBAC), and the application, group, and infrastructure provisioning
+  automation for all users at GitLab. This page provies a quick reference guide and
+  runbook for people managers and directors to create and update Identity Role and
+  Identity Group policies, manage which applications and groups that the people on
+  your team have access to with self-service updates to Identity Role and Identity
+  Group policies. This also includes instructions for adding, renaming, refactoring,
+  or removing job roles and teams from the Identity Platform.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_18_1_1/
+linkTitle: Identity User Guide - Managers
+type: docs
 ---
 
 {{% alert title="Not Live Yet" color="warning" %}}

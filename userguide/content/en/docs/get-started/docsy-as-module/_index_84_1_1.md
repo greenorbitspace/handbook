@@ -1,6 +1,12 @@
 ---
 title: GitLab Runner Support Pod
 description: A space to collaborate and for Support Engineers to get help on Runner.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_84_1_1/
+linkTitle: GitLab Runner Support Pod
+type: docs
 ---
 
 ## Purpose

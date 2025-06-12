@@ -1,6 +1,13 @@
 ---
-title: "Internal Feedback"
-description: "At GitLab we feel that a quick, quarterly check-in is more aligned to our values use Google forms to gather feedback anonymously."
+title: Internal Feedback
+description: At GitLab we feel that a quick, quarterly check-in is more aligned to
+  our values use Google forms to gather feedback anonymously.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/internal-feedback_1_1/
+linkTitle: Internal Feedback
+type: docs
 ---
 
 Companies will often wait to gather internal feedback until an exit interview after someone's resigned, or they'll organize an occasional survey to take a pulse on the company’s engagement.  We feel that a quick, quarterly check-in is more aligned to our [values]({{< ref "values" >}}) Collaboration and Iteration.  We use Google forms to gather feedback anonymously, and the responsibility of reviewing and collating feedback stays within People Operations to maintain confidentiality for all participants.  We promise to share the spirit of the feedback we collect but will paraphrase and summarize responses and share only constructive and actionable feedback. Specific or personal comments or complaints will be investigated and dealt with privately, out of respect for the recipient(s).

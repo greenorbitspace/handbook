@@ -1,5 +1,12 @@
 ---
 title: CTO Leadership Team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cto-leadership-team_1_1/
+description: ''
+linkTitle: CTO Leadership Team
+type: docs
 ---
 
 The CTO Leadership Team is composed of the CTO's direct reports and the Office of the CTO (OCTO).

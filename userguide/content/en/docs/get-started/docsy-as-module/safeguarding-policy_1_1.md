@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Safeguarding Policy 1 1
+aliases:
+- /docs/safeguarding-policy_1_1/
+description: ''
+linkTitle: Safeguarding Policy 1 1
+type: docs
+---
+
 1. Introduction
 
 At Green Orbit Digital, we are dedicated to ensuring the safety, welfare, and protection of all individuals involved in our operations, including employees, clients, partners, and stakeholders. Our Safeguarding Policy outlines our commitment to promoting a safe and secure environment and addressing concerns related to safeguarding and child protection.

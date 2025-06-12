@@ -1,12 +1,15 @@
 ---
-
 title: Handling Sales Information Requests
-description: "How to handle information requests from GitLab Sales team"
+description: How to handle information requests from GitLab Sales team
 category: Handling tickets
 subcategory: Customer Info
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/handling_sales_info_requests_1_1/
+linkTitle: Handling Sales Information Requests
+type: docs
 ---
-
-
 
 ### Overview
 

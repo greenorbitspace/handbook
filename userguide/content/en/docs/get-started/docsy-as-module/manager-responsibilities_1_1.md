@@ -1,11 +1,14 @@
 ---
-
 title: Support Engineering Manager Responsibilities
-description: "Support Engineering Manager Responsibilities"
+description: Support Engineering Manager Responsibilities
 category: Support Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/manager-responsibilities_1_1/
+linkTitle: Support Engineering Manager Responsibilities
+type: docs
 ---
-
-
 
 ## Introduction
 

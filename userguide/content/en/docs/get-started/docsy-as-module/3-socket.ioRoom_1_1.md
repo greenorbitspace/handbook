@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 3 Socket.Ioroom 1 1
+aliases:
+- /docs/3-socket.ioRoom_1_1/
+description: ''
+linkTitle: 3 Socket.Ioroom 1 1
+type: docs
+---
+
 # socket.io flow
 Sure! Let me break down the **Socket.IO flow** and explain the role of each line of code. This will give you a detailed understanding of how everything works in both the **server** and **client** code.
 

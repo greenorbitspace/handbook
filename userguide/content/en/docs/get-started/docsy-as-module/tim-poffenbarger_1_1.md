@@ -1,6 +1,12 @@
 ---
-
-title: "Tim Poffenbarger's README"
+title: Tim Poffenbarger's README
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tim-poffenbarger_1_1/
+description: ''
+linkTitle: Tim Poffenbarger's README
+type: docs
 ---
 
 <!-- This template will help you build out your very own GitLab README, a great tool for transparently letting others know what it's like to work with you, and how you prefer to be communicated with. Each section is optional. You can remove those you aren't comfortable filling out, and add sections that are germane to you. -->

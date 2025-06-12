@@ -1,7 +1,12 @@
 ---
-
-title: "Global Digital SMB"
-description: "Overview of the Global Digital SMB Sales Model"
+title: Global Digital SMB
+description: Overview of the Global Digital SMB Sales Model
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/global_digital_smb_1_1/
+linkTitle: Global Digital SMB
+type: docs
 ---
 
 ## Global Digital SMB Sales Model

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Recruitment And Selection Policy 1 1
+aliases:
+- /docs/recruitment-and-selection-policy_1_1/
+description: ''
+linkTitle: Recruitment And Selection Policy 1 1
+type: docs
+---
+
 ### 1. Policy Statement
 
 1.1. Green Orbit Digital is committed to recruiting a diverse and talented workforce that aligns with our mission to drive sustainability through innovative marketing and space-driven solutions.

@@ -1,6 +1,12 @@
 ---
-title: "Tracking research velocity"
-description: "How we track research velocity."
+title: Tracking research velocity
+description: How we track research velocity.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tracking-research-velocity_1/
+linkTitle: Tracking research velocity
+type: docs
 ---
 
 Research issues that are actual research efforts/projects should have one of the following labels:

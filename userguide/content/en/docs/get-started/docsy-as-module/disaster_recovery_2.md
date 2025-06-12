@@ -1,9 +1,16 @@
 ---
-title: 'Cells 1.0 Disaster Recovery'
+title: Cells 1.0 Disaster Recovery
 stage: core platform
 group: Tenant Scale
 status: proposed
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/disaster_recovery_2/
+description: ''
+linkTitle: Cells 1.0 Disaster Recovery
+type: docs
 ---
 
 {{< design-document-header >}}

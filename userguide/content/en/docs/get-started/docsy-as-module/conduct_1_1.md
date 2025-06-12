@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Conduct 1 1
+aliases:
+- /docs/conduct_1_1/
+description: ''
+linkTitle: Conduct 1 1
+type: docs
+---
+
 <h1>Code of Conduct</h1>
 
 ## Our Pledge

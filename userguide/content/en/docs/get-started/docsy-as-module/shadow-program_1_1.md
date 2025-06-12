@@ -1,16 +1,17 @@
 ---
-
-title: "The Customer-Ready Shadow Program"
-description: "The Customer-Ready shadow program offers a hands-on way to learn how different GitLab roles represent GitLab. We often learn best when we have the opportunity to learn from our peers, practice, and get feedback in an interactive way. It’s also a great way to make new hires feel welcome and a part of our sales culture at GitLab."
+title: The Customer-Ready Shadow Program
+description: The Customer-Ready shadow program offers a hands-on way to learn how
+  different GitLab roles represent GitLab. We often learn best when we have the opportunity
+  to learn from our peers, practice, and get feedback in an interactive way. It’s
+  also a great way to make new hires feel welcome and a part of our sales culture
+  at GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/shadow-program_1_1/
+linkTitle: The Customer-Ready Shadow Program
+type: docs
 ---
-
-
-
-
-
-
-
-
 
 ## Overview
 

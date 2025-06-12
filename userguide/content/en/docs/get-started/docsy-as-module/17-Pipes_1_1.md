@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 17 Pipes 1 1
+aliases:
+- /docs/17-Pipes_1_1/
+description: ''
+linkTitle: 17 Pipes 1 1
+type: docs
+---
+
 ### Pipes
 - in a real world pip, there is a tank خزان that is connected to the tap الحنفيه via the pipe الماسوره
 - in nodeJS we are reading water(data) from the tank(readableStream) and writing it to the sink(writableStream) via a <mark>Pipe</mar>

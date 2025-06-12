@@ -1,7 +1,14 @@
 ---
 title: Enabling feature flags for projects or groups on GitLab.com
 category: GitLab.com
-description: "Workflow to follow when customers request for feature flags to be enabled on theire GitLab.com projects or groups"
+description: Workflow to follow when customers request for feature flags to be enabled
+  on theire GitLab.com projects or groups
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/saas_feature_flags_1_1/
+linkTitle: Enabling feature flags for projects or groups on GitLab.com
+type: docs
 ---
 
 ## Overview

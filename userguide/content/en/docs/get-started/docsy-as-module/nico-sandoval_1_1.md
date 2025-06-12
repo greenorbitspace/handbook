@@ -1,7 +1,13 @@
 ---
-title: "Nico Sandoval's README"
-description: "Personal README for Nico Sandoval"
-job: "Business Systems Analyst - Enterprise Applications PMO"
+title: Nico Sandoval's README
+description: Personal README for Nico Sandoval
+job: Business Systems Analyst - Enterprise Applications PMO
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/nico-sandoval_1_1/
+linkTitle: Nico Sandoval's README
+type: docs
 ---
 
 ### Introduction

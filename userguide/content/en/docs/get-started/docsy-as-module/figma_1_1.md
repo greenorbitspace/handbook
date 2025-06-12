@@ -1,6 +1,12 @@
 ---
-title: "Figma Process"
-description: "The purpose of this page is to present guidelines for Figma."
+title: Figma Process
+description: The purpose of this page is to present guidelines for Figma.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/figma_1_1/
+linkTitle: Figma Process
+type: docs
 ---
 
 The purpose of this page is to present some Figma process guidelines for the GitLab marketing team. This page is for people who create designs in Figma, people who review designs in Figma, and for engineers who receive Figma files. This page is not a Figma 101.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Project Risk Management Plan 1 1
+aliases:
+- /docs/project-risk-management-plan_1_1/
+description: ''
+linkTitle: Project Risk Management Plan 1 1
+type: docs
+---
+
 # 1. Project Overview and Purpose
 
 This risk management plan establishes a framework for identifying, assessing, and managing risks that could affect our project's success. The plan aims to protect project objectives while ensuring sustainable delivery of outcomes.

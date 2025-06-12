@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Custom Map Styles 1 1
+aliases:
+- /docs/custom-map-styles_1_1/
+description: ''
+linkTitle: Custom Map Styles 1 1
+type: docs
+---
+
 # Using kepler.gl with basemap services other than Mapbox
 
 By default, kepler.gl uses mapbox-gl.js to render its base maps, displayed in [map style selection panel](https://github.com/keplergl/kepler.gl/blob/master/docs/user-guides/f-map-styles/1-base-map-styles.md).

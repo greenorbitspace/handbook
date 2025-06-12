@@ -1,6 +1,13 @@
 ---
-title: "GitLab Security Essentials - Hands-On Lab Overview"
-description: "This Hands-On Guide walks you through the lab exercises in the GitLab Security Essentials course."
+title: GitLab Security Essentials - Hands-On Lab Overview
+description: This Hands-On Guide walks you through the lab exercises in the GitLab
+  Security Essentials course.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabsecurityessentials_1/
+linkTitle: GitLab Security Essentials - Hands-On Lab Overview
+type: docs
 ---
 
 ## GitLab Security Essentials Lab Guides

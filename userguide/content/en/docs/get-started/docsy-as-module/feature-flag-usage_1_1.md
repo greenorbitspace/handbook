@@ -1,6 +1,13 @@
 ---
-title: "Feature Flag usage Working Group"
-description: "The feature flag usage working group aims to establish global policies and processes around the usage of feature flags in the development of GitLab"
+title: Feature Flag usage Working Group
+description: The feature flag usage working group aims to establish global policies
+  and processes around the usage of feature flags in the development of GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/feature-flag-usage_1_1/
+linkTitle: Feature Flag usage Working Group
+type: docs
 ---
 
 ## Attributes

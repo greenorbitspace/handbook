@@ -1,6 +1,13 @@
 ---
-title: "MLOps Working Group"
-description: "Learn more about the GitLab MLOps Working Group attributes, goals, roles and responsibilities."
+title: MLOps Working Group
+description: Learn more about the GitLab MLOps Working Group attributes, goals, roles
+  and responsibilities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mlops_1_1/
+linkTitle: MLOps Working Group
+type: docs
 ---
 
 ## Attributes

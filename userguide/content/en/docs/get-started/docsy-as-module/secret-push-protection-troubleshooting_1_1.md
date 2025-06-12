@@ -1,5 +1,12 @@
 ---
-title: "Secret push protection troubleshooting"
+title: Secret push protection troubleshooting
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/secret-push-protection-troubleshooting_1_1/
+description: ''
+linkTitle: Secret push protection troubleshooting
+type: docs
 ---
 
 ### When to use this runbook?

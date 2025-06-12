@@ -1,6 +1,13 @@
 ---
-title: "Use of Third-party Trademarks in GitLab"
-description: "Guidelines applicable to the use of third-party trademarks in the GitLab product"
+title: Use of Third-party Trademarks in GitLab
+description: Guidelines applicable to the use of third-party trademarks in the GitLab
+  product
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-third-party-trademarks-guidelines_1_1/
+linkTitle: Use of Third-party Trademarks in GitLab
+type: docs
 ---
 
 ## Scope

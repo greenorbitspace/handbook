@@ -1,14 +1,13 @@
 ---
-
-title: "GitLab Usage Statistics"
-description: "This page outlines our usage statistics and SFDC instance information."
+title: GitLab Usage Statistics
+description: This page outlines our usage statistics and SFDC instance information.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/usage-statistics.html_1_1/
+linkTitle: GitLab Usage Statistics
+type: docs
 ---
-
-
-
-
-
-
 
 ---
 

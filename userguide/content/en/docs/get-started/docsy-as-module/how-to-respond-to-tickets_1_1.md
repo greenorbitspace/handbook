@@ -1,11 +1,15 @@
 ---
-
 title: How to Respond to Tickets
 category: Handling tickets
-description: Advice for providing human, helpful responses to support tickets to improve customer experience and excellence
+description: Advice for providing human, helpful responses to support tickets to improve
+  customer experience and excellence
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/how-to-respond-to-tickets_1_1/
+linkTitle: How to Respond to Tickets
+type: docs
 ---
-
-
 
 ## How to respond to a ticket
 

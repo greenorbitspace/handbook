@@ -1,9 +1,14 @@
 ---
 title: GitLab Diversity, Inclusion, and Belonging 2023
-type: report
-date: 2023-07-26
+type: docs
+date: '2025-06-12T01:06:01+01:00'
 hide_readingtime: false
 pdf: company/culture/inclusion/12170_GitLab_DIB_Presentation_07.25.23.pdf
+weight: 2
+aliases:
+- /docs/2023-dib-report_1_1/
+description: ''
+linkTitle: GitLab Diversity, Inclusion, and Belonging 2023
 ---
 
 ## Everyone means *everyone*

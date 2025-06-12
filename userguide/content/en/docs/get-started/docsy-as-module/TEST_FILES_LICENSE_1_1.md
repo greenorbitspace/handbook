@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Test Files License 1 1
+aliases:
+- /docs/TEST_FILES_LICENSE_1_1/
+description: ''
+linkTitle: Test Files License 1 1
+type: docs
+---
+
 HDF5 (Hierarchical Data Format 5) Software Library and Utilities
 Copyright 2006-2016 by The HDF Group.
 

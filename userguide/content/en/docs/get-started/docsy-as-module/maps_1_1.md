@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Maps 1 1
+aliases:
+- /docs/maps_1_1/
+description: ''
+linkTitle: Maps 1 1
+type: docs
+---
+
 <h1>Maps</h1>
 
 Indicator data can be displayed on a [choropleth map](https://en.wikipedia.org/wiki/Choropleth_map), with the requisite data, metadata, boundaries, and site configuration. Here is a run-down of the steps necessary in order to get working maps.

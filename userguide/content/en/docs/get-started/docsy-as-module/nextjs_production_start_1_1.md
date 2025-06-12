@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Nextjs Production Start 1 1
+aliases:
+- /docs/nextjs_production_start_1_1/
+description: ''
+linkTitle: Nextjs Production Start 1 1
+type: docs
+---
+
 ### Running Nextjs in production mode
 
 There are some key differences between `next start` and running the standalone version:

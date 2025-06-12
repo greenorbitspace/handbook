@@ -1,5 +1,12 @@
 ---
 title: Data Science
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/data-science_1_1/
+description: ''
+linkTitle: Data Science
+type: docs
 ---
 
 The [Data Science program](/handbook/business-technology/data-team/organization/data-science/) at GitLab focuses on supporting internal teams and developing model-based insights to help us understand our business, customers, and product better. Data Scientists work across the entire development lifecycle, from inception to final delivery. As a result of helping GitLab understand major trends across our business, Data Scientists make significant strategic contributions to new and existing business initiatives.

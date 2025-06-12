@@ -1,18 +1,15 @@
 ---
-
 title: Negotiate to Close
-description: >-
-  A sales negotiation is a strategic discussion (or series of discussions)
-  between buyer and seller that ideally leads to a deal being closed. The main
-  goal of the negotiation process is to reach an agreement that's acceptable to
-  everyone.
+description: A sales negotiation is a strategic discussion (or series of discussions)
+  between buyer and seller that ideally leads to a deal being closed. The main goal
+  of the negotiation process is to reach an agreement that's acceptable to everyone.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/negotiate-to-close_1_1/
+linkTitle: Negotiate to Close
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

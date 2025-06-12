@@ -1,6 +1,13 @@
 ---
-title: "GitLab Education Services Support Handbook"
-description: "This handbook will detail how to handle support inquiries for the Education Services team and the applicable systems that are used."
+title: GitLab Education Services Support Handbook
+description: This handbook will detail how to handle support inquiries for the Education
+  Services team and the applicable systems that are used.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-education-services-support_1_1/
+linkTitle: GitLab Education Services Support Handbook
+type: docs
 ---
 
 ## Overview

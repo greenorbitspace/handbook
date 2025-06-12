@@ -1,13 +1,13 @@
 ---
-
-title: "Parker Persona snippets"
+title: Parker Persona snippets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/parker_1_1/
+description: ''
+linkTitle: Parker Persona snippets
+type: docs
 ---
-
-
-
-
-
-
 
 ## SDR persona snippets by use case
 

@@ -1,15 +1,13 @@
 ---
-
-title: "Working with Professional Services"
-description: "Discover how to work with the GitLab Professional Services Team."
-
+title: Working with Professional Services
+description: Discover how to work with the GitLab Professional Services Team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/working-with_1_1/
+linkTitle: Working with Professional Services
+type: docs
 ---
-
-
-
-
-
-
 
 ### How to Contact Professional Services
 

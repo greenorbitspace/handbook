@@ -1,6 +1,13 @@
 ---
-title: "GitLab Security Essentials - Hands-On Lab: Container Scanning"
-description: "This Hands-On Guide walks you through the process of using container scanning in your projects"
+title: 'GitLab Security Essentials - Hands-On Lab: Container Scanning'
+description: This Hands-On Guide walks you through the process of using container
+  scanning in your projects
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabsecurityessentialslab4_1748146057863512586_1/
+linkTitle: 'GitLab Security Essentials - Hands-On Lab: Container Scanning'
+type: docs
 ---
 
 > Estimated time to complete: 15 to 20 minutes

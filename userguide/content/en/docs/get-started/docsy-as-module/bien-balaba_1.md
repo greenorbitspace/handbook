@@ -1,7 +1,13 @@
 ---
-title: "Bien Balaba's README"
-description: "Personal README for Bien Balaba"
-job: "Systems Analyst - Enterprise Applications"
+title: Bien Balaba's README
+description: Personal README for Bien Balaba
+job: Systems Analyst - Enterprise Applications
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bien-balaba_1/
+linkTitle: Bien Balaba's README
+type: docs
 ---
 
 ### Introduction

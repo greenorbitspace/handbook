@@ -1,5 +1,12 @@
 ---
-title: "Disaster Recovery Practice (DR Gamedays)"
+title: Disaster Recovery Practice (DR Gamedays)
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dr-practice_1_1/
+description: ''
+linkTitle: Disaster Recovery Practice (DR Gamedays)
+type: docs
 ---
 
 ## Purpose

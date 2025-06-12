@@ -1,6 +1,16 @@
 ---
 title: Environmental & Social Governance (ESG)
-description: The ESG Team creates and maintains GitLab’s Corporate Sustainability strategy and programs. This includes ESG disclosures and public ESG reporting, identifying and prioritizing key issues to advance GitLab’s social and environmental goals, and creating partnerships with non-profit organizations that support GitLab’s values and mission.
+description: The ESG Team creates and maintains GitLab’s Corporate Sustainability
+  strategy and programs. This includes ESG disclosures and public ESG reporting, identifying
+  and prioritizing key issues to advance GitLab’s social and environmental goals,
+  and creating partnerships with non-profit organizations that support GitLab’s values
+  and mission.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/environmental-social-governance_2_1/
+linkTitle: Environmental & Social Governance (ESG)
+type: docs
 ---
 
 ## ESG Manager - Environmental Sustainability and Reporting

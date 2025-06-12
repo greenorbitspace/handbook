@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 9 Middleware 1 1
+aliases:
+- /docs/9-middleware_1_1/
+description: ''
+linkTitle: 9 Middleware 1 1
+type: docs
+---
+
 ### more types of middleware
 
 4. **Error-handling middleware**

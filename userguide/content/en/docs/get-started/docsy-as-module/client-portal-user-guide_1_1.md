@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Client Portal User Guide 1 1
+aliases:
+- /docs/client-portal-user-guide_1_1/
+description: ''
+linkTitle: Client Portal User Guide 1 1
+type: docs
+---
+
 <!-- Unsupported block type: divider -->
 
 Welcome to the Client Portal User Guide

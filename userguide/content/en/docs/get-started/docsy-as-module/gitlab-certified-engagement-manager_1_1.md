@@ -1,6 +1,13 @@
 ---
-title: "GitLab Certified Engagement Manager Professional"
-description: "Describes the Engagement Manager certification learning objectives and cirriculum."
+title: GitLab Certified Engagement Manager Professional
+description: Describes the Engagement Manager certification learning objectives and
+  cirriculum.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-certified-engagement-manager_1_1/
+linkTitle: GitLab Certified Engagement Manager Professional
+type: docs
 ---
 
 ## Overview

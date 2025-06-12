@@ -1,14 +1,13 @@
 ---
-aliases: /handbook/engineering/development/required-approvals.html
-
+aliases:
+- /docs/required-approvals_1_1/
 title: Development Required Approvals
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Development Required Approvals
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

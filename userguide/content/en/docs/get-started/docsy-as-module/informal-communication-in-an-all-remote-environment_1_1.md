@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Informal Communication In An All Remote Environment 1 1
+aliases:
+- /docs/informal-communication-in-an-all-remote-environment_1_1/
+description: ''
+linkTitle: Informal Communication In An All Remote Environment 1 1
+type: docs
+---
+
 How to foster informal communication in a remote company
 
 On this page, we’re detailing how informal communication occurs at GitLab, how it complements in-person interactions, and why it matters in an all-remote culture. There are over 20 different ways to foster informal communication below, and we are constantly discovering and adding new methods.

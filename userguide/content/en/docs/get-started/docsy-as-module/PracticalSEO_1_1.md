@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Practicalseo 1 1
+aliases:
+- /docs/PracticalSEO_1_1/
+description: ''
+linkTitle: Practicalseo 1 1
+type: docs
+---
+
 ### implementing SEO 
 - assess if google can see you site first using `site: your website` in google search bar
 

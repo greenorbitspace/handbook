@@ -1,5 +1,12 @@
 ---
 title: Governance and Field Security Team Charter
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/governance_and_field_security_team_charter_1_1/
+description: ''
+linkTitle: Governance and Field Security Team Charter
+type: docs
 ---
 
 ## Team Charter

@@ -1,5 +1,12 @@
 ---
-title: "Workspaces ADR 011: Integrate GitLab Duo features inside a workspace"
+title: 'Workspaces ADR 011: Integrate GitLab Duo features inside a workspace'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/011_integrate_duo_features_inside_workspace_1_1/
+description: ''
+linkTitle: 'Workspaces ADR 011: Integrate GitLab Duo features inside a workspace'
+type: docs
 ---
 
 ## Context

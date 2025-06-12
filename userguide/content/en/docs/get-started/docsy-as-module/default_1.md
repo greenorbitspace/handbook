@@ -1,4 +1,15 @@
 ---
+weight: 2
+date: '2025-06-12'
+title: Default 1
+aliases:
+- /docs/default_1/
+description: ''
+linkTitle: Default 1
+type: docs
+---
+
+---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "{{ replace .Name "-" " " | title }}"

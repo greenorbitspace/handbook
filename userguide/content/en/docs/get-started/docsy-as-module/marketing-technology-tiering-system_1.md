@@ -1,6 +1,14 @@
 ---
-title: "Marketing Technology Tiering System"
-description: "The purpose of the Marketing Technology Tiering System is to support the Marketing organization in identifying and understanding the technology utilized across the department."
+title: Marketing Technology Tiering System
+description: The purpose of the Marketing Technology Tiering System is to support
+  the Marketing organization in identifying and understanding the technology utilized
+  across the department.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/marketing-technology-tiering-system_1/
+linkTitle: Marketing Technology Tiering System
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

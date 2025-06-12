@@ -1,13 +1,13 @@
 ---
-
-title: "Booking Metric Technical Documentation"
+title: Booking Metric Technical Documentation
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sfdc-booking-metric-fields_1_1/
+description: ''
+linkTitle: Booking Metric Technical Documentation
+type: docs
 ---
-
-
-
-
-
-
 
 ## How to use this documentation
 

@@ -1,6 +1,12 @@
 ---
-title: "Dataloader Installation, Deletion, and Upgrade Instructions at GitLab"
-description: "Instructions on how to install, delete, and upgrade Dataloader at GitLab"
+title: Dataloader Installation, Deletion, and Upgrade Instructions at GitLab
+description: Instructions on how to install, delete, and upgrade Dataloader at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dataloader-installation_1_1/
+linkTitle: Dataloader Installation, Deletion, and Upgrade Instructions at GitLab
+type: docs
 ---
 
 ## Installing from Scratch

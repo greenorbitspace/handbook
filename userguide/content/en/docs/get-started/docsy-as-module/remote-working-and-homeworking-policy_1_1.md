@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Remote Working And Homeworking Policy 1 1
+aliases:
+- /docs/remote-working-and-homeworking-policy_1_1/
+description: ''
+linkTitle: Remote Working And Homeworking Policy 1 1
+type: docs
+---
+
 1. Introduction
 
 At Green Orbit Digital, we understand the importance of flexibility and work-life balance for our employees. This Remote Working and Homeworking Policy is designed to outline guidelines and expectations for employees who work remotely or from home. By providing clear policies and support, we aim to ensure productivity, collaboration, and employee well-being.

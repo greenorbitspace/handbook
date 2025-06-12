@@ -1,6 +1,13 @@
 ---
 title: Change Management in GitLab Support
-description: Decision Making and Change Management in the GitLab Support Leadership Team
+description: Decision Making and Change Management in the GitLab Support Leadership
+  Team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/change-management_1_1_1/
+linkTitle: Change Management in GitLab Support
+type: docs
 ---
 
 ## Decision Making and Change Management in the GitLab Support Leadership Team

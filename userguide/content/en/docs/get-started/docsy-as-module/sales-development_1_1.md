@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Sales Development 1 1
+aliases:
+- /docs/sales-development_1_1/
+description: ''
+linkTitle: Sales Development 1 1
+type: docs
+---
+
 The purpose of this page is to act as the homapage of the sales development org’s handbook presence.
 
 Welcome to the Sales Development Organization at GitLab! We are a team designed to drive results for customers through both inbound and outbound strategies. Our structure is designed to maximize efficiency, responsiveness, and creativity in our outreach efforts.

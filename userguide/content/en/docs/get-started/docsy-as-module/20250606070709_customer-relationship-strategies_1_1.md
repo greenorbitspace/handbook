@@ -5,6 +5,13 @@ doc_id: doc-204
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070709_customer-relationship-strategies_1_1/
+description: ''
+linkTitle: Customer Relationship Strategies
+type: docs
 ---
 
 Customers are the lifeblood of every business. Various customer relationship strategies should be adopted:

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Formatting 1 1
+aliases:
+- /docs/formatting_1_1/
+description: ''
+linkTitle: Formatting 1 1
+type: docs
+---
+
 # Formatting
 
 This section covers creating strings to represent a DateTime. There are three types of formatting capabilities:

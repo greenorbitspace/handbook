@@ -1,8 +1,12 @@
 ---
 title: Hello Docsy!
 linkTitle: Hello
-date: 2022-04-07
+date: '2025-06-12T01:06:11+01:00'
 description: Welcome to the Docsy blog!
+type: blog
+weight: 2
+aliases:
+- /blog/hello/
 ---
 
 ## Hello

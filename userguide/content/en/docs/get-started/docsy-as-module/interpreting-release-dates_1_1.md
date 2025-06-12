@@ -1,6 +1,13 @@
 ---
 title: Product - Interpreting Release Dates
-description: One of GitLab's core values is Transparency. We do this to make collaboration easier and do this by default.
+description: One of GitLab's core values is Transparency. We do this to make collaboration
+  easier and do this by default.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/interpreting-release-dates_1_1/
+linkTitle: Product - Interpreting Release Dates
+type: docs
 ---
 
 ## Overview

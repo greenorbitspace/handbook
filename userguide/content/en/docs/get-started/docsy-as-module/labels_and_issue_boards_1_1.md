@@ -1,7 +1,13 @@
 ---
 title: Labels and issue boards
 description: Support Readiness policies page for labels and issue boards
-canonical_path: "/handbook/support/readiness/operations/docs/policies/labels_and_issue_boards"
+canonical_path: /handbook/support/readiness/operations/docs/policies/labels_and_issue_boards
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/labels_and_issue_boards_1_1/
+linkTitle: Labels and issue boards
+type: docs
 ---
 
 ## How we use GitLab Labels

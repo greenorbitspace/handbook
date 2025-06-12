@@ -1,9 +1,13 @@
 ---
-title: "Migrate to Hugo Modules"
-linkTitle: "Migrate to Hugo Modules"
+title: Migrate to Hugo Modules
+linkTitle: Migrate to Hugo Modules
 weight: 3
-description: >
+description: |
   Convert an existing site to use Docsy as a Hugo Module
+date: '2025-06-12'
+aliases:
+- /docs/convert-site-to-module_1_1/
+type: docs
 ---
 
 ## TL;DR: Conversion for the impatient expert

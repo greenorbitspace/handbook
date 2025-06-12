@@ -1,6 +1,12 @@
 ---
-title: "Create:Code Review Backend Engineering Resources"
+title: Create:Code Review Backend Engineering Resources
 description: Resources for the backend team members of the Create:Code Review group
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engineers_1_1/
+linkTitle: Create:Code Review Backend Engineering Resources
+type: docs
 ---
 
 This page contains engineering resources for the Create:Code Review Backend team. For day-to-day work of the team, please review the [Create:Code Review BE handbook page](/handbook/engineering/development/dev/create/code-review/backend/).

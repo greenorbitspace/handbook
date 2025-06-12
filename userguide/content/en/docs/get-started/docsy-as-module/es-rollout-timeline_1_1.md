@@ -1,13 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/data_stores/search/es-rollout-timeline.html
+aliases:
+- /docs/es-rollout-timeline_1_1/
 title: Advanced Global Search Rollout on GitLab.com
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Advanced Global Search Rollout on GitLab.com
+type: docs
 ---
-
-
-
-
-
-
 
 ## Steps and Enhancements
 

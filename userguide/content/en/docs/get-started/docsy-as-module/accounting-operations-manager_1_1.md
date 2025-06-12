@@ -1,6 +1,14 @@
 ---
-title: "Accounting Operations Management"
-description: "The Manager, Accounting Operations helps drive operational improvements within the finance department, developing a highly efficient, world class accounting process."
+title: Accounting Operations Management
+description: The Manager, Accounting Operations helps drive operational improvements
+  within the finance department, developing a highly efficient, world class accounting
+  process.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/accounting-operations-manager_1_1/
+linkTitle: Accounting Operations Management
+type: docs
 ---
 
 The Manager, Accounting Operations  helps drive operational improvements within the finance department, developing a highly efficient, world class accounting process.

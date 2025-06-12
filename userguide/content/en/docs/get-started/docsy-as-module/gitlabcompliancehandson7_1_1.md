@@ -1,6 +1,13 @@
 ---
-title: "GitLab Compliance - Hands-On Lab: Audit Events"
-description: "This Hands-On Guide walks you through viewing project and group level audit events."
+title: 'GitLab Compliance - Hands-On Lab: Audit Events'
+description: This Hands-On Guide walks you through viewing project and group level
+  audit events.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabcompliancehandson7_1_1/
+linkTitle: 'GitLab Compliance - Hands-On Lab: Audit Events'
+type: docs
 ---
 
 > Estimated time to complete: 15 minutes

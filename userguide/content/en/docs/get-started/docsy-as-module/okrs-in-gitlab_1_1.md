@@ -1,7 +1,12 @@
 ---
-title: "OKRs in GitLab"
-description: "How to enter and organize OKRs in the GitLab platform."
+title: OKRs in GitLab
+description: How to enter and organize OKRs in the GitLab platform.
 weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/okrs-in-gitlab_1_1/
+linkTitle: OKRs in GitLab
+type: docs
 ---
 
 Watch this video for a demo on how to use GitLab for OKR management:

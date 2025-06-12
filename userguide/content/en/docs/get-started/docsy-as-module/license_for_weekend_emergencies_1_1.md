@@ -1,8 +1,13 @@
 ---
-
 title: Weekend Emergencies - Self-Managed License Request
-description: "Support process for Self-managed weekend license emergencies"
+description: Support process for Self-managed weekend license emergencies
 category: GitLab Self-Managed licenses
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/license_for_weekend_emergencies_1_1/
+linkTitle: Weekend Emergencies - Self-Managed License Request
+type: docs
 ---
 
 ## Overview

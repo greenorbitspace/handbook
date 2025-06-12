@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Monitoring And Measurement Plans 1 1
+aliases:
+- /docs/monitoring-and-measurement-plans_1_1/
+description: ''
+linkTitle: Monitoring And Measurement Plans 1 1
+type: docs
+---
+
 <!-- Unsupported block type: table_of_contents -->
 
 ## Plan - Monitoring and Measurement Requirements

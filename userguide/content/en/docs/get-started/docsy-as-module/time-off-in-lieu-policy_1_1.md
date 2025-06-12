@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Time Off In Lieu Policy 1 1
+aliases:
+- /docs/time-off-in-lieu-policy_1_1/
+description: ''
+linkTitle: Time Off In Lieu Policy 1 1
+type: docs
+---
+
 category: Policies
 
 Because your wellbeing is important to us, we keep a close eye on additional hours worked. We don’t want a stressed, overworked team. However, it’s sometimes necessary to put in some extra hours to deal with emergencies or at times of heavy workload.

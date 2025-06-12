@@ -1,7 +1,14 @@
 ---
 title: Slack (everyone)
-description: Support Operations policies page for project setup for slack managed by everyone
-canonical_path: "/handbook/support/readiness/operations/docs/policies/project_setup/slack_all"
+description: Support Operations policies page for project setup for slack managed
+  by everyone
+canonical_path: /handbook/support/readiness/operations/docs/policies/project_setup/slack_all
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/slack_all_1_1/
+linkTitle: Slack (everyone)
+type: docs
 ---
 
 As slack stuff managed by all of Support Readiness do not have any special

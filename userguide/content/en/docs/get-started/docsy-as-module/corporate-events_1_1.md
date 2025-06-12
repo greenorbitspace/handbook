@@ -1,6 +1,13 @@
 ---
-title: "Corporate Events"
-summary: " "
+title: Corporate Events
+summary: ' '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/corporate-events_1_1/
+description: ''
+linkTitle: Corporate Events
+type: docs
 ---
 
 ## Levels

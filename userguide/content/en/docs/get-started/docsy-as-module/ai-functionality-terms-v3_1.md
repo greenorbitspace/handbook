@@ -1,5 +1,12 @@
 ---
-title: "AI Functionality Terms V3"
+title: AI Functionality Terms V3
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ai-functionality-terms-v3_1/
+description: ''
+linkTitle: AI Functionality Terms V3
+type: docs
 ---
 
 *deprecated 2025-03-31*

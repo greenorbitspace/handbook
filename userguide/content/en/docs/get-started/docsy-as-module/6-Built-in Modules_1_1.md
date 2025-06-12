@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 6 Built In Modules 1 1
+aliases:
+- /docs/6-Built-in Modules_1_1/
+description: ''
+linkTitle: 6 Built In Modules 1 1
+type: docs
+---
+
 ### Built-in Modules (core default)
 
 #### some of the most common Built-in modules

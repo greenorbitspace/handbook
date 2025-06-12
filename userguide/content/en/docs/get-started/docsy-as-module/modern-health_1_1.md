@@ -1,6 +1,12 @@
 ---
 title: Modern Health
 description: Information on GitLab's Employee Assistance Program.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/modern-health_1_1/
+linkTitle: Modern Health
+type: docs
 ---
 
 ## Mental Wellness Services

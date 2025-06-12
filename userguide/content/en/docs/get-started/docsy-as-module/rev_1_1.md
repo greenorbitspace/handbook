@@ -1,14 +1,14 @@
 ---
-
-title: "Rev"
-description: "Rev is an speech-to-text company that provides closed captioning, subtitles, and transcription services."
+title: Rev
+description: Rev is an speech-to-text company that provides closed captioning, subtitles,
+  and transcription services.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/rev_1_1/
+linkTitle: Rev
+type: docs
 ---
-
-
-
-
-
-
 
 ## Support
 

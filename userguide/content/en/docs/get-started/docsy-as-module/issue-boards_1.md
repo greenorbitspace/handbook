@@ -1,7 +1,13 @@
 ---
 title: Issue boards
 description: Operations documentation page for our issue boards
-canonical_path: "/handbook/security/customer-support-operations/docs/gitlab/issue-boards"
+canonical_path: /handbook/security/customer-support-operations/docs/gitlab/issue-boards
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/issue-boards_1/
+linkTitle: Issue boards
+type: docs
 ---
 
 We use issues boards to get a quick overview of our workload. Here we detail the primary ones we use.

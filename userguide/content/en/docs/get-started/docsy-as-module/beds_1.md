@@ -1,9 +1,13 @@
 ---
 title: Bed and Chair Metrics
-description: >
+description: |
   A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
-date: 2017-01-05
+date: '2025-06-12T01:05:55+01:00'
 weight: 2
+aliases:
+- /docs/beds_1/
+linkTitle: Bed and Chair Metrics
+type: docs
 ---
 
 {{% pageinfo %}}

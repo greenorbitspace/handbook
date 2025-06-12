@@ -1,10 +1,17 @@
 ---
-title: "A complete guide to the benefits of an all-remote company"
-description: "This guide provides a full overview of all the great benefits of a all remote company for both the organization and employees. Learn more here!"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+title: A complete guide to the benefits of an all-remote company
+description: This guide provides a full overview of all the great benefits of a all
+  remote company for both the organization and employees. Learn more here!
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/remote-benefits_1_1_1/
+linkTitle: A complete guide to the benefits of an all-remote company
+type: docs
 ---
 
 A brief [history](https://wrkfrce.com/a-brief-history-of-remote-work/) of remote work

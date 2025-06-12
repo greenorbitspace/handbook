@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Ethical Approach To Ai 1 1
+aliases:
+- /docs/ethical-approach-to-ai_1_1/
+description: ''
+linkTitle: Ethical Approach To Ai 1 1
+type: docs
+---
+
 Green Orbit Digital operates at the intersection of sustainability and innovation in the space industry. As AI transforms the way businesses connect and operate, we are committed to leveraging AI in ways that align with our values: Sustainability, Collaboration, Innovation, Responsibility, Work-life Balance, and Commitment. Our approach to AI prioritises ethical practices that support a sustainable future while fostering trust and transparency with our clients and partners.
 
 AI in Sustainable Marketing

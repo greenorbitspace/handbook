@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Agent Omnibus 1 1
+aliases:
+- /docs/agent_omnibus_1_1/
+description: ''
+linkTitle: Agent Omnibus 1 1
+type: docs
+---
+
 # Build the Agent packages
 
 Agent packages for all the supported platforms are built using

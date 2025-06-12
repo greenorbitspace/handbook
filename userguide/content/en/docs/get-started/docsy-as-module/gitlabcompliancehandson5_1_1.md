@@ -1,6 +1,13 @@
 ---
-title: "GitLab Compliance - Hands-On Lab: Pipeline Execution Policies"
-description: "This Hands-On Guide walks you through enabling and using Pipeline Execution Policies in your projects."
+title: 'GitLab Compliance - Hands-On Lab: Pipeline Execution Policies'
+description: This Hands-On Guide walks you through enabling and using Pipeline Execution
+  Policies in your projects.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabcompliancehandson5_1_1/
+linkTitle: 'GitLab Compliance - Hands-On Lab: Pipeline Execution Policies'
+type: docs
 ---
 
 > Estimated time to complete: 15 minutes

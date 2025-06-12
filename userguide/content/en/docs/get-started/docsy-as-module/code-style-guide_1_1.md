@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Code Style Guide 1 1
+aliases:
+- /docs/code-style-guide_1_1/
+description: ''
+linkTitle: Code Style Guide 1 1
+type: docs
+---
+
 # Code Style Guide
 
 ## General

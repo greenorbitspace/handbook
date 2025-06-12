@@ -1,7 +1,15 @@
 ---
-title: "Technical Program Manager"
-description: "This role supports cross-division initaitives across PM, UX, Engineering and other functions within R&D along with functions across GTM"
+title: Technical Program Manager
+description: This role supports cross-division initaitives across PM, UX, Engineering
+  and other functions within R&D along with functions across GTM
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/program-manager_1_1/
+linkTitle: Technical Program Manager
+type: docs
 ---
+
 ## Technical Program Management Context and Mission
 
 ### Context

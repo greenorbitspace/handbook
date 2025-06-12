@@ -1,6 +1,12 @@
 ---
-title: "Major League Hacking Fellows"
-description: "Information on the MLHF cohorts working with Digital Experience."
+title: Major League Hacking Fellows
+description: Information on the MLHF cohorts working with Digital Experience.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/major-league-hacking-fellows_1748146058095423697_1_1/
+linkTitle: Major League Hacking Fellows
+type: docs
 ---
 
 ## Program Information

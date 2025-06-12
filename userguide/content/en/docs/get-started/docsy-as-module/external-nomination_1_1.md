@@ -1,6 +1,12 @@
 ---
-title: "Customer Reference Program - External Nomination"
-description: "Learn more about the External Customer reference process at GitLab"
+title: Customer Reference Program - External Nomination
+description: Learn more about the External Customer reference process at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/external-nomination_1_1/
+linkTitle: Customer Reference Program - External Nomination
+type: docs
 ---
 
 ## External Customer reference process at GitLab

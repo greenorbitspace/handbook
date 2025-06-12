@@ -1,7 +1,13 @@
 ---
 title: User Fields
 description: Support Operations documentation page for Zendesk user fields
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/user-fields"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/user-fields
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/user-fields_2_1_1/
+linkTitle: User Fields
+type: docs
 ---
 
 ## What are user fields

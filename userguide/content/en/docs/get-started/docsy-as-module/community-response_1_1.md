@@ -1,7 +1,12 @@
 ---
-title: "Developer Advocacy Community Response Process"
+title: Developer Advocacy Community Response Process
 aliases:
 - /handbook/marketing/developer-relations/developer-evangelism/community-response/index.html
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Developer Advocacy Community Response Process
+type: docs
 ---
 
 ## How to engage developer advocates in community response

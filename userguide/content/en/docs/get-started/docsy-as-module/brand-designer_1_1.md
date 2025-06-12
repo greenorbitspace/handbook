@@ -1,6 +1,15 @@
 ---
-title: "Brand Designer"
-summary: Brand Designers are responsible for ensuring strategic, seamless experiences - working closely with Marketing, Sales, and Product teams to elevate our global brand and optimize the customer journey end-to-end.
+title: Brand Designer
+summary: Brand Designers are responsible for ensuring strategic, seamless experiences
+  - working closely with Marketing, Sales, and Product teams to elevate our global
+  brand and optimize the customer journey end-to-end.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/brand-designer_1_1/
+description: ''
+linkTitle: Brand Designer
+type: docs
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBSQmB_ruco" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

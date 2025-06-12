@@ -1,6 +1,13 @@
 ---
-title: "Stock Administration"
-description: "Responsible for administering GitLab’s equity incentive program which includes option and RSU grants to team members."
+title: Stock Administration
+description: Responsible for administering GitLab’s equity incentive program which
+  includes option and RSU grants to team members.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/stock-administrator_1_1/
+linkTitle: Stock Administration
+type: docs
 ---
 
 ## Levels

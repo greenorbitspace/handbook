@@ -1,6 +1,12 @@
 ---
-title: "UX Heuristics"
-description: "Heuristics used by the UX team to evaluate our product."
+title: UX Heuristics
+description: Heuristics used by the UX team to evaluate our product.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/heuristics_1_1/
+linkTitle: UX Heuristics
+type: docs
 ---
 
 ## Intro

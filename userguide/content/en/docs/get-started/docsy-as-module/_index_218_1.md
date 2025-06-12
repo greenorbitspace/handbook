@@ -1,11 +1,22 @@
 ---
-title: "Runway: A PaaS for GitLab"
+title: 'Runway: A PaaS for GitLab'
 status: ongoing
-creation-date: "2023-07-31"
-authors: [ "@igorwwwwwwwwwwwwwwwwwwww", "@ggillies" ]
-coach: "@andrewn"
-approvers: [ "@marin", "@fzimmer" ]
+creation-date: '2023-07-31'
+authors:
+- '@igorwwwwwwwwwwwwwwwwwwww'
+- '@ggillies'
+coach: '@andrewn'
+approvers:
+- '@marin'
+- '@fzimmer'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_218_1/
+description: ''
+linkTitle: 'Runway: A PaaS for GitLab'
+type: docs
 ---
 
 <!-- Blueprints often contain forward-looking statements -->

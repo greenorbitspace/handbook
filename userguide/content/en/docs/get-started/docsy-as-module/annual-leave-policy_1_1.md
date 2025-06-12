@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Annual Leave Policy 1 1
+aliases:
+- /docs/annual-leave-policy_1_1/
+description: ''
+linkTitle: Annual Leave Policy 1 1
+type: docs
+---
+
 ### Introduction
 
 At Green Orbit Digital, we recognize the importance of work-life balance and the need for our employees to take time off to rest, recharge, and spend quality time with their loved ones. This Annual Leave Policy outlines the guidelines and procedures for requesting and taking annual leave to ensure fairness, consistency, and transparency across the organization.

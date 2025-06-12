@@ -1,6 +1,14 @@
 ---
-title: "Chief Marketing Officer (CMO)"
-summary: The CMO plays a vital leadership role in ensuring rapid and sustainable growth in demand to further drive sales growth.
+title: Chief Marketing Officer (CMO)
+summary: The CMO plays a vital leadership role in ensuring rapid and sustainable growth
+  in demand to further drive sales growth.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/chief-marketing-officer_1_1/
+description: ''
+linkTitle: Chief Marketing Officer (CMO)
+type: docs
 ---
 
 ## About the Position

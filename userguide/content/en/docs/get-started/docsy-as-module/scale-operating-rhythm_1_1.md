@@ -1,15 +1,14 @@
 ---
-
-title: "CSE Operating Rhythm"
+title: CSE Operating Rhythm
 aliases:
 - /handbook/customer-success/csm/segment/cse/cse-operating-rhythm/
 - /handbook/customer-success/csm/segment/scale/scale-operating-rhythm/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: CSE Operating Rhythm
+type: docs
 ---
-
-
-
-
-
 
 View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM/CSE-related handbook pages.
 

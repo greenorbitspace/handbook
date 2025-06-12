@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Math 1 1
+aliases:
+- /docs/math_1_1/
+description: ''
+linkTitle: Math 1 1
+type: docs
+---
+
 # Math
 
 This page covers some oddball topics related to date and time math, which has some quirky corner cases.

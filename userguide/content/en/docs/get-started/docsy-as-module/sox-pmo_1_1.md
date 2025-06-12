@@ -1,5 +1,12 @@
 ---
 title: SOX Program Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sox-pmo_1_1/
+description: ''
+linkTitle: SOX Program Management
+type: docs
 ---
 
 ## Director, SOX PMO Leader

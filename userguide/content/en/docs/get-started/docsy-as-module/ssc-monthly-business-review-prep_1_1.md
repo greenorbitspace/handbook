@@ -1,6 +1,13 @@
 ---
 title: GitLab Dedicated Monthly Business Review Prep
-description: Enable GitLab Dedicated Support Stable Counterparts to prep for the Monthly Business Review in Support. 
+description: Enable GitLab Dedicated Support Stable Counterparts to prep for the Monthly
+  Business Review in Support.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ssc-monthly-business-review-prep_1_1/
+linkTitle: GitLab Dedicated Monthly Business Review Prep
+type: docs
 ---
 
 Each month, the Support Stable Counterparts (SSCs) prepare information for use in GitLab Support's Monthly Business Review (MBR). This handbook pages documents what steps a GitLab Dedicated SSC should take to prepare the notes for GitLab Dedicated for any given MBR. Any GitLab Dedicated SSC can lead MBR coordination. 

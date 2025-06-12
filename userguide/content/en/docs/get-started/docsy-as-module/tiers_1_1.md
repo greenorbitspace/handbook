@@ -1,6 +1,12 @@
 ---
-
-title: "GitLab tiers"
+title: GitLab tiers
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tiers_1_1/
+description: ''
+linkTitle: GitLab tiers
+type: docs
 ---
 
 ## Overview

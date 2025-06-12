@@ -1,13 +1,13 @@
 ---
-
-title: "Twitter response workflow"
+title: Twitter response workflow
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/twitter_1_1/
+description: ''
+linkTitle: Twitter response workflow
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

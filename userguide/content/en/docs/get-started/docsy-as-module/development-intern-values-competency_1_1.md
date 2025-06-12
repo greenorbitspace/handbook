@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Development Intern Values Competency 1 1
+aliases:
+- /docs/development-intern-values-competency_1_1/
+description: ''
+linkTitle: Development Intern Values Competency 1 1
+type: docs
+---
+
 ##### Development
 
 * Gives positive feedback in public and negative feedback privately with care.

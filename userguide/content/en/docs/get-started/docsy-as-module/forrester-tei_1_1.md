@@ -1,14 +1,14 @@
 ---
-
-title: "Forrester Total Economic Impact™ (TEI) Study Commissioned By GitLab, June 2020"
+title: Forrester Total Economic Impact™ (TEI) Study Commissioned By GitLab, June 2020
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/forrester-tei_1_1/
+description: ''
+linkTitle: Forrester Total Economic Impact™ (TEI) Study Commissioned By GitLab, June
+  2020
+type: docs
 ---
-
-
-
-
-
-
-
 
 GitLab commissioned Forrester Consulting to conduct a Total Economic Impact™ (TEI) study examining the potential return on investment (ROI) enterprises may realize by using GitLab.
 

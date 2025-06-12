@@ -1,6 +1,13 @@
 ---
-title: "Family and Friends Day"
-description: "At GitLab, we are family and friends first, work second. A quarterly Family and Friends Day during COVID-19 helps our Team Members prioritize their well-being."
+title: Family and Friends Day
+description: At GitLab, we are family and friends first, work second. A quarterly
+  Family and Friends Day during COVID-19 helps our Team Members prioritize their well-being.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/family-and-friends-day_1_1/
+linkTitle: Family and Friends Day
+type: docs
 ---
 
 ## What is a Family and Friends Day?

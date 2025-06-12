@@ -1,14 +1,14 @@
 ---
-
-title: "Runway"
-description: "Runway is GitLab's internal Platform as a Service, which aims to enable teams to deploy and run their services quickly and safely."
+title: Runway
+description: Runway is GitLab's internal Platform as a Service, which aims to enable
+  teams to deploy and run their services quickly and safely.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/runway_1_1/
+linkTitle: Runway
+type: docs
 ---
-
-
-
-
-
-
 
 ## What is Runway?
 

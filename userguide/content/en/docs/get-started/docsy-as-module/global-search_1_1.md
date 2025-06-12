@@ -3,6 +3,13 @@ stage: enablement
 group: Tenant Scale
 title: 'Cells: Global search'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/global-search_1_1/
+description: ''
+linkTitle: 'Cells: Global search'
+type: docs
 ---
 
 {{% alert %}}

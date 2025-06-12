@@ -1,6 +1,13 @@
 ---
-title: "Log Aggregation Working Group"
-description: "The Log Aggregation Working Group aim to increase the quality, value, and accessibility of our GitLab.com logs. Read more here!"
+title: Log Aggregation Working Group
+description: The Log Aggregation Working Group aim to increase the quality, value,
+  and accessibility of our GitLab.com logs. Read more here!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/log-aggregation_1_1/
+linkTitle: Log Aggregation Working Group
+type: docs
 ---
 
 ## Attributes

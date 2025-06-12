@@ -1,5 +1,12 @@
 ---
-title: "Technical Instructional Designer"
+title: Technical Instructional Designer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/technical-instructional-designer_1_1_1/
+description: ''
+linkTitle: Technical Instructional Designer
+type: docs
 ---
 
 The Technical Instructional Designer is responsible for designing and developing new, engaging, and effective learning solutions and instructional experiences for GitLab customers, partners, and/or sales & customer success professionals that help these audiences achieve desired learning outcomes.

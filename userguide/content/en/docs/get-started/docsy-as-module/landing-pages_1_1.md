@@ -1,9 +1,16 @@
 ---
-title: "Landing Page Creation"
-description: "Overview of Marketo landing pages at GitLab. This page will be moved under Demand Generation."
-twitter_image: '/images/tweets/handbook-marketing.png'
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+title: Landing Page Creation
+description: Overview of Marketo landing pages at GitLab. This page will be moved
+  under Demand Generation.
+twitter_image: /images/tweets/handbook-marketing.png
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/landing-pages_1_1/
+linkTitle: Landing Page Creation
+type: docs
 ---
 
 ## Best Practices

@@ -1,5 +1,12 @@
 ---
-title: "Engineering Management - Infrastructure"
+title: Engineering Management - Infrastructure
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engineering-management_2_1_1/
+description: ''
+linkTitle: Engineering Management - Infrastructure
+type: docs
 ---
 
 ## Manager, Infrastructure

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Agent Dev Env 1 1
+aliases:
+- /docs/agent_dev_env_1_1/
+description: ''
+linkTitle: Agent Dev Env 1 1
+type: docs
+---
+
 # Development Environments
 
 ## Windows

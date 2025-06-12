@@ -3,6 +3,13 @@ stage: core platform
 group: Tenant Scale
 title: 'Cells: Routable Tokens'
 status: proposed
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/routable_tokens_1_1/
+description: ''
+linkTitle: 'Cells: Routable Tokens'
+type: docs
 ---
 
 This document describes design goals and architecture of Routable Tokens

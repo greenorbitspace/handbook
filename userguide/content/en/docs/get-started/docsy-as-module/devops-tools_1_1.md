@@ -1,14 +1,14 @@
 ---
-
-title: "DevOps tools"
-description: "DevOps tools commonly found in a build-your-own DevOps tool chain. Many of these can be replaced by GitLab's single platform for the entire DevOps lifecycle."
+title: DevOps tools
+description: DevOps tools commonly found in a build-your-own DevOps tool chain. Many
+  of these can be replaced by GitLab's single platform for the entire DevOps lifecycle.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/devops-tools_1_1/
+linkTitle: DevOps tools
+type: docs
 ---
-
-
-
-
-
-
 
 The DevOps tools below are commonly found in a build-your-own DevOps tool chain. Many of these can be replaced by GitLab's single platform for the entire DevOps lifecycle.
 

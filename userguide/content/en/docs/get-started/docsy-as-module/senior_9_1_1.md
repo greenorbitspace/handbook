@@ -1,6 +1,13 @@
 ---
-title: "Senior - Infrastructure Department Career Framework"
-description: "The expected team member competencies in the Infrastructure department at GitLab for the Senior job level."
+title: Senior - Infrastructure Department Career Framework
+description: The expected team member competencies in the Infrastructure department
+  at GitLab for the Senior job level.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior_9_1_1/
+linkTitle: Senior - Infrastructure Department Career Framework
+type: docs
 ---
 
 {{% include "includes/engineering-careers/career-matrix-nav.md" %}}

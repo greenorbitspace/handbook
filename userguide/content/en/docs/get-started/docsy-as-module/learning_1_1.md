@@ -1,7 +1,13 @@
 ---
-
-title: "Learning Marketing Operations"
-description: "This handbook page is to provide updated marketing operations learning and resources materials."
+title: Learning Marketing Operations
+description: This handbook page is to provide updated marketing operations learning
+  and resources materials.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/learning_1_1/
+linkTitle: Learning Marketing Operations
+type: docs
 ---
 
 At GitLab, we know how important it is to leverage the right Marketing technologies and tools to support marketing campaigns and generate sales opportunities. The tools can only do so much, it's up to the Marketing Operations and team to drive the strategic direction and adoption to maximize the results and impact.

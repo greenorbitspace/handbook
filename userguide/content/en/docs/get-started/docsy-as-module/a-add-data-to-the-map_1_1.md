@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: A Add Data To The Map 1 1
+aliases:
+- /docs/a-add-data-to-the-map_1_1/
+description: ''
+linkTitle: A Add Data To The Map 1 1
+type: docs
+---
+
 # Add Data to the Map
 
 ## Ways to Add Data

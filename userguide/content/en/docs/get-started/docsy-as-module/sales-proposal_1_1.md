@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Sales Proposal 1 1
+aliases:
+- /docs/sales-proposal_1_1/
+description: ''
+linkTitle: Sales Proposal 1 1
+type: docs
+---
+
 ## 1. Executive Summary
 
 - Company overview and mission

@@ -1,6 +1,13 @@
 ---
 title: Global Support working with ASEs
-description: Information for the rest of Support about how best to collaborate with Assigned Support Engineers (ASEs)
+description: Information for the rest of Support about how best to collaborate with
+  Assigned Support Engineers (ASEs)
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/global-support-and-ases_1_1/
+linkTitle: Global Support working with ASEs
+type: docs
 ---
 
 ## Global Support working with ASEs

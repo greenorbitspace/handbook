@@ -1,7 +1,13 @@
 ---
-title: "Snowflake warehouse optimization"
-description: ""
+title: Snowflake warehouse optimization
+description: ''
 math: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/snowflake-warehouse-optimization_1_1/
+linkTitle: Snowflake warehouse optimization
+type: docs
 ---
 
 ## Quick Summary

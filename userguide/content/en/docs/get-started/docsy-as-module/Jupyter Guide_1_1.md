@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Jupyter Guide 1 1
+aliases:
+- /docs/Jupyter Guide_1_1/
+description: ''
+linkTitle: Jupyter Guide 1 1
+type: docs
+---
+
 # Jupyter Guide
 
 Guidance on setting up JupyterLab

@@ -1,5 +1,12 @@
 ---
-title: "Security Awards Leaderboard FY22"
+title: Security Awards Leaderboard FY22
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/leaderboard-fy22_1_1/
+description: ''
+linkTitle: Security Awards Leaderboard FY22
+type: docs
 ---
 
 <!-- This page is [auto-generated and updated every Mondays](../security-awards-program.html#process). -->

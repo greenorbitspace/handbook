@@ -1,5 +1,12 @@
 ---
-title: "Cloud Native Engineer"
+title: Cloud Native Engineer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cloud-native-engineer_1_1_1/
+description: ''
+linkTitle: Cloud Native Engineer
+type: docs
 ---
 
 Cloud Native Engineers at GitLab work with our

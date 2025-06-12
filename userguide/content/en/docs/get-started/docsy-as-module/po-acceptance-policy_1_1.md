@@ -1,16 +1,14 @@
 ---
-
-title: "PO Acceptance Criteria"
-description: "Acceptance criteria for Customers and Partners who require POs to accept Invoice"
+title: PO Acceptance Criteria
+description: Acceptance criteria for Customers and Partners who require POs to accept
+  Invoice
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/po-acceptance-policy_1_1/
+linkTitle: PO Acceptance Criteria
+type: docs
 ---
-
-
-
-
-
-
-
-
 
 ## PO Acceptance Policy
 

@@ -1,6 +1,13 @@
 ---
 title: Marketing Campaign Manager
-summary: " "
+summary: ' '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/marketing-campaign-manager_1_1/
+description: ''
+linkTitle: Marketing Campaign Manager
+type: docs
 ---
 
 ## Levels

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 3 Routing 1 1
+aliases:
+- /docs/3-routing_1_1/
+description: ''
+linkTitle: 3 Routing 1 1
+type: docs
+---
+
 ### Routing
 - Routing refers to determining how an application responds to a client request to a particular endpoint, which is a URI (or path) and a specific HTTP request method (GET, POST, and so on).
 - Each route can have one or more handler functions, which are executed when the route is matched.

@@ -1,5 +1,12 @@
 ---
 title: UX Research Operations Coordinator
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ux-research-operations-coordinator_1_1/
+description: ''
+linkTitle: UX Research Operations Coordinator
+type: docs
 ---
 
 At GitLab, UX Research Operations Coordinators collaborate with our Product Designers, Product Managers, UX Researchers, and the rest of the community to manage participant recruitment for UX studies. UX Research Operations Coordinators also drive process improvement in research operations at GitLab. UX Research Operations Coordinators report to the UX Research Director. Unless otherwise specified, all UX Research Operations Coordinator roles at GitLab share the following responsibilities and requirements:

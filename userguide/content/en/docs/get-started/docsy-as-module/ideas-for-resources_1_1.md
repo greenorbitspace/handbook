@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Ideas For Resources 1 1
+aliases:
+- /docs/ideas-for-resources_1_1/
+description: ''
+linkTitle: Ideas For Resources 1 1
+type: docs
+---
+
 Space sustainability toolkit
 
 Space sustainability landscape

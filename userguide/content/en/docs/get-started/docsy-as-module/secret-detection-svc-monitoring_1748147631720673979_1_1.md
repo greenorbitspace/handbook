@@ -1,5 +1,12 @@
 ---
-title: "Secret Detection Service: Monitoring"
+title: 'Secret Detection Service: Monitoring'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/secret-detection-svc-monitoring_1748147631720673979_1_1/
+description: ''
+linkTitle: 'Secret Detection Service: Monitoring'
+type: docs
 ---
 
 ### When to use this runbook?

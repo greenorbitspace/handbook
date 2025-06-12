@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 0 Sitemaps 1 1
+aliases:
+- /docs/0-siteMaps_1_1/
+description: ''
+linkTitle: 0 Sitemaps 1 1
+type: docs
+---
+
 ### sitemaps
 A sitemap is a file where you provide information about the pages, videos, and other files on your site, and the relationships between them, 
 

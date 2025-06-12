@@ -1,13 +1,13 @@
 ---
-
 title: Airflow Single-Engineer Group
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/airflow_1_1/
+description: ''
+linkTitle: Airflow Single-Engineer Group
+type: docs
 ---
-
-
-
-
-
-
 
 ## About the Airflow SEG
 

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Find Your Sustainability Journey 1 1
+aliases:
+- /docs/find-your-sustainability-journey_1_1/
+description: ''
+linkTitle: Find Your Sustainability Journey 1 1
+type: docs
+---
+
 ### Interactive Quiz: "Find Your Sustainability Journey"
 
 Here’s a clearer structure for scoring, with specific points assigned for each answer. At the end of the quiz, participants can calculate their total score, which will place them in the Foundation, Growth, or Leader category. Each question is worth a different number of points depending on how advanced the response is.

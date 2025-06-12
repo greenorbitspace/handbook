@@ -1,6 +1,13 @@
 ---
-title: "DevSecOps with GitLab Duo - Hands-On Lab: Working with Security Vulnerabilities"
-description: "This Hands-On Guide walks you through using GitLab Duo to explain security vulnerabilities."
+title: 'DevSecOps with GitLab Duo - Hands-On Lab: Working with Security Vulnerabilities'
+description: This Hands-On Guide walks you through using GitLab Duo to explain security
+  vulnerabilities.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/devsecopswithduolab5_1_1/
+linkTitle: 'DevSecOps with GitLab Duo - Hands-On Lab: Working with Security Vulnerabilities'
+type: docs
 ---
 
 > Estimated time to complete: 30 minutes

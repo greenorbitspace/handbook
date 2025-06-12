@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Github Actions 1 1
+aliases:
+- /docs/github-actions_1_1/
+description: ''
+linkTitle: Github Actions 1 1
+type: docs
+---
+
 <h1>GitHub Actions</h1>
 
 GitHub Actions is the automation service used in the [Quick start](../quick-start.md). Historically, GitHub has not provided an automation service, and required third-party services like CircleCI or Travis. But GitHub Actions changes that.

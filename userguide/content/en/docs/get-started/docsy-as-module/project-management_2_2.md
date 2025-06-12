@@ -1,7 +1,13 @@
 ---
-
-title: "Engineering productivity project management"
-description: "Guidelines for project management for the Engineering Productivity team at GitLab"
+title: Engineering productivity project management
+description: Guidelines for project management for the Engineering Productivity team
+  at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/project-management_2_2/
+linkTitle: Engineering productivity project management
+type: docs
 ---
 
 ## Work prioritization

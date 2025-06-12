@@ -1,6 +1,12 @@
 ---
-title: "Finding SaaS users"
-description: "How we target SaaS research participants to meet specific criteria"
+title: Finding SaaS users
+description: How we target SaaS research participants to meet specific criteria
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/finding-saas-users_1_1/
+linkTitle: Finding SaaS users
+type: docs
 ---
 
 ## Finding SaaS (GitLab.com) users

@@ -1,6 +1,14 @@
 ---
-title: "Illustrator"
-summary: Collaborate closely with the Brand Design team to elevate our visual brand as we interact with the world, both through product and marketing.
+title: Illustrator
+summary: Collaborate closely with the Brand Design team to elevate our visual brand
+  as we interact with the world, both through product and marketing.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/illustrator_1_1/
+description: ''
+linkTitle: Illustrator
+type: docs
 ---
 
 ## Illustrator

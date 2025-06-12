@@ -1,6 +1,12 @@
 ---
 title: Fulfillment Platform Team
-description: "The Fulfillment Platform Team of the Fulfillment Sub-department at GitLab"
+description: The Fulfillment Platform Team of the Fulfillment Sub-department at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/fulfillment-platform_1_1_1/
+linkTitle: Fulfillment Platform Team
+type: docs
 ---
 
 ## Vision

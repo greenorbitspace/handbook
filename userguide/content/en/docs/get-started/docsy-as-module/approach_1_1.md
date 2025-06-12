@@ -1,13 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/systems/cloud-connector/approach.html
+aliases:
+- /docs/approach_1_1/
 title: Application Performance Group - Approach and Common Themes
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Application Performance Group - Approach and Common Themes
+type: docs
 ---
-
-
-
-
-
-
 
 ## How we approach a performance problem
 

@@ -1,6 +1,12 @@
 ---
-title: "Product Security Requirements"
-description: "How we integrate Product Security team requirements into the GitLab product"
+title: Product Security Requirements
+description: How we integrate Product Security team requirements into the GitLab product
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-security-requirements_1748146058218040029_1_1/
+linkTitle: Product Security Requirements
+type: docs
 ---
 
 ## Integrating Product Security Team Requirements

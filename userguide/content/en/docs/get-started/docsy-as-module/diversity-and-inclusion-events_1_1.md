@@ -1,6 +1,13 @@
 ---
-title: "Events"
-description: "An overview of the Diversity, Inclusion & Belonging events/journey that have taken place or will take place."
+title: Events
+description: An overview of the Diversity, Inclusion & Belonging events/journey that
+  have taken place or will take place.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/diversity-and-inclusion-events_1_1/
+linkTitle: Events
+type: docs
 ---
 
 On this page you will be provided an overview of the Diversity, Inclusion & Belonging  events/journey that have taken place or will take place.

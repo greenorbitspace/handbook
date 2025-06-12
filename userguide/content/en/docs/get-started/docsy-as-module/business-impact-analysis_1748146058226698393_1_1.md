@@ -1,7 +1,14 @@
 ---
-title: "Business Impact Analysis"
-description: "Information about the Business Impact Analysis performed by the Security Risk Team"
+title: Business Impact Analysis
+description: Information about the Business Impact Analysis performed by the Security
+  Risk Team
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/business-impact-analysis_1748146058226698393_1_1/
+linkTitle: Business Impact Analysis
+type: docs
 ---
 
 ## Purpose

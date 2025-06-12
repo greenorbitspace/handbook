@@ -1,6 +1,13 @@
 ---
-title: "GitLab Advanced CI/CD - Hands-On Lab: Review Apps"
-description: "This Hands-On Guide walks you through the process of creating review apps"
+title: 'GitLab Advanced CI/CD - Hands-On Lab: Review Apps'
+description: This Hands-On Guide walks you through the process of creating review
+  apps
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/advgitlabcicdhandsonlab6_1748146057859072569_1_1/
+linkTitle: 'GitLab Advanced CI/CD - Hands-On Lab: Review Apps'
+type: docs
 ---
 
 The purpose of this lab is to create a review app from a Node.js application. A review app is a temporary application environment automatically created for each merge request in a project. It allows developers and stakeholders to preview and interact with proposed changes in a live, isolated environment before merging them into the main branch.

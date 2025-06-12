@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Esg Due Diligence Framework 1 1
+aliases:
+- /docs/esg-due-diligence-framework_1_1/
+description: ''
+linkTitle: Esg Due Diligence Framework 1 1
+type: docs
+---
+
 ## Positive Impact Assessment
 
 ### Environmental

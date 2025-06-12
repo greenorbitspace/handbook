@@ -1,5 +1,13 @@
 ---
 sidebar_position: 5
+weight: 2
+date: '2025-06-12'
+title: Deploy Your Site 1
+aliases:
+- /docs/deploy-your-site_1/
+description: ''
+linkTitle: Deploy Your Site 1
+type: docs
 ---
 
 # Deploy your site

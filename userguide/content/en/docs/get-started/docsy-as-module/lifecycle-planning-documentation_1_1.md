@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Lifecycle Planning Documentation 1 1
+aliases:
+- /docs/lifecycle-planning-documentation_1_1/
+description: ''
+linkTitle: Lifecycle Planning Documentation 1 1
+type: docs
+---
+
 # 1. Introduction
 
 This lifecycle planning documentation outlines the framework for managing assets throughout their entire lifecycle at Green Orbit Digital, in alignment with ISO 55001: Assets Management System standards.

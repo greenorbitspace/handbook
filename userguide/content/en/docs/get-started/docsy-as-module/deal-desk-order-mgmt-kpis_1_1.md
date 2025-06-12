@@ -1,7 +1,13 @@
 ---
-aliases: /handbook/sales/field-operations/sales-operations//Deal-Desk-Order-Mgmt-KPIs
-title: "Deal Desk & Order Management KPI - Results"
-description: "This page highlights quarterly KPI results for the Global Deal Desk & Order Management team."
+aliases:
+- /docs/deal-desk-order-mgmt-kpis_1_1/
+title: Deal Desk & Order Management KPI - Results
+description: This page highlights quarterly KPI results for the Global Deal Desk &
+  Order Management team.
+weight: 2
+date: '2025-06-12'
+linkTitle: Deal Desk & Order Management KPI - Results
+type: docs
 ---
 
 ## Executive Summary

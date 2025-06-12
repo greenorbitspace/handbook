@@ -1,7 +1,13 @@
 ---
-
-title: "Infrastructure Reference Links"
-description: "This page provides helpful links and reference material for the infrastructure team."
+title: Infrastructure Reference Links
+description: This page provides helpful links and reference material for the infrastructure
+  team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/reference-links_1_1/
+linkTitle: Infrastructure Reference Links
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

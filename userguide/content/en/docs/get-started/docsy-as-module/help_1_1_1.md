@@ -1,6 +1,13 @@
 ---
 title: Database Help Workflow
-description: "A basic workflow for requesting help during database related incidents or emergencies"
+description: A basic workflow for requesting help during database related incidents
+  or emergencies
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/help_1_1_1/
+linkTitle: Database Help Workflow
+type: docs
 ---
 
 This guide is for Reliability and Support engineers to quickly and easily find the help they need on database-related emergencies.

@@ -1,8 +1,13 @@
 ---
-title: "GitLab MVP Selection Process"
+title: GitLab MVP Selection Process
 description: Process for Contributor Success to select GitLab MVPs
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mvp-process_1_1/
+linkTitle: GitLab MVP Selection Process
+type: docs
 ---
-
 
 ## GitLab MVP
 

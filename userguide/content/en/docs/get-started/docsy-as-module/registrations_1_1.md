@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Registrations 1 1
+aliases:
+- /docs/registrations_1_1/
+description: ''
+linkTitle: Registrations 1 1
+type: docs
+---
+
 # Component Registrations
 
 Components generally need to talk to one another! In simple cases, that occurs by method calls. But in many cases, a single component needs to communicate with a number of other components that all share some characteristics. For example, the `comp/core/health` component monitors the health of many other components, and `comp/workloadmeta/scheduler` provides workload events to an arbitrary number of subscribers.

@@ -1,7 +1,12 @@
 ---
 title: GitLab Team Member Calendar
-description: >-
-  A calendar of important events to help plan for the year at GitLab.
+description: A calendar of important events to help plan for the year at GitLab.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/team-member-calendar_1_1/
+linkTitle: GitLab Team Member Calendar
+type: docs
 ---
 
 This page shows an overview of key company events and tasks for all team members. The goal of this page is to ensure that team members have an overview of upcoming programs and timelines.

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: I18Ncontributionguide 1 1
+aliases:
+- /docs/i18nContributionGuide_1_1/
+description: ''
+linkTitle: I18Ncontributionguide 1 1
+type: docs
+---
+
 # I18n Contribution Guide
 
 ## Table of Contents

@@ -1,7 +1,14 @@
 ---
 title: GitLab.com custom limits
 category: GitLab.com
-description: "Provides a general overview of some of the limits applied exclusively to GitLab.com (SaaS)"
+description: Provides a general overview of some of the limits applied exclusively
+  to GitLab.com (SaaS)
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-com_customizations_1/
+linkTitle: GitLab.com custom limits
+type: docs
 ---
 
 ## Overview

@@ -1,7 +1,13 @@
 ---
 title: Support Super Form
 description: Operations workflows page for Support Super Form
-canonical_path: "/handbook/security/customer-support-operations/workflows/gitlab/support-super-form/"
+canonical_path: /handbook/security/customer-support-operations/workflows/gitlab/support-super-form/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-super-form_1_2/
+linkTitle: Support Super Form
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

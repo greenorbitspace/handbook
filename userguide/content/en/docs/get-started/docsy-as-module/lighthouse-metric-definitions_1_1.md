@@ -1,7 +1,14 @@
 ---
-title: "Lighthouse Metric Definitions"
-description: "Drive cross-functional alignment around Lighthouse Metric Definitions for Customer Use Case Adoption."
+title: Lighthouse Metric Definitions
+description: Drive cross-functional alignment around Lighthouse Metric Definitions
+  for Customer Use Case Adoption.
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/lighthouse-metric-definitions_1_1/
+linkTitle: Lighthouse Metric Definitions
+type: docs
 ---
 
 ## Purpose

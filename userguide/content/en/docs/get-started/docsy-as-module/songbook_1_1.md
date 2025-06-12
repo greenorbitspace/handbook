@@ -1,6 +1,13 @@
 ---
-title: "GitLab Songbook"
-description: "The GitLab Songbook contains popular songs that have been adapted and arranged by GitLab team members."
+title: GitLab Songbook
+description: The GitLab Songbook contains popular songs that have been adapted and
+  arranged by GitLab team members.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/songbook_1_1/
+linkTitle: GitLab Songbook
+type: docs
 ---
 
 The GitLab Songbook contains popular songs that have been adapted and arranged by GitLab team members. Many of the GitLab songs include references to our [values](/handbook/values/) helping to reinforce them.

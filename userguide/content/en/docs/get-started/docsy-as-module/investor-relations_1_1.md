@@ -1,6 +1,13 @@
 ---
-title: "Investor Relations"
-description: "The Investor Relations team drives the strategy and long-term market positioning of GitLab in the public financial markets."
+title: Investor Relations
+description: The Investor Relations team drives the strategy and long-term market
+  positioning of GitLab in the public financial markets.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/investor-relations_1_1/
+linkTitle: Investor Relations
+type: docs
 ---
 
 ## Investor Relations Analyst

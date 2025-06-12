@@ -1,13 +1,23 @@
 ---
-title: "Mutual authentication between Cell services"
+title: Mutual authentication between Cell services
 status: proposed
-creation-date: "2024-07-01"
-authors: [ "@daveyleach" ]
-coach: "@sxuereb"
-approvers: [ "@andrewn", "@glopezfernandez" ]
-owning-stage: "~devops::tenant scale"
+creation-date: '2024-07-01'
+authors:
+- '@daveyleach'
+coach: '@sxuereb'
+approvers:
+- '@andrewn'
+- '@glopezfernandez'
+owning-stage: ~devops::tenant scale
 participating-stages: []
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mutual_authentication_between_cell_services_1_2/
+description: ''
+linkTitle: Mutual authentication between Cell services
+type: docs
 ---
 
 ## Summary

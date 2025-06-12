@@ -1,11 +1,14 @@
 ---
-
 title: Workflow for handling Plan/License Ticket Attention Requests
 category: Managers Workflows
 description: How to manage plan/license Support Ticket Attention Requests
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/managers_working_with_extensions_1_1/
+linkTitle: Workflow for handling Plan/License Ticket Attention Requests
+type: docs
 ---
-
-
 
 ## How to move urgent L&R starred tickets forward
 

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Courses En 1 1
+aliases:
+- /docs/free-courses-en_1_1/
+description: ''
+linkTitle: Free Courses En 1 1
+type: docs
+---
+
 ### Index
 
 * [Algorithms & Data Structures](#algorithms--data-structures)

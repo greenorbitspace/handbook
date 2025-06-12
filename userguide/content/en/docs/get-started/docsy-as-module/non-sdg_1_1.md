@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Non Sdg 1 1
+aliases:
+- /docs/non-sdg_1_1/
+description: ''
+linkTitle: Non Sdg 1 1
+type: docs
+---
+
 <h1>Open SDG for other frameworks</h1>
 
 Although Open SDG is tailored for use with the Sustainable Development Goals (SDGs), you can use it as a general-purpose reporting platform instead. This is possible because:

@@ -1,5 +1,12 @@
 ---
 title: Intermediate Fullstack Engineer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/intermediate-fullstack-engineer_1_1/
+description: ''
+linkTitle: Intermediate Fullstack Engineer
+type: docs
 ---
 
 Fullstack Engineers work across the backend and frontend parts of our product. This includes both the open-source version of GitLab, the enterprise editions, and the GitLab.com service. They work with peers on teams dedicated to areas of the product. They work together with product managers, designers, [backend engineers](/job-families/engineering/backend-engineer/), and [frontend engineers](/job-families/engineering/development/frontend/) to solve common goals.

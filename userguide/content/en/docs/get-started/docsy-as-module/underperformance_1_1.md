@@ -1,6 +1,13 @@
 ---
 title: Underperformance
-description: We want team members to be successful and should offer every opportunity for them to work effectively.
+description: We want team members to be successful and should offer every opportunity
+  for them to work effectively.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/underperformance_1_1/
+linkTitle: Underperformance
+type: docs
 ---
 
 ## Introduction

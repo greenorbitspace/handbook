@@ -1,14 +1,16 @@
 ---
-
-title: "GitLab Product Training for Customer Success"
-description: "As a Solutions Architect, Customer Success Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. This handbook page provides an dashboard of aggregated resources that we encourage you to use to get up to speed."
+title: GitLab Product Training for Customer Success
+description: As a Solutions Architect, Customer Success Manager, or Professional Services
+  Engineer, it is important to be continuously learning more about our product and
+  related industry topics. This handbook page provides an dashboard of aggregated
+  resources that we encourage you to use to get up to speed.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/education-enablement_1_1/
+linkTitle: GitLab Product Training for Customer Success
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview of GitLab Product Training
 

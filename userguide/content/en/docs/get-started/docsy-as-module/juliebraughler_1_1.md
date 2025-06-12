@@ -1,5 +1,12 @@
 ---
-title: "Julie Braughler's README"
+title: Julie Braughler's README
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/juliebraughler_1_1/
+description: ''
+linkTitle: Julie Braughler's README
+type: docs
 ---
 
 ## About Me

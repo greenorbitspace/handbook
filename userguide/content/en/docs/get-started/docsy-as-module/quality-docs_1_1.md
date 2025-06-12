@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Quality Docs 1 1
+aliases:
+- /docs/quality-docs_1_1/
+description: ''
+linkTitle: Quality Docs 1 1
+type: docs
+---
+
 - Quality Policy: A statement of the organization's commitment to quality and the goals and objectives for achieving it.
 
 - Quality Manual: A document that outlines the organization's quality management system, including its policies, procedures, and responsibilities.

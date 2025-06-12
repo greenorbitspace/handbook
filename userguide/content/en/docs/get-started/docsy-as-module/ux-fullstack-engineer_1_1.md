@@ -1,5 +1,12 @@
 ---
 title: Fullstack Engineer, Technical Writing
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ux-fullstack-engineer_1_1/
+description: ''
+linkTitle: Fullstack Engineer, Technical Writing
+type: docs
 ---
 
 Fullstack engineers work across the front- and backend of the GitLab documentation site to improve the user experience.

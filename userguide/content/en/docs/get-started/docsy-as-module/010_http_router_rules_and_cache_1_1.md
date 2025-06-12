@@ -1,7 +1,14 @@
 ---
-owning-stage: "~devops::data stores"
+owning-stage: ~devops::data stores
 title: 'Cells ADR 010: HTTP Router uses static rules and HTTP-based caching mechanism'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/010_http_router_rules_and_cache_1_1/
+description: ''
+linkTitle: 'Cells ADR 010: HTTP Router uses static rules and HTTP-based caching mechanism'
+type: docs
 ---
 
 ## Context

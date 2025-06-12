@@ -1,18 +1,17 @@
 ---
-
-title: "Social Media Reporting"
+title: Social Media Reporting
 description: Metric Definitions, Cadences, and Objectives
-twitter_image: "/images/opengraph/handbook/social-marketing/social-handbook-reporting.png"
-twitter_image_alt: "GitLab's Social Media Handbook branded image"
-twitter_site: "gitlab"
-twitter_creator: "gitlab"
+twitter_image: /images/opengraph/handbook/social-marketing/social-handbook-reporting.png
+twitter_image_alt: GitLab's Social Media Handbook branded image
+twitter_site: gitlab
+twitter_creator: gitlab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/social-reporting_1_1/
+linkTitle: Social Media Reporting
+type: docs
 ---
-
-
-
-
-
-
 
 Reporting on our brand's organic social media efforts is critical in determining if what we're doing is working and understanding our audiences better. This page outline specifics on our reporting, including definitions of metrics.
 {:.alert .alert-info .text-justify}

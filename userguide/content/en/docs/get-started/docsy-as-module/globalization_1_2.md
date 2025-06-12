@@ -1,6 +1,15 @@
 ---
-title: "Globalization & Localization"
-summary: Lead GitLab’s go-to-market localization strategy, operations and technology platform, with a primary focus on Sales, Marketing, Growth & E-commerce Product areas.
+title: Globalization & Localization
+summary: Lead GitLab’s go-to-market localization strategy, operations and technology
+  platform, with a primary focus on Sales, Marketing, Growth & E-commerce Product
+  areas.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/globalization_1_2/
+description: ''
+linkTitle: Globalization & Localization
+type: docs
 ---
 
 ## Levels

@@ -1,6 +1,13 @@
 ---
-title: "GitLab System Administration - Hands-on Lab: Install GitLab"
-description: "This Hands-On Guide walks you through installing GitLab on a virtual machine."
+title: 'GitLab System Administration - Hands-on Lab: Install GitLab'
+description: This Hands-On Guide walks you through installing GitLab on a virtual
+  machine.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sysadminhandsonlab1_1_1/
+linkTitle: 'GitLab System Administration - Hands-on Lab: Install GitLab'
+type: docs
 ---
 
 > Estimated time to complete: 30 minutes

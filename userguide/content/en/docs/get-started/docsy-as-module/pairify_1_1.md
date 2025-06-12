@@ -1,7 +1,14 @@
 ---
 title: Pairify
-description: "This document provides information on what Pairify is and how to use it to record pairing sessions."
+description: This document provides information on what Pairify is and how to use
+  it to record pairing sessions.
 category: References
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/pairify_1_1/
+linkTitle: Pairify
+type: docs
 ---
 
 ## Overview

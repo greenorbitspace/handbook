@@ -1,9 +1,13 @@
 ---
 title: Before you begin
-date: 2021-12-08T11:12:59+01:00
+date: '2025-06-12T01:06:01+01:00'
 weight: 1
-description: >
+description: |
   Prerequisites for building a site with Docsy as a Hugo Module.
+aliases:
+- /docs/installation-prerequisites/
+linkTitle: Before you begin
+type: docs
 ---
 
 This page describes the prerequisites for building a site that uses Docsy as a Hugo Module.

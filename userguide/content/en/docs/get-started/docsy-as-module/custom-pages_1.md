@@ -1,6 +1,13 @@
 ---
-title: "Contentful CMS Custom Pages"
-description: "Editing and making unique content with Contentful and custom components from Buyer Experience"
+title: Contentful CMS Custom Pages
+description: Editing and making unique content with Contentful and custom components
+  from Buyer Experience
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/custom-pages_1/
+linkTitle: Contentful CMS Custom Pages
+type: docs
 ---
 
 ## Custom Pages

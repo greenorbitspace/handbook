@@ -2,7 +2,14 @@
 title: Account Ownership Verification
 category: GitLab.com
 subcategory: Accounts
-description: "Workflow detailing how and when to verify account ownership including disable 2FA"
+description: Workflow detailing how and when to verify account ownership including
+  disable 2FA
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/account_verification_1_1/
+linkTitle: Account Ownership Verification
+type: docs
 ---
 
 ## Overview

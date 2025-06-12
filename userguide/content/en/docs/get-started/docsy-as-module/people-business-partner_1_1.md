@@ -1,5 +1,12 @@
 ---
-title: "People Business Partner"
+title: People Business Partner
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/people-business-partner_1_1/
+description: ''
+linkTitle: People Business Partner
+type: docs
 ---
 
 People Business Partners (PBPs) are responsible for aligning business objectives with people solutions in the organizations they support. A PBP acts as a trusted and strategic advisor, coach, and change agent to senior leadership, providing data driven insights and expertise on people-related matters, to inform and support a tightly aligned business and talent strategy.

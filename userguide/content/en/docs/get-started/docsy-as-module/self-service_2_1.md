@@ -1,10 +1,16 @@
 ---
-title: "Adopting a self-service and self-learning mentality"
+title: Adopting a self-service and self-learning mentality
 description: Adopting a self-service and self-learning mentality
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/self-service_2_1/
+linkTitle: Adopting a self-service and self-learning mentality
+type: docs
 ---
 
 All-remote companies such as GitLab thrive through [documentation]({{< ref "./management#scaling-by-documenting" >}}). Crucially, this requires every team member to be equally invested in perpetuating documentation, creating a virtuous cycle of self-searching, self-service, and self-learning.

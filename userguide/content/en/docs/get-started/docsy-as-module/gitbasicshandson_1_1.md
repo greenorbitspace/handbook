@@ -1,6 +1,13 @@
 ---
-title: "GitLab with Git Essentials - Hands-On Lab Overview"
-description: "This Hands-On Guide walks you through the lab exercises used in the GitLab with Git Essentials course."
+title: GitLab with Git Essentials - Hands-On Lab Overview
+description: This Hands-On Guide walks you through the lab exercises used in the GitLab
+  with Git Essentials course.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitbasicshandson_1_1/
+linkTitle: GitLab with Git Essentials - Hands-On Lab Overview
+type: docs
 ---
 
 ## GitLab with Git Essentials Lab Guides

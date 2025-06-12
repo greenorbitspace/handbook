@@ -1,6 +1,12 @@
 ---
-title: "Creating a first click study in Qualtrics"
-description: "This page details how to set-up first click tests in Qualtrics."
+title: Creating a first click study in Qualtrics
+description: This page details how to set-up first click tests in Qualtrics.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/creating-first-click-study-qualtrics_1_1/
+linkTitle: Creating a first click study in Qualtrics
+type: docs
 ---
 
 These instructions allow you to create a first click study, using Qualtrics, to examine what a participant would click first in the interface to complete their intended task.

@@ -1,7 +1,12 @@
 ---
-
 title: Support Team hazards and challenges
 description: Hazards, Challenges, and possible solutions to consider to solve them
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/hazards-and-challenges_1_1/
+linkTitle: Support Team hazards and challenges
+type: docs
 ---
 
 ## Hazards & Challenges

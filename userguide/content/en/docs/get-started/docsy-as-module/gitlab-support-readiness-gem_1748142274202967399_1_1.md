@@ -1,7 +1,13 @@
 ---
 title: Support Readiness
 description: Documentation page for the GitLab Support Readiness Gem
-canonical_path: "/handbook/security/customer-support-operations/docs/ruby-gems/gitlab-support-readiness-gem/"
+canonical_path: /handbook/security/customer-support-operations/docs/ruby-gems/gitlab-support-readiness-gem/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-support-readiness-gem_1748142274202967399_1_1/
+linkTitle: Support Readiness
+type: docs
 ---
 
 <sup>*Introduced via [gitlab-com/support/support-ops/support-ops-project#1919](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/1919)*</sup>

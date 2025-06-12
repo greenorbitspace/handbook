@@ -1,6 +1,13 @@
 ---
 title: AI Support Pod
-description: A space for Support Engineers to collaborate on Duo tickets and improve Support's workflows using AI
+description: A space for Support Engineers to collaborate on Duo tickets and improve
+  Support's workflows using AI
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_89_1_1/
+linkTitle: AI Support Pod
+type: docs
 ---
 
 ## Purpose

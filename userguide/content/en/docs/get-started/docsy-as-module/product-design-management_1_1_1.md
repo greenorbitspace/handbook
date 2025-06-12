@@ -1,6 +1,16 @@
 ---
-title: "Product Design Management"
-description: "Managers in the UX department at GitLab see the team as their product. While they are credible as designers and know the details of what product designers work on, their time is spent hiring a world-class team and putting them in the best position to succeed. They own the delivery of UX commitments, are always looking to improve productivity, and are responsible for the user experience in the product."
+title: Product Design Management
+description: Managers in the UX department at GitLab see the team as their product.
+  While they are credible as designers and know the details of what product designers
+  work on, their time is spent hiring a world-class team and putting them in the best
+  position to succeed. They own the delivery of UX commitments, are always looking
+  to improve productivity, and are responsible for the user experience in the product.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-design-management_1_1_1/
+linkTitle: Product Design Management
+type: docs
 ---
 
 ## Product Design Manager

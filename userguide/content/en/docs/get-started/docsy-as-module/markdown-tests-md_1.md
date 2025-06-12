@@ -2,6 +2,12 @@
 title: Markdown Page tests title
 description: Markdown Page tests description
 wrapperClassName: docusaurus-markdown-example
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/markdown-tests-md_1/
+linkTitle: Markdown Page tests title
+type: docs
 ---
 
 # Markdown .md tests

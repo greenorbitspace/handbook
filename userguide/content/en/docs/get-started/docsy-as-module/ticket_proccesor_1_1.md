@@ -1,7 +1,13 @@
 ---
 title: Ticket Processor
 description: Support Operations documentation page for our Zendesk Global ticket processor
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/ticket_processor"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/ticket_processor
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ticket_proccesor_1_1/
+linkTitle: Ticket Processor
+type: docs
 ---
 
 ## How is it triggered

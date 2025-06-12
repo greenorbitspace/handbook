@@ -1,7 +1,13 @@
 ---
-
-title: "Michael Lunøe's README"
-job: "Staff Frontend Engineer, Fulfillment:Billing and Subscription Management"
+title: Michael Lunøe's README
+job: Staff Frontend Engineer, Fulfillment:Billing and Subscription Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mlunoe_1_1/
+description: ''
+linkTitle: Michael Lunøe's README
+type: docs
 ---
 
 ## Michael Lunøe README

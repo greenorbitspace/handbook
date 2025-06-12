@@ -1,6 +1,12 @@
 ---
-title: "Evergreen Requisitions"
-description: "This page discusses Evergreen Requisitions"
+title: Evergreen Requisitions
+description: This page discusses Evergreen Requisitions
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/evergreen-requisitions_1_1/
+linkTitle: Evergreen Requisitions
+type: docs
 ---
 
 An Evergreen Requisition is a requisition used to pipeline candidates on a continual basis. This is done by keeping the Evergreen req posted for internal, external and passive candidates. It is important that no candidate is hired to an Evergreen req, and instead is moved to an approved headcount req (as mentioned below).

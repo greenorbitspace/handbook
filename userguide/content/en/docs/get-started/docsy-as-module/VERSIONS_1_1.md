@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Versions 1 1
+aliases:
+- /docs/VERSIONS_1_1/
+description: ''
+linkTitle: Versions 1 1
+type: docs
+---
+
 <!-- vim:ts=4:sts=4:sw=4:et:tw=60 -->
 
 This library has the following policy about versions.

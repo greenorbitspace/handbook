@@ -1,6 +1,13 @@
 ---
 title: Onboarding Automation Flow
-description: "Information on the automations we have in place to support the People Connect team with onboarding related tasks."
+description: Information on the automations we have in place to support the People
+  Connect team with onboarding related tasks.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/onboarding_1_1_1/
+linkTitle: Onboarding Automation Flow
+type: docs
 ---
 
 The People Group Engineering team aims to reduce as much manual work as possible. One of the areas we have done this, is everything related to the employment automation flow.

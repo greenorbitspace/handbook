@@ -1,17 +1,13 @@
 ---
-
-title: "GCP CUD"
-description: "GCP Committed Use Discounts"
+title: GCP CUD
+description: GCP Committed Use Discounts
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gcp-cud_1_1/
+linkTitle: GCP CUD
+type: docs
 ---
-
-
-
-
-
-
-
-
-
 
 ---
 

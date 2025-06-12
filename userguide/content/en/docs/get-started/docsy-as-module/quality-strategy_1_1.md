@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Quality Strategy 1 1
+aliases:
+- /docs/quality-strategy_1_1/
+description: ''
+linkTitle: Quality Strategy 1 1
+type: docs
+---
+
 # Quality Strategy Framework
 
 ## 1. Leadership and Commitment

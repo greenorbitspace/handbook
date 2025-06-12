@@ -1,5 +1,12 @@
 ---
-title: "Demo Architect"
+title: Demo Architect
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/demo-architect_1_1/
+description: ''
+linkTitle: Demo Architect
+type: docs
 ---
 
 Demo architect or Demonstration architects are the trusted advisors to the Solutions Architect team. Demo architects owns creation, maintenance and enablement of delivery of customized customer facing demos, workshops and other customer facing collateral. Demo Architects are critical in scaling pre-sales functions across the organization and delivering customer revenue.

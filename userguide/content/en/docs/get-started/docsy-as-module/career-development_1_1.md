@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Career Development 1 1
+aliases:
+- /docs/career-development_1_1/
+description: ''
+linkTitle: Career Development 1 1
+type: docs
+---
+
 ### Giving / receiving feedback
 
 It can be hard to understand how you're doing in your role, because feedback can come off as formal (annual reviews, 360 surveys, career development conversations, goal check-ins) or casual (in Slack channels, 1-1's, MR reviews, team meetings.) We receive various kinds of feedback regularly and through different formats, so the type of feedback you're receiving is not always clear. In order to be more intentional about the types of feedback given, here is a classification chart based on [three types of feedback](https://forimpact.org/three-types-feedback/#:~:text=%E2%80%9CFeedback%20comes%20in%20three%20forms,about%20relationship%20and%20human%20connection.):

@@ -1,5 +1,12 @@
 ---
-title: "AI Functionality Terms"
+title: AI Functionality Terms
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ai-functionality-terms_1_1/
+description: ''
+linkTitle: AI Functionality Terms
+type: docs
 ---
 
 (Additional Terms)

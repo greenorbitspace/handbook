@@ -1,7 +1,13 @@
 ---
 title: Tickets
 description: Operations documentation page for Zendesk tickets
-canonical_path: "/handbook/security/customer-support-operations/docs/zendesk/tickets"
+canonical_path: /handbook/security/customer-support-operations/docs/zendesk/tickets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tickets_1_1_1/
+linkTitle: Tickets
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

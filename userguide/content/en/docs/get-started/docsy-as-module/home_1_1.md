@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Home 1 1
+aliases:
+- /docs/home_1_1/
+description: ''
+linkTitle: Home 1 1
+type: docs
+---
+
 ## Luxon
 
 Luxon is a library for dealing with dates and times in JavaScript.

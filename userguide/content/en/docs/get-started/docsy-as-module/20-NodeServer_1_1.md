@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 20 Nodeserver 1 1
+aliases:
+- /docs/20-NodeServer_1_1/
+description: ''
+linkTitle: 20 Nodeserver 1 1
+type: docs
+---
+
 ### Node server
 - we create that using HTTP module
 - http module also extends eventEmitter class

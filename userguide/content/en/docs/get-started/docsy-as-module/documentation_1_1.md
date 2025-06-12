@@ -2,6 +2,11 @@
 title: Documentation
 aliases:
 - /handbook/documentation/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Documentation
+type: docs
 ---
 
 GitLab documentation is crafted to help users, admins, and decision-makers

@@ -1,6 +1,12 @@
 ---
-
-title: "Top Misused Terms - GitLab Communication"
+title: Top Misused Terms - GitLab Communication
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/top-misused-terms_1_1/
+description: ''
+linkTitle: Top Misused Terms - GitLab Communication
+type: docs
 ---
 
 <!-- NOTE: To update misused terms, please open "data/misused_terms.yml -->

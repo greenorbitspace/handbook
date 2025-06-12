@@ -5,6 +5,13 @@ doc_id: doc-1091
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070714_marketing--communications-strategy_1_1/
+description: ''
+linkTitle: Marketing Communications Strategy
+type: docs
 ---
 
 New to Notion? You can sign up here. Duplicate this template and add it to your Notion workspace to start using it.

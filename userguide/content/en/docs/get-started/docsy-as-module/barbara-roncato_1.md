@@ -1,7 +1,13 @@
 ---
-title: "Barbara Roncato's README"
-description: "Personal README for Barbara Roncato"
-job: "Manager, Enterprise Applications PMO"
+title: Barbara Roncato's README
+description: Personal README for Barbara Roncato
+job: Manager, Enterprise Applications PMO
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/barbara-roncato_1/
+linkTitle: Barbara Roncato's README
+type: docs
 ---
 
 ### About me

@@ -1,5 +1,12 @@
 ---
-title: "Marketing Site Approval Process"
+title: Marketing Site Approval Process
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/marketing-site-approval-process_1_1/
+description: ''
+linkTitle: Marketing Site Approval Process
+type: docs
 ---
 
 Going forward, all changes on the marketing site (`about.gitlab.com`) must follow an approval process prior to merging in changes on the website.

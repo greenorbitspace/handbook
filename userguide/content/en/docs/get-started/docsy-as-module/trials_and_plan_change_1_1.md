@@ -1,8 +1,13 @@
 ---
-
 title: Handling trials, extensions and plan changes on GitLab.com
-description: "How to handle GitLab.com subscription trials and plan changes"
+description: How to handle GitLab.com subscription trials and plan changes
 category: GitLab.com subscriptions & purchases
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/trials_and_plan_change_1_1/
+linkTitle: Handling trials, extensions and plan changes on GitLab.com
+type: docs
 ---
 
 ## Handling GitLab.com trial requests

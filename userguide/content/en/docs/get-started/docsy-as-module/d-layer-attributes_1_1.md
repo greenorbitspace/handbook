@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: D Layer Attributes 1 1
+aliases:
+- /docs/d-layer-attributes_1_1/
+description: ''
+linkTitle: D Layer Attributes 1 1
+type: docs
+---
+
 # Layer Attributes
 
 | Layer Attribute                    | Description                                                                                                                                            | Available in                                   |

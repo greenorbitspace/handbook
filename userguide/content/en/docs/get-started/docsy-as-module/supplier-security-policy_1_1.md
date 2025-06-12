@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Supplier Security Policy 1 1
+aliases:
+- /docs/supplier-security-policy_1_1/
+description: ''
+linkTitle: Supplier Security Policy 1 1
+type: docs
+---
+
 ## 1. Purpose and Scope
 
 This policy establishes security requirements for suppliers, vendors, and third parties who provide services or have access to Green Orbit Digital's systems, data, or facilities. It applies to all current and prospective suppliers throughout the entire supplier relationship lifecycle.

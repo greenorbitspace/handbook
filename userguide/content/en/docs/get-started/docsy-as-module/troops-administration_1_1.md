@@ -1,8 +1,14 @@
 ---
-
-title: "Rattle Configuration and Maintenance"
-description: "This page covers the administration and oversight of Rattle"
+title: Rattle Configuration and Maintenance
+description: This page covers the administration and oversight of Rattle
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/troops-administration_1_1/
+linkTitle: Rattle Configuration and Maintenance
+type: docs
 ---
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## Overview

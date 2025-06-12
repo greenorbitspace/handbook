@@ -1,6 +1,13 @@
 ---
-title: "Marketing Team Processes - How We Work"
-description: "This page is meant to house resources and processes for the marketing team."
+title: Marketing Team Processes - How We Work
+description: This page is meant to house resources and processes for the marketing
+  team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/marketing-team-processes_1748147631881626671_1_1/
+linkTitle: Marketing Team Processes - How We Work
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

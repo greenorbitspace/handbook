@@ -1,5 +1,12 @@
 ---
 title: JiHu validation pipelines
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/jihu-validation-pipelines_1748146057788451134_1_1/
+description: ''
+linkTitle: JiHu validation pipelines
+type: docs
 ---
 
 ## JiHu validation pipelines

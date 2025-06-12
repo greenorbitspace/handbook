@@ -1,7 +1,13 @@
 ---
-title: "Product Manager"
-description: "Product Managers at GitLab have a unique opportunity to define the future of the
-entire DevOps lifecycle"
+title: Product Manager
+description: Product Managers at GitLab have a unique opportunity to define the future
+  of the entire DevOps lifecycle
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-manager_1_2/
+linkTitle: Product Manager
+type: docs
 ---
 
 <figure class="video_container">

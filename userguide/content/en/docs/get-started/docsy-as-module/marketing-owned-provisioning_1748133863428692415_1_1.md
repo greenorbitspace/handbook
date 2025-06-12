@@ -1,6 +1,12 @@
 ---
-title: "Marketing Owned System Provisioning Instructions"
-description: "Marketing Operations manages the majority of marketing-owned systems."
+title: Marketing Owned System Provisioning Instructions
+description: Marketing Operations manages the majority of marketing-owned systems.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/marketing-owned-provisioning_1748133863428692415_1_1/
+linkTitle: Marketing Owned System Provisioning Instructions
+type: docs
 ---
 
 ## Marketing Owned Systems

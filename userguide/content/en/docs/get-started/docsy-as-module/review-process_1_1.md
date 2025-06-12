@@ -1,6 +1,13 @@
 ---
-title: "AppSec Review Template Process"
-description: "This review template is tailored to application security reviews of GitLab features. Parts of it might be applicable to other software, other parts might not."
+title: AppSec Review Template Process
+description: This review template is tailored to application security reviews of GitLab
+  features. Parts of it might be applicable to other software, other parts might not.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/review-process_1_1/
+linkTitle: AppSec Review Template Process
+type: docs
 ---
 
 ## :warning: Prioritization Note

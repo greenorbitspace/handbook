@@ -1,6 +1,12 @@
 ---
-title: "Field Marketing Epics"
-description: "A comprehensive list of all of Field Marketing's epic codes."
+title: Field Marketing Epics
+description: A comprehensive list of all of Field Marketing's epic codes.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/field-marketing-epics_1_1/
+linkTitle: Field Marketing Epics
+type: docs
 ---
 
 ## Conference (In-Person)

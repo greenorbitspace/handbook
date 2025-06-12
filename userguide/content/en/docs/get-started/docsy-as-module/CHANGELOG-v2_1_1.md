@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Changelog V2 1 1
+aliases:
+- /docs/CHANGELOG-v2_1_1/
+description: ''
+linkTitle: Changelog V2 1 1
+type: docs
+---
+
 ## 2.10.14
 
 ### Patch Changes

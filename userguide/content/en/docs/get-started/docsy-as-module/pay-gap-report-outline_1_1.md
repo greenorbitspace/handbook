@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Pay Gap Report Outline 1 1
+aliases:
+- /docs/pay-gap-report-outline_1_1/
+description: ''
+linkTitle: Pay Gap Report Outline 1 1
+type: docs
+---
+
 ## Introduction
 
 Provide an overview of the purpose and importance of the pay gap report. Explain its relevance to the organization's commitment to equality and transparency.

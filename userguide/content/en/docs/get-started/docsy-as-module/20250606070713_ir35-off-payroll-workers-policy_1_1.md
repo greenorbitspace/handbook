@@ -5,6 +5,13 @@ doc_id: doc-1006
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070713_ir35-off-payroll-workers-policy_1_1/
+description: ''
+linkTitle: Ir35 Off Payroll Workers Policy
+type: docs
 ---
 
 1. Introduction

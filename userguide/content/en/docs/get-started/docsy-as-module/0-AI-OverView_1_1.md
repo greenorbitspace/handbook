@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 0 Ai Overview 1 1
+aliases:
+- /docs/0-AI-OverView_1_1/
+description: ''
+linkTitle: 0 Ai Overview 1 1
+type: docs
+---
+
 ### AI overview
 
 Google's generative AI capabilities exist across multiple platforms and products, integrating tools for both end users and developers. Here are some key places where Google’s generative AI features are currently available:

@@ -1,6 +1,12 @@
 ---
-
 title: Learning Evangelist Training
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/course-author-training_1_1/
+description: ''
+linkTitle: Learning Evangelist Training
+type: docs
 ---
 
 This training is designed for team members who would like to create their own learning content in Level Up. Once you've completed the course, let the Learning & Development team know and we'll uplift your permissions and allocate you a number of content items to give you access to the system.

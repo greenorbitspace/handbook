@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Development Senior Values Competency 1 1
+aliases:
+- /docs/development-senior-values-competency_1_1/
+description: ''
+linkTitle: Development Senior Values Competency 1 1
+type: docs
+---
+
 ##### Development
 
 * Engages with the stable-counterparts for their team looking at how to improve the working relationships and processes.

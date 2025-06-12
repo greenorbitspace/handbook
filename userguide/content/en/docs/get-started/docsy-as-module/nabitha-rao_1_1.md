@@ -1,7 +1,14 @@
 ---
-title: "Nabitha Rao's README"
-description: "Learn more about working with Nabitha Rao, VP IT EntApps"
+title: Nabitha Rao's README
+description: Learn more about working with Nabitha Rao, VP IT EntApps
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/nabitha-rao_1_1/
+linkTitle: Nabitha Rao's README
+type: docs
 ---
+
 ## Why I'm at GitLab
 
 1. **Our Product** GitLab is a leading all-in-one DevSecOps platform, empowering organizations to thrive in a $40B market by providing end-to-end solutions and driving innovation in a world where software is foundational to every business.

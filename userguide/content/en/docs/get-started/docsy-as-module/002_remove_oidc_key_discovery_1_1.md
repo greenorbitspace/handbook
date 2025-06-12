@@ -1,6 +1,13 @@
 ---
-title: "Cloud Connector ADR 002: Remove OIDC key discovery"
+title: 'Cloud Connector ADR 002: Remove OIDC key discovery'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/002_remove_oidc_key_discovery_1_1/
+description: ''
+linkTitle: 'Cloud Connector ADR 002: Remove OIDC key discovery'
+type: docs
 ---
 
 ## Context

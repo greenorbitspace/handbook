@@ -1,9 +1,17 @@
 ---
 title: Atlantis
-description: 'Learn about the Atlantis NASA space shuttle.'
-publishedDate: 'Sat May 21 2022 00:00:00 GMT-0400 (Eastern Daylight Time)'
-tags: [space, 90s]
-heroImage: "./atlantis.JPG"
+description: Learn about the Atlantis NASA space shuttle.
+publishedDate: Sat May 21 2022 00:00:00 GMT-0400 (Eastern Daylight Time)
+tags:
+- space
+- 90s
+heroImage: ./atlantis.JPG
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/atlantis_1_1/
+linkTitle: Atlantis
+type: docs
 ---
 
 **Source:** [Wikipedia](https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis)

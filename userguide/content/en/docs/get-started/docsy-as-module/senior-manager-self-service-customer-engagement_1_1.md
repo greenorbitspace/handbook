@@ -1,5 +1,12 @@
 ---
 title: Senior Manager, Self-Service Sales
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior-manager-self-service-customer-engagement_1_1/
+description: ''
+linkTitle: Senior Manager, Self-Service Sales
+type: docs
 ---
 
 This Senior Manager, Self-Service Sales role is part of a team focused on building an easy self-service experience for our customers.

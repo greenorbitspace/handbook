@@ -1,6 +1,12 @@
 ---
-
-title: "Application Security Engineer Working With SIRT"
+title: Application Security Engineer Working With SIRT
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/working-with-sirt_1_1/
+description: ''
+linkTitle: Application Security Engineer Working With SIRT
+type: docs
 ---
 
 This runbook is meant to help AppSec engineers who need to engage and work with SIRT to respond to a HackerOne report, discovered vulnerability, or other security incident.

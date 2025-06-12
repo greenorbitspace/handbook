@@ -1,7 +1,14 @@
 ---
-title: "Data Team Data Management Page"
-description: "The Data Management Page covers the content around managing, securing, and governing the Enterprise Data Platform and related activities."
+title: Data Team Data Management Page
+description: The Data Management Page covers the content around managing, securing,
+  and governing the Enterprise Data Platform and related activities.
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/data-management_1_1/
+linkTitle: Data Team Data Management Page
+type: docs
 ---
 
 ## Purpose

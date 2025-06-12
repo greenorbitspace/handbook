@@ -1,13 +1,13 @@
 ---
-title: "Christine Lee README (Sr. Director Marketing Strategy & Analytics)"
-description: "Learn more about working with Christine Lee"
+title: Christine Lee README (Sr. Director Marketing Strategy & Analytics)
+description: Learn more about working with Christine Lee
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/christine-lee_1_1/
+linkTitle: Christine Lee README (Sr. Director Marketing Strategy & Analytics)
+type: docs
 ---
-
-
-
-
-
-
 
 ## README: Christine Lee
 

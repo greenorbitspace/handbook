@@ -1,5 +1,12 @@
 ---
 title: DMCA Policy
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dmca_1_1/
+description: ''
+linkTitle: DMCA Policy
+type: docs
 ---
 
 ## DMCA (Digital Millennium Copyright Act) takedown request requirements

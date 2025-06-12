@@ -1,5 +1,12 @@
 ---
-title: "Workspaces ADR 018: Remove GitLab Workspaces Proxy to simplify setup"
+title: 'Workspaces ADR 018: Remove GitLab Workspaces Proxy to simplify setup'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/018_remove_gitlab_workspaces_setup_1/
+description: ''
+linkTitle: 'Workspaces ADR 018: Remove GitLab Workspaces Proxy to simplify setup'
+type: docs
 ---
 
 ## Context

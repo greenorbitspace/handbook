@@ -1,6 +1,15 @@
 ---
-title: "Account Based Marketing Manager"
-summary: The Account Based Marketing Manager is responsible for the strategy and implementation of Account Based Marketing campaigns and tactics to drive pipeline from a key accounts list.
+title: Account Based Marketing Manager
+summary: The Account Based Marketing Manager is responsible for the strategy and implementation
+  of Account Based Marketing campaigns and tactics to drive pipeline from a key accounts
+  list.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/account-based-marketing-manager_1_1/
+description: ''
+linkTitle: Account Based Marketing Manager
+type: docs
 ---
 
 The Account Based Marketing Manager is responsible for the strategy and implementation of Account Based Marketing campaigns and tactics to drive pipeline from a key accounts list (developed in collaboration with Sales and Marketing). This role will approach ABM strategy with a data-driven approach, continually testing and evaluating success of campaigns. The ABM Manager collaborates closely across marketing, sales, and SDR teams for a fully integrated approach.

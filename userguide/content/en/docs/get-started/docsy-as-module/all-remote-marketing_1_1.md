@@ -1,6 +1,14 @@
 ---
-title: "All-Remote Marketing"
-summary: The All-Remote Marketing team holds a unique position on the corporate marketing team to develop and tell the story of GitLab’s remote culture.
+title: All-Remote Marketing
+summary: The All-Remote Marketing team holds a unique position on the corporate marketing
+  team to develop and tell the story of GitLab’s remote culture.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/all-remote-marketing_1_1/
+description: ''
+linkTitle: All-Remote Marketing
+type: docs
 ---
 
 The All-Remote Marketing team holds a unique position on the corporate marketing team to develop and tell the story of GitLab’s remote culture. As a pioneer of remote work, this team will tell the story of GitLab’s global remote employees, remote work processes, transparent culture and the movement to remote work that GitLab has created.

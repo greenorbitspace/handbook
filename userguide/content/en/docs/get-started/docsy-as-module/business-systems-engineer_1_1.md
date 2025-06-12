@@ -1,5 +1,12 @@
 ---
-title: "Business Systems Engineer"
+title: Business Systems Engineer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/business-systems-engineer_1_1/
+description: ''
+linkTitle: Business Systems Engineer
+type: docs
 ---
 
 Business Systems Engineer Job Family works on custom APEX and Visualforce solutions for GitLab's Salesforce.com instance along with all packages, tools and integrations associated with it.

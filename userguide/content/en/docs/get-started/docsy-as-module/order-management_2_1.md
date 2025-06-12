@@ -1,5 +1,12 @@
 ---
-title: "Order Management"
+title: Order Management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/order-management_2_1/
+description: ''
+linkTitle: Order Management
+type: docs
 ---
 
 ## Levels

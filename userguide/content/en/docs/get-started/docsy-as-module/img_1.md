@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Img 1
+aliases:
+- /docs/img_1/
+description: ''
+linkTitle: Img 1
+type: docs
+---
+
 ![img](https://example.com/img.png)
 
 ![](./static/img.png)

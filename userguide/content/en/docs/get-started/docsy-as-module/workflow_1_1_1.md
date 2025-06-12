@@ -1,6 +1,13 @@
 ---
-title: "Distribution Team Workflow"
-description: "Overview of how work is performed by Distribution Engineers, for Omnibus, Helm and other Engineering projects."
+title: Distribution Team Workflow
+description: Overview of how work is performed by Distribution Engineers, for Omnibus,
+  Helm and other Engineering projects.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/workflow_1_1_1/
+linkTitle: Distribution Team Workflow
+type: docs
 ---
 
 ## Common links

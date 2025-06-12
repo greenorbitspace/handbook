@@ -1,7 +1,12 @@
 ---
-aliases: /handbook/engineering/development/sec/secure/vulnerability-research/cna.html
-
+aliases:
+- /docs/cna_1_1/
 title: Secure, Vulnerability Research - CNA Processes
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Secure, Vulnerability Research - CNA Processes
+type: docs
 ---
 
 This handbook page is intended to document CNA processes that the

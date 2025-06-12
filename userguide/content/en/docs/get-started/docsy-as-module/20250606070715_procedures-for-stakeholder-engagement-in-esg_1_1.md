@@ -5,6 +5,13 @@ doc_id: procedure-044
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070715_procedures-for-stakeholder-engagement-in-esg_1_1/
+description: ''
+linkTitle: Procedures For Stakeholder Engagement In Esg
+type: docs
 ---
 
 1. Stakeholder Feedback Collection:

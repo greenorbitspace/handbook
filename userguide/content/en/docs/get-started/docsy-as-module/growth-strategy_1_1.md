@@ -1,6 +1,12 @@
 ---
-aliases: /handbook/engineering/open-source/growth-strategy.html
-title: "Open Source Growth Strategy"
+aliases:
+- /docs/growth-strategy_1_1/
+title: Open Source Growth Strategy
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Open Source Growth Strategy
+type: docs
 ---
 
 ## Strategy

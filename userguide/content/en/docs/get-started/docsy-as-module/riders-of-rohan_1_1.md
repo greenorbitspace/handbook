@@ -1,8 +1,14 @@
 ---
-title: "The Riders of Rohan"
-excerpt: "Aragorn, Legolas, and Gimli follow the trail of the Orcs and find
-several clues as to what happened with Merry and Pippin."
-date: "2021-02-01"
+title: The Riders of Rohan
+excerpt: Aragorn, Legolas, and Gimli follow the trail of the Orcs and find several
+  clues as to what happened with Merry and Pippin.
+date: '2021-02-01'
+weight: 2
+aliases:
+- /docs/riders-of-rohan_1_1/
+description: ''
+linkTitle: The Riders of Rohan
+type: docs
 ---
 
 Placeat consequuntur ullam aut sapiente illo velit. Eius facere ut molestias

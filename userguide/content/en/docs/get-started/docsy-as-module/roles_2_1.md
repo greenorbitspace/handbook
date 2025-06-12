@@ -1,7 +1,13 @@
 ---
 title: Roles
 description: Support Operations documentation page for Zendesk roles
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/roles"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/roles
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/roles_2_1/
+linkTitle: Roles
+type: docs
 ---
 
 ## What are Zendesk roles?

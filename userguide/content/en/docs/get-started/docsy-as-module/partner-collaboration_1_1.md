@@ -1,6 +1,13 @@
 ---
-title: "Partner Collaboration"
-description: "Learn how the GitLab Professional Services organization collaborates with Partners."
+title: Partner Collaboration
+description: Learn how the GitLab Professional Services organization collaborates
+  with Partners.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/partner-collaboration_1_1/
+linkTitle: Partner Collaboration
+type: docs
 ---
 
 ## Why Partners?

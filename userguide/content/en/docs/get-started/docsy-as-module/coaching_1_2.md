@@ -1,5 +1,12 @@
 ---
-title: "Coaching"
+title: Coaching
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/coaching_1_2/
+description: ''
+linkTitle: Coaching
+type: docs
 ---
 
 ## Coaching at GitLab

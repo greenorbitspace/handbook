@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Noise Pollution Control 1 1
+aliases:
+- /docs/noise-pollution-control_1_1/
+description: ''
+linkTitle: Noise Pollution Control 1 1
+type: docs
+---
+
 <!-- Unsupported block type: table_of_contents -->
 
 <!-- Unsupported block type: divider -->

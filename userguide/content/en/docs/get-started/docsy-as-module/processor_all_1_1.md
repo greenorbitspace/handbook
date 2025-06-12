@@ -1,7 +1,14 @@
 ---
 title: Processor (everyone)
-description: Support Operations policies page for project setup for processors managed by everyone
-canonical_path: "/handbook/support/readiness/operations/docs/policies/project_setup/processor_all"
+description: Support Operations policies page for project setup for processors managed
+  by everyone
+canonical_path: /handbook/support/readiness/operations/docs/policies/project_setup/processor_all
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/processor_all_1_1/
+linkTitle: Processor (everyone)
+type: docs
 ---
 
 As processors managed by all of Support Readiness do not have any special

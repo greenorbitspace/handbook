@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 'Marketing Guide: Collaborating With Legal 1 1'
+aliases:
+- '/docs/Marketing Guide: Collaborating with Legal_1_1/'
+description: ''
+linkTitle: 'Marketing Guide: Collaborating With Legal 1 1'
+type: docs
+---
+
 # Marketing Guide: Collaborating with Legal
 
 This page provides educational resources and process guides to GitLab Marketing for recurring Legal requests

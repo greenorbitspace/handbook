@@ -1,9 +1,13 @@
 ---
-title: 'Print Support'
-linkTitle: 'Print Support'
+title: Print Support
+linkTitle: Print Support
 weight: 7
-description: >
+description: |
   Making it easier to print entire sections of documentation.
+type: docs
+date: '2025-06-12T01:05:53+01:00'
+aliases:
+- /docs/print/
 ---
 
 Individual documentation pages print well from most browsers as the layouts have

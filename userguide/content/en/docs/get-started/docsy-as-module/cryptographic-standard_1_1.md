@@ -1,7 +1,15 @@
 ---
-title: "GitLab Cryptography Standard"
-description: "This is the GitLab Cryptography Standard. It outlined cryptographic choices, including algorithms as well as important settings that may be associated with the algorithms. It applies to GitLab code and well as infrastructure configuration."
+title: GitLab Cryptography Standard
+description: This is the GitLab Cryptography Standard. It outlined cryptographic choices,
+  including algorithms as well as important settings that may be associated with the
+  algorithms. It applies to GitLab code and well as infrastructure configuration.
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cryptographic-standard_1_1/
+linkTitle: GitLab Cryptography Standard
+type: docs
 ---
 
 ## Purpose

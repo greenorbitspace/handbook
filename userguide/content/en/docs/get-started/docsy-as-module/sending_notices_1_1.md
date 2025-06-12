@@ -1,11 +1,15 @@
 ---
-
 title: Sending Notices
 category: GitLab.com
-description: How to send notices out to GitLab.com users and customers to inform them of various actions on namespaces under their control
+description: How to send notices out to GitLab.com users and customers to inform them
+  of various actions on namespaces under their control
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sending_notices_1_1/
+linkTitle: Sending Notices
+type: docs
 ---
-
-
 
 ## Overview of the process
 

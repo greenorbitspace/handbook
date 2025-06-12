@@ -1,9 +1,13 @@
 ---
-title: "Matten til mikroservicer: Detaljert spesifikasjon"
+title: 'Matten til mikroservicer: Detaljert spesifikasjon'
 linkTitle: Matten til mikroservicer
-date: 2017-01-09
-description: >
- En kort oppsummering av denne siden. Tekst kan **utheves** sller skrives i _kursiv_ og kan ha flere avsnitt.
+date: '2025-06-12T01:05:56+01:00'
+description: |
+  En kort oppsummering av denne siden. Tekst kan **utheves** sller skrives i _kursiv_ og kan ha flere avsnitt.
+weight: 2
+aliases:
+- /docs/20250606070822_the-math-of-microservices-detailed-spec_1_1/
+type: docs
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).

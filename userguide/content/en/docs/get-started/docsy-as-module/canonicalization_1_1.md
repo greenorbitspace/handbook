@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Canonicalization 1 1
+aliases:
+- /docs/canonicalization_1_1/
+description: ''
+linkTitle: Canonicalization 1 1
+type: docs
+---
+
 # Canonicalization
 
 Canonicalization is the process of selecting the representative –canonical– URL of a piece of content

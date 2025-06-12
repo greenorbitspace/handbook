@@ -1,15 +1,13 @@
 ---
-
-title: "Infrastructure Analyst Board"
-description: "Infra Analyst Workflow Planning"
+title: Infrastructure Analyst Board
+description: Infra Analyst Workflow Planning
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/infra-analyst-board_1_1/
+linkTitle: Infrastructure Analyst Board
+type: docs
 ---
-
-
-
-
-
-
-
 
 ---
 

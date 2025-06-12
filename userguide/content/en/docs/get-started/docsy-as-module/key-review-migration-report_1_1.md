@@ -1,6 +1,13 @@
 ---
 title: Key Review
 Description: Migration report for moving the handbooks key-review section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/key-review-migration-report_1_1/
+description: ''
+linkTitle: Key Review
+type: docs
 ---
 
 **Section:** key-review

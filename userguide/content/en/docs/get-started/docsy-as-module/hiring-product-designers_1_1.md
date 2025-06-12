@@ -1,7 +1,15 @@
 ---
-aliases: /handbook/content/handbook/product/ux/product-design/hiring-product-designers.html
-title: "Hiring Product Designers"
-description: "Product Designers, Product Design Managers, the Director of Product Design, and Product Managers participate in our hiring process by interviewing Product Designer candidates. We have created guidelines to help support a consistent end-to-end hiring process."
+aliases:
+- /docs/hiring-product-designers_1_1/
+title: Hiring Product Designers
+description: Product Designers, Product Design Managers, the Director of Product Design,
+  and Product Managers participate in our hiring process by interviewing Product Designer
+  candidates. We have created guidelines to help support a consistent end-to-end hiring
+  process.
+weight: 2
+date: '2025-06-12'
+linkTitle: Hiring Product Designers
+type: docs
 ---
 
 ## Hiring process

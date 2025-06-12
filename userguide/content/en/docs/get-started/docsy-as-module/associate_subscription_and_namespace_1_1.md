@@ -1,12 +1,14 @@
 ---
-
-
 title: Associating a subscription with a namespace & troubleshooting errors
-description: "How to provision GitLab.com subscriptions"
+description: How to provision GitLab.com subscriptions
 category: GitLab.com subscriptions & purchases
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/associate_subscription_and_namespace_1_1/
+linkTitle: Associating a subscription with a namespace & troubleshooting errors
+type: docs
 ---
-
-
 
 ## Provisioning subscriptions for reseller customers
 

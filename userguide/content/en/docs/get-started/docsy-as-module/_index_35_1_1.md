@@ -1,6 +1,16 @@
 ---
-title: "Identity Approvals"
-description: "A GitLab repository is securely hosted in the Identity Kingdom Black Ops GitLab self-managed instance that is used for managing configuration-as-code/infrastructure-as-code for any actions that can be performed in the Admin UI. This moves all day-to-day administrative actions and global configuration into state management with MR approval rules and CI/CD automation."
+title: Identity Approvals
+description: A GitLab repository is securely hosted in the Identity Kingdom Black
+  Ops GitLab self-managed instance that is used for managing configuration-as-code/infrastructure-as-code
+  for any actions that can be performed in the Admin UI. This moves all day-to-day
+  administrative actions and global configuration into state management with MR approval
+  rules and CI/CD automation.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_35_1_1/
+linkTitle: Identity Approvals
+type: docs
 ---
 
 {{% alert title="Not Live Yet" color="warning" %}}

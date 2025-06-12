@@ -1,6 +1,14 @@
 ---
 title: IT Staff Auditor
-description: responsible for preparing and implementing a risk-based audit plan to assess, report on, and make suggestions for improving the company's key operational, finance, and internal controls with a specialty in IT risk and security
+description: responsible for preparing and implementing a risk-based audit plan to
+  assess, report on, and make suggestions for improving the company's key operational,
+  finance, and internal controls with a specialty in IT risk and security
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/it-staff-auditor_1_1/
+linkTitle: IT Staff Auditor
+type: docs
 ---
 
 The position is additionally responsible for identifying and assisting in documenting existing internal controls, new internal controls, and establishing an internal monitoring function to audit the company's compliance with such internal controls. The position will have a key role in assessing and providing recommendations to the company's compliance with the requirements of the Sarbanes-Oxley Act of 2002 (SOX), and treatment of IT and security risks.

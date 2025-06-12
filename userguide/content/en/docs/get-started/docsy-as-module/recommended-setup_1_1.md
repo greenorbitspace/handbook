@@ -1,7 +1,13 @@
 ---
 title: Recommended Setup
 description: Operations documentation on the recommended setup
-canonical_path: "/handbook/security/customer-support-operations/recommended-setup/"
+canonical_path: /handbook/security/customer-support-operations/recommended-setup/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/recommended-setup_1_1/
+linkTitle: Recommended Setup
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

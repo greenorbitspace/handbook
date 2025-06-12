@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Email Management 1 1
+aliases:
+- /docs/Email Management_1_1/
+description: ''
+linkTitle: Email Management 1 1
+type: docs
+---
+
 # Email Management
 
 [Unsupported block type: image]

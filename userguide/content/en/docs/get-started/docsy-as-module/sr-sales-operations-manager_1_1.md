@@ -1,6 +1,13 @@
 ---
-title: "Senior Sales Operations Manager"
-RoleName: "Senior Sales Operations Manager"
+title: Senior Sales Operations Manager
+RoleName: Senior Sales Operations Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sr-sales-operations-manager_1_1/
+description: ''
+linkTitle: Senior Sales Operations Manager
+type: docs
 ---
 
 At GitLab, we are fundamentally changing the way our customers get their software to market by putting the entire DevOps lifecycle into a single application. With over 100,000 organizations using the product GitLab is one of the fastest growing companies in technology. Our customer success teams are responsible for ensuring that our customers are wildly successful in achieving their business outcomes with the GitLab product as they move to truly modern DevOps. A complete long-term engagement of planning, strategy, coaching, services and relationship building ensures our customers exceed their goals and digitally transform. We know that our customers trust GitLab to take their ideas all the way from plan to shipped product in production and we don’t take that responsibility lightly. We have an incredible existing, and rapidly growing, customer base, with a passionate, supportive open-source community and incredibly talented teams located in 40 countries focused on supporting them.

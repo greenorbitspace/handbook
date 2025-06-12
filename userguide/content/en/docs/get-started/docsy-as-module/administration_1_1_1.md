@@ -1,7 +1,13 @@
 ---
 title: Administration
 description: Support Operations documentation page for Zendesk app administration
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/apps/administration"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/apps/administration
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/administration_1_1_1/
+linkTitle: Administration
+type: docs
 ---
 
 ## Change management

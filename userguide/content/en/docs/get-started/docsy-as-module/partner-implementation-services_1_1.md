@@ -1,5 +1,12 @@
 ---
-title: "Channel Partner Implementation Services"
+title: Channel Partner Implementation Services
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/partner-implementation-services_1_1/
+description: ''
+linkTitle: Channel Partner Implementation Services
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

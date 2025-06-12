@@ -1,8 +1,12 @@
 ---
 title: GitLab Environmental, Social, and Governance
-description: "An overview of corporate sustainability at GitLab."
+description: An overview of corporate sustainability at GitLab.
 aliases:
 - /handbook/esg/
+weight: 2
+date: '2025-06-12'
+linkTitle: GitLab Environmental, Social, and Governance
+type: docs
 ---
 
 ## GitLab Fiscal Year 2023 (FY23) ESG Report

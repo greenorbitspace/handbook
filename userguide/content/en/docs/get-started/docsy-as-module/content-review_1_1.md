@@ -1,15 +1,13 @@
 ---
-
-title: "Developer Relations Workflows: Content Review"
+title: 'Developer Relations Workflows: Content Review'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/content-review_1_1/
+description: ''
+linkTitle: 'Developer Relations Workflows: Content Review'
+type: docs
 ---
-
-
-
-
-
-
-
-
 
 The Developer Relations team provides ongoing support to a number of stakeholders who create content including Product Marketing, Brand, and numerous Sales teams. In order to ensure the technical accuracy of content being created across GitLab, we conduct regular reviews of top-performing content across GitLab's main public facing content channels, notably [about.gitlab.com](https://about.gitlab.com) and [Highspot](/handbook/sales/field-communications/gitlab-highspot/#faqs).
 

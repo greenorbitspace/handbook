@@ -1,9 +1,13 @@
 ---
-
-title: "Brand Resources"
+title: Brand Resources
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/brand-standards_1_1/
+description: ''
+linkTitle: Brand Resources
+type: docs
 ---
-
-
 
 ## Overview
 

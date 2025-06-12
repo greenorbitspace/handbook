@@ -1,16 +1,14 @@
 ---
-
-title: "Sales Prospecting"
-description: "Prospecting is the process of initiating and developing new business by searching for potential customers, clients, or buyers for your products or services"
+title: Sales Prospecting
+description: Prospecting is the process of initiating and developing new business
+  by searching for potential customers, clients, or buyers for your products or services
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/prospecting_1_1/
+linkTitle: Sales Prospecting
+type: docs
 ---
-
-
-
-
-
-
-
-
 
 ## What is prospecting at GitLab?
 

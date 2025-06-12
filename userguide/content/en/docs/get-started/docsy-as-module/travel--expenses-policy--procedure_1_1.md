@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Travel  Expenses Policy  Procedure 1 1
+aliases:
+- /docs/travel--expenses-policy--procedure_1_1/
+description: ''
+linkTitle: Travel  Expenses Policy  Procedure 1 1
+type: docs
+---
+
 This policy provides guidance on how we’ll reimburse you for any work-related expenses. It applies to Wholegrain employees only and it does not form part of your contract of employment and may be amended from time to time.   Any, and all, personal data used in conjunction with this policy shall be collected, held, and processed in accordance with our ‘Data Protection Policy.’
 
 Expenses incurred by contractors are governed by the relevant clause(s) within their contract for services with Wholegrain.

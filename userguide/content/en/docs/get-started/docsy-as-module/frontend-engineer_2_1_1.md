@@ -1,7 +1,15 @@
 ---
 layout: job_family_page
 title: Frontend Engineer
-description: At GitLab, frontend engineers in UX collaborate closely with product designers, product managers, and engineers. They work on all versions of our product, including open source, enterprise editions, and the GitLab.com service.
+description: At GitLab, frontend engineers in UX collaborate closely with product
+  designers, product managers, and engineers. They work on all versions of our product,
+  including open source, enterprise editions, and the GitLab.com service.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/frontend-engineer_2_1_1/
+linkTitle: Frontend Engineer
+type: docs
 ---
 
 ## Frontend Engineer roles at GitLab

@@ -1,5 +1,12 @@
 ---
-title: "Incubation Engineering Department Career Framework: Staff"
+title: 'Incubation Engineering Department Career Framework: Staff'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/staff_13_1_1/
+description: ''
+linkTitle: 'Incubation Engineering Department Career Framework: Staff'
+type: docs
 ---
 
 ## Incubation Engineering Department Competencies: Staff

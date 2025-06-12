@@ -3,6 +3,13 @@ stage: enablement
 group: Tenant Scale
 title: 'Cells: Group Transfer'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/group-transfer_1_1/
+description: ''
+linkTitle: 'Cells: Group Transfer'
+type: docs
 ---
 
 {{% alert %}}

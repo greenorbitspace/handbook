@@ -1,8 +1,14 @@
 ---
-
-title: "Neurodiversity Resources"
-description: "This page provides resources for team members, managers and those who identify as neurodivergent"
-canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
+title: Neurodiversity Resources
+description: This page provides resources for team members, managers and those who
+  identify as neurodivergent
+canonical_path: /company/culture/inclusion/neurodiversity-resources/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/neurodiversity-resources_1_1/
+linkTitle: Neurodiversity Resources
+type: docs
 ---
 
 ## The purpose of Neurodiversity Resources

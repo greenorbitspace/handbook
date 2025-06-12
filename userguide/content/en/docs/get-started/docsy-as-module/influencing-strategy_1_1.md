@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Influencing Strategy 1 1
+aliases:
+- /docs/influencing-strategy_1_1/
+description: ''
+linkTitle: Influencing Strategy 1 1
+type: docs
+---
+
 # Influencing Strategy for Green Orbit Digital
 
 Objective: To advance Green Orbit Digital’s mission of embedding sustainability in the space industry by influencing policy, organisational practices, and stakeholder engagement. This strategy will help remove barriers to sustainability while fostering collaboration with national and international stakeholders.

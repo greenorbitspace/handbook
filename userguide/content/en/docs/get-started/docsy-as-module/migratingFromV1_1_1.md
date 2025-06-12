@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Migratingfromv1 1 1
+aliases:
+- /docs/migratingFromV1_1_1/
+description: ''
+linkTitle: Migratingfromv1 1 1
+type: docs
+---
+
 # socks
 
 ## Migrating from v1

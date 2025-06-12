@@ -1,7 +1,13 @@
 ---
-title: "Caroline Swanson's README"
-description: "README page for Caroline Swanson"
-job: "IT PMO Manager"
+title: Caroline Swanson's README
+description: README page for Caroline Swanson
+job: IT PMO Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/caroline_swanson_1_1/
+linkTitle: Caroline Swanson's README
+type: docs
 ---
 
 ### About me

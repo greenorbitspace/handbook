@@ -1,8 +1,13 @@
 ---
 title: SME Program Structure, Roles and Responsibilities
-
-description: The Structure of the SME Program, Roles and Responsibilities are detailed here.
-
+description: The Structure of the SME Program, Roles and Responsibilities are detailed
+  here.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sme-program_1_1/
+linkTitle: SME Program Structure, Roles and Responsibilities
+type: docs
 ---
 
 ## SME Program Structure

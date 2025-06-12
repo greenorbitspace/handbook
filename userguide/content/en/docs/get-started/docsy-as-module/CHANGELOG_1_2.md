@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Changelog 1 2
+aliases:
+- /docs/CHANGELOG_1_2/
+description: ''
+linkTitle: Changelog 1 2
+type: docs
+---
+
 # v1.1.0
 
 - Allow for es6 "default import", e.g. `import BigInteger from 'jsbn'`.

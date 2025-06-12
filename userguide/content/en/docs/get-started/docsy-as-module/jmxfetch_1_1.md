@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Jmxfetch 1 1
+aliases:
+- /docs/jmxfetch_1_1/
+description: ''
+linkTitle: Jmxfetch 1 1
+type: docs
+---
+
 # JMX Checks Development
 [JMXFetch](https://github.com/DataDog/jmxfetch/) is the component of the Agent which is responsible for collecting metrics from Java applications.
 

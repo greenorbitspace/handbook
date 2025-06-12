@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Books Es 1
+aliases:
+- /docs/free-programming-books-es_1/
+description: ''
+linkTitle: Free Programming Books Es 1
+type: docs
+---
+
 ### Index
 
 * [0 - Metalistas](#0---metalistas)

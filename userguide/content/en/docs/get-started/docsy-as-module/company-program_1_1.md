@@ -1,5 +1,12 @@
 ---
 title: GitLab Company-Wide Mentorship Program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/company-program_1_1/
+description: ''
+linkTitle: GitLab Company-Wide Mentorship Program
+type: docs
 ---
 
 Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSf5yUA-H0RSeQSA8gj3_2mcdzZJkKLCsU-be-Ygdw5KfCSVLw/viewform?usp=sf_link) to be notified of mentorship programs happening in FY24!

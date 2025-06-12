@@ -1,13 +1,13 @@
 ---
-
 title: Product Data Insights Data Models Cheat Sheet
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/data-model-cheat-sheet_1_1/
+description: ''
+linkTitle: Product Data Insights Data Models Cheat Sheet
+type: docs
 ---
-
-
-
-
-
-
 
 ## Objectives for this page
 

@@ -3,6 +3,13 @@ stage: enablement
 group: Tenant Scale
 title: 'Cells: Agent for Kubernetes'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/agent-for-kubernetes_1_1/
+description: ''
+linkTitle: 'Cells: Agent for Kubernetes'
+type: docs
 ---
 
 {{% alert %}}

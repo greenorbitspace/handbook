@@ -1,5 +1,12 @@
 ---
-title: "Code Suggestions Model Rollout Guide"
+title: Code Suggestions Model Rollout Guide
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/model_rollout_guide_1/
+description: ''
+linkTitle: Code Suggestions Model Rollout Guide
+type: docs
 ---
 
 This document serves as a guide for rolling out Code Suggestions models.

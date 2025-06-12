@@ -1,6 +1,12 @@
 ---
-title: "Workflows for working with community contributions"
+title: Workflows for working with community contributions
 description: All processes that Contributor Success work with
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/community-contributors-workflows_1_1/
+linkTitle: Workflows for working with community contributions
+type: docs
 ---
 
 ## Workflows

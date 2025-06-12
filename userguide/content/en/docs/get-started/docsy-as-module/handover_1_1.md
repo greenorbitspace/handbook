@@ -1,9 +1,13 @@
 ---
-
-title: "Handover Scenarios & Process"
-description: "Overview of the SMB AMER Handover Scenarios and Process"
+title: Handover Scenarios & Process
+description: Overview of the SMB AMER Handover Scenarios and Process
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/handover_1_1/
+linkTitle: Handover Scenarios & Process
+type: docs
 ---
-
 
 ## AMER SMB Handover Scenarios & Process
 

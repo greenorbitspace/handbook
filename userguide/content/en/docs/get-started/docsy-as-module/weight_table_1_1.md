@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Weight Table 1 1
+aliases:
+- /docs/weight_table_1_1/
+description: ''
+linkTitle: Weight Table 1 1
+type: docs
+---
+
 | Weight | Description  |
 | --- | --- |
 | 1: Trivial | The problem is very well understood, no extra investigation is required, the exact solution is already known and just needs to be implemented, no surprises are expected, and no coordination with other teams or people is required.<br><br>Examples are documentation updates, simple regressions, and other bugs that have already been investigated and discussed and can be fixed with a few lines of code, or technical debt that we know exactly how to address, but just haven't found time for yet. |

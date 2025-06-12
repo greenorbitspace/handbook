@@ -1,14 +1,14 @@
 ---
-
-title: "Social Selling"
-description: "How to use social media to build your professional brand and grow your business"
+title: Social Selling
+description: How to use social media to build your professional brand and grow your
+  business
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/social-selling_1_1/
+linkTitle: Social Selling
+type: docs
 ---
-
-
-
-
-
-
 
 ## Social Selling Basics
 

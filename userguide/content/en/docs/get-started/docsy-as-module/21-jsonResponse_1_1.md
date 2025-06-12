@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 21 Jsonresponse 1 1
+aliases:
+- /docs/21-jsonResponse_1_1/
+description: ''
+linkTitle: 21 Jsonresponse 1 1
+type: docs
+---
+
 ### json
 - responding to a request with json data
 - we can't send js object as it is as a response, we will get an error, we should convert it first to json format using <mark>JSON.stringfy()</mark> we also have to specify the content-Type as <mark>application/json</mark>

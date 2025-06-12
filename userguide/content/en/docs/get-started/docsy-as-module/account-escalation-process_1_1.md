@@ -1,7 +1,14 @@
 ---
-title: "Account Escalation Process"
-description: "The Account Escalation Process Working Group aims to improve the cross-functional collaboration when a customer is in an escalated state."
+title: Account Escalation Process
+description: The Account Escalation Process Working Group aims to improve the cross-functional
+  collaboration when a customer is in an escalated state.
 status: active
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/account-escalation-process_1_1/
+linkTitle: Account Escalation Process
+type: docs
 ---
 
 ## Attributes

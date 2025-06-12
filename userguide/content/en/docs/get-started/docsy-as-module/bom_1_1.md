@@ -1,6 +1,12 @@
 ---
-
-title: "Technical Marketing BOM Elements"
+title: Technical Marketing BOM Elements
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bom_1_1/
+description: ''
+linkTitle: Technical Marketing BOM Elements
+type: docs
 ---
 
 ### What's on this page?

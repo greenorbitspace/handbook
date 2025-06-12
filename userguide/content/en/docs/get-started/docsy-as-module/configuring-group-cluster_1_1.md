@@ -1,6 +1,12 @@
 ---
-title: "Configuring GitLab with group-level Kubernetes cluster"
+title: Configuring GitLab with group-level Kubernetes cluster
 description: “How to configure GitLab with your Google Kubernetes cluster”
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/configuring-group-cluster_1_1/
+linkTitle: Configuring GitLab with group-level Kubernetes cluster
+type: docs
 ---
 
 ## Overview

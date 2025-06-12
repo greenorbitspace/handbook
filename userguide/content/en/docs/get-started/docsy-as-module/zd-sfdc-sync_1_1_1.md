@@ -1,7 +1,13 @@
 ---
 title: ZD-SFDC Sync
 description: Operations documentation page for the Zendesk-Salesforce sync
-canonical_path: "/handbook/security/customer-support-operations/docs/zendesk/zd-sfdc-sync"
+canonical_path: /handbook/security/customer-support-operations/docs/zendesk/zd-sfdc-sync
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/zd-sfdc-sync_1_1_1/
+linkTitle: ZD-SFDC Sync
+type: docs
 ---
 
 {{% alert title="Note" color="danger" %}}

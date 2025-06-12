@@ -1,6 +1,13 @@
 ---
 title: Govern, Threat Insights
-description: "The Threat Insights group at GitLab is charged with developing solutions to enable customers to manage their security risks effectively and efficiently."
+description: The Threat Insights group at GitLab is charged with developing solutions
+  to enable customers to manage their security risks effectively and efficiently.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/threat-insights_1_1/
+linkTitle: Govern, Threat Insights
+type: docs
 ---
 
 ## Customer outcomes we are driving for at GitLab

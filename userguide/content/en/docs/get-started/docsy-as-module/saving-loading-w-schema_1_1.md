@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Saving Loading W Schema 1 1
+aliases:
+- /docs/saving-loading-w-schema_1_1/
+description: ''
+linkTitle: Saving Loading W Schema 1 1
+type: docs
+---
+
 # Saving and Loading Maps with Schema Manager
 
 ![Processor and Schema][processor-schema]

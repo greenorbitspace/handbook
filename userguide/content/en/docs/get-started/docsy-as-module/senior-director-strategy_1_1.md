@@ -1,5 +1,12 @@
 ---
-title: "Senior Director, Strategy"
+title: Senior Director, Strategy
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior-director-strategy_1_1/
+description: ''
+linkTitle: Senior Director, Strategy
+type: docs
 ---
 
 ### Senior Director, Strategy

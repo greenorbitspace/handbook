@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Books Ja 1
+aliases:
+- /docs/free-programming-books-ja_1/
+description: ''
+linkTitle: Free Programming Books Ja 1
+type: docs
+---
+
 ### Index
 
 * [0 - 言語非依存](#0---%e8%a8%80%e8%aa%9e%e9%9d%9e%e4%be%9d%e5%ad%98)

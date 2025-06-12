@@ -1,6 +1,13 @@
 ---
 title: Employment Issues
-description: "Information on the commands used to create our onboarding, offboarding, and career mobility issues."
+description: Information on the commands used to create our onboarding, offboarding,
+  and career mobility issues.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/employment-issues_1_1/
+linkTitle: Employment Issues
+type: docs
 ---
 
 ## Employment issues

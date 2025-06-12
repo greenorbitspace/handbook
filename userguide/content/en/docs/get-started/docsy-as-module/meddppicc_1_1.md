@@ -1,16 +1,14 @@
 ---
-
-title: "MEDDPPICC"
-description: "MEDDPPICC is a proven methodology used for strategic opportunity management and complex sales process orchestration for enterprise organizations"
+title: MEDDPPICC
+description: MEDDPPICC is a proven methodology used for strategic opportunity management
+  and complex sales process orchestration for enterprise organizations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/meddppicc_1_1/
+linkTitle: MEDDPPICC
+type: docs
 ---
-
-
-
-
-
-
-
-
 
 ## Overview
 

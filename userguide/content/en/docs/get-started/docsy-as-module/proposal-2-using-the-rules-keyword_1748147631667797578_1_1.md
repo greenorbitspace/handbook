@@ -1,6 +1,13 @@
 ---
 title: 'GitLab CI Events Proposal 2: Using the rules keyword'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/proposal-2-using-the-rules-keyword_1748147631667797578_1_1/
+description: ''
+linkTitle: 'GitLab CI Events Proposal 2: Using the rules keyword'
+type: docs
 ---
 
 Can we do it with our current [`rules`](https://docs.gitlab.com/ee/ci/yaml/index.html#rules) system?

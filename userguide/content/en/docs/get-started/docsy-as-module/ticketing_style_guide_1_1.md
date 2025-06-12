@@ -3,6 +3,12 @@ title: Ticketing Style Guide
 category: Handling tickets
 subcategory: Writing responses and handling feedback
 description: Guidelines on structuring ticket responses.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ticketing_style_guide_1_1/
+linkTitle: Ticketing Style Guide
+type: docs
 ---
 
 ## Why do we need a Ticketing Style Guide?

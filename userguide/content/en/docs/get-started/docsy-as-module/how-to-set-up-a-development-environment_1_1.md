@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: How To Set Up A Development Environment 1 1
+aliases:
+- /docs/how-to-set-up-a-development-environment_1_1/
+description: ''
+linkTitle: How To Set Up A Development Environment 1 1
+type: docs
+---
+
 # How to Set Up A Development Environment for Zammad
 
 To be able to start developing some fancy features or to make

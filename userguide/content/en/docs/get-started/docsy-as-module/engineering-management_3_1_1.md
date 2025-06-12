@@ -1,5 +1,12 @@
 ---
-title: "Engineering Leadership - Roles & Responsibilities"
+title: Engineering Leadership - Roles & Responsibilities
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engineering-management_3_1_1/
+description: ''
+linkTitle: Engineering Leadership - Roles & Responsibilities
+type: docs
 ---
 
 The Engineering Leadership becomes a cross-discipline management.

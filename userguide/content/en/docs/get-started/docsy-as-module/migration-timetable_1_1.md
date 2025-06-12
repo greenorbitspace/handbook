@@ -1,3 +1,13 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Migration Timetable 1 1
+aliases:
+- /docs/migration-timetable_1_1/
+description: ''
+linkTitle: Migration Timetable 1 1
+type: docs
+---
 
 ### Timetable
 

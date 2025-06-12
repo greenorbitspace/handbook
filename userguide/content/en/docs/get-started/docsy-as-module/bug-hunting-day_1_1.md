@@ -1,5 +1,12 @@
 ---
-title: "Bug Hunting Day Process"
+title: Bug Hunting Day Process
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bug-hunting-day_1_1/
+description: ''
+linkTitle: Bug Hunting Day Process
+type: docs
 ---
 
 ## Bug Hunting Day Process

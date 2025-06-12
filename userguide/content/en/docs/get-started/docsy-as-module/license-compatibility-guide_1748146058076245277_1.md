@@ -1,5 +1,14 @@
 ---
-title: "A Compatibility Guide for Corporate Contributors: Navigating Project License Requirements:"
+title: 'A Compatibility Guide for Corporate Contributors: Navigating Project License
+  Requirements:'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/license-compatibility-guide_1748146058076245277_1/
+description: ''
+linkTitle: 'A Compatibility Guide for Corporate Contributors: Navigating Project License
+  Requirements:'
+type: docs
 ---
 
 ## Understanding Contribution License Agreements at a Glance

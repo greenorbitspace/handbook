@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Eval Details 1
+aliases:
+- /docs/eval_details_1/
+description: ''
+linkTitle: Eval Details 1
+type: docs
+---
+
 ### Llama 3 Evaluation Details
 This document contains additional context on the settings and parameters for how we evaluated the Llama 3 pre-trained and instruct-aligned models.
 ### Auto-eval benchmark notes

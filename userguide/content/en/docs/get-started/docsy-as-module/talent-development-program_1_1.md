@@ -1,6 +1,13 @@
 ---
-title: "Talent Development Program"
-description: "Information on GitLab's Talent Development Program to ensure ongoing success across all teams."
+title: Talent Development Program
+description: Information on GitLab's Talent Development Program to ensure ongoing
+  success across all teams.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/talent-development-program_1_1/
+linkTitle: Talent Development Program
+type: docs
 ---
 
 ## Why a Talent Development Program is vital for GitLab

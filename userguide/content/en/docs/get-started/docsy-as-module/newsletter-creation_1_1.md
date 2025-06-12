@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Newsletter Creation 1 1
+aliases:
+- /docs/newsletter-creation_1_1/
+description: ''
+linkTitle: Newsletter Creation 1 1
+type: docs
+---
+
 # Document Purpose
 
 <!-- Unsupported block type: divider -->

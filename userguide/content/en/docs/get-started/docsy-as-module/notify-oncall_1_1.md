@@ -1,7 +1,13 @@
 ---
 title: Notify Oncall
 description: Operations documentation page for the Notify Oncall mechanism
-canonical_path: "/handbook/security/customer-support-operations/docs/slack/notify-oncall"
+canonical_path: /handbook/security/customer-support-operations/docs/slack/notify-oncall
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/notify-oncall_1_1/
+linkTitle: Notify Oncall
+type: docs
 ---
 
 <sup>*Introduced via [gitlab-com/support/support-team-meta#6109](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/6109)*</sup>

@@ -1,5 +1,12 @@
 ---
-title: "Evangelist Program"
+title: Evangelist Program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/evangelist-program_1_1/
+description: ''
+linkTitle: Evangelist Program
+type: docs
 ---
 
 ## Overview

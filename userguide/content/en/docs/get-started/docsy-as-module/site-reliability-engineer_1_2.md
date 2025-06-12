@@ -1,6 +1,13 @@
 ---
-title: "Site Reliability Engineer"
-description: "Site Reliability Engineers (SREs) are responsible for keeping all user-facing services and other GitLab production systems running smoothly."
+title: Site Reliability Engineer
+description: Site Reliability Engineers (SREs) are responsible for keeping all user-facing
+  services and other GitLab production systems running smoothly.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/site-reliability-engineer_1_2/
+linkTitle: Site Reliability Engineer
+type: docs
 ---
 
 Site Reliability Engineers (SREs) are responsible for keeping all user-facing services and other GitLab production systems running smoothly. SREs are a blend of pragmatic operators and software craftspeople that apply sound engineering principles, operational discipline, and mature automation to our operating environments and the GitLab codebase.

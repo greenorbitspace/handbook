@@ -1,6 +1,13 @@
 ---
-title: "Network Security Management Procedure"
+title: Network Security Management Procedure
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/network-security_1_1/
+description: ''
+linkTitle: Network Security Management Procedure
+type: docs
 ---
 
 ## Purpose

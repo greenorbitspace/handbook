@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Metadata File Formats 1 1
+aliases:
+- /docs/metadata-file-formats_1_1/
+description: ''
+linkTitle: Metadata File Formats 1 1
+type: docs
+---
+
 <h1>Metadata file formats</h1>
 
 Metadata can be uploaded in three different formats:

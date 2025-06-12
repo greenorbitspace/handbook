@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 2 Moremodules 1 1
+aliases:
+- /docs/2-moreModules_1_1/
+description: ''
+linkTitle: 2 Moremodules 1 1
+type: docs
+---
+
 ### Modules Scope
 - each module has it's own private scope so there is not confilct when you use the same variable name in two different modules
 - node js does that using IIFE (immediately invoked function expression), before a module's code is executed node js will wrap it with a function wrapper that provides module scope

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Non Text Content 1 1
+aliases:
+- /docs/non-text-content_1_1/
+description: ''
+linkTitle: Non Text Content 1 1
+type: docs
+---
+
 ## _Emphasis_
 
 ### **Importance**

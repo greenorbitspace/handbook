@@ -1,9 +1,13 @@
 ---
 title: Porridge Assessment
-description: >
+description: |
   A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
-date: 2017-01-05
+date: '2025-06-12T01:05:53+01:00'
 weight: 4
+aliases:
+- /docs/porridge_1/
+linkTitle: Porridge Assessment
+type: docs
 ---
 
 {{% pageinfo %}}

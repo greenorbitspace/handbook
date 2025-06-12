@@ -1,5 +1,12 @@
 ---
-title: "PCI Internal Control Review Procedures"
+title: PCI Internal Control Review Procedures
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/pci-internal-control-review_1748133858086223296_1_1/
+description: ''
+linkTitle: PCI Internal Control Review Procedures
+type: docs
 ---
 
 ## Purpose

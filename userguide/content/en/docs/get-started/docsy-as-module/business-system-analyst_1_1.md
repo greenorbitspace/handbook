@@ -1,5 +1,12 @@
 ---
-title: "IT Business Systems"
+title: IT Business Systems
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/business-system-analyst_1_1/
+description: ''
+linkTitle: IT Business Systems
+type: docs
 ---
 
 The IT Business Systems job family at GitLab is in charge of designing, delivering, and maintaining high quality business  systems solutions by applying project management methodology.

@@ -1,7 +1,13 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/workflows/project_execution/welcome-email.html
+aliases:
+- /docs/welcome-email_1_1/
 title: Welcome E-mail
 category: Project Execution
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Welcome E-mail
+type: docs
 ---
 
 This welcome e-mail will be sent by the Manager, Professional Services to introduce the customer to our Professional Services Engineering team and the concept of a GitLab implementation.

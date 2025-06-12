@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Knowledge Asset Registers 1 1
+aliases:
+- /docs/knowledge-asset-registers_1_1/
+description: ''
+linkTitle: Knowledge Asset Registers 1 1
+type: docs
+---
+
 # 1. Knowledge Asset Inventory
 
 A comprehensive catalogue of Green Orbit Digital's knowledge assets, including:

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Accounting And Reporting 1 1
+aliases:
+- /docs/accounting-and-reporting_1_1/
+description: ''
+linkTitle: Accounting And Reporting 1 1
+type: docs
+---
+
 This page contains GitLab’s accounting and reporting policies, which can be made public. Please find our internal processes in the Accounting and Reporting internal handbook section.
 
 ## Quote to cash

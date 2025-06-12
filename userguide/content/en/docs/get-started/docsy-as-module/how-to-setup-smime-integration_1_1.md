@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: How To Setup Smime Integration 1 1
+aliases:
+- /docs/how-to-setup-smime-integration_1_1/
+description: ''
+linkTitle: How To Setup Smime Integration 1 1
+type: docs
+---
+
 # How to Setup S/MIME Integration
 
 For development purposes, it's possible to set up S/MIME integration for a local Zammad instance. However, since the

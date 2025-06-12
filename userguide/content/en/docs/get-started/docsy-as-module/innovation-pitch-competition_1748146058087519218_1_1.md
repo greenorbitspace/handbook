@@ -1,6 +1,12 @@
 ---
 title: Innovation Pitch Competion
 description: Information and guidelines about the Innovation Pitch Competition
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/innovation-pitch-competition_1748146058087519218_1_1/
+linkTitle: Innovation Pitch Competion
+type: docs
 ---
 
 ---

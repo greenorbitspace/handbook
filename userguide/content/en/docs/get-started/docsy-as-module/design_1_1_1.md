@@ -1,10 +1,16 @@
 ---
-title: "Remote Guide for Design Teams"
+title: Remote Guide for Design Teams
 description: Remote Guide for Design Teams
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/design_1_1_1/
+linkTitle: Remote Guide for Design Teams
+type: docs
 ---
 
 ![GitLab collaboration](/images/all-remote/gitlab-collaboration-illustration.jpg)

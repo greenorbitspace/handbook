@@ -1,6 +1,13 @@
 ---
-title: "Dark Mode Rollout Playbook"
-description: "A step-by-step plan for product teams to directly support the rollout and implementation of dark mode in their areas of responsibility."
+title: Dark Mode Rollout Playbook
+description: A step-by-step plan for product teams to directly support the rollout
+  and implementation of dark mode in their areas of responsibility.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dark-mode-rollout-playbook_1748146058152013696_1/
+linkTitle: Dark Mode Rollout Playbook
+type: docs
 ---
 
 This playbook is a step-by-step plan for product teams to directly support the rollout and implementation of dark mode in their areas of responsibility. While dark mode has been integrated into the design system, there are potential gaps and custom implementations that need to be reviewed before we can transition dark mode from Experimental (alpha) to Beta status.

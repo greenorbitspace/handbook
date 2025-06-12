@@ -1,9 +1,15 @@
 ---
-title: "TeamOps Growth"
+title: TeamOps Growth
 description: How to become a TeamOps expert
-canonical_path: "/handbook/teamops/growth/"
+canonical_path: /handbook/teamops/growth/
 images:
-    - /images/opengraph/all-remote.jpg
+- /images/opengraph/all-remote.jpg
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/growth_1_1/
+linkTitle: TeamOps Growth
+type: docs
 ---
 
 The future of work is about human empowerment. So, as a company, we at GitLab support both strategies of work-life balance and employee experience through our **virtual-first operational model: TeamOps**. This method of organizational behavior enables professionals to enjoy the schedule and location flexibility that comes along with handbook-first, asynchronous-first, autonomy-first, and results-first ways of working, and also activates an attractive work environment in workflows and processes, including:

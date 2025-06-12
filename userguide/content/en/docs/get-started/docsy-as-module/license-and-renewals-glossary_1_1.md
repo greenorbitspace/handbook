@@ -1,6 +1,12 @@
 ---
 title: Licensing & Renewals Glossary of Terms
 description: A list of terms used in the Licensing and Renewals workflow
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/license-and-renewals-glossary_1_1/
+linkTitle: Licensing & Renewals Glossary of Terms
+type: docs
 ---
 
 ## Common Terminology

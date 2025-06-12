@@ -1,6 +1,13 @@
 ---
-title: "SRE Internship"
+title: SRE Internship
 controlled_document: false
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/lessons-from-the-trenches-ved-prakash_1/
+description: ''
+linkTitle: SRE Internship
+type: docs
 ---
 
 ## Lessons from the Trenches: Insights from an SRE Internship

@@ -1,8 +1,13 @@
 ---
-title: "Security Incident Communications Plan"
-description: " "
+title: Security Incident Communications Plan
+description: ' '
 weight: 40
 controlled_document: true
+date: '2025-06-12'
+aliases:
+- /docs/security-incident-communication-plan_1_1_1/
+linkTitle: Security Incident Communications Plan
+type: docs
 ---
 
 ## Purpose

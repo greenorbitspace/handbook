@@ -1,6 +1,12 @@
 ---
-
 title: Test Platform in Cells
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cells_test_strategy_1_1/
+description: ''
+linkTitle: Test Platform in Cells
+type: docs
 ---
 
 Cells is a project that spans the entirety of GitLab. Instead of recreating feature testing done by the other teams, we will reuse and leverage what exists currently and supplement to fill in gaps.

@@ -1,5 +1,14 @@
 ---
-title: "Workspaces ADR 015: Allow mapping of GitLab Agent for Kubernetes(agentk) to GitLab Cluster"
+title: 'Workspaces ADR 015: Allow mapping of GitLab Agent for Kubernetes(agentk) to
+  GitLab Cluster'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/015_allow_mapping_of_agentk_to_gitlab_cluster_1/
+description: ''
+linkTitle: 'Workspaces ADR 015: Allow mapping of GitLab Agent for Kubernetes(agentk)
+  to GitLab Cluster'
+type: docs
 ---
 
 ## Context

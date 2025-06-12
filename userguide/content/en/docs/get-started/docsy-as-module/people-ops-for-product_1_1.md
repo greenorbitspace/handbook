@@ -1,7 +1,13 @@
 ---
-
 title: People Group for Product Management
---- 
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/people-ops-for-product_1_1/
+description: ''
+linkTitle: People Group for Product Management
+type: docs
+---
 
 ## Product-Specific "People" Processes
 

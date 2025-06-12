@@ -1,3 +1,13 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Emulation 1 1
+aliases:
+- /docs/emulation_1_1/
+description: ''
+linkTitle: Emulation 1 1
+type: docs
+---
 
 # Emulation in Lighthouse
 

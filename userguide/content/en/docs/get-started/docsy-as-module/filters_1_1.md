@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Filters 1 1
+aliases:
+- /docs/filters_1_1/
+description: ''
+linkTitle: Filters 1 1
+type: docs
+---
+
 # Filters
 
 To help users easily find their content you can suggest context aware filters like we have in Raindrop.io app

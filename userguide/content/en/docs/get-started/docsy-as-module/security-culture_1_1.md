@@ -1,5 +1,12 @@
 ---
-title: "Security Culture Committee"
+title: Security Culture Committee
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/security-culture_1_1/
+description: ''
+linkTitle: Security Culture Committee
+type: docs
 ---
 
 ## Mission Statement

@@ -1,7 +1,15 @@
 ---
-title: "Career Development at GitLab & RSOE"
-description: "This page provides guidance and resources for the RSOE team related to Growth & Development"
+title: Career Development at GitLab & RSOE
+description: This page provides guidance and resources for the RSOE team related to
+  Growth & Development
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/rsoe-gd_1_1/
+linkTitle: Career Development at GitLab & RSOE
+type: docs
 ---
+
 ## Career Development at GitLab & RSOE
 
 Career development is the non-linear, lifelong growth process integrating learning, work, leisure, and change. It happens in all directions, including subject matter expertise, lateral growth to new teams, and linear growth through a job family.

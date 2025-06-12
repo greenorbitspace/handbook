@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Supply Chain Security Policy 1 1
+aliases:
+- /docs/supply-chain-security-policy_1_1/
+description: ''
+linkTitle: Supply Chain Security Policy 1 1
+type: docs
+---
+
 # Supply Chain Security Policy
 
 This policy establishes requirements and procedures for securing Green Orbit Digital's supply chain operations and protecting against potential threats and vulnerabilities.

@@ -1,5 +1,12 @@
 ---
-title: "SEC & SOX Reporting or Corporate Controller"
+title: SEC & SOX Reporting or Corporate Controller
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sec-and-external-reporting_1_1/
+description: ''
+linkTitle: SEC & SOX Reporting or Corporate Controller
+type: docs
 ---
 
 ## Levels

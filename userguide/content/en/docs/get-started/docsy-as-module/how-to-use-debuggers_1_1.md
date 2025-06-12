@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: How To Use Debuggers 1 1
+aliases:
+- /docs/how-to-use-debuggers_1_1/
+description: ''
+linkTitle: How To Use Debuggers 1 1
+type: docs
+---
+
 # How to Use Debuggers With Zammad
 
 There is not much explanation needed on how to code. But there always comes the time where you get stuck. We made

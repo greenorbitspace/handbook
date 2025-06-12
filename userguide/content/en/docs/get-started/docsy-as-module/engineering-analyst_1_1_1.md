@@ -1,5 +1,12 @@
 ---
-title: "Engineering Analyst"
+title: Engineering Analyst
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engineering-analyst_1_1_1/
+description: ''
+linkTitle: Engineering Analyst
+type: docs
 ---
 
 Engineering Analysts at GitLab build and improve on the data capabilities needed to support a highly productive Engineering Division.

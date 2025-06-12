@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Campaign Brief 1 1
+aliases:
+- /docs/campaign-brief_1_1/
+description: ''
+linkTitle: Campaign Brief 1 1
+type: docs
+---
+
 <!-- Unsupported block type: callout -->
 
 

@@ -1,6 +1,13 @@
 ---
-title: "CI Workshop"
-Description: "Guidance for CSMs on leading continuous integration deep-dive workshops"
+title: CI Workshop
+Description: Guidance for CSMs on leading continuous integration deep-dive workshops
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ci-workshop_1_1/
+description: ''
+linkTitle: CI Workshop
+type: docs
 ---
 
 - [CI Workshop Overview](#ci-workshop-overview)

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: It Asset Management 1 1
+aliases:
+- /docs/it-asset-management_1_1/
+description: ''
+linkTitle: It Asset Management 1 1
+type: docs
+---
+
 Green Orbit Digital IT Asset Management Policy
 
 1. Introduction

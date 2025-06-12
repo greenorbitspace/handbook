@@ -1,8 +1,14 @@
 ---
-
-title: "Bartek Marnane's README"
-description: "Personal readme page for Bartek Marnane, VP Expansion Software Development, GitLab"
-job: "VP Expansion Software Development"
+title: Bartek Marnane's README
+description: Personal readme page for Bartek Marnane, VP Expansion Software Development,
+  GitLab
+job: VP Expansion Software Development
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/bartek-marnane_1_1/
+linkTitle: Bartek Marnane's README
+type: docs
 ---
 
 Hi 👋

@@ -1,11 +1,20 @@
 ---
-title: "Modular Monolith: PoCs"
+title: 'Modular Monolith: PoCs'
 status: proposed
-creation-date: "2023-07-05"
-authors: [ "@grzesiek", "@fabiopitino" ]
-coach: [ ]
-owners: [ ]
+creation-date: '2023-07-05'
+authors:
+- '@grzesiek'
+- '@fabiopitino'
+coach: []
+owners: []
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/proof_of_concepts_1_1/
+description: ''
+linkTitle: 'Modular Monolith: PoCs'
+type: docs
 ---
 
 Modularization of our monolith is a complex project. There will be many

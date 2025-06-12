@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Bug Labels 1 1
+aliases:
+- /docs/bug-labels_1_1/
+description: ''
+linkTitle: Bug Labels 1 1
+type: docs
+---
+
 Given the new onslaught of issues that folks in the community are filing, we thought it might be good to explain some of our 
 bug labeling and triaging practices to the community. 
 

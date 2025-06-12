@@ -1,6 +1,13 @@
 ---
-title: "GitLab Advanced CI/CD - Hands-On Lab: GitLab Runners Deep Dive"
-description: "This Hands-On Guide walks you through creating and maintaining a Docker runner"
+title: 'GitLab Advanced CI/CD - Hands-On Lab: GitLab Runners Deep Dive'
+description: This Hands-On Guide walks you through creating and maintaining a Docker
+  runner
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/advgitlabcicdhandsonlab1_1_1/
+linkTitle: 'GitLab Advanced CI/CD - Hands-On Lab: GitLab Runners Deep Dive'
+type: docs
 ---
 
 Runner scalers rely on a consistent runner image to be able to spin up runner machines on demand. The first step to creating this image is understanding how the underlying runner functions. In this lab, you will learn how to create a Docker based runner. This runner will be able to serve as a basis for a Docker autoscaler.

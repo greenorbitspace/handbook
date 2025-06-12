@@ -2,6 +2,12 @@
 title: Printing ticket thread without internal notes
 category: Zendesk
 description: How to print a ticket thread without the internal notes.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/printing_ticket_thread_without_internal_notes_1748133860902123847_1_1/
+linkTitle: Printing ticket thread without internal notes
+type: docs
 ---
 
 ## Printing a clean ticket thread

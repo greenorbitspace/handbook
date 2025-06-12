@@ -2,6 +2,12 @@
 title: Unbabel Translation in Zendesk
 category: Zendesk
 description: Implementation and use of Unbabel in Support's ZenDesk.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/unbabel_translation_in_zendesk_1748133861172783713_1_1/
+linkTitle: Unbabel Translation in Zendesk
+type: docs
 ---
 
 ### Overview

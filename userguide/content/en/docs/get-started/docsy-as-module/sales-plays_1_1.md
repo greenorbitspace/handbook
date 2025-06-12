@@ -1,9 +1,13 @@
 ---
-
 title: Solutions Architect Sales Plays
 description: “Discover GitLab Solutions Architects’ Sales Plays practices”
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sales-plays_1_1/
+linkTitle: Solutions Architect Sales Plays
+type: docs
 ---
-
 
 ## Sales Plays for new account & teams(existing customer) lands
 

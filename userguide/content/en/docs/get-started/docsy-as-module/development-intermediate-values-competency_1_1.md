@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Development Intermediate Values Competency 1 1
+aliases:
+- /docs/development-intermediate-values-competency_1_1/
+description: ''
+linkTitle: Development Intermediate Values Competency 1 1
+type: docs
+---
+
 ##### Development
 
 * Independently brings in expertise from other contributors to raise the standard of their work.

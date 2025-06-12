@@ -1,5 +1,12 @@
 ---
 title: Billing Operations GPO Global Process Owner
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/billing-gpo_1_1/
+description: ''
+linkTitle: Billing Operations GPO Global Process Owner
+type: docs
 ---
 
 ## Billing Operations Global Process Owner (GPO)

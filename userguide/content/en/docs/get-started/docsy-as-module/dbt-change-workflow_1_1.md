@@ -1,16 +1,13 @@
 ---
-
-title: "dbt Change Workflow"
-description: "GitLab Data dbt Change Workflow"
+title: dbt Change Workflow
+description: GitLab Data dbt Change Workflow
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dbt-change-workflow_1_1/
+linkTitle: dbt Change Workflow
+type: docs
 ---
-
-
-
-
-
-
-
-
 
 ---
 

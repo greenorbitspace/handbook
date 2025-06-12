@@ -1,6 +1,12 @@
 ---
 title: Becoming and Being an ASE
 description: Information about the ASE role for new and potential ASEs
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/becoming-and-being-an-ase_1_1/
+linkTitle: Becoming and Being an ASE
+type: docs
 ---
 
 ## Becoming and Being an ASE

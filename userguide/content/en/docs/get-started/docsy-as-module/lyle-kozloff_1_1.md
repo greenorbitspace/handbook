@@ -1,9 +1,16 @@
 ---
-
-title: "Lyle Kozloff's README"
-description: "Personal readme page for Lyle Kozloff, Director, Support Engineering, Global Readiness, GitLab"
-job: "Director of Support, Global Readiness"
+title: Lyle Kozloff's README
+description: Personal readme page for Lyle Kozloff, Director, Support Engineering,
+  Global Readiness, GitLab
+job: Director of Support, Global Readiness
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/lyle-kozloff_1_1/
+linkTitle: Lyle Kozloff's README
+type: docs
 ---
+
 ### My Job
 
 My job is to clear obstacles, set context, and build process. In general: to make your (work)

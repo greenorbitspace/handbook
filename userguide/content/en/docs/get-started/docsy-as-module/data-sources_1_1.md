@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Data Sources 1 1
+aliases:
+- /docs/data-sources_1_1/
+description: ''
+linkTitle: Data Sources 1 1
+type: docs
+---
+
 <h1>Data sources</h1>
 
 Out of the box, the [data starter](https://github.com/open-sdg/open-sdg-data-starter) includes the data and metadata as [CSV](data-format.md) and [YAML](metadata-format.md) files, respectively.

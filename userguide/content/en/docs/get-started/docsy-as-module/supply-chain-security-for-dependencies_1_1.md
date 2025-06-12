@@ -1,5 +1,12 @@
 ---
 title: Supply Chain Security for Open Source Dependencies and Libraries
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/supply-chain-security-for-dependencies_1_1/
+description: ''
+linkTitle: Supply Chain Security for Open Source Dependencies and Libraries
+type: docs
 ---
 
 ## Overview

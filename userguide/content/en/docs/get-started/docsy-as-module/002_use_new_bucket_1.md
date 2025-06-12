@@ -1,7 +1,14 @@
 ---
-owning-stage: "~devops::secure"
+owning-stage: ~devops::secure
 title: 'EPSS Support ADR 002: Use a new bucket for EPSS data'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/002_use_new_bucket_1/
+description: ''
+linkTitle: 'EPSS Support ADR 002: Use a new bucket for EPSS data'
+type: docs
 ---
 
 ## Context

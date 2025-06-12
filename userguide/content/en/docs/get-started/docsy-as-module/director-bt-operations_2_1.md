@@ -1,5 +1,12 @@
 ---
 title: Director, Business Technology Operations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/director-bt-operations_2_1/
+description: ''
+linkTitle: Director, Business Technology Operations
+type: docs
 ---
 
 The Director, Business Technology Operations Job Family leads a team of a highly-collaborative and results-oriented team members tasked with delivering global business technology services across the company. The Director, Business Technology Operations is in charge of scaling, increasing performance, and providing great team member experience in order to help drive forward business success based on world class service delivery & operations.

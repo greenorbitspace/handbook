@@ -1,5 +1,12 @@
 ---
-title: "OneTrust Cookie Consent Implementation"
+title: OneTrust Cookie Consent Implementation
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/onetrust-cookie-consent_1_1/
+description: ''
+linkTitle: OneTrust Cookie Consent Implementation
+type: docs
 ---
 
 ## Why OneTrust?

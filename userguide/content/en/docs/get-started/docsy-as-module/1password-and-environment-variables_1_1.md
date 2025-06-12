@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 1Password And Environment Variables 1 1
+aliases:
+- /docs/1password-and-environment-variables_1_1/
+description: ''
+linkTitle: 1Password And Environment Variables 1 1
+type: docs
+---
+
 <!-- Unsupported block type: image -->
 
 Secure secrets handling for local development

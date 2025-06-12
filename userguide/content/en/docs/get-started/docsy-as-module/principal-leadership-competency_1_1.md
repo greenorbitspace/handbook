@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Principal Leadership Competency 1 1
+aliases:
+- /docs/principal-leadership-competency_1_1/
+description: ''
+linkTitle: Principal Leadership Competency 1 1
+type: docs
+---
+
 ##### Engineering
 
 A principal engineer generally operates at an organizational (sub-department or stage, for example) level scope, serving as their organization's technical lead and connecting their organization to other parts of GitLab.

@@ -1,3 +1,16 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Quick Start Guide To Business Continuity And Data Recovery  Business Of Technology  Comptia
+  1 1
+aliases:
+- /docs/quick-start-guide-to-business-continuity-and-data-recovery--business-of-technology--comptia_1_1/
+description: ''
+linkTitle: Quick Start Guide To Business Continuity And Data Recovery  Business Of
+  Technology  Comptia 1 1
+type: docs
+---
+
 <!-- Unsupported block type: image -->
 
 As IT evolves, more businesses are trusting third parties with valuable data. This guide outlines business continuity and data recovery for solution providers.

@@ -1,5 +1,12 @@
 ---
-description: 'Page 2 description'
+description: Page 2 description
+weight: 2
+date: '2025-06-12'
+title: Page 2 1 1
+aliases:
+- /docs/page-2_1_1/
+linkTitle: Page 2 1 1
+type: docs
 ---
 
 # Page 2

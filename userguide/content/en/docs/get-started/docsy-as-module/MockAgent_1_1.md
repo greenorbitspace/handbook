@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Mockagent 1 1
+aliases:
+- /docs/MockAgent_1_1/
+description: ''
+linkTitle: Mockagent 1 1
+type: docs
+---
+
 # Class: MockAgent
 
 Extends: `undici.Dispatcher`

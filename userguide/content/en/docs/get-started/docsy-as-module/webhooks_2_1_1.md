@@ -1,7 +1,13 @@
 ---
 title: Webhooks
 description: Support Operations documentation page for Zendesk webhooks
-canonical_path: "/handbook/support/readiness/operations/docs/zendesk/webhooks"
+canonical_path: /handbook/support/readiness/operations/docs/zendesk/webhooks
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/webhooks_2_1_1/
+linkTitle: Webhooks
+type: docs
 ---
 
 ## What are Zendesk webhooks

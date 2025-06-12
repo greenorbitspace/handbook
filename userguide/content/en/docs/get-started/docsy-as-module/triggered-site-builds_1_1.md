@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Triggered Site Builds 1 1
+aliases:
+- /docs/triggered-site-builds_1_1/
+description: ''
+linkTitle: Triggered Site Builds 1 1
+type: docs
+---
+
 <h1>Triggered site builds</h1>
 
 When the site repository is separate from the data repository, making a change to the data will *not* cause those changes to appear on the site. This is because the change to the data only triggers a data rebuild, but the site will not change until it is rebuilt. Out of the box, the only way to rebuild the site is to change a file in the site repository.

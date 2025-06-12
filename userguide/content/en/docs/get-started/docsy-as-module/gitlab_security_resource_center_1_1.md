@@ -1,6 +1,13 @@
 ---
-title: "GitLab Security Resource Center"
-description: "Provides an aggregated listing of popular and important links and information for GitLab's customers and prospects."
+title: GitLab Security Resource Center
+description: Provides an aggregated listing of popular and important links and information
+  for GitLab's customers and prospects.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab_security_resource_center_1_1/
+linkTitle: GitLab Security Resource Center
+type: docs
 ---
 
 ## Commonly requested resources

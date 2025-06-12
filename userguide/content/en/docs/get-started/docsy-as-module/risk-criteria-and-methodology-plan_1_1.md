@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Risk Criteria And Methodology Plan 1 1
+aliases:
+- /docs/risk-criteria-and-methodology-plan_1_1/
+description: ''
+linkTitle: Risk Criteria And Methodology Plan 1 1
+type: docs
+---
+
 # 1. Purpose and Scope
 
 This document outlines Green Orbit Digital's risk criteria and methodology for identifying, assessing, treating, and monitoring risks across the organization in alignment with ISO 31000.

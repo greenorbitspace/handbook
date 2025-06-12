@@ -1,6 +1,13 @@
 ---
-title: "ClickHouse Self-Managed component costs and maintenance requirements"
+title: ClickHouse Self-Managed component costs and maintenance requirements
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/self_managed_costs_and_requirements_1748133868672292497_1_1/
+description: ''
+linkTitle: ClickHouse Self-Managed component costs and maintenance requirements
+type: docs
 ---
 
 ## Summary

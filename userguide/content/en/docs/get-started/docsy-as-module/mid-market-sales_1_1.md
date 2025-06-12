@@ -1,12 +1,14 @@
 ---
-
-title: "Commercial Sales Manager Operating Rhythm"
-description: "Successful management includes onboarding, reviewing Command Plans, opportunity coaching, strategic coaching, career development and performance management"
+title: Commercial Sales Manager Operating Rhythm
+description: Successful management includes onboarding, reviewing Command Plans, opportunity
+  coaching, strategic coaching, career development and performance management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/mid-market-sales_1_1/
+linkTitle: Commercial Sales Manager Operating Rhythm
+type: docs
 ---
-
-
-
-
 
 ## Overview
 

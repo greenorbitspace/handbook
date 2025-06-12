@@ -1,6 +1,13 @@
 ---
-title: "Account Manager, Mid-market"
-RoleName: "Account Manager, Mid-Market"
+title: Account Manager, Mid-market
+RoleName: Account Manager, Mid-Market
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/account-manager_1_1_1/
+description: ''
+linkTitle: Account Manager, Mid-market
+type: docs
 ---
 
 ## Responsibilities

@@ -1,13 +1,13 @@
 ---
-
-title: "Digital Marketing changes of note"
+title: Digital Marketing changes of note
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/changes-of-note_1_1/
+description: ''
+linkTitle: Digital Marketing changes of note
+type: docs
 ---
-
-
-
-
-
-
 
 ## What is a change of note?
 

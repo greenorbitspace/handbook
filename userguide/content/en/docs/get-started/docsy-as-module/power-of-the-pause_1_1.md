@@ -1,5 +1,12 @@
 ---
-title: "Power of the Pause"
+title: Power of the Pause
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/power-of-the-pause_1_1/
+description: ''
+linkTitle: Power of the Pause
+type: docs
 ---
 
 ## Power of the Pause

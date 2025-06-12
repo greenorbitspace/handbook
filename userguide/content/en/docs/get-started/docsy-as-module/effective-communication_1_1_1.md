@@ -1,10 +1,16 @@
 ---
-title: "Communicating effectively and responsibly through text"
+title: Communicating effectively and responsibly through text
 description: How to communicate effectively and responsibly through text
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/effective-communication_1_1_1/
+linkTitle: Communicating effectively and responsibly through text
+type: docs
 ---
 
 As an all-remote company that defaults to [asynchronous communication](management/#asynchronous), GitLab relies heavily on textual communication. This can feel unusual or even uncomfortable for those who come from a colocated environment, where in-person meetings and vocalized communiques are the norm. Embracing text communication and learning to use it effectively requires a mental shift. Mastering this should be seen as a long-term project, though there are tips to breaking down barriers and experiencing benefits.

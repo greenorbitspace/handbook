@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Free Programming Books Ua 1
+aliases:
+- /docs/free-programming-books-ua_1/
+description: ''
+linkTitle: Free Programming Books Ua 1
+type: docs
+---
+
 ### Index
 
 * [Haskell](#haskell)

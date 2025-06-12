@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Parsing 1 1
+aliases:
+- /docs/parsing_1_1/
+description: ''
+linkTitle: Parsing 1 1
+type: docs
+---
+
 # Parsing
 
 Luxon is not an NLP tool and isn't suitable for all date parsing jobs. But it can do some parsing:

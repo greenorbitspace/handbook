@@ -1,5 +1,12 @@
 ---
-title: "People Communications & Engagement"
+title: People Communications & Engagement
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/people-communications-engagement_1_1/
+description: ''
+linkTitle: People Communications & Engagement
+type: docs
 ---
 
 ## Levels

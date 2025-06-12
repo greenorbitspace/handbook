@@ -1,6 +1,13 @@
 ---
 title: Directly Responsible Individuals (DRI)
-description: "Directly Responsible Individuals (DRIs) at GitLab own particular projects, initiatives, or activity."
+description: Directly Responsible Individuals (DRIs) at GitLab own particular projects,
+  initiatives, or activity.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/directly-responsible-individuals_1_1_1/
+linkTitle: Directly Responsible Individuals (DRI)
+type: docs
 ---
 
 ## What is a directly responsible individual?

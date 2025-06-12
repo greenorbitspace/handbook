@@ -1,5 +1,12 @@
 ---
-title: "GitLab Testing Agreement v2"
+title: GitLab Testing Agreement v2
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/testing-agreement-v2_1_1/
+description: ''
+linkTitle: GitLab Testing Agreement v2
+type: docs
 ---
 
 ## GitLab Testing Agreement

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Remote And Agile Working 1 1
+aliases:
+- /docs/remote-and-agile-working_1_1/
+description: ''
+linkTitle: Remote And Agile Working 1 1
+type: docs
+---
+
 # Remote and Agile Working Policy
 
 ## 1. Purpose and Scope

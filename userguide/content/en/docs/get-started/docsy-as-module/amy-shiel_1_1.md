@@ -1,8 +1,13 @@
 ---
-
-title: "Amy Shiel README"
-description: "Personal readme page for Amy Shiel, Engineering Manager, GitLab"
-job: "Engineering Manager"
+title: Amy Shiel README
+description: Personal readme page for Amy Shiel, Engineering Manager, GitLab
+job: Engineering Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/amy-shiel_1_1/
+linkTitle: Amy Shiel README
+type: docs
 ---
 
 ## Why create a README?

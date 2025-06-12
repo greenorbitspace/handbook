@@ -1,5 +1,12 @@
 ---
-title: "Public Sector Inside Sales"
+title: Public Sector Inside Sales
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/public-sector-inside-sales_1_1_1/
+description: ''
+linkTitle: Public Sector Inside Sales
+type: docs
 ---
 
 ## Levels

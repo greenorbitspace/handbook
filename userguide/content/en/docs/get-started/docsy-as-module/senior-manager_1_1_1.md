@@ -2,6 +2,13 @@
 title: Senior Engineering Manager
 extra_js:
 - libs/mermaid.min.js
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/senior-manager_1_1_1/
+description: ''
+linkTitle: Senior Engineering Manager
+type: docs
 ---
 
 Engineering Managers at GitLab see their team as their product.

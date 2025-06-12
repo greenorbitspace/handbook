@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Cli Examples 1 1
+aliases:
+- /docs/cli-examples_1_1/
+description: ''
+linkTitle: Cli Examples 1 1
+type: docs
+---
+
 # CLI Examples
 
 All examples use this example [input file](https://github.com/zemirco/json2csv/blob/master/test/fixtures/json/default.json).

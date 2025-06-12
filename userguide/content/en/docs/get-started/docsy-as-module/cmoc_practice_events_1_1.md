@@ -1,11 +1,15 @@
 ---
-
 title: CMOC Practice Events
 category: On-call
-description: "Provides overview of Support Engineering CMOC quarterly practice events and how to run them"
+description: Provides overview of Support Engineering CMOC quarterly practice events
+  and how to run them
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/cmoc_practice_events_1_1/
+linkTitle: CMOC Practice Events
+type: docs
 ---
-
-
 
 ## CMOC Practice Events
 

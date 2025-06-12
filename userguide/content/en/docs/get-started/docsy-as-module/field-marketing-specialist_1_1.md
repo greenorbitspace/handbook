@@ -1,6 +1,13 @@
 ---
 title: Field Marketing Specialist
-summary: " "
+summary: ' '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/field-marketing-specialist_1_1/
+description: ''
+linkTitle: Field Marketing Specialist
+type: docs
 ---
 
 ## Overview

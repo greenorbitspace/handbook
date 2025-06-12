@@ -1,5 +1,12 @@
 ---
 title: Field Marketing and Events
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/field-marketing-events_1_1/
+description: ''
+linkTitle: Field Marketing and Events
+type: docs
 ---
 
 ## Important to Know

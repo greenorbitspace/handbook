@@ -1,6 +1,12 @@
 ---
-title: "GitLab Inc. Philanthropy Policy"
-description: "View GitLab's Philanthropy Policy"
+title: GitLab Inc. Philanthropy Policy
+description: View GitLab's Philanthropy Policy
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/philanthropy-policy_1_1/
+linkTitle: GitLab Inc. Philanthropy Policy
+type: docs
 ---
 
 ## GitLab Inc. Philanthropy Policy

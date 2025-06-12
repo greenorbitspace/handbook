@@ -1,7 +1,13 @@
 ---
 title: RM Onboarding
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/rm-onboarding_1_1/
+description: ''
+linkTitle: RM Onboarding
+type: docs
 ---
-
 
 ![Global Renewals Organization](/images/customer-success/renewals-managers/GitLab_GR_BLK.gif)
 

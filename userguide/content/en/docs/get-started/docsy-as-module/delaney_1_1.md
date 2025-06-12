@@ -1,13 +1,13 @@
 ---
-
-title: "Delaney Persona snippets"
+title: Delaney Persona snippets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/delaney_1_1/
+description: ''
+linkTitle: Delaney Persona snippets
+type: docs
 ---
-
-
-
-
-
-
 
 ## SDR persona snippets by use case
 

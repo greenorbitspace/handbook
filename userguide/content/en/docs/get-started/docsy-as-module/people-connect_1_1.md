@@ -1,5 +1,12 @@
 ---
-title: "People Connect"
+title: People Connect
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/people-connect_1_1/
+description: ''
+linkTitle: People Connect
+type: docs
 ---
 
 The People Connect Team plays a critical role in influencing and supporting the people strategy within the GitLab - collaboratively working to develop, optimize and implement people processes and programs while overseeing the day-to-day responsibilities associated with people operations.

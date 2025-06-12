@@ -1,9 +1,13 @@
 ---
-
 title: Performance Management for Support Managers
-description: "Some support specific tips on performance management"
+description: Some support specific tips on performance management
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/performance-management_1_1/
+linkTitle: Performance Management for Support Managers
+type: docs
 ---
-
 
 ### What is this page?
 

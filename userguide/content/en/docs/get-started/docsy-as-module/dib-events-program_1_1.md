@@ -1,6 +1,13 @@
 ---
-title: "Program of Events"
-description: "This page will provide a calendar of upcoming events & program release for Diversity, Inclusion & Belonging."
+title: Program of Events
+description: This page will provide a calendar of upcoming events & program release
+  for Diversity, Inclusion & Belonging.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dib-events-program_1_1/
+linkTitle: Program of Events
+type: docs
 ---
 
 This page will provide a calendar of upcoming events & program release for Diversity, Inclusion & Belonging.

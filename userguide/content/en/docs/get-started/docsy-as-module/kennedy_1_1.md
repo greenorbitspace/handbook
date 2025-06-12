@@ -1,13 +1,13 @@
 ---
-
-title: "Kennedy Persona snippets"
+title: Kennedy Persona snippets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/kennedy_1_1/
+description: ''
+linkTitle: Kennedy Persona snippets
+type: docs
 ---
-
-
-
-
-
-
 
 ## Use case specific persona snippets
 

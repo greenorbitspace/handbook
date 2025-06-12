@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Communications Security Policy 1 1
+aliases:
+- /docs/communications-security-policy_1_1/
+description: ''
+linkTitle: Communications Security Policy 1 1
+type: docs
+---
+
 # 1. Purpose
 
 This Communications Security Policy establishes guidelines for secure communications at Green Orbit Digital, ensuring the confidentiality, integrity, and availability of information exchanged through various communication channels.

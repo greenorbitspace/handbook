@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Index 1 2
+aliases:
+- /docs/index_1_2/
+description: ''
+linkTitle: Index 1 2
+type: docs
+---
+
 # socks examples
 
 ## TypeScript Examples

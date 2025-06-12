@@ -1,5 +1,12 @@
 ---
 title: Director, Enterprise Applications (Lead to Cash)
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/director-enterprise-applications-qtc_1_1/
+description: ''
+linkTitle: Director, Enterprise Applications (Lead to Cash)
+type: docs
 ---
 
 ## Overview of the role

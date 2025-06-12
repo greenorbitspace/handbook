@@ -1,7 +1,12 @@
 ---
-aliases: /handbook/engineering/infrastructure/team/scalability/observability/capacity_planning.html
-
-title: "Capacity Planning"
+aliases:
+- /docs/capacity_planning_1_1/
+title: Capacity Planning
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Capacity Planning
+type: docs
 ---
 
 We maintain and improve the Capacity Planning process that is described [in the Infrastructure Handbook](/handbook/engineering/infrastructure/capacity-planning/). This is a controlled activity covered by SOC 2. Please see [this issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/sec-compliance/observation-management/-/issues/604) for further details

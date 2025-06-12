@@ -1,6 +1,15 @@
 ---
-title: "VP of Business Development and Strategy"
-summary: "Be responsible for strategic business development and our strategy from an outside perspective. This perspective is based on our customers, partners, and the market."
+title: VP of Business Development and Strategy
+summary: Be responsible for strategic business development and our strategy from an
+  outside perspective. This perspective is based on our customers, partners, and the
+  market.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vp-of-business-development-and-strategy_1_1/
+description: ''
+linkTitle: VP of Business Development and Strategy
+type: docs
 ---
 
 {{% alert title="Draft" color="danger" %}}

@@ -1,6 +1,12 @@
 ---
-title: "Identity Platform CI/CD Manifest Pipeline"
-description: ""
+title: Identity Platform CI/CD Manifest Pipeline
+description: ''
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_29_1_1/
+linkTitle: Identity Platform CI/CD Manifest Pipeline
+type: docs
 ---
 
 {{% alert title="Not Live Yet" color="warning" %}}

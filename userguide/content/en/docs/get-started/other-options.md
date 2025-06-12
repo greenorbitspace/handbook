@@ -1,9 +1,13 @@
 ---
 title: Other setup options
 description: Create a new Docsy site with Docsy using Git or NPM
-date: 2021-12-08T09:22:27+01:00
+date: '2025-06-12T01:05:53+01:00'
 cSpell:ignore: docsy gohugo hugo myproject
 weight: 2
+type: docs
+linkTitle: Other setup options
+aliases:
+- /docs/other-options/
 ---
 
 If you don't want to use

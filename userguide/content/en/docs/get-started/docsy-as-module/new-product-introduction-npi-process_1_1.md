@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: New Product Introduction Npi Process 1 1
+aliases:
+- /docs/new-product-introduction-npi-process_1_1/
+description: ''
+linkTitle: New Product Introduction Npi Process 1 1
+type: docs
+---
+
 How to launch a product or service at GitLab.
 
 Principles - Processes - Categories - GitLab the Product - Being a PM - Leadership

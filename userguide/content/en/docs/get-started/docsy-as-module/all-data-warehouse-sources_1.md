@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: All Data Warehouse Sources 1
+aliases:
+- /docs/all-data-warehouse-sources_1/
+description: ''
+linkTitle: All Data Warehouse Sources 1
+type: docs
+---
+
 | Name | Pipeline | Raw Schema | Prep Schema | Audience | RF / SLO | MNPI | Tier |
 |------|----------|------------|-------------|----------|----------|------|------|
 {{- range site.Data.public.data_warehouse_sources }}

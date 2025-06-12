@@ -1,8 +1,14 @@
 ---
-
 title: Managing Product Issues
-description: "The collaborative process between Support and Fulfillment for managing product issues"
+description: The collaborative process between Support and Fulfillment for managing
+  product issues
 category: General
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/managing_product_issues_1_1/
+linkTitle: Managing Product Issues
+type: docs
 ---
 
 The Fulfillment Product Team and the L&R Support Team work closely together to

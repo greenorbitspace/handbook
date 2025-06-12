@@ -1,7 +1,13 @@
 ---
 title: User Association
 description: Operations workflow page for Zendesk user association
-canonical_path: "/handbook/security/customer-support-operations/workflows/zendesk/user-association"
+canonical_path: /handbook/security/customer-support-operations/workflows/zendesk/user-association
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/user-association_1_1/
+linkTitle: User Association
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

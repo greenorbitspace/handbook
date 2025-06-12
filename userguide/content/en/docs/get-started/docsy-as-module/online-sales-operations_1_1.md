@@ -1,5 +1,12 @@
 ---
 title: Online Sales & Self Service Operations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/online-sales-operations_1_1/
+description: ''
+linkTitle: Online Sales & Self Service Operations
+type: docs
 ---
 
 The Self-Service Operations function is part of a team focused on building an easy self-service experience for our customers. The Operations team is accountable for owning and delivering all operational support required to enable a customer-facing self-service first team. This team is also the face of self-service for all internal sales and customer-facing teams.

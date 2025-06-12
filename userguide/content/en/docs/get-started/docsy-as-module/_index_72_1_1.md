@@ -1,6 +1,12 @@
 ---
-title: "Coupa Virtual Card Guide"
-description: "Coupa Virtual Card Guide"
+title: Coupa Virtual Card Guide
+description: Coupa Virtual Card Guide
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_72_1_1/
+linkTitle: Coupa Virtual Card Guide
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

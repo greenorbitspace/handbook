@@ -1,7 +1,12 @@
 ---
-aliases: /handbook/engineering/development/sec/govern/security-policies/feature_process.html
-
+aliases:
+- /docs/feature_process_1_1/
 title: Security Policies - Working on features
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Security Policies - Working on features
+type: docs
 ---
 
 ## Process

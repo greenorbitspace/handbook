@@ -1,6 +1,13 @@
 ---
-title: "Understanding How Our Customers Use GitLab"
-description: "Guidance to GitLab sales team members to gain a better understanding of how customers are using GitLab"
+title: Understanding How Our Customers Use GitLab
+description: Guidance to GitLab sales team members to gain a better understanding
+  of how customers are using GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/understand-customer-gitlab-use_1748133856393858214_1_1/
+linkTitle: Understanding How Our Customers Use GitLab
+type: docs
 ---
 
 This page contains guidance to help you better understand how our customers are using GitLab so that you can be more prepared and informed in customer conversations.

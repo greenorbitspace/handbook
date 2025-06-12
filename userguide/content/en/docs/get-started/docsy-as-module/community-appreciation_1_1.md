@@ -1,13 +1,13 @@
 ---
-
-title: "GitLab Nominations for Community Swag"
+title: GitLab Nominations for Community Swag
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/community-appreciation_1_1/
+description: ''
+linkTitle: GitLab Nominations for Community Swag
+type: docs
 ---
-
-
-
-
-
-
 
 ## Let's Award Contributors Together
 

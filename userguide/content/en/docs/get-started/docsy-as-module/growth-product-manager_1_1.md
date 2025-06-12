@@ -1,6 +1,14 @@
 ---
-title: "Growth Product Manager"
-summary: Lead the Growth section which is dedicated to making it easier for teams to find value and increased efficiency within the GitLab platform.
+title: Growth Product Manager
+summary: Lead the Growth section which is dedicated to making it easier for teams
+  to find value and increased efficiency within the GitLab platform.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/growth-product-manager_1_1/
+description: ''
+linkTitle: Growth Product Manager
+type: docs
 ---
 
 ## Intro

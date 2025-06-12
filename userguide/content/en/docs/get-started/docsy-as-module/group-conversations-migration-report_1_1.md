@@ -1,6 +1,13 @@
 ---
 title: Group Conversations
 Description: Migration report for moving the handbooks group-conversations section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/group-conversations-migration-report_1_1/
+description: ''
+linkTitle: Group Conversations
+type: docs
 ---
 
 **Section:** group-conversations

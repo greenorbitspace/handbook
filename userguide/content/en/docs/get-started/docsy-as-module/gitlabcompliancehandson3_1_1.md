@@ -1,6 +1,13 @@
 ---
-title: "GitLab Compliance - Repository Control"
-description: "This Hands-On Guide demonstrates how to control repository access and modification."
+title: GitLab Compliance - Repository Control
+description: This Hands-On Guide demonstrates how to control repository access and
+  modification.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlabcompliancehandson3_1_1/
+linkTitle: GitLab Compliance - Repository Control
+type: docs
 ---
 
 > Estimated time to complete: 15 minutes

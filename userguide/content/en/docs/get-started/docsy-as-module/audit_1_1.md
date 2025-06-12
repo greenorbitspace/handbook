@@ -1,5 +1,12 @@
 ---
-title: "Audit Committee"
+title: Audit Committee
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/audit_1_1/
+description: ''
+linkTitle: Audit Committee
+type: docs
 ---
 
 ## Audit Committee Composition

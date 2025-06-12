@@ -1,14 +1,13 @@
 ---
-
-title: "Tableau Style Guide"
-description: "Tableau Style Guide"
+title: Tableau Style Guide
+description: Tableau Style Guide
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tableau-style-guide_1_1/
+linkTitle: Tableau Style Guide
+type: docs
 ---
-
-
-
-
-
-
 
 ---
 

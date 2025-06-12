@@ -1,8 +1,15 @@
 ---
 stage: Package
 group: Container Registry
-title: 'Backend changes for Google Artifact Registry Integration'
+title: Backend changes for Google Artifact Registry Integration
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/backend_1/
+description: ''
+linkTitle: Backend changes for Google Artifact Registry Integration
+type: docs
 ---
 
 ## Client SDK

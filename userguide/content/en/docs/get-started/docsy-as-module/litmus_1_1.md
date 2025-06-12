@@ -1,14 +1,14 @@
 ---
-
-title: "Litmus"
-description: "Litmus is email marketing software used primarily by marketing campaign managers to build, test, and optimize our email marketing programs."
+title: Litmus
+description: Litmus is email marketing software used primarily by marketing campaign
+  managers to build, test, and optimize our email marketing programs.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/litmus_1_1/
+linkTitle: Litmus
+type: docs
 ---
-
-
-
-
-
-
 
 ## Uses
 

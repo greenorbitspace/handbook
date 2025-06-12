@@ -1,5 +1,12 @@
 ---
-title: "Core Platform Career Framework: Intermediate Distribution Engineer"
+title: 'Core Platform Career Framework: Intermediate Distribution Engineer'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/intermediate_8_1_1/
+description: ''
+linkTitle: 'Core Platform Career Framework: Intermediate Distribution Engineer'
+type: docs
 ---
 
 ## Core Platform Intermediate Distribution Engineer

@@ -1,11 +1,14 @@
 ---
-
 title: Updating customer organization name
 category: General
 description: This page is about steps to updating customer's organization name.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/updating_customer_organization_name_1_1/
+linkTitle: Updating customer organization name
+type: docs
 ---
-
-
 
 ## General workflow
 

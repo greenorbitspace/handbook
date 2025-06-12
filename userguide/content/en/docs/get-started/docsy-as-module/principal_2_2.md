@@ -1,5 +1,12 @@
 ---
-title: "Incubation Engineering Department Career Framework: Principal"
+title: 'Incubation Engineering Department Career Framework: Principal'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/principal_2_2/
+description: ''
+linkTitle: 'Incubation Engineering Department Career Framework: Principal'
+type: docs
 ---
 
 ## Incubation Engineering Department Competencies: Principal

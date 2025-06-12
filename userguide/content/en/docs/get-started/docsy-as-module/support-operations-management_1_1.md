@@ -1,6 +1,13 @@
 ---
-title: "Support Operations Management"
-description: Support Operations Specialists at GitLab support the daily operations and systems of the global support engineering team
+title: Support Operations Management
+description: Support Operations Specialists at GitLab support the daily operations
+  and systems of the global support engineering team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-operations-management_1_1/
+linkTitle: Support Operations Management
+type: docs
 ---
 
 ## Support Operations Specialist

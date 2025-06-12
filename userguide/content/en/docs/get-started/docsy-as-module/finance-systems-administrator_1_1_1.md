@@ -1,6 +1,14 @@
 ---
-title: "Finance Systems Administration"
+title: Finance Systems Administration
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/finance-systems-administrator_1_1_1/
+description: ''
+linkTitle: Finance Systems Administration
+type: docs
 ---
+
 The Finance Systems Administration job family is responsible for the operational ownership of the software applications in the finance and accounting department.
 
 ## Finance System Administrator

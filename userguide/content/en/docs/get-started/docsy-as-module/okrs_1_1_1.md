@@ -1,7 +1,13 @@
 ---
-title: "Infrastructure OKRs"
-description: "Infrastructure OKRs"
-canonical_path: "/handbook/engineering/infrastructure/okrs/"
+title: Infrastructure OKRs
+description: Infrastructure OKRs
+canonical_path: /handbook/engineering/infrastructure/okrs/
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/okrs_1_1_1/
+linkTitle: Infrastructure OKRs
+type: docs
 ---
 
 Infrastructure & Quality objectives and KRs are captured on this page.

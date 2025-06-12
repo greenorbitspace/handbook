@@ -1,6 +1,13 @@
 ---
-title: "Observation Creation Procedure"
+title: Observation Creation Procedure
 controlled_document: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/observation-management-procedure_1_1/
+description: ''
+linkTitle: Observation Creation Procedure
+type: docs
 ---
 
 ## Purpose

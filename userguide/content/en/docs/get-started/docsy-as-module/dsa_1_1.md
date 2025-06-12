@@ -1,6 +1,15 @@
 ---
 title: EU Illegal Content Report Form
-description: "Use this form to report content that you believe is illegal in the European Union. This form is intended for individuals claiming legal rights in the EU, as well as individuals or entities designated as trusted flaggers pursuant to the EU Digital Services Act (DSA)"
+description: Use this form to report content that you believe is illegal in the European
+  Union. This form is intended for individuals claiming legal rights in the EU, as
+  well as individuals or entities designated as trusted flaggers pursuant to the EU
+  Digital Services Act (DSA)
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dsa_1_1/
+linkTitle: EU Illegal Content Report Form
+type: docs
 ---
 
 <div class="row my-5 5align-items-start">

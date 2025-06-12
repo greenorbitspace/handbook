@@ -1,6 +1,12 @@
 ---
-title: "Epic Work Items Migration"
-description: "Stage Working Group for Epics to Work Items migration plan and status"
+title: Epic Work Items Migration
+description: Stage Working Group for Epics to Work Items migration plan and status
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/epic-work-items-migration_1_1/
+linkTitle: Epic Work Items Migration
+type: docs
 ---
 
 Epics to Work Items conversion plan and status

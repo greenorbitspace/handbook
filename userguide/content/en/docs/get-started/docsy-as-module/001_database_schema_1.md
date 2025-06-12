@@ -1,8 +1,16 @@
 ---
-title: "Notifications ADR 001: Database schema"
-creation-date: "2025-04-18"
-authors: [ "@mksionek" ]
+title: 'Notifications ADR 001: Database schema'
+creation-date: '2025-04-18'
+authors:
+- '@mksionek'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/001_database_schema_1/
+description: ''
+linkTitle: 'Notifications ADR 001: Database schema'
+type: docs
 ---
 
 ## Proposal of database structure

@@ -1,7 +1,14 @@
 ---
 title: Subscription and billing issues
 category: Legacy pages
-description: Refer to this page when a user has questions/issues related to transactions, licensing or billing for self-managed or GitLab.com.
+description: Refer to this page when a user has questions/issues related to transactions,
+  licensing or billing for self-managed or GitLab.com.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/license_troubleshooting_1748147632063093271_1_1/
+linkTitle: Subscription and billing issues
+type: docs
 ---
 
 ## Overview

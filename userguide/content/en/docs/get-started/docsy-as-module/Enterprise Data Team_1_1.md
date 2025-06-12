@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Enterprise Data Team 1 1
+aliases:
+- /docs/Enterprise Data Team_1_1/
+description: ''
+linkTitle: Enterprise Data Team 1 1
+type: docs
+---
+
 # Enterprise Data Team
 
 The GitLab Enterprise Data Team is responsible for empowering every GitLab team member to contribute to the data program and generate business value from our data assets.

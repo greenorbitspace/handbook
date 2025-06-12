@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Landingpage 1
+aliases:
+- /docs/LandingPage_1/
+description: ''
+linkTitle: Landingpage 1
+type: docs
+---
+
 # Automated climate action with Ecologi
 
 Ecologi is a climate action platform, on a mission to inspire and empower businesses to contribute to global climate action. We’ve developed a suite of products to enable climate action along the net-zero journey. Gain insight into your business’ emissions with our free carbon footprint calculator, support carbon avoidance and removal projects, and fund the planting of trees around the world to restore nature and support local communities.

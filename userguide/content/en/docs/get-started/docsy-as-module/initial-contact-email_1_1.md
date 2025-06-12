@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Initial Contact Email 1 1
+aliases:
+- /docs/initial-contact-email_1_1/
+description: ''
+linkTitle: Initial Contact Email 1 1
+type: docs
+---
+
 Subject: Invitation to be a Guest on [Podcast Name]
 
 Hi [Guest’s Name],

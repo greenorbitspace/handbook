@@ -1,6 +1,12 @@
 ---
-title: "Work Items API Performance Working Group"
-description: "Stage Working Group for improving Work Items API performance"
+title: Work Items API Performance Working Group
+description: Stage Working Group for improving Work Items API performance
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/work-items-api-performance_1_1/
+linkTitle: Work Items API Performance Working Group
+type: docs
 ---
 
 ## Attributes

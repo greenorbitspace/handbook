@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Textdirectives 1
+aliases:
+- /docs/textDirectives_1/
+description: ''
+linkTitle: Textdirectives 1
+type: docs
+---
+
 Simple: textDirective1
 
 ```sh

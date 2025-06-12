@@ -1,5 +1,12 @@
 ---
-title: "First click testing for navigation"
+title: First click testing for navigation
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/first-click-testing_1_1/
+description: ''
+linkTitle: First click testing for navigation
+type: docs
 ---
 
 ## What is first click testing?

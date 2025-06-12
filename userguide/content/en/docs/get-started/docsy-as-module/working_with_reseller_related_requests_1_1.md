@@ -1,12 +1,14 @@
 ---
-
 title: Working with reseller related requests
 category: General
 description: This is a guide on how to handle requests involving Reseller.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/working_with_reseller_related_requests_1_1/
+linkTitle: Working with reseller related requests
+type: docs
 ---
-
-
-
 
 ## Overview
 

@@ -1,6 +1,12 @@
 ---
-
-title: "Incident"
+title: Incident
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/incident-management_1_1/
+description: ''
+linkTitle: Incident
+type: docs
 ---
 
 ## Definition of an Incident

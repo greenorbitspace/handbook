@@ -1,7 +1,13 @@
 ---
 title: Automations
 description: Operations documentation page for Zendesk automations
-canonical_path: "/handbook/security/customer-support-operations/docs/zendesk/automations"
+canonical_path: /handbook/security/customer-support-operations/docs/zendesk/automations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/automations_1_1_1/
+linkTitle: Automations
+type: docs
 ---
 
 {{% alert title="Note" color="primary" %}}

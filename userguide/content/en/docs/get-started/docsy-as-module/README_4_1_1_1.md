@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Readme 4 1 1 1
+aliases:
+- /docs/README_4_1_1_1/
+description: ''
+linkTitle: Readme 4 1 1 1
+type: docs
+---
+
 [![npm][npm]][npm-url]
 [![node][node]][node-url]
 [![tests][tests]][tests-url]

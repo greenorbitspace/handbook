@@ -1,5 +1,12 @@
 ---
 title: Elevate+ Round 3 Pilot - FY25 Q3
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_elevateplus-round3_1_1/
+description: ''
+linkTitle: Elevate+ Round 3 Pilot - FY25 Q3
+type: docs
 ---
 
 Leaders at GitLab enable our mission that [everyone can contribute](/handbook/company/mission/). We need to equip our people leaders with the skills to lead globally dispersed, all-remote teams to support our business growth at scale.

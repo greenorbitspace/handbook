@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Customer Relationship Management 1 1
+aliases:
+- /docs/customer-relationship-management_1_1/
+description: ''
+linkTitle: Customer Relationship Management 1 1
+type: docs
+---
+
 # Standard Operating Procedures
 
 ## 1. Data Entry and Management

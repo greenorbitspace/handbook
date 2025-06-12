@@ -1,6 +1,13 @@
 ---
-title: "Roundtables"
-description: On this page you will be provided an overview of our Diversity, Inclusion and Belonging Roundtables.
+title: Roundtables
+description: On this page you will be provided an overview of our Diversity, Inclusion
+  and Belonging Roundtables.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/dib-roundtables_1_1/
+linkTitle: Roundtables
+type: docs
 ---
 
 A DIB roundtable is a great way to build deeper connections with team members and develop safe spaces to discuss DIB related issues. The DIB roundtable will ask team members to share stories and anecdotes as well as challenge team members to think about how they personally and collectively can positively impact DIB.

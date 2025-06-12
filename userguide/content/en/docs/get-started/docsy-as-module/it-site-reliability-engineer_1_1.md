@@ -1,5 +1,12 @@
 ---
 title: IT Site Reliability Engineer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/it-site-reliability-engineer_1_1/
+description: ''
+linkTitle: IT Site Reliability Engineer
+type: docs
 ---
 
 At GitLab, the IT Infrastructure team is responsible for Site Reliability Engineering for our tech stack applications and cloud infrastructure that supports corporate initiatives across many of our departments. In addition to traditional AWS and GCP administration, we also provide escalation engineering support for departments that manage their respective SaaS tech stack applications (vendor hosted). Another of our functions is to provide DevOps Engineering for several internally built applications that power our business operations and automation.

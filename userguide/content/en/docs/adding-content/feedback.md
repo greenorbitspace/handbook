@@ -1,10 +1,13 @@
 ---
 title: Analytics, User Feedback, and SEO
-date: 2019-06-05
-description: >-
-  Add Google Analytics tracking to your site, collect user feedback and learn
-  about the page description meta tag.
+date: '2025-06-12T01:05:53+01:00'
+description: Add Google Analytics tracking to your site, collect user feedback and
+  learn about the page description meta tag.
 weight: 8
+type: docs
+linkTitle: Analytics, User Feedback, and SEO
+aliases:
+- /docs/feedback/
 ---
 
 ## Adding Analytics

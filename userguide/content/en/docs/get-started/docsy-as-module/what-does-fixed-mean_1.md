@@ -1,5 +1,12 @@
 ---
-title: "Vulnerability Management Definition: What Does Fixed Mean?"
+title: 'Vulnerability Management Definition: What Does Fixed Mean?'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/what-does-fixed-mean_1/
+description: ''
+linkTitle: 'Vulnerability Management Definition: What Does Fixed Mean?'
+type: docs
 ---
 
 ## Overview

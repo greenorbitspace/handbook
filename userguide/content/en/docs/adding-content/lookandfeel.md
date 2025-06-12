@@ -1,10 +1,14 @@
 ---
 title: Look and Feel
-date: 2017-01-05
+date: '2025-06-12T01:05:53+01:00'
 weight: 2
 description: Customize colors, fonts, code highlighting, and more for your site.
-# prettier-ignore
-cSpell:ignore: anotherclass autoprefixing baseof blockscover docsy lightdark monokai myclass onedark wordmark
+cSpell:ignore: anotherclass autoprefixing baseof blockscover docsy lightdark monokai
+  myclass onedark wordmark
+type: docs
+linkTitle: Look and Feel
+aliases:
+- /docs/lookandfeel/
 ---
 
 By default, a site using Docsy has the theme's default fonts, colors, and

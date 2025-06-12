@@ -1,7 +1,12 @@
 ---
-title: "Security Shadow: Security Operations"
-description: " "
+title: 'Security Shadow: Security Operations'
+description: ' '
 weight: 40
+date: '2025-06-12'
+aliases:
+- /docs/security-shadow-security-operations_1748133858679068517_1_1/
+linkTitle: 'Security Shadow: Security Operations'
+type: docs
 ---
 
 ## Security Incident Response Team (SIRT)

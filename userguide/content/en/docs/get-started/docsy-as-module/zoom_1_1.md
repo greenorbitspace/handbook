@@ -1,6 +1,12 @@
 ---
-title: "Zoom"
-description: "Zoom usage and tips at GitLab"
+title: Zoom
+description: Zoom usage and tips at GitLab
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/zoom_1_1/
+linkTitle: Zoom
+type: docs
 ---
 
 ## In general

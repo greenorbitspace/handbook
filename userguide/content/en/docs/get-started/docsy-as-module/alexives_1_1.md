@@ -1,7 +1,13 @@
 ---
-title: "README of Alex Ives"
-description: "Personal readme page for Alex Ives, Engineering Manager, GitLab"
-job: "Engineering Manager, Database Frameworks"
+title: README of Alex Ives
+description: Personal readme page for Alex Ives, Engineering Manager, GitLab
+job: Engineering Manager, Database Frameworks
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/alexives_1_1/
+linkTitle: README of Alex Ives
+type: docs
 ---
 
 ## Motivation for this document

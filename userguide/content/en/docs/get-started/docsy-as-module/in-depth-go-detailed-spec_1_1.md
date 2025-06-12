@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: In Depth Go Detailed Spec 1 1
+aliases:
+- /docs/in-depth-go-detailed-spec_1_1/
+description: ''
+linkTitle: In Depth Go Detailed Spec 1 1
+type: docs
+---
+
 title: "Detaljert om Go: Detaljert spesifikasjon"
 linkTitle: Detaljert om Go
 date: 2017-01-05

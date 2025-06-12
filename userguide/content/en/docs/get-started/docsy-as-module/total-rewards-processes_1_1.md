@@ -1,6 +1,12 @@
 ---
-title: "Total Rewards Processes & Audits for US benefits"
-description: "Total Rewards Processes & Audits for US benefits."
+title: Total Rewards Processes & Audits for US benefits
+description: Total Rewards Processes & Audits for US benefits.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/total-rewards-processes_1_1/
+linkTitle: Total Rewards Processes & Audits for US benefits
+type: docs
 ---
 
 ## Processes

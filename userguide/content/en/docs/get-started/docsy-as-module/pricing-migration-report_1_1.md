@@ -1,6 +1,13 @@
 ---
 title: Pricing
 Description: Migration report for moving the handbooks pricing section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/pricing-migration-report_1_1/
+description: ''
+linkTitle: Pricing
+type: docs
 ---
 
 **Section:** pricing

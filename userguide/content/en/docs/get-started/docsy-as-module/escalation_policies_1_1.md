@@ -1,7 +1,13 @@
 ---
 title: Escalation policies
 description: Support Operations documentation page for Pagerduty escalation policies
-canonical_path: "/handbook/support/readiness/operations/docs/pagerduty/escalation_policies"
+canonical_path: /handbook/support/readiness/operations/docs/pagerduty/escalation_policies
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/escalation_policies_1_1/
+linkTitle: Escalation policies
+type: docs
 ---
 
 ## What are Pagerduty escalation policies

@@ -1,7 +1,14 @@
 ---
 title: Associating purchases with additional accounts
 category: CustomersDot
-description: Associating subscription with other CustomersDot users and changing subscription owner.
+description: Associating subscription with other CustomersDot users and changing subscription
+  owner.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/associating_purchases_1_1/
+linkTitle: Associating purchases with additional accounts
+type: docs
 ---
 
 ---

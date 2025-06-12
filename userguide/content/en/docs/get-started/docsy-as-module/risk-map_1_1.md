@@ -1,13 +1,13 @@
 ---
-
 title: Package Group - Risk Map
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/risk-map_1_1/
+description: ''
+linkTitle: Package Group - Risk Map
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

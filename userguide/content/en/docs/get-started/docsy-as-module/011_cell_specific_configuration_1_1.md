@@ -1,7 +1,14 @@
 ---
-owning-stage: "~devops::data stores"
-title: "Cells ADR 011: Cell Specific Configuration"
+owning-stage: ~devops::data stores
+title: 'Cells ADR 011: Cell Specific Configuration'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/011_cell_specific_configuration_1_1/
+description: ''
+linkTitle: 'Cells ADR 011: Cell Specific Configuration'
+type: docs
 ---
 
 ## Context

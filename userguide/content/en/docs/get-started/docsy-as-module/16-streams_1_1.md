@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: 16 Streams 1 1
+aliases:
+- /docs/16-streams_1_1/
+description: ''
+linkTitle: 16 Streams 1 1
+type: docs
+---
+
 ### Streams
 - revies stream and buffer file-12
 - steams is infact a built-in module that inherits from the event emitter calss

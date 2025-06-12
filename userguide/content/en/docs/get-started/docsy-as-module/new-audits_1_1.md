@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: New Audits 1 1
+aliases:
+- /docs/new-audits_1_1/
+description: ''
+linkTitle: New Audits 1 1
+type: docs
+---
+
 So, you want to create a new audit? Great! We're excited that you want to add to the Lighthouse project :) The goal of this
 document is to help you understand what constitutes as a "good" audit for Lighthouse, and steps you can follow if you want
 to propose a new audit.

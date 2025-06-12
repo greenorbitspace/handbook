@@ -1,7 +1,13 @@
 ---
 title: Marketing Analytics Data - SFDC Models
-description: >-
-  The SFDC Models grouping is used to designate models built from the Salesforce source objects. 
+description: 'The SFDC Models grouping is used to designate models built from the
+  Salesforce source objects. '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/marketing-analytics-data-sfdc_1748133863952068700_1/
+linkTitle: Marketing Analytics Data - SFDC Models
+type: docs
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

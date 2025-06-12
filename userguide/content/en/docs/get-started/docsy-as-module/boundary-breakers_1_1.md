@@ -1,5 +1,12 @@
 ---
 title: Boundary Breakers
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/boundary-breakers_1_1/
+description: ''
+linkTitle: Boundary Breakers
+type: docs
 ---
 
 `Boundary Breakers` is the first Engagement Concierge program at GitLab. It's a pilot program with people managers on the Commerical Sales team, led by Ryan O'Nell.

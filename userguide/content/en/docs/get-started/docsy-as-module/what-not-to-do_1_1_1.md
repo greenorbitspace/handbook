@@ -1,10 +1,18 @@
 ---
-title: "What not to do when implementing remote: don't replicate the in-office experience remotely"
+title: 'What not to do when implementing remote: don''t replicate the in-office experience
+  remotely'
 description: What not to do when implementing remote
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/what-not-to-do_1_1_1/
+linkTitle: 'What not to do when implementing remote: don''t replicate the in-office
+  experience remotely'
+type: docs
 ---
 
 Due to global issues concerning [Coronavirus (COVID-19)](https://www.cdc.gov/covid/index.html), rising rents in concentrated urban areas, and the ongoing battle amongst organizations for recruiting and retaining top talent, there has been a noted shift in appetite for working remotely. Companies which were previously against remote work are suddenly considering remote, or implementing remote, with varying degrees of intentionality.

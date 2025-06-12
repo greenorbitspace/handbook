@@ -1,8 +1,16 @@
 ---
-title: "Modular Monolith ADR 003: Module stewardship"
-creation-date: "2024-05-08"
-authors: [ "@fabiopitino" ]
+title: 'Modular Monolith ADR 003: Module stewardship'
+creation-date: '2024-05-08'
+authors:
+- '@fabiopitino'
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/003_stewardship_1/
+description: ''
+linkTitle: 'Modular Monolith ADR 003: Module stewardship'
+type: docs
 ---
 
 ## Context

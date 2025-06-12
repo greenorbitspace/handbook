@@ -1,6 +1,13 @@
 ---
-title: "Brand Growth - Roles & Responsibilities"
-summary: " "
+title: Brand Growth - Roles & Responsibilities
+summary: ' '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/brand-growth_1_1/
+description: ''
+linkTitle: Brand Growth - Roles & Responsibilities
+type: docs
 ---
 
 ## Levels

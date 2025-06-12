@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Spaces Lookup 1 1
+aliases:
+- /docs/spaces-lookup_1_1/
+description: ''
+linkTitle: Spaces Lookup 1 1
+type: docs
+---
+
 The Spaces lookup endpoints help you lookup live or scheduled Spaces, and enable you to build discovery experiences to give your users ways to find Spaces they may be interested in.
 You can get more information at [Lookup docs](https://developer.twitter.com/en/docs/twitter-api/spaces/lookup/introduction).
 

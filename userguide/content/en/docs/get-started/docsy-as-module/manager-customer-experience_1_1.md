@@ -1,6 +1,13 @@
 ---
-title: "Manager, Customer Experience"
-RoleName: "Manager, Customer Experience"
+title: Manager, Customer Experience
+RoleName: Manager, Customer Experience
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/manager-customer-experience_1_1/
+description: ''
+linkTitle: Manager, Customer Experience
+type: docs
 ---
 
 GitLab is a hyper growth company searching for people who are intelligent and agile with strong skills in technology, sales, business, communication and leadership. Desire to lead through change is a must.

@@ -1,6 +1,13 @@
 ---
 title: CEO and Office of the CEO
 Description: Migration report for moving the handbooks ceo section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ceo-migration-report_1_1/
+description: ''
+linkTitle: CEO and Office of the CEO
+type: docs
 ---
 
 **Section:** ceo

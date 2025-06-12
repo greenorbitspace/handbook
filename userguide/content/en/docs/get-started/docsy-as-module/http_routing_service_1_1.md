@@ -4,6 +4,13 @@ group: Tenant Scale
 title: 'Cells: HTTP Routing Service'
 status: accepted
 toc_hide: true
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/http_routing_service_1_1/
+description: ''
+linkTitle: 'Cells: HTTP Routing Service'
+type: docs
 ---
 
 This document describes design goals and architecture of Routing Service

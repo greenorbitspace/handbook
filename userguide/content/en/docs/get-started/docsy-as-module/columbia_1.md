@@ -1,8 +1,16 @@
 ---
 title: Columbia
-description: 'Learn about the Columbia NASA space shuttle.'
-publishedDate: 'Sat May 21 2022 00:00:00 GMT-0400 (Eastern Daylight Time)'
-tags: [space, 90s]
+description: Learn about the Columbia NASA space shuttle.
+publishedDate: Sat May 21 2022 00:00:00 GMT-0400 (Eastern Daylight Time)
+tags:
+- space
+- 90s
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/columbia_1/
+linkTitle: Columbia
+type: docs
 ---
 
 **Source:** [Wikipedia](https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour)

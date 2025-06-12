@@ -1,6 +1,13 @@
 ---
-title: "TMRG - GitLab Pride"
-description: "We are the GitLab Pride Team Member Resource Group (TMRG) founded in the fall of 2019. Learn more!"
+title: TMRG - GitLab Pride
+description: We are the GitLab Pride Team Member Resource Group (TMRG) founded in
+  the fall of 2019. Learn more!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/tmrg-gitlab-pride_1_1/
+linkTitle: TMRG - GitLab Pride
+type: docs
 ---
 
 This group strives to connect employees at GitLab that are part of the LGBTQ+ community, or are allies, with professional and personal opportunities to meet others, speak at events, and share their lived experiences to improve and strengthen our community.

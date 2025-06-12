@@ -1,5 +1,12 @@
 ---
-title: "Workato - Draft"
+title: Workato - Draft
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/workato_1_1/
+description: ''
+linkTitle: Workato - Draft
+type: docs
 ---
 
 ## What is Workato?

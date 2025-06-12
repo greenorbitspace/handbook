@@ -1,5 +1,12 @@
 ---
-title: "Channel Marketing Menu of Services"
+title: Channel Marketing Menu of Services
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/channel-marketing-service-offerings_1748147631848245749_1_1/
+description: ''
+linkTitle: Channel Marketing Menu of Services
+type: docs
 ---
 
 ## What marketing services are available to our channel partners?

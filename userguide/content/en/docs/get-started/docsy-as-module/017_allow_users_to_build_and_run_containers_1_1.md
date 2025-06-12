@@ -1,5 +1,12 @@
 ---
-title: "Workspaces ADR 017: Allow users to build and run containers inside a workspace"
+title: 'Workspaces ADR 017: Allow users to build and run containers inside a workspace'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/017_allow_users_to_build_and_run_containers_1_1/
+description: ''
+linkTitle: 'Workspaces ADR 017: Allow users to build and run containers inside a workspace'
+type: docs
 ---
 
 ## Context

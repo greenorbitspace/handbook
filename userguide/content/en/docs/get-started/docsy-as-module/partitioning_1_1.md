@@ -1,12 +1,13 @@
 ---
-aliases: /handbook/engineering/infrastructure/core-platform/data_stores/database/doc/partitioning.html
+aliases:
+- /docs/partitioning_1_1/
 title: Database Partitioning
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Database Partitioning
+type: docs
 ---
-
-
-
-
-
 
 ## Introducing PostgreSQL table partitioning to GitLab's database
 

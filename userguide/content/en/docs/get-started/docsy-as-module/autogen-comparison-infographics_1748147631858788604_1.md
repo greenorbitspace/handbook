@@ -1,5 +1,12 @@
 ---
-title: "Autogenerating comparison infographics using Figma"
+title: Autogenerating comparison infographics using Figma
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/autogen-comparison-infographics_1748147631858788604_1/
+description: ''
+linkTitle: Autogenerating comparison infographics using Figma
+type: docs
 ---
 
 ## Why

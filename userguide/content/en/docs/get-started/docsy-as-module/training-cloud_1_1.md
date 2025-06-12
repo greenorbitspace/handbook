@@ -1,13 +1,13 @@
 ---
-
-title: "Training Cloud Omnibus-as-a-Service"
+title: Training Cloud Omnibus-as-a-Service
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/training-cloud_1_1/
+description: ''
+linkTitle: Training Cloud Omnibus-as-a-Service
+type: docs
 ---
-
-
-
-
-
-
 
 ## Overview
 

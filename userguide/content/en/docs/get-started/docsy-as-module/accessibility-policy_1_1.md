@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Accessibility Policy 1 1
+aliases:
+- /docs/accessibility-policy_1_1/
+description: ''
+linkTitle: Accessibility Policy 1 1
+type: docs
+---
+
 <!-- Unsupported block type: table_of_contents -->
 
 ## Purpose and Scope

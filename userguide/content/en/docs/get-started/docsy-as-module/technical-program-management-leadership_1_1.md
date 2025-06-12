@@ -1,6 +1,12 @@
 ---
-title: "Infrastructure Technical Program Management Leadership"
-description: "Driving infrastructure strategy and initiatives company-wide"
+title: Infrastructure Technical Program Management Leadership
+description: Driving infrastructure strategy and initiatives company-wide
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/technical-program-management-leadership_1_1/
+linkTitle: Infrastructure Technical Program Management Leadership
+type: docs
 ---
 
 Infrastructure Technical Program Management Leadership is responsible for leading a team of Infrastructure TPMs who are responsible for planning, execution, and delivery of complex infrastructure projects across Engineering and Product. Infrastructure TPM Leaders work with a variety of stakeholders, including engineers, architects, and business leaders across Engineering and the Company to ensure that projects are completed on time and within budget. This includes the tracking, monitoring and influencing priority of significant infrastructure objectives, goals and plans from all Infrastructure sub-departments and Engineering.

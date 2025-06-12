@@ -1,8 +1,13 @@
 ---
-
 title: Handling flagged licensing provisioning failures
-description: "How to handle flagged licensing provisioning failures"
+description: How to handle flagged licensing provisioning failures
 category: GitLab Self-Managed licenses
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/handling_flagged_provisioning_failures_1_1/
+linkTitle: Handling flagged licensing provisioning failures
+type: docs
 ---
 
 The [Provision tracking system](https://gitlab.com/groups/gitlab-org/-/epics/8300) provides a means of monitoring provision failures via a failure alerting system in the Slack channel `#provision_failures` so that the Fulfillment Product Team and the L&R Support Team can be made aware quickly when a failure occurs and act upon it.

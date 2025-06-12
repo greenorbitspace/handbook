@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Relationship Management Plans 1 1
+aliases:
+- /docs/relationship-management-plans_1_1/
+description: ''
+linkTitle: Relationship Management Plans 1 1
+type: docs
+---
+
 # 1. Introduction
 
 This relationship management plan outlines the framework for establishing, maintaining, and enhancing collaborative business relationships in accordance with ISO 44001.

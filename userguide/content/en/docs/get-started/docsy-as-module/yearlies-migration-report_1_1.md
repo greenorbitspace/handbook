@@ -1,6 +1,13 @@
 ---
 title: Yearlies
 Description: Migration report for moving the handbooks yearlies section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/yearlies-migration-report_1_1/
+description: ''
+linkTitle: Yearlies
+type: docs
 ---
 
 **Section:** yearlies

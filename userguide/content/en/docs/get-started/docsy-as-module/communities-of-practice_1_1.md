@@ -1,6 +1,12 @@
 ---
-title: "Communities of Practice"
-description: "Cross Functional team focusing on specific topics. Learn more!"
+title: Communities of Practice
+description: Cross Functional team focusing on specific topics. Learn more!
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/communities-of-practice_1_1/
+linkTitle: Communities of Practice
+type: docs
 ---
 
 ### What's a Community of Practice?

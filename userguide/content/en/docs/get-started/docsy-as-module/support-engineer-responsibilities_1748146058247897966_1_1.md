@@ -1,6 +1,13 @@
 ---
 title: Support Engineer Responsibilities
-description: A detailed listing of the responsibilities of Support Engineers in GitLab. Page should not be moved without a Support Global Change Management issue.
+description: A detailed listing of the responsibilities of Support Engineers in GitLab.
+  Page should not be moved without a Support Global Change Management issue.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/support-engineer-responsibilities_1748146058247897966_1_1/
+linkTitle: Support Engineer Responsibilities
+type: docs
 ---
 
 ## Introduction

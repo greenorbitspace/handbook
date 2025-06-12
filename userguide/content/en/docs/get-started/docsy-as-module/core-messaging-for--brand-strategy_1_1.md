@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Core Messaging For  Brand Strategy 1 1
+aliases:
+- /docs/core-messaging-for--brand-strategy_1_1/
+description: ''
+linkTitle: Core Messaging For  Brand Strategy 1 1
+type: docs
+---
+
 Purpose:
 
 This document defines the central beliefs, arguments, and values that drive Green Orbit Digital’s approach to eco-conscious brand strategy. It serves as a foundation for all marketing and communication efforts, ensuring consistency and clarity in messaging to attract organisations seeking to integrate sustainability into their identity while achieving growth.

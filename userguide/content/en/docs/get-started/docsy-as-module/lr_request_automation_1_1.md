@@ -1,11 +1,15 @@
 ---
-
 title: Automation Request
 category: CustomersDot
-description: This workflow covers the steps to request an automation for any L&R related tasks.
+description: This workflow covers the steps to request an automation for any L&R related
+  tasks.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/lr_request_automation_1_1/
+linkTitle: Automation Request
+type: docs
 ---
-
-
 
 ## Overview
 

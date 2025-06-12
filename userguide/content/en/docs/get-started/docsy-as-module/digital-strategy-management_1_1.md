@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Digital Strategy Management 1 1
+aliases:
+- /docs/digital-strategy-management_1_1/
+description: ''
+linkTitle: Digital Strategy Management 1 1
+type: docs
+---
+
 <!-- Unsupported block type: image -->
 
 ## Digital Strategy Team

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Connectexample 1
+aliases:
+- /docs/connectExample_1/
+description: ''
+linkTitle: Connectexample 1
+type: docs
+---
+
 # socks examples
 
 ## Example for SOCKS 'connect' command

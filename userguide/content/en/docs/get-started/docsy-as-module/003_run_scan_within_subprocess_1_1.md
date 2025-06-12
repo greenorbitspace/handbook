@@ -1,5 +1,12 @@
 ---
-title: "GitLab Secret Detection ADR 003: Run scan within subprocess"
+title: 'GitLab Secret Detection ADR 003: Run scan within subprocess'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/003_run_scan_within_subprocess_1_1/
+description: ''
+linkTitle: 'GitLab Secret Detection ADR 003: Run scan within subprocess'
+type: docs
 ---
 
 ## Context

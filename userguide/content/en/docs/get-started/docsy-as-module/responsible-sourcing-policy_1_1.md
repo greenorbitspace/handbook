@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Responsible Sourcing Policy 1 1
+aliases:
+- /docs/responsible-sourcing-policy_1_1/
+description: ''
+linkTitle: Responsible Sourcing Policy 1 1
+type: docs
+---
+
 # Policy Statement
 
 Green Orbit Digital is committed to responsible sourcing practices that promote sustainability, ethical conduct, and positive social impact throughout our supply chain. This policy establishes the framework for ensuring our procurement decisions align with our environmental, social, and economic values.

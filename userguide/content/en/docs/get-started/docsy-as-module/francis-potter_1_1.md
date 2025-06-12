@@ -1,8 +1,14 @@
 ---
-
-title: "Francis Potter - Senior Pro Services Engineer"
-description: Helping teams adopt transformational practices and technology for over 20 years
-job: "Professional Services"
+title: Francis Potter - Senior Pro Services Engineer
+description: Helping teams adopt transformational practices and technology for over
+  20 years
+job: Professional Services
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/francis-potter_1_1/
+linkTitle: Francis Potter - Senior Pro Services Engineer
+type: docs
 ---
 
 ## Mission

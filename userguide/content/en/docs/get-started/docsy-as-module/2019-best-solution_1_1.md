@@ -1,13 +1,13 @@
 ---
-aliases: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/dod12/2019-Best-Solution
-title: "2019 DevOps Dozen - Best DevOps Solution Provider: GitLab"
+aliases:
+- /docs/2019-best-solution_1_1/
+title: '2019 DevOps Dozen - Best DevOps Solution Provider: GitLab'
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: '2019 DevOps Dozen - Best DevOps Solution Provider: GitLab'
+type: docs
 ---
-
-
-
-
-
-
 
 *This is one of two pages submitted for the [2019 DevOps Dozen Awards](https://devopsdozen.com/), supporting GitLab for Best DevOps Solution Provider and supporting Sid Sijbrandij for Best DevOps Solution Provider Executive. We thank [MediaOps](https://mediaops.io/) and [DevOps.com](https://devops.com/) for their consideration and their service to the DevOps community.*
 

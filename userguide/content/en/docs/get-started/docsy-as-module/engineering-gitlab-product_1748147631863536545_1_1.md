@@ -1,6 +1,13 @@
 ---
 title: Engineering GitLab Product
-description: "Learn more about how Digital Experience engineers work with the GitLab Product."
+description: Learn more about how Digital Experience engineers work with the GitLab
+  Product.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engineering-gitlab-product_1748147631863536545_1_1/
+linkTitle: Engineering GitLab Product
+type: docs
 ---
 
 ## Overview

@@ -1,10 +1,17 @@
 ---
-title: "How to repurpose office space in a remote world"
-description: "Here is a complete guide to repurposing your existing office space to make the most of remote work. Learn more!"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+title: How to repurpose office space in a remote world
+description: Here is a complete guide to repurposing your existing office space to
+  make the most of remote work. Learn more!
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/repurposing-office-space_1_1_1/
+linkTitle: How to repurpose office space in a remote world
+type: docs
 ---
 
 ## What's the role of office spaces in a remote world?

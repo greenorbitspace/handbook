@@ -1,14 +1,13 @@
 ---
-
-title: "Customer & Partner Fireside Chat"
+title: Customer & Partner Fireside Chat
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-partner-fireside-chat_1_1/
+description: ''
+linkTitle: Customer & Partner Fireside Chat
+type: docs
 ---
-
-
-
-
-
-
- 
 
 ## What is a fireside chat?
 

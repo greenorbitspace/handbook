@@ -1,7 +1,14 @@
 ---
-title: "Upgrade improvements"
-description: "The working group aims to enhance customer's experience of the entire lifecycle of upgrading a self-managed GitLab instance."
+title: Upgrade improvements
+description: The working group aims to enhance customer's experience of the entire
+  lifecycle of upgrading a self-managed GitLab instance.
 status: Paused
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/upgrade-improvements_1_1/
+linkTitle: Upgrade improvements
+type: docs
 ---
 
 ## Attributes

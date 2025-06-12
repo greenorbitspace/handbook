@@ -1,13 +1,13 @@
 ---
-
-title: "Rachel Persona snippets"
+title: Rachel Persona snippets
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/rachel_1_1/
+description: ''
+linkTitle: Rachel Persona snippets
+type: docs
 ---
-
-
-
-
-
-
 
 ## SDR persona snippets by use case
 

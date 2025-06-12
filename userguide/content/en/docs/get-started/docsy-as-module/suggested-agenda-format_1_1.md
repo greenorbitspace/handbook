@@ -1,5 +1,12 @@
 ---
-title: "Suggested 1:1 Agenda and Daily Standup Format"
+title: Suggested 1:1 Agenda and Daily Standup Format
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/suggested-agenda-format_1_1/
+description: ''
+linkTitle: Suggested 1:1 Agenda and Daily Standup Format
+type: docs
 ---
 
 This page describes the recommended 1:1 agenda format, and is based on how [Sid](/handbook/ceo) formats his 1:1 agendas. It also captures how this format is modified for daily standup agendas.

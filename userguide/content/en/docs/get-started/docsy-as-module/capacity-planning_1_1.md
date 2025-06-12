@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Capacity Planning 1 1
+aliases:
+- /docs/capacity-planning_1_1/
+description: ''
+linkTitle: Capacity Planning 1 1
+type: docs
+---
+
 We use a lightweight system of issue weighting to help with capacity planning,
 with the knowledge that [things take longer than you think](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html). These weights are
 used for capacity planning and the main focus is on making sure the overall sum

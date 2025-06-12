@@ -1,6 +1,13 @@
 ---
-title: "Pajamas Design Review Process"
-description: "The roles of reviewer and maintainer in approving and merging merge requests in projects related to the Pajamas Design System, and how to become a maintainer."
+title: Pajamas Design Review Process
+description: The roles of reviewer and maintainer in approving and merging merge requests
+  in projects related to the Pajamas Design System, and how to become a maintainer.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/design-review_1_1/
+linkTitle: Pajamas Design Review Process
+type: docs
 ---
 
 ## Overview

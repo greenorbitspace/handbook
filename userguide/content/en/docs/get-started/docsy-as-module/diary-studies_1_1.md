@@ -1,6 +1,12 @@
 ---
-title: "Diary studies"
-description: "What are diary studies and when to use them"
+title: Diary studies
+description: What are diary studies and when to use them
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/diary-studies_1_1/
+linkTitle: Diary studies
+type: docs
 ---
 
 A diary study is a research methodology used to obtain feedback from participants over a period of time (days, weeks, or months). In these studies, participants are asked to document information on their own when they perform a specific action or the participant has reached a specific period in the research.

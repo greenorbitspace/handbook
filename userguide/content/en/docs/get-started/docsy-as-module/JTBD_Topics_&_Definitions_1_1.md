@@ -1,6 +1,12 @@
 ---
 title: JTBD Topics & Definitions
-description:
+description: ''
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/JTBD_Topics_&_Definitions_1_1/
+linkTitle: JTBD Topics & Definitions
+type: docs
 ---
 
 ## Domain

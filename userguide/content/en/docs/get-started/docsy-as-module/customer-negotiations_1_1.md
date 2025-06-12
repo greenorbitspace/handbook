@@ -1,6 +1,13 @@
 ---
 title: Sales Guide | Collaborating with GitLab Legal
-description: This resource provides assistance to the GitLab Sales Team on operational and educational elements of working with GitLab Legal for Customer negotiations
+description: This resource provides assistance to the GitLab Sales Team on operational
+  and educational elements of working with GitLab Legal for Customer negotiations
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/customer-negotiations_1_1/
+linkTitle: Sales Guide | Collaborating with GitLab Legal
+type: docs
 ---
 
 Thank you for visiting! The purpose of this Handbook resource is to provide all GitLab team members with a clear path to assist in navigating any type of go-to-market Legal Commercial requests or processes.  The information below is intended to help you to find and access certain information on your own, as well as clearly establish how to best connect with, and coordinate assistance from, the GitLab Commercial Legal team.

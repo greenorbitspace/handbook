@@ -5,6 +5,13 @@ doc_id: doc-1180
 last_edited_date: '2025-05-25'
 last_edited_by: Ryan Laird
 version: '1.0'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/20250606070714_fundamentals-of-sustainable-marketing_1_1/
+description: ''
+linkTitle: Fundamentals Of Sustainable Marketing
+type: docs
 ---
 
 CIM has created this new online course to look at the sustainability landscape and what it means for business and society, and how you can get started on your journey to becoming a sustainable marketer. There are 4 modules written by leading sustainability experts taking you through what you need to know and why it’s important.

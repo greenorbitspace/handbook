@@ -1,7 +1,12 @@
 ---
-title: "Inspired by GitLab"
+title: Inspired by GitLab
 aliases:
 - /handbook/inspired-by-gitlab/
+weight: 2
+date: '2025-06-12'
+description: ''
+linkTitle: Inspired by GitLab
+type: docs
 ---
 
 ## Which companies can be listed here?

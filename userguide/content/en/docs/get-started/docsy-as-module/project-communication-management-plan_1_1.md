@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Project Communication Management Plan 1 1
+aliases:
+- /docs/project-communication-management-plan_1_1/
+description: ''
+linkTitle: Project Communication Management Plan 1 1
+type: docs
+---
+
 # 1. Introduction
 
 This Project Communication Management Plan outlines the framework for ensuring effective communication throughout the project lifecycle. It establishes protocols, channels, and responsibilities for project-related communications.

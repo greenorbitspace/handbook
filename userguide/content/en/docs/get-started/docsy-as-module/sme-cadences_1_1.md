@@ -1,8 +1,13 @@
 ---
-title:  SME Cadences 
-
-description: To Outline the framework for the SME Cadences and meetings that should occur during a quarter, for a smooth running of the program
-
+title: SME Cadences
+description: To Outline the framework for the SME Cadences and meetings that should
+  occur during a quarter, for a smooth running of the program
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sme-cadences_1_1/
+linkTitle: SME Cadences
+type: docs
 ---
 
 ### **SME Cadence Framework**

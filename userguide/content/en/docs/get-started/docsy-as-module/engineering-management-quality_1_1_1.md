@@ -1,6 +1,13 @@
 ---
-title: "Engineering Management - Quality"
-description: "Engineering Managers in the Quality Department are motivated and experienced leaders who grow our test automation efforts across the entire GitLab ecosystem."
+title: Engineering Management - Quality
+description: Engineering Managers in the Quality Department are motivated and experienced
+  leaders who grow our test automation efforts across the entire GitLab ecosystem.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/engineering-management-quality_1_1_1/
+linkTitle: Engineering Management - Quality
+type: docs
 ---
 
 At GitLab, Quality is everyone's responsibility and the output of the Quality Department is instrumental to GitLab's success.

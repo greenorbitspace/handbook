@@ -2,7 +2,13 @@
 title: Making Changes and Taking Actions on an Account
 category: GitLab.com
 subcategory: Accounts
-description: "Workflow for when and how to make account changes on behalf of a customer"
+description: Workflow for when and how to make account changes on behalf of a customer
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/account_changes_1_1/
+linkTitle: Making Changes and Taking Actions on an Account
+type: docs
 ---
 
 ## Overview

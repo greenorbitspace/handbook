@@ -1,6 +1,13 @@
 ---
-title: "Request Customer Zero Validation from Security"
-description: "Guidelines for Product Managers to engage GitLab's Security Team as Customer Zero throughout the feature development lifecycle."
+title: Request Customer Zero Validation from Security
+description: Guidelines for Product Managers to engage GitLab's Security Team as Customer
+  Zero throughout the feature development lifecycle.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/request-customer-zero-validation_1748146058218930874_1/
+linkTitle: Request Customer Zero Validation from Security
+type: docs
 ---
 
 ## Customer Zero Overview

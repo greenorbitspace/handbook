@@ -1,9 +1,15 @@
 ---
 title: Parameter Reference
-description: >
+description: |
   A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
-date: 2017-01-05
+date: '2025-06-12T01:05:58+01:00'
+weight: 2
+aliases:
+- /docs/20250606070648_parameter-reference_1_1/
+linkTitle: Parameter Reference
+type: docs
 ---
+
 {{% pageinfo %}}
 This is a placeholder page. Replace it with your own content.
 {{% /pageinfo %}}

@@ -1,6 +1,13 @@
 ---
-title: "Developer Marketing Manager"
-summary: " "
+title: Developer Marketing Manager
+summary: ' '
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/developer-marketing-manager_1_1/
+description: ''
+linkTitle: Developer Marketing Manager
+type: docs
 ---
 
 ## Responsibilities

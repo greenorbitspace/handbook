@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Imports 1 1
+aliases:
+- /docs/imports_1_1/
+description: ''
+linkTitle: Imports 1 1
+type: docs
+---
+
 # Goimports
 
 In the `imports ( .. )` section of each Go file, imports should be separated into at least three sections:

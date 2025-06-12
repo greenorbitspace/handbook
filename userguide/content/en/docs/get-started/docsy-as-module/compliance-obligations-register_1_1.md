@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Compliance Obligations Register 1 1
+aliases:
+- /docs/compliance-obligations-register_1_1/
+description: ''
+linkTitle: Compliance Obligations Register 1 1
+type: docs
+---
+
 # 1. Legal and Regulatory Requirements
 
 ## Corporate Law

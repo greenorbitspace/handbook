@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Working Remotely 1 1
+aliases:
+- /docs/working-remotely_1_1/
+description: ''
+linkTitle: Working Remotely 1 1
+type: docs
+---
+
 category: Working Culture
 
 We love the flexibility and freedom of remote working, and we’re keen for all our team members to take full advantage of its benefits to enjoy a happier, healthier, more balanced life.

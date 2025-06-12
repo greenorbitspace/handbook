@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Values Competency 1
+aliases:
+- /docs/values-competency_1/
+description: ''
+linkTitle: Values Competency 1
+type: docs
+---
+
 ##### GitLab
 
 * Adhere to the [Collaboration Competencies](/handbook/values/#collaboration-competency) for this job grade.

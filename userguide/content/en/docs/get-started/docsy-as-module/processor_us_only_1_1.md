@@ -1,7 +1,14 @@
 ---
 title: Processor (US only)
-description: Support Operations policies page for project setup for processors managed by only US citizens
-canonical_path: "/handbook/support/readiness/operations/docs/policies/project_setup/processor_us_only"
+description: Support Operations policies page for project setup for processors managed
+  by only US citizens
+canonical_path: /handbook/support/readiness/operations/docs/policies/project_setup/processor_us_only
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/processor_us_only_1_1/
+linkTitle: Processor (US only)
+type: docs
 ---
 
 For processors that deal with US Government Zendesk (or require US citizens

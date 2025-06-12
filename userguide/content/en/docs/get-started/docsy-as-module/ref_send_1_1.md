@@ -1,3 +1,13 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Ref Send 1 1
+aliases:
+- /docs/ref_send_1_1/
+description: ''
+linkTitle: Ref Send 1 1
+type: docs
+---
 
 This API varies from Tyler Closes ref_send in the
 following ways:

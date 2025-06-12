@@ -1,6 +1,13 @@
 ---
 draft: true
-title: "Frontend Monitor Team"
+title: Frontend Monitor Team
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/monitor_1_1/
+description: ''
+linkTitle: Frontend Monitor Team
+type: docs
 ---
 
 <!-- Pending create of stable_counterparts shortcode and confirmation pages are needed and how to fix -->

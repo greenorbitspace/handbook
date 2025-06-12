@@ -1,10 +1,16 @@
 ---
-title: "How to create the perfect home office setup for remote working"
+title: How to create the perfect home office setup for remote working
 description: Considerations for a Productive Home Office or Remote Workspace
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/opengraph/all-remote.jpg
+twitter_image_alt: GitLab remote team graphic
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/workspace_1_1_1/
+linkTitle: How to create the perfect home office setup for remote working
+type: docs
 ---
 
 ## Why is your home office setup so important?

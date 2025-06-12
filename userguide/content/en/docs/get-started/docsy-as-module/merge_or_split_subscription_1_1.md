@@ -1,12 +1,15 @@
 ---
-
 title: Merging or splitting license/subscription requests
 category: General
-description: This is a guide on how to handle requests to merge or split licenses or subscription(s).
+description: This is a guide on how to handle requests to merge or split licenses
+  or subscription(s).
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/merge_or_split_subscription_1_1/
+linkTitle: Merging or splitting license/subscription requests
+type: docs
 ---
-
-
-
 
 ## Overview
 

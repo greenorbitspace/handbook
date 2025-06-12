@@ -1,10 +1,14 @@
 ---
-
 title: Handling Opt Out of Services Usage Data request
-description: "How to handle Service Usage Data opt-out request"
+description: How to handle Service Usage Data opt-out request
 category: GitLab Self-Managed licenses
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/opt-out_service-usage-data_1_1/
+linkTitle: Handling Opt Out of Services Usage Data request
+type: docs
 ---
-
 
 ## Overview
 

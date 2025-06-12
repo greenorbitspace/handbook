@@ -1,5 +1,12 @@
 ---
-title: "Bookmark these GitLab keyword search paths"
+title: Bookmark these GitLab keyword search paths
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/gitlab-keyword-search-firefox-bookmarks_1748133855633427983_1/
+description: ''
+linkTitle: Bookmark these GitLab keyword search paths
+type: docs
 ---
 
 Save the following links in your bookmarks for quick access to different places you can search for items across GitLab.

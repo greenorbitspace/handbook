@@ -1,5 +1,12 @@
 ---
 title: Understanding SOCIAL STYLES
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/social-styles_1_1/
+description: ''
+linkTitle: Understanding SOCIAL STYLES
+type: docs
 ---
 
 ## Introducing SOCIAL STYLES

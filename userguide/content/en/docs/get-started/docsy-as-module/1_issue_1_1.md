@@ -1,7 +1,14 @@
 ---
 name: 📖 Documentation
 about: Report problems about the documentation only (https://docs.qgis.org).
-
+weight: 2
+date: '2025-06-12'
+title: 1 Issue 1 1
+aliases:
+- /docs/1_issue_1_1/
+description: ''
+linkTitle: 1 Issue 1 1
+type: docs
 ---
 
 ## Description

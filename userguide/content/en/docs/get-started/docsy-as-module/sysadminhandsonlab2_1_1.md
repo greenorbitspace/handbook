@@ -1,6 +1,14 @@
 ---
-title: "GitLab System Administration - Hands-on Lab: Use GitLab Administration Commands"
-description: "This Hands-On Guide walks you through using GitLab command gitlab-ctl to control GitLab services"
+title: 'GitLab System Administration - Hands-on Lab: Use GitLab Administration Commands'
+description: This Hands-On Guide walks you through using GitLab command gitlab-ctl
+  to control GitLab services
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/sysadminhandsonlab2_1_1/
+linkTitle: 'GitLab System Administration - Hands-on Lab: Use GitLab Administration
+  Commands'
+type: docs
 ---
 
 > Estimated time to complete: 30 minutes

@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Scope Of The Qms 1 1
+aliases:
+- /docs/scope-of-the-qms_1_1/
+description: ''
+linkTitle: Scope Of The Qms 1 1
+type: docs
+---
+
 # 1. Purpose and Scope
 
 This Quality Management System (QMS) applies to all activities, processes, and functions involved in Green Orbit Digital's delivery of sustainable marketing solutions within the space industry. The scope encompasses:

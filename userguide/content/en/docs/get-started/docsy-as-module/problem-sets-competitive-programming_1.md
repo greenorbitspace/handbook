@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Problem Sets Competitive Programming 1
+aliases:
+- /docs/problem-sets-competitive-programming_1/
+description: ''
+linkTitle: Problem Sets Competitive Programming 1
+type: docs
+---
+
 ### Index
 
 * [Competitive Programming](#competitive-programming)

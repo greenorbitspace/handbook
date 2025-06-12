@@ -1,13 +1,13 @@
 ---
-
 title: Manager Notes
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/managers_2_1/
+description: ''
+linkTitle: Manager Notes
+type: docs
 ---
-
-
-
-
-
-
 
 This page is for any development manager notes we want to share more broadly.  A directory was created in case we need to archive or break out content.  
 

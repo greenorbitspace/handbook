@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: License 1
+aliases:
+- /docs/LICENSE_1/
+description: ''
+linkTitle: License 1
+type: docs
+---
+
 MIT License
 
 Copyright (c) 2018 Sinergise Ltd.

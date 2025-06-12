@@ -1,6 +1,12 @@
 ---
 title: GitLab Vision
 description: Behind the scenes of The DevSecOps Platform
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/vision_1_1/
+linkTitle: GitLab Vision
+type: docs
 ---
 
 ## Vision

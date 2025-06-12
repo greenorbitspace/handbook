@@ -1,5 +1,12 @@
 ---
-title: "Graduating from Sales Onboarding"
+title: Graduating from Sales Onboarding
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/graduating-sqs_1_1/
+description: ''
+linkTitle: Graduating from Sales Onboarding
+type: docs
 ---
 
 ## Graduating from Sales Onboarding

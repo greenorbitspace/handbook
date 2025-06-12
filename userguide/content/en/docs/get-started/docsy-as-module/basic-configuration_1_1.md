@@ -1,10 +1,13 @@
 ---
-title: "Basic site configuration"
-linkTitle: "Basic site configuration"
-date: 2021-12-08T09:22:27+01:00
+title: Basic site configuration
+linkTitle: Basic site configuration
+date: '2025-06-12T01:06:01+01:00'
 weight: 4
-description: >
+description: |
   Basic configuration for new Docsy sites.
+aliases:
+- /docs/basic-configuration_1_1/
+type: docs
 ---
 
 Site-wide configuration details and parameters are defined in your project's [configuration file] (`hugo.toml` or `config.toml`). These include your chosen Hugo theme (Docsy, of course!), project name, community links, Google Analytics configuration, and Markdown parser parameters. See the examples with comments in [`hugo.yaml` in the example project](https://github.com/google/docsy-example/blob/main/hugo.yaml) for how to add this information. **We recommend copying this hugo.yaml and editing it even if you’re just using the theme and not copying the entire Docsy example site**, as it includes default values for many parameters that you need to set for your site to build correctly.

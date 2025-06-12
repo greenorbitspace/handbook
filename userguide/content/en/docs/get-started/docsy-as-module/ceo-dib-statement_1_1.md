@@ -1,6 +1,13 @@
 ---
-title: "CEO Diversity Statement"
-description: "GitLab's CEO's Sid Sijbrandij's vision for our Diversity, Inclusion, and Belonging core values."
+title: CEO Diversity Statement
+description: GitLab's CEO's Sid Sijbrandij's vision for our Diversity, Inclusion,
+  and Belonging core values.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/ceo-dib-statement_1_1/
+linkTitle: CEO Diversity Statement
+type: docs
 ---
 
 ![picture-of-gitlab-ceo-sid-sijbrandij](../sid_sijbrandij.jpeg)

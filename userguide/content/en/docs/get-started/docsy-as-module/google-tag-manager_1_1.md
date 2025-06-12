@@ -1,5 +1,12 @@
 ---
-title: "Tracking Web Events with Google Tag Manager"
+title: Tracking Web Events with Google Tag Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/google-tag-manager_1_1/
+description: ''
+linkTitle: Tracking Web Events with Google Tag Manager
+type: docs
 ---
 
 ## Google Tag Manager

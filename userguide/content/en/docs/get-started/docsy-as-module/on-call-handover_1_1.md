@@ -1,13 +1,13 @@
 ---
-
-title: "On-call handover"
+title: On-call handover
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/on-call-handover_1_1/
+description: ''
+linkTitle: On-call handover
+type: docs
 ---
-
-
-
-
-
-
 
 ## On-call handover
 

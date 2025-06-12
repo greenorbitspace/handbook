@@ -1,6 +1,13 @@
 ---
 title: Using GitLab at GitLab
 Description: Migration report for moving the handbooks using-gitlab-at-gitlab section
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/using-gitlab-at-gitlab-migration-report_1_1/
+description: ''
+linkTitle: Using GitLab at GitLab
+type: docs
 ---
 
 **Section:** using-gitlab-at-gitlab

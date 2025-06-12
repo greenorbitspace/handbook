@@ -1,5 +1,12 @@
 ---
-title: "Contributing to GitLab the Product as a Security Team Member"
+title: Contributing to GitLab the Product as a Security Team Member
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/contributing-to-gitlab-the-product_1748147631989822046_1_1/
+description: ''
+linkTitle: Contributing to GitLab the Product as a Security Team Member
+type: docs
 ---
 
 ## Product Security Code Contributions

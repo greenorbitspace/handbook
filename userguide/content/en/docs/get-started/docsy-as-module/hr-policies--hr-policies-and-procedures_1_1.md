@@ -1,3 +1,14 @@
+---
+weight: 2
+date: '2025-06-12'
+title: Hr Policies  Hr Policies And Procedures 1 1
+aliases:
+- /docs/hr-policies--hr-policies-and-procedures_1_1/
+description: ''
+linkTitle: Hr Policies  Hr Policies And Procedures 1 1
+type: docs
+---
+
 ## HR considerations
 
 The fast-changing nature of employment law means that it's important to have a comprehensive set of up-to-date HR policies and procedures in place. These can help set out the rights and obligations of those responsible for administering HR and employees.

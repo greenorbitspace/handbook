@@ -1,5 +1,12 @@
 ---
-title: "Professional Services Practice Manager"
+title: Professional Services Practice Manager
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/professional-services-practice-manager_1_1/
+description: ''
+linkTitle: Professional Services Practice Manager
+type: docs
 ---
 
 ### Levels

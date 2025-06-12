@@ -1,6 +1,12 @@
 ---
-
 title: Values Group Discussions
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/values-group-discussions_1_1/
+description: ''
+linkTitle: Values Group Discussions
+type: docs
 ---
 
 ## Values Group Discussions

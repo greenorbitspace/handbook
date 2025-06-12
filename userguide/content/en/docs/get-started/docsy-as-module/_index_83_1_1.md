@@ -1,6 +1,13 @@
 ---
 title: Training Support Pod
-description: Ensure Support training modules and up-to-date, and meeting the needs of Support Engineering.
+description: Ensure Support training modules and up-to-date, and meeting the needs
+  of Support Engineering.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/_index_83_1_1/
+linkTitle: Training Support Pod
+type: docs
 ---
 
 ## Purpose

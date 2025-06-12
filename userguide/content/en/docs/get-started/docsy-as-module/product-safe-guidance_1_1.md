@@ -1,12 +1,13 @@
 ---
-
 title: Product Manager SAFE Guidance
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/product-safe-guidance_1_1/
+description: ''
+linkTitle: Product Manager SAFE Guidance
+type: docs
 ---
-
-
-
-
-
 
 ## Overview
 

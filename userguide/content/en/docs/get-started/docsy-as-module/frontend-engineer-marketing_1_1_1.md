@@ -1,6 +1,14 @@
 ---
 title: Frontend Engineering - Marketing
-description: "Frontend Engineering on the Marketing team work on our marketing site. They work closely with product marketing, content marketing, and other members of the Marketing team."
+description: Frontend Engineering on the Marketing team work on our marketing site.
+  They work closely with product marketing, content marketing, and other members of
+  the Marketing team.
+weight: 2
+date: '2025-06-12'
+aliases:
+- /docs/frontend-engineer-marketing_1_1_1/
+linkTitle: Frontend Engineering - Marketing
+type: docs
 ---
 
 Frontend Engineers on the Marketing team work on our marketing site: about.GitLab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](/handbook/marketing/digital-experience/), and report to the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
