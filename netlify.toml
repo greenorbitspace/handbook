@@ -2,7 +2,11 @@
 # (https://gohugo.io/hosting-and-deployment/hosting-on-netlify/#configure-hugo-version-in-netlify)
 
 [build]
+<<<<<<< Updated upstream
 publish = "userguide/public"
+=======
+publish = ""
+>>>>>>> Stashed changes
 command = "npm run docs-install && npm run build:preview"
 
 [build.environment]

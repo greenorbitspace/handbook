@@ -1,0 +1,51 @@
+baseURL = "https://handbook.greenorbit.space/"
+languageCode = "en-us"
+title = "Green Orbit Handbook"
+# theme = "docsy"  # <-- Remove or comment out this line when using modules
+
+# Hugo Modules
+[module]
+  [[module.imports]]
+    path = "github.com/google/docsy"
+    version = "v0.10.0"
+
+# Build options
+[build]
+  writeStats = true
+  useResourceCacheWhen = "always"
+
+# Content settings
+enableGitInfo = true
+enableRobotsTXT = true
+defaultContentLanguage = "en"
+hasCJKLanguage = false
+
+# Menu (optional)
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+# Parameters (Docsy-specific)
+[params]
+  copyright = "© 2025 Green Orbit Digital"
+  version = "1.0"
+  github_repo = "https://github.com/greenorbitspace/handbook"
+  github_project_repo = "https://github.com/greenorbitspace/handbook"
+  description = "Sustainable marketing playbook and internal guide"
+
+  # Docsy-specific toggles
+  ui.sidebar_menu_compact = true
+  ui.sidebar_search_disable = false
+  ui.footer_about_disable = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[security]
+  [security.exec]
+    allow = ['^go$', '^npx$', '^postcss$', '^hugo$', '^dart-sass-embedded$', '^npm$']

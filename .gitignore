@@ -20,3 +20,6 @@ resources/
 # VS Code
 /.vscode/**
 !/.vscode/cspell.json
+
+# Local Netlify folder
+.netlify
